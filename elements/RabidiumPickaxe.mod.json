@@ -24,6 +24,7 @@
         "value": "CUSTOM:RabidiumGem"
       }
     ],
+    "immuneToFire": false,
     "stayInGridWhenCrafting": false,
     "damageOnCrafting": false
   }

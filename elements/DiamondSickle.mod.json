@@ -24,6 +24,7 @@
         "value": "Items.DIAMOND"
       }
     ],
+    "immuneToFire": false,
     "stayInGridWhenCrafting": false,
     "damageOnCrafting": false
   }

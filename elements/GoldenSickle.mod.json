@@ -24,6 +24,7 @@
         "value": "Items.GOLD_INGOT"
       }
     ],
+    "immuneToFire": false,
     "stayInGridWhenCrafting": false,
     "damageOnCrafting": false
   }

@@ -28,6 +28,7 @@
         "value": "CUSTOM:SilverIngot"
       }
     ],
+    "immuneToFire": false,
     "stayInGridWhenCrafting": false,
     "damageOnCrafting": false,
     "onBlockDestroyedWithTool": {

@@ -197,7 +197,7 @@
         "Name": "sotm:carborite"
       },
       "default_fluid": {
-        "Name": "sotm:agalt",
+        "Name": "minecraft:water",
         "Properties": {
           "level": "0"
         }

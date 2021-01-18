@@ -9,6 +9,28 @@
     "undergroundBlock": {
       "value": "CUSTOM:UnderworldMud"
     },
+    "grassColor": {
+      "value": -16711936,
+      "falpha": 0.0
+    },
+    "ambientSound": {
+      "value": ""
+    },
+    "additionsSound": {
+      "value": ""
+    },
+    "music": {
+      "value": ""
+    },
+    "moodSound": {
+      "value": ""
+    },
+    "moodSoundDelay": 0,
+    "spawnParticles": false,
+    "particleToSpawn": {
+      "value": "CUSTOM:RedGlowingOr"
+    },
+    "particlesProbability": 0.0,
     "biomeCategory": "NONE",
     "parent": {
       "value": "No parent"
@@ -34,6 +56,7 @@
     "vanillaTreeType": "Big trees",
     "treeType": 1,
     "minHeight": 7,
+    "maxWaterDepth": 4,
     "treeStem": {
       "value": "CUSTOM:DragonFirWood"
     },

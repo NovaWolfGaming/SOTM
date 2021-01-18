@@ -29,6 +29,24 @@
       "value": -3407872,
       "falpha": 0.0
     },
+    "ambientSound": {
+      "value": ""
+    },
+    "additionsSound": {
+      "value": ""
+    },
+    "music": {
+      "value": ""
+    },
+    "moodSound": {
+      "value": ""
+    },
+    "moodSoundDelay": 0,
+    "spawnParticles": true,
+    "particleToSpawn": {
+      "value": "CUSTOM:OrangeGlowingOrb"
+    },
+    "particlesProbability": 0.30000000000000004,
     "biomeCategory": "NONE",
     "parent": {
       "value": "No parent"
@@ -54,6 +72,7 @@
     "vanillaTreeType": "Savanna trees",
     "treeType": 1,
     "minHeight": 7,
+    "maxWaterDepth": 0,
     "treeStem": {
       "value": "CUSTOM:BloodElder"
     },

@@ -16,6 +16,7 @@
     "toolType": 1.0,
     "damageCount": 0,
     "destroyAnyBlock": false,
+    "immuneToFire": false,
     "stayInGridWhenCrafting": true,
     "damageOnCrafting": true,
     "enableMeleeDamage": false,

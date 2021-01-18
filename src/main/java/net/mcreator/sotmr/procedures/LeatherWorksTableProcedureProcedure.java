@@ -59,7 +59,7 @@ public class LeatherWorksTableProcedureProcedure extends SotmModElements.ModElem
 		double z = dependencies.get("z") instanceof Integer ? (int) dependencies.get("z") : (double) dependencies.get("z");
 		IWorld world = (IWorld) dependencies.get("world");
 		if ((((new Object() {
-			public int getAmount(BlockPos pos, int sltid) {
+			public int getAmount(IWorld world, BlockPos pos, int sltid) {
 				AtomicInteger _retval = new AtomicInteger(0);
 				TileEntity _ent = world.getTileEntity(pos);
 				if (_ent != null) {
@@ -69,7 +69,7 @@ public class LeatherWorksTableProcedureProcedure extends SotmModElements.ModElem
 				}
 				return _retval.get();
 			}
-		}.getAmount(new BlockPos((int) x, (int) y, (int) z), (int) (2))) < 64) && ((((new Object() {
+		}.getAmount(world, new BlockPos((int) x, (int) y, (int) z), (int) (2))) < 64) && ((((new Object() {
 			public ItemStack getItemStack(BlockPos pos, int sltid) {
 				AtomicReference<ItemStack> _retval = new AtomicReference<>(ItemStack.EMPTY);
 				TileEntity _ent = world.getTileEntity(pos);
@@ -95,7 +95,7 @@ public class LeatherWorksTableProcedureProcedure extends SotmModElements.ModElem
 				}.getItemStack(new BlockPos((int) x, (int) y, (int) z), (int) (1))).getItem() == new ItemStack(PigLeatherItem.block, (int) (1))
 						.getItem()))
 				&& ((((new Object() {
-					public int getAmount(BlockPos pos, int sltid) {
+					public int getAmount(IWorld world, BlockPos pos, int sltid) {
 						AtomicInteger _retval = new AtomicInteger(0);
 						TileEntity _ent = world.getTileEntity(pos);
 						if (_ent != null) {
@@ -105,7 +105,7 @@ public class LeatherWorksTableProcedureProcedure extends SotmModElements.ModElem
 						}
 						return _retval.get();
 					}
-				}.getAmount(new BlockPos((int) x, (int) y, (int) z), (int) (2))) <= 63) && ((new Object() {
+				}.getAmount(world, new BlockPos((int) x, (int) y, (int) z), (int) (2))) <= 63) && ((new Object() {
 					public ItemStack getItemStack(BlockPos pos, int sltid) {
 						AtomicReference<ItemStack> _retval = new AtomicReference<>(ItemStack.EMPTY);
 						TileEntity _ent = world.getTileEntity(pos);
@@ -164,7 +164,7 @@ public class LeatherWorksTableProcedureProcedure extends SotmModElements.ModElem
 					final int _sltid = (int) (2);
 					final ItemStack _setstack = new ItemStack(Items.LEATHER, (int) (1));
 					_setstack.setCount((int) ((new Object() {
-						public int getAmount(BlockPos pos, int sltid) {
+						public int getAmount(IWorld world, BlockPos pos, int sltid) {
 							AtomicInteger _retval = new AtomicInteger(0);
 							TileEntity _ent = world.getTileEntity(pos);
 							if (_ent != null) {
@@ -174,7 +174,7 @@ public class LeatherWorksTableProcedureProcedure extends SotmModElements.ModElem
 							}
 							return _retval.get();
 						}
-					}.getAmount(new BlockPos((int) x, (int) y, (int) z), (int) (2))) + 1));
+					}.getAmount(world, new BlockPos((int) x, (int) y, (int) z), (int) (2))) + 1));
 					_ent.getCapability(CapabilityItemHandler.ITEM_HANDLER_CAPABILITY, null).ifPresent(capability -> {
 						if (capability instanceof IItemHandlerModifiable) {
 							((IItemHandlerModifiable) capability).setStackInSlot(_sltid, _setstack);
@@ -193,7 +193,7 @@ public class LeatherWorksTableProcedureProcedure extends SotmModElements.ModElem
 			}
 		}
 		if ((((new Object() {
-			public int getAmount(BlockPos pos, int sltid) {
+			public int getAmount(IWorld world, BlockPos pos, int sltid) {
 				AtomicInteger _retval = new AtomicInteger(0);
 				TileEntity _ent = world.getTileEntity(pos);
 				if (_ent != null) {
@@ -203,7 +203,7 @@ public class LeatherWorksTableProcedureProcedure extends SotmModElements.ModElem
 				}
 				return _retval.get();
 			}
-		}.getAmount(new BlockPos((int) x, (int) y, (int) z), (int) (2))) < 64) && ((((new Object() {
+		}.getAmount(world, new BlockPos((int) x, (int) y, (int) z), (int) (2))) < 64) && ((((new Object() {
 			public ItemStack getItemStack(BlockPos pos, int sltid) {
 				AtomicReference<ItemStack> _retval = new AtomicReference<>(ItemStack.EMPTY);
 				TileEntity _ent = world.getTileEntity(pos);
@@ -229,7 +229,7 @@ public class LeatherWorksTableProcedureProcedure extends SotmModElements.ModElem
 				}.getItemStack(new BlockPos((int) x, (int) y, (int) z), (int) (1))).getItem() == new ItemStack(LeatherBallItem.block, (int) (1))
 						.getItem()))
 				&& ((((new Object() {
-					public int getAmount(BlockPos pos, int sltid) {
+					public int getAmount(IWorld world, BlockPos pos, int sltid) {
 						AtomicInteger _retval = new AtomicInteger(0);
 						TileEntity _ent = world.getTileEntity(pos);
 						if (_ent != null) {
@@ -239,7 +239,7 @@ public class LeatherWorksTableProcedureProcedure extends SotmModElements.ModElem
 						}
 						return _retval.get();
 					}
-				}.getAmount(new BlockPos((int) x, (int) y, (int) z), (int) (2))) <= 63) && ((new Object() {
+				}.getAmount(world, new BlockPos((int) x, (int) y, (int) z), (int) (2))) <= 63) && ((new Object() {
 					public ItemStack getItemStack(BlockPos pos, int sltid) {
 						AtomicReference<ItemStack> _retval = new AtomicReference<>(ItemStack.EMPTY);
 						TileEntity _ent = world.getTileEntity(pos);
@@ -298,7 +298,7 @@ public class LeatherWorksTableProcedureProcedure extends SotmModElements.ModElem
 					final int _sltid = (int) (2);
 					final ItemStack _setstack = new ItemStack(Items.LEATHER, (int) (1));
 					_setstack.setCount((int) ((new Object() {
-						public int getAmount(BlockPos pos, int sltid) {
+						public int getAmount(IWorld world, BlockPos pos, int sltid) {
 							AtomicInteger _retval = new AtomicInteger(0);
 							TileEntity _ent = world.getTileEntity(pos);
 							if (_ent != null) {
@@ -308,7 +308,7 @@ public class LeatherWorksTableProcedureProcedure extends SotmModElements.ModElem
 							}
 							return _retval.get();
 						}
-					}.getAmount(new BlockPos((int) x, (int) y, (int) z), (int) (2))) + 1));
+					}.getAmount(world, new BlockPos((int) x, (int) y, (int) z), (int) (2))) + 1));
 					_ent.getCapability(CapabilityItemHandler.ITEM_HANDLER_CAPABILITY, null).ifPresent(capability -> {
 						if (capability instanceof IItemHandlerModifiable) {
 							((IItemHandlerModifiable) capability).setStackInSlot(_sltid, _setstack);
@@ -327,7 +327,7 @@ public class LeatherWorksTableProcedureProcedure extends SotmModElements.ModElem
 			}
 		}
 		if ((((new Object() {
-			public int getAmount(BlockPos pos, int sltid) {
+			public int getAmount(IWorld world, BlockPos pos, int sltid) {
 				AtomicInteger _retval = new AtomicInteger(0);
 				TileEntity _ent = world.getTileEntity(pos);
 				if (_ent != null) {
@@ -337,7 +337,7 @@ public class LeatherWorksTableProcedureProcedure extends SotmModElements.ModElem
 				}
 				return _retval.get();
 			}
-		}.getAmount(new BlockPos((int) x, (int) y, (int) z), (int) (2))) < 64) && ((((new Object() {
+		}.getAmount(world, new BlockPos((int) x, (int) y, (int) z), (int) (2))) < 64) && ((((new Object() {
 			public ItemStack getItemStack(BlockPos pos, int sltid) {
 				AtomicReference<ItemStack> _retval = new AtomicReference<>(ItemStack.EMPTY);
 				TileEntity _ent = world.getTileEntity(pos);
@@ -363,7 +363,7 @@ public class LeatherWorksTableProcedureProcedure extends SotmModElements.ModElem
 				}.getItemStack(new BlockPos((int) x, (int) y, (int) z), (int) (1)))
 						.getItem() == new ItemStack(NetherBeastLeatherItem.block, (int) (1)).getItem()))
 				&& ((((new Object() {
-					public int getAmount(BlockPos pos, int sltid) {
+					public int getAmount(IWorld world, BlockPos pos, int sltid) {
 						AtomicInteger _retval = new AtomicInteger(0);
 						TileEntity _ent = world.getTileEntity(pos);
 						if (_ent != null) {
@@ -373,7 +373,7 @@ public class LeatherWorksTableProcedureProcedure extends SotmModElements.ModElem
 						}
 						return _retval.get();
 					}
-				}.getAmount(new BlockPos((int) x, (int) y, (int) z), (int) (2))) <= 63) && ((new Object() {
+				}.getAmount(world, new BlockPos((int) x, (int) y, (int) z), (int) (2))) <= 63) && ((new Object() {
 					public ItemStack getItemStack(BlockPos pos, int sltid) {
 						AtomicReference<ItemStack> _retval = new AtomicReference<>(ItemStack.EMPTY);
 						TileEntity _ent = world.getTileEntity(pos);
@@ -432,7 +432,7 @@ public class LeatherWorksTableProcedureProcedure extends SotmModElements.ModElem
 					final int _sltid = (int) (2);
 					final ItemStack _setstack = new ItemStack(Items.LEATHER, (int) (1));
 					_setstack.setCount((int) ((new Object() {
-						public int getAmount(BlockPos pos, int sltid) {
+						public int getAmount(IWorld world, BlockPos pos, int sltid) {
 							AtomicInteger _retval = new AtomicInteger(0);
 							TileEntity _ent = world.getTileEntity(pos);
 							if (_ent != null) {
@@ -442,7 +442,7 @@ public class LeatherWorksTableProcedureProcedure extends SotmModElements.ModElem
 							}
 							return _retval.get();
 						}
-					}.getAmount(new BlockPos((int) x, (int) y, (int) z), (int) (2))) + 1));
+					}.getAmount(world, new BlockPos((int) x, (int) y, (int) z), (int) (2))) + 1));
 					_ent.getCapability(CapabilityItemHandler.ITEM_HANDLER_CAPABILITY, null).ifPresent(capability -> {
 						if (capability instanceof IItemHandlerModifiable) {
 							((IItemHandlerModifiable) capability).setStackInSlot(_sltid, _setstack);
@@ -461,7 +461,7 @@ public class LeatherWorksTableProcedureProcedure extends SotmModElements.ModElem
 			}
 		}
 		if ((((new Object() {
-			public int getAmount(BlockPos pos, int sltid) {
+			public int getAmount(IWorld world, BlockPos pos, int sltid) {
 				AtomicInteger _retval = new AtomicInteger(0);
 				TileEntity _ent = world.getTileEntity(pos);
 				if (_ent != null) {
@@ -471,7 +471,7 @@ public class LeatherWorksTableProcedureProcedure extends SotmModElements.ModElem
 				}
 				return _retval.get();
 			}
-		}.getAmount(new BlockPos((int) x, (int) y, (int) z), (int) (2))) < 64) && ((((new Object() {
+		}.getAmount(world, new BlockPos((int) x, (int) y, (int) z), (int) (2))) < 64) && ((((new Object() {
 			public ItemStack getItemStack(BlockPos pos, int sltid) {
 				AtomicReference<ItemStack> _retval = new AtomicReference<>(ItemStack.EMPTY);
 				TileEntity _ent = world.getTileEntity(pos);
@@ -497,7 +497,7 @@ public class LeatherWorksTableProcedureProcedure extends SotmModElements.ModElem
 				}.getItemStack(new BlockPos((int) x, (int) y, (int) z), (int) (1))).getItem() == new ItemStack(HoglinLeatherItem.block, (int) (1))
 						.getItem()))
 				&& ((((new Object() {
-					public int getAmount(BlockPos pos, int sltid) {
+					public int getAmount(IWorld world, BlockPos pos, int sltid) {
 						AtomicInteger _retval = new AtomicInteger(0);
 						TileEntity _ent = world.getTileEntity(pos);
 						if (_ent != null) {
@@ -507,7 +507,7 @@ public class LeatherWorksTableProcedureProcedure extends SotmModElements.ModElem
 						}
 						return _retval.get();
 					}
-				}.getAmount(new BlockPos((int) x, (int) y, (int) z), (int) (2))) <= 63) && ((new Object() {
+				}.getAmount(world, new BlockPos((int) x, (int) y, (int) z), (int) (2))) <= 63) && ((new Object() {
 					public ItemStack getItemStack(BlockPos pos, int sltid) {
 						AtomicReference<ItemStack> _retval = new AtomicReference<>(ItemStack.EMPTY);
 						TileEntity _ent = world.getTileEntity(pos);
@@ -566,7 +566,7 @@ public class LeatherWorksTableProcedureProcedure extends SotmModElements.ModElem
 					final int _sltid = (int) (2);
 					final ItemStack _setstack = new ItemStack(Items.LEATHER, (int) (1));
 					_setstack.setCount((int) ((new Object() {
-						public int getAmount(BlockPos pos, int sltid) {
+						public int getAmount(IWorld world, BlockPos pos, int sltid) {
 							AtomicInteger _retval = new AtomicInteger(0);
 							TileEntity _ent = world.getTileEntity(pos);
 							if (_ent != null) {
@@ -576,7 +576,7 @@ public class LeatherWorksTableProcedureProcedure extends SotmModElements.ModElem
 							}
 							return _retval.get();
 						}
-					}.getAmount(new BlockPos((int) x, (int) y, (int) z), (int) (2))) + 1));
+					}.getAmount(world, new BlockPos((int) x, (int) y, (int) z), (int) (2))) + 1));
 					_ent.getCapability(CapabilityItemHandler.ITEM_HANDLER_CAPABILITY, null).ifPresent(capability -> {
 						if (capability instanceof IItemHandlerModifiable) {
 							((IItemHandlerModifiable) capability).setStackInSlot(_sltid, _setstack);
@@ -595,7 +595,7 @@ public class LeatherWorksTableProcedureProcedure extends SotmModElements.ModElem
 			}
 		}
 		if ((((new Object() {
-			public int getAmount(BlockPos pos, int sltid) {
+			public int getAmount(IWorld world, BlockPos pos, int sltid) {
 				AtomicInteger _retval = new AtomicInteger(0);
 				TileEntity _ent = world.getTileEntity(pos);
 				if (_ent != null) {
@@ -605,7 +605,7 @@ public class LeatherWorksTableProcedureProcedure extends SotmModElements.ModElem
 				}
 				return _retval.get();
 			}
-		}.getAmount(new BlockPos((int) x, (int) y, (int) z), (int) (2))) < 64) && ((((new Object() {
+		}.getAmount(world, new BlockPos((int) x, (int) y, (int) z), (int) (2))) < 64) && ((((new Object() {
 			public ItemStack getItemStack(BlockPos pos, int sltid) {
 				AtomicReference<ItemStack> _retval = new AtomicReference<>(ItemStack.EMPTY);
 				TileEntity _ent = world.getTileEntity(pos);
@@ -631,7 +631,7 @@ public class LeatherWorksTableProcedureProcedure extends SotmModElements.ModElem
 				}.getItemStack(new BlockPos((int) x, (int) y, (int) z), (int) (1))).getItem() == new ItemStack(Items.RABBIT_HIDE, (int) (1))
 						.getItem()))
 				&& ((((new Object() {
-					public int getAmount(BlockPos pos, int sltid) {
+					public int getAmount(IWorld world, BlockPos pos, int sltid) {
 						AtomicInteger _retval = new AtomicInteger(0);
 						TileEntity _ent = world.getTileEntity(pos);
 						if (_ent != null) {
@@ -641,7 +641,7 @@ public class LeatherWorksTableProcedureProcedure extends SotmModElements.ModElem
 						}
 						return _retval.get();
 					}
-				}.getAmount(new BlockPos((int) x, (int) y, (int) z), (int) (2))) <= 63) && ((new Object() {
+				}.getAmount(world, new BlockPos((int) x, (int) y, (int) z), (int) (2))) <= 63) && ((new Object() {
 					public ItemStack getItemStack(BlockPos pos, int sltid) {
 						AtomicReference<ItemStack> _retval = new AtomicReference<>(ItemStack.EMPTY);
 						TileEntity _ent = world.getTileEntity(pos);
@@ -700,7 +700,7 @@ public class LeatherWorksTableProcedureProcedure extends SotmModElements.ModElem
 					final int _sltid = (int) (2);
 					final ItemStack _setstack = new ItemStack(Items.LEATHER, (int) (1));
 					_setstack.setCount((int) ((new Object() {
-						public int getAmount(BlockPos pos, int sltid) {
+						public int getAmount(IWorld world, BlockPos pos, int sltid) {
 							AtomicInteger _retval = new AtomicInteger(0);
 							TileEntity _ent = world.getTileEntity(pos);
 							if (_ent != null) {
@@ -710,7 +710,7 @@ public class LeatherWorksTableProcedureProcedure extends SotmModElements.ModElem
 							}
 							return _retval.get();
 						}
-					}.getAmount(new BlockPos((int) x, (int) y, (int) z), (int) (2))) + 1));
+					}.getAmount(world, new BlockPos((int) x, (int) y, (int) z), (int) (2))) + 1));
 					_ent.getCapability(CapabilityItemHandler.ITEM_HANDLER_CAPABILITY, null).ifPresent(capability -> {
 						if (capability instanceof IItemHandlerModifiable) {
 							((IItemHandlerModifiable) capability).setStackInSlot(_sltid, _setstack);
@@ -729,7 +729,7 @@ public class LeatherWorksTableProcedureProcedure extends SotmModElements.ModElem
 			}
 		}
 		if ((((new Object() {
-			public int getAmount(BlockPos pos, int sltid) {
+			public int getAmount(IWorld world, BlockPos pos, int sltid) {
 				AtomicInteger _retval = new AtomicInteger(0);
 				TileEntity _ent = world.getTileEntity(pos);
 				if (_ent != null) {
@@ -739,7 +739,7 @@ public class LeatherWorksTableProcedureProcedure extends SotmModElements.ModElem
 				}
 				return _retval.get();
 			}
-		}.getAmount(new BlockPos((int) x, (int) y, (int) z), (int) (2))) < 64) && ((((new Object() {
+		}.getAmount(world, new BlockPos((int) x, (int) y, (int) z), (int) (2))) < 64) && ((((new Object() {
 			public ItemStack getItemStack(BlockPos pos, int sltid) {
 				AtomicReference<ItemStack> _retval = new AtomicReference<>(ItemStack.EMPTY);
 				TileEntity _ent = world.getTileEntity(pos);
@@ -765,7 +765,7 @@ public class LeatherWorksTableProcedureProcedure extends SotmModElements.ModElem
 				}.getItemStack(new BlockPos((int) x, (int) y, (int) z), (int) (1))).getItem() == new ItemStack(Items.ROTTEN_FLESH, (int) (1))
 						.getItem()))
 				&& ((((new Object() {
-					public int getAmount(BlockPos pos, int sltid) {
+					public int getAmount(IWorld world, BlockPos pos, int sltid) {
 						AtomicInteger _retval = new AtomicInteger(0);
 						TileEntity _ent = world.getTileEntity(pos);
 						if (_ent != null) {
@@ -775,7 +775,7 @@ public class LeatherWorksTableProcedureProcedure extends SotmModElements.ModElem
 						}
 						return _retval.get();
 					}
-				}.getAmount(new BlockPos((int) x, (int) y, (int) z), (int) (2))) <= 63) && ((new Object() {
+				}.getAmount(world, new BlockPos((int) x, (int) y, (int) z), (int) (2))) <= 63) && ((new Object() {
 					public ItemStack getItemStack(BlockPos pos, int sltid) {
 						AtomicReference<ItemStack> _retval = new AtomicReference<>(ItemStack.EMPTY);
 						TileEntity _ent = world.getTileEntity(pos);
@@ -834,7 +834,7 @@ public class LeatherWorksTableProcedureProcedure extends SotmModElements.ModElem
 					final int _sltid = (int) (2);
 					final ItemStack _setstack = new ItemStack(Items.LEATHER, (int) (1));
 					_setstack.setCount((int) ((new Object() {
-						public int getAmount(BlockPos pos, int sltid) {
+						public int getAmount(IWorld world, BlockPos pos, int sltid) {
 							AtomicInteger _retval = new AtomicInteger(0);
 							TileEntity _ent = world.getTileEntity(pos);
 							if (_ent != null) {
@@ -844,7 +844,7 @@ public class LeatherWorksTableProcedureProcedure extends SotmModElements.ModElem
 							}
 							return _retval.get();
 						}
-					}.getAmount(new BlockPos((int) x, (int) y, (int) z), (int) (2))) + 1));
+					}.getAmount(world, new BlockPos((int) x, (int) y, (int) z), (int) (2))) + 1));
 					_ent.getCapability(CapabilityItemHandler.ITEM_HANDLER_CAPABILITY, null).ifPresent(capability -> {
 						if (capability instanceof IItemHandlerModifiable) {
 							((IItemHandlerModifiable) capability).setStackInSlot(_sltid, _setstack);
@@ -863,7 +863,7 @@ public class LeatherWorksTableProcedureProcedure extends SotmModElements.ModElem
 			}
 		}
 		if ((((new Object() {
-			public int getAmount(BlockPos pos, int sltid) {
+			public int getAmount(IWorld world, BlockPos pos, int sltid) {
 				AtomicInteger _retval = new AtomicInteger(0);
 				TileEntity _ent = world.getTileEntity(pos);
 				if (_ent != null) {
@@ -873,7 +873,7 @@ public class LeatherWorksTableProcedureProcedure extends SotmModElements.ModElem
 				}
 				return _retval.get();
 			}
-		}.getAmount(new BlockPos((int) x, (int) y, (int) z), (int) (2))) < 64) && ((((new Object() {
+		}.getAmount(world, new BlockPos((int) x, (int) y, (int) z), (int) (2))) < 64) && ((((new Object() {
 			public ItemStack getItemStack(BlockPos pos, int sltid) {
 				AtomicReference<ItemStack> _retval = new AtomicReference<>(ItemStack.EMPTY);
 				TileEntity _ent = world.getTileEntity(pos);
@@ -899,7 +899,7 @@ public class LeatherWorksTableProcedureProcedure extends SotmModElements.ModElem
 				}.getItemStack(new BlockPos((int) x, (int) y, (int) z), (int) (1))).getItem() == new ItemStack(Items.SLIME_BALL, (int) (1))
 						.getItem()))
 				&& ((((new Object() {
-					public int getAmount(BlockPos pos, int sltid) {
+					public int getAmount(IWorld world, BlockPos pos, int sltid) {
 						AtomicInteger _retval = new AtomicInteger(0);
 						TileEntity _ent = world.getTileEntity(pos);
 						if (_ent != null) {
@@ -909,7 +909,7 @@ public class LeatherWorksTableProcedureProcedure extends SotmModElements.ModElem
 						}
 						return _retval.get();
 					}
-				}.getAmount(new BlockPos((int) x, (int) y, (int) z), (int) (2))) <= 63) && ((new Object() {
+				}.getAmount(world, new BlockPos((int) x, (int) y, (int) z), (int) (2))) <= 63) && ((new Object() {
 					public ItemStack getItemStack(BlockPos pos, int sltid) {
 						AtomicReference<ItemStack> _retval = new AtomicReference<>(ItemStack.EMPTY);
 						TileEntity _ent = world.getTileEntity(pos);
@@ -968,7 +968,7 @@ public class LeatherWorksTableProcedureProcedure extends SotmModElements.ModElem
 					final int _sltid = (int) (2);
 					final ItemStack _setstack = new ItemStack(LeatherBallItem.block, (int) (1));
 					_setstack.setCount((int) ((new Object() {
-						public int getAmount(BlockPos pos, int sltid) {
+						public int getAmount(IWorld world, BlockPos pos, int sltid) {
 							AtomicInteger _retval = new AtomicInteger(0);
 							TileEntity _ent = world.getTileEntity(pos);
 							if (_ent != null) {
@@ -978,7 +978,7 @@ public class LeatherWorksTableProcedureProcedure extends SotmModElements.ModElem
 							}
 							return _retval.get();
 						}
-					}.getAmount(new BlockPos((int) x, (int) y, (int) z), (int) (2))) + 1));
+					}.getAmount(world, new BlockPos((int) x, (int) y, (int) z), (int) (2))) + 1));
 					_ent.getCapability(CapabilityItemHandler.ITEM_HANDLER_CAPABILITY, null).ifPresent(capability -> {
 						if (capability instanceof IItemHandlerModifiable) {
 							((IItemHandlerModifiable) capability).setStackInSlot(_sltid, _setstack);
@@ -997,7 +997,7 @@ public class LeatherWorksTableProcedureProcedure extends SotmModElements.ModElem
 			}
 		}
 		if ((((new Object() {
-			public int getAmount(BlockPos pos, int sltid) {
+			public int getAmount(IWorld world, BlockPos pos, int sltid) {
 				AtomicInteger _retval = new AtomicInteger(0);
 				TileEntity _ent = world.getTileEntity(pos);
 				if (_ent != null) {
@@ -1007,7 +1007,7 @@ public class LeatherWorksTableProcedureProcedure extends SotmModElements.ModElem
 				}
 				return _retval.get();
 			}
-		}.getAmount(new BlockPos((int) x, (int) y, (int) z), (int) (2))) < 64) && ((((new Object() {
+		}.getAmount(world, new BlockPos((int) x, (int) y, (int) z), (int) (2))) < 64) && ((((new Object() {
 			public ItemStack getItemStack(BlockPos pos, int sltid) {
 				AtomicReference<ItemStack> _retval = new AtomicReference<>(ItemStack.EMPTY);
 				TileEntity _ent = world.getTileEntity(pos);
@@ -1033,7 +1033,7 @@ public class LeatherWorksTableProcedureProcedure extends SotmModElements.ModElem
 				}.getItemStack(new BlockPos((int) x, (int) y, (int) z), (int) (1))).getItem() == new ItemStack(CrolphinBallItem.block, (int) (1))
 						.getItem()))
 				&& ((((new Object() {
-					public int getAmount(BlockPos pos, int sltid) {
+					public int getAmount(IWorld world, BlockPos pos, int sltid) {
 						AtomicInteger _retval = new AtomicInteger(0);
 						TileEntity _ent = world.getTileEntity(pos);
 						if (_ent != null) {
@@ -1043,7 +1043,7 @@ public class LeatherWorksTableProcedureProcedure extends SotmModElements.ModElem
 						}
 						return _retval.get();
 					}
-				}.getAmount(new BlockPos((int) x, (int) y, (int) z), (int) (2))) <= 63) && ((new Object() {
+				}.getAmount(world, new BlockPos((int) x, (int) y, (int) z), (int) (2))) <= 63) && ((new Object() {
 					public ItemStack getItemStack(BlockPos pos, int sltid) {
 						AtomicReference<ItemStack> _retval = new AtomicReference<>(ItemStack.EMPTY);
 						TileEntity _ent = world.getTileEntity(pos);
@@ -1102,7 +1102,7 @@ public class LeatherWorksTableProcedureProcedure extends SotmModElements.ModElem
 					final int _sltid = (int) (2);
 					final ItemStack _setstack = new ItemStack(LeatherBallItem.block, (int) (1));
 					_setstack.setCount((int) ((new Object() {
-						public int getAmount(BlockPos pos, int sltid) {
+						public int getAmount(IWorld world, BlockPos pos, int sltid) {
 							AtomicInteger _retval = new AtomicInteger(0);
 							TileEntity _ent = world.getTileEntity(pos);
 							if (_ent != null) {
@@ -1112,7 +1112,7 @@ public class LeatherWorksTableProcedureProcedure extends SotmModElements.ModElem
 							}
 							return _retval.get();
 						}
-					}.getAmount(new BlockPos((int) x, (int) y, (int) z), (int) (2))) + 1));
+					}.getAmount(world, new BlockPos((int) x, (int) y, (int) z), (int) (2))) + 1));
 					_ent.getCapability(CapabilityItemHandler.ITEM_HANDLER_CAPABILITY, null).ifPresent(capability -> {
 						if (capability instanceof IItemHandlerModifiable) {
 							((IItemHandlerModifiable) capability).setStackInSlot(_sltid, _setstack);
@@ -1131,7 +1131,7 @@ public class LeatherWorksTableProcedureProcedure extends SotmModElements.ModElem
 			}
 		}
 		if ((((new Object() {
-			public int getAmount(BlockPos pos, int sltid) {
+			public int getAmount(IWorld world, BlockPos pos, int sltid) {
 				AtomicInteger _retval = new AtomicInteger(0);
 				TileEntity _ent = world.getTileEntity(pos);
 				if (_ent != null) {
@@ -1141,7 +1141,7 @@ public class LeatherWorksTableProcedureProcedure extends SotmModElements.ModElem
 				}
 				return _retval.get();
 			}
-		}.getAmount(new BlockPos((int) x, (int) y, (int) z), (int) (2))) < 64) && ((((new Object() {
+		}.getAmount(world, new BlockPos((int) x, (int) y, (int) z), (int) (2))) < 64) && ((((new Object() {
 			public ItemStack getItemStack(BlockPos pos, int sltid) {
 				AtomicReference<ItemStack> _retval = new AtomicReference<>(ItemStack.EMPTY);
 				TileEntity _ent = world.getTileEntity(pos);
@@ -1167,7 +1167,7 @@ public class LeatherWorksTableProcedureProcedure extends SotmModElements.ModElem
 				}.getItemStack(new BlockPos((int) x, (int) y, (int) z), (int) (1))).getItem() == new ItemStack(BatWingsItem.block, (int) (1))
 						.getItem()))
 				&& ((((new Object() {
-					public int getAmount(BlockPos pos, int sltid) {
+					public int getAmount(IWorld world, BlockPos pos, int sltid) {
 						AtomicInteger _retval = new AtomicInteger(0);
 						TileEntity _ent = world.getTileEntity(pos);
 						if (_ent != null) {
@@ -1177,7 +1177,7 @@ public class LeatherWorksTableProcedureProcedure extends SotmModElements.ModElem
 						}
 						return _retval.get();
 					}
-				}.getAmount(new BlockPos((int) x, (int) y, (int) z), (int) (2))) <= 63) && ((new Object() {
+				}.getAmount(world, new BlockPos((int) x, (int) y, (int) z), (int) (2))) <= 63) && ((new Object() {
 					public ItemStack getItemStack(BlockPos pos, int sltid) {
 						AtomicReference<ItemStack> _retval = new AtomicReference<>(ItemStack.EMPTY);
 						TileEntity _ent = world.getTileEntity(pos);
@@ -1236,7 +1236,7 @@ public class LeatherWorksTableProcedureProcedure extends SotmModElements.ModElem
 					final int _sltid = (int) (2);
 					final ItemStack _setstack = new ItemStack(Items.LEATHER, (int) (1));
 					_setstack.setCount((int) ((new Object() {
-						public int getAmount(BlockPos pos, int sltid) {
+						public int getAmount(IWorld world, BlockPos pos, int sltid) {
 							AtomicInteger _retval = new AtomicInteger(0);
 							TileEntity _ent = world.getTileEntity(pos);
 							if (_ent != null) {
@@ -1246,7 +1246,7 @@ public class LeatherWorksTableProcedureProcedure extends SotmModElements.ModElem
 							}
 							return _retval.get();
 						}
-					}.getAmount(new BlockPos((int) x, (int) y, (int) z), (int) (2))) + 1));
+					}.getAmount(world, new BlockPos((int) x, (int) y, (int) z), (int) (2))) + 1));
 					_ent.getCapability(CapabilityItemHandler.ITEM_HANDLER_CAPABILITY, null).ifPresent(capability -> {
 						if (capability instanceof IItemHandlerModifiable) {
 							((IItemHandlerModifiable) capability).setStackInSlot(_sltid, _setstack);

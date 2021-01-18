@@ -24,6 +24,7 @@
         "value": "CUSTOM:AmberGem"
       }
     ],
+    "immuneToFire": false,
     "stayInGridWhenCrafting": false,
     "damageOnCrafting": false
   }

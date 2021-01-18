@@ -14,11 +14,11 @@
       "falpha": 0.0
     },
     "grassColor": {
-      "value": -16777012,
+      "value": -16737793,
       "falpha": 0.0
     },
     "foliageColor": {
-      "value": -16777012,
+      "value": -16737793,
       "falpha": 0.0
     },
     "waterColor": {
@@ -29,6 +29,24 @@
       "value": -65536,
       "falpha": 0.0
     },
+    "ambientSound": {
+      "value": ""
+    },
+    "additionsSound": {
+      "value": ""
+    },
+    "music": {
+      "value": ""
+    },
+    "moodSound": {
+      "value": ""
+    },
+    "moodSoundDelay": 0,
+    "spawnParticles": false,
+    "particleToSpawn": {
+      "value": "CUSTOM:RedGlowingOr"
+    },
+    "particlesProbability": 0.0,
     "biomeCategory": "NONE",
     "parent": {
       "value": "No parent"
@@ -54,6 +72,7 @@
     "vanillaTreeType": "Mega spruce trees",
     "treeType": 1,
     "minHeight": 7,
+    "maxWaterDepth": 0,
     "treeStem": {
       "value": "CUSTOM:UaphreliaLog"
     },

@@ -29,6 +29,9 @@
       "value": -16737793,
       "falpha": 0.0
     },
+    "moodSoundDelay": 0,
+    "spawnParticles": false,
+    "particlesProbability": 0.0,
     "biomeCategory": "NONE",
     "parent": {
       "value": "No parent"
@@ -54,6 +57,7 @@
     "vanillaTreeType": "Big trees",
     "treeType": 1,
     "minHeight": 3,
+    "maxWaterDepth": 0,
     "treeStem": {
       "value": "CUSTOM:WalnutWoodLog"
     },

@@ -29,6 +29,24 @@
       "value": -16750849,
       "falpha": 0.0
     },
+    "ambientSound": {
+      "value": ""
+    },
+    "additionsSound": {
+      "value": ""
+    },
+    "music": {
+      "value": ""
+    },
+    "moodSound": {
+      "value": ""
+    },
+    "moodSoundDelay": 0,
+    "spawnParticles": true,
+    "particleToSpawn": {
+      "value": "CUSTOM:RedGlowingOr"
+    },
+    "particlesProbability": 0.30000000000000004,
     "biomeCategory": "NETHER",
     "parent": {
       "value": "No parent"
@@ -54,6 +72,7 @@
     "vanillaTreeType": "Default",
     "treeType": 0,
     "minHeight": 7,
+    "maxWaterDepth": 0,
     "treeStem": {
       "value": ""
     },

@@ -16,6 +16,8 @@
     "itemTexture": "",
     "particleTexture": "",
     "blockBase": "Pane",
+    "tintType": "No tint",
+    "isItemTinted": false,
     "hasTransparency": true,
     "connectedSides": false,
     "transparencyType": "TRANSLUCENT",
