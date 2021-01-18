@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sotm:blocks/underworld_lapis_ore",
+    "up": "sotm:blocks/underworld_lapis_ore",
+    "north": "sotm:blocks/underworld_lapis_ore",
+    "east": "sotm:blocks/underworld_lapis_ore",
+    "south": "sotm:blocks/underworld_lapis_ore",
+    "west": "sotm:blocks/underworld_lapis_ore",
+    "particle": "sotm:blocks/underworld_lapis_ore"
+  }
+}

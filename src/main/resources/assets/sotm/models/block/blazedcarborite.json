@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sotm:blocks/blazed_carborite_2",
+    "up": "sotm:blocks/blazed_carborite_2",
+    "north": "sotm:blocks/blazed_carborite_2",
+    "east": "sotm:blocks/blazed_carborite_2",
+    "south": "sotm:blocks/blazed_carborite_2",
+    "west": "sotm:blocks/blazed_carborite_2",
+    "particle": "sotm:blocks/blazed_carborite_2"
+  }
+}

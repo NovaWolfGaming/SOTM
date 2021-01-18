@@ -1,0 +1,8 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "sotm:blocks/carboritesmooth",
+    "top": "sotm:blocks/carboritesmooth",
+    "side": "sotm:blocks/carboritesmooth"
+  }
+}

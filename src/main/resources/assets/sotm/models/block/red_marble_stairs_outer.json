@@ -1,0 +1,8 @@
+{
+  "parent": "block/outer_stairs",
+  "textures": {
+    "bottom": "sotm:blocks/marble_bricks_red",
+    "top": "sotm:blocks/marble_bricks_red",
+    "side": "sotm:blocks/marble_bricks_red"
+  }
+}

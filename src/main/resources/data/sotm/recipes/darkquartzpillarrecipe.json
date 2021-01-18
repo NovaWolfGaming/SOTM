@@ -1,0 +1,20 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1"
+  ],
+  "key": {
+    "0": {
+      "item": "sotm:chiseleddarkquartz"
+    },
+    "1": {
+      "item": "sotm:chiseleddarkquartz"
+    }
+  },
+  "result": {
+    "item": "sotm:darkquartzpillar",
+    "count": 2
+  }
+}

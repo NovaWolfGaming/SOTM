@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "sotm:block/chorus_stone_brick_slab"
+    },
+    "type=top": {
+      "model": "sotm:block/chorus_stone_brick_slab_top"
+    },
+    "type=double": {
+      "model": "sotm:block/chorus_stone_brick_slab_full"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1"
+  ],
+  "key": {
+    "0": {
+      "item": "sotm:burningfuriteslab"
+    },
+    "1": {
+      "item": "sotm:burningfuriteslab"
+    }
+  },
+  "result": {
+    "item": "sotm:burningfuritechiseled",
+    "count": 1
+  }
+}

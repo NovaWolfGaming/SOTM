@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "sotm:blocks/dragonstone_ore_new_2",
+    "particle": "sotm:blocks/dragonstone_ore_new_2"
+  }
+}

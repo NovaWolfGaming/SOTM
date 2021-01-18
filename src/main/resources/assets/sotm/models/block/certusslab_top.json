@@ -1,0 +1,8 @@
+{
+  "parent": "block/slab_top",
+  "textures": {
+    "bottom": "sotm:blocks/certus_block",
+    "top": "sotm:blocks/certus_block",
+    "side": "sotm:blocks/certus_block"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sotm:blocks/ender_echorin_ore",
+    "up": "sotm:blocks/ender_echorin_ore",
+    "north": "sotm:blocks/ender_echorin_ore",
+    "east": "sotm:blocks/ender_echorin_ore",
+    "south": "sotm:blocks/ender_echorin_ore",
+    "west": "sotm:blocks/ender_echorin_ore",
+    "particle": "sotm:blocks/ender_echorin_ore"
+  }
+}

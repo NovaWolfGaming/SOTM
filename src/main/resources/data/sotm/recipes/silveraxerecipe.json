@@ -1,0 +1,30 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23",
+    " 5"
+  ],
+  "key": {
+    "0": {
+      "item": "sotm:silveringot"
+    },
+    "1": {
+      "item": "sotm:silveringot"
+    },
+    "2": {
+      "item": "sotm:silveringot"
+    },
+    "3": {
+      "item": "minecraft:stick"
+    },
+    "5": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "sotm:silveraxe",
+    "count": 1
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 12",
+    "  5",
+    "678"
+  ],
+  "key": {
+    "1": {
+      "item": "sotm:silveringot"
+    },
+    "2": {
+      "item": "sotm:silveringot"
+    },
+    "5": {
+      "item": "sotm:silveringot"
+    },
+    "6": {
+      "item": "minecraft:stick"
+    },
+    "7": {
+      "item": "sotm:silveringot"
+    },
+    "8": {
+      "item": "sotm:silveringot"
+    }
+  },
+  "result": {
+    "item": "sotm:silversickle",
+    "count": 1
+  }
+}

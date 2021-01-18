@@ -1,0 +1,67 @@
+{
+  "_fv": 15,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "studded_cap",
+    "enableBody": true,
+    "textureBody": "studded_tunic",
+    "enableLeggings": true,
+    "textureLeggings": "studded_leggings",
+    "enableBoots": true,
+    "textureBoots": "leatherchainboots",
+    "creativeTab": {
+      "value": "CUSTOM:ToolsAndWeapons"
+    },
+    "armorTextureFile": "studded____",
+    "helmetName": "Leather-Chain Helmet",
+    "bodyName": "Leather-Chain Chestplate",
+    "leggingsName": "Leather-Chain Leggings",
+    "bootsName": "Leather-Chain Boots",
+    "helmetSpecialInfo": [],
+    "bodySpecialInfo": [],
+    "leggingsSpecialInfo": [],
+    "bootsSpecialInfo": [],
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "armsModelPartL": "Arms L",
+    "armsModelPartR": "Arms R",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "maxDamage": 15,
+    "damageValueHelmet": 4,
+    "damageValueBody": 9,
+    "damageValueLeggings": 10,
+    "damageValueBoots": 4,
+    "enchantability": 9,
+    "toughness": 0.0,
+    "knockbackResistance": 0.0,
+    "equipSound": {
+      "value": "item.armor.equip_chain"
+    },
+    "repairItems": [
+      {
+        "value": "CUSTOM:SilverChain"
+      },
+      {
+        "value": "Items.LEATHER"
+      },
+      {
+        "value": "CUSTOM:PigLeather"
+      },
+      {
+        "value": "CUSTOM:LeatherBall"
+      }
+    ]
+  }
+}

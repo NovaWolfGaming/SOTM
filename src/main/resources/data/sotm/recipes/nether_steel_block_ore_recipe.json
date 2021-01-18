@@ -1,0 +1,13 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "sotm:nether_steel_ore_block"
+    }
+  ],
+  "result": {
+    "item": "sotm:nether_steel_ingot",
+    "count": 9
+  }
+}

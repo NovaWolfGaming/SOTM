@@ -1,0 +1,16 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "sotm:dragon_fir_wood"
+    }
+  },
+  "result": {
+    "item": "sotm:dragon_fir_planks",
+    "count": 4
+  }
+}

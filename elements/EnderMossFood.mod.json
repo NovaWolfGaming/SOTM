@@ -1,0 +1,23 @@
+{
+  "_fv": 15,
+  "_type": "food",
+  "definition": {
+    "renderType": 0,
+    "texture": "ender_moss",
+    "customModelName": "Normal",
+    "name": "Ender Moss",
+    "rarity": "COMMON",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:SOTMFood"
+    },
+    "stackSize": 64,
+    "nutritionalValue": 2,
+    "saturation": 7.0,
+    "eatingSpeed": 16,
+    "forDogs": false,
+    "isAlwaysEdible": false,
+    "animation": "eat",
+    "hasGlow": true
+  }
+}

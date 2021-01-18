@@ -1,0 +1,33 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "sotm:burningfuriteblock"
+    },
+    "3": {
+      "item": "sotm:burningfuriteblock"
+    },
+    "4": {
+      "item": "sotm:burningfuriteblock"
+    },
+    "6": {
+      "item": "sotm:burningfuriteblock"
+    },
+    "7": {
+      "item": "sotm:burningfuriteblock"
+    },
+    "8": {
+      "item": "sotm:burningfuriteblock"
+    }
+  },
+  "result": {
+    "item": "sotm:burningfuritestairs",
+    "count": 6
+  }
+}

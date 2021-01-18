@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sotm:blocks/sulphur_nether_quartz_ore",
+    "up": "sotm:blocks/sulphur_nether_quartz_ore",
+    "north": "sotm:blocks/sulphur_nether_quartz_ore",
+    "east": "sotm:blocks/sulphur_nether_quartz_ore",
+    "south": "sotm:blocks/sulphur_nether_quartz_ore",
+    "west": "sotm:blocks/sulphur_nether_quartz_ore",
+    "particle": "sotm:blocks/sulphur_nether_quartz_ore"
+  }
+}

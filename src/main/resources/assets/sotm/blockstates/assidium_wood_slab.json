@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "sotm:block/assidium_wood_slab"
+    },
+    "type=top": {
+      "model": "sotm:block/assidium_wood_slab_top"
+    },
+    "type=double": {
+      "model": "sotm:block/assidium_wood_slab_full"
+    }
+  }
+}

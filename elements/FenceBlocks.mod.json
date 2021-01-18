@@ -1,0 +1,58 @@
+{
+  "_fv": 15,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [
+      {
+        "value": "CUSTOM:EuaphreliaFence"
+      },
+      {
+        "value": "CUSTOM:SilverFence"
+      },
+      {
+        "value": "CUSTOM:BloodElderFence"
+      },
+      {
+        "value": "CUSTOM:LightOakFence"
+      },
+      {
+        "value": "CUSTOM:DragonFirFence"
+      },
+      {
+        "value": "CUSTOM:TwistedMapleFence"
+      },
+      {
+        "value": "CUSTOM:BlackMushroomFence"
+      },
+      {
+        "value": "CUSTOM:YellowMushroomFence"
+      },
+      {
+        "value": "CUSTOM:CherryWoodFence"
+      },
+      {
+        "value": "CUSTOM:WalnutWoodFence"
+      },
+      {
+        "value": "CUSTOM:AssidiumWoodFence"
+      },
+      {
+        "value": "CUSTOM:Spotted_AshwoodFence"
+      },
+      {
+        "value": "CUSTOM:Spotted_AshwoodFenceGate"
+      },
+      {
+        "value": "CUSTOM:BambooFence"
+      },
+      {
+        "value": "CUSTOM:BambooFenceGate"
+      }
+    ],
+    "functions": [],
+    "name": "fences",
+    "namespace": "minecraft"
+  }
+}

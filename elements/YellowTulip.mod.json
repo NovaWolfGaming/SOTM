@@ -1,0 +1,58 @@
+{
+  "_fv": 15,
+  "_type": "plant",
+  "definition": {
+    "renderType": 12,
+    "texture": "tulip_yelloq",
+    "textureBottom": "",
+    "customModelName": "Cross model",
+    "itemTexture": "",
+    "particleTexture": "",
+    "plantType": "normal",
+    "staticPlantGenerationType": "Flower",
+    "growapableSpawnType": "Plains",
+    "growapableMaxHeight": 3,
+    "doublePlantGenerationType": "Flower",
+    "name": "Yellow Tulip",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:SOTMDecorations"
+    },
+    "hardness": 0.0,
+    "resistance": 0.0,
+    "luminance": 0,
+    "unbreakable": false,
+    "soundOnStep": {
+      "value": "GROUND"
+    },
+    "useLootTableForDrops": false,
+    "customDrop": {
+      "value": ""
+    },
+    "dropAmount": 1,
+    "forceTicking": false,
+    "emissiveRendering": false,
+    "hasTileEntity": false,
+    "isReplaceable": false,
+    "colorOnMap": "DEFAULT",
+    "creativePickItem": {
+      "value": ""
+    },
+    "offsetType": "XZ",
+    "aiPathNodeType": "DEFAULT",
+    "flammability": 0,
+    "fireSpreadSpeed": 0,
+    "frequencyOnChunks": 5,
+    "spawnWorldTypes": [
+      "CUSTOM:Underworld"
+    ],
+    "restrictionBiomes": [
+      {
+        "value": "CUSTOM:DragonFirForest"
+      },
+      {
+        "value": "CUSTOM:TwistedMapleForest"
+      }
+    ]
+  }
+}

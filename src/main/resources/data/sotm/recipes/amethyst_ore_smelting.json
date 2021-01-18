@@ -1,0 +1,12 @@
+{
+  "group": "sotm",
+  "type": "minecraft:smelting",
+  "experience": 3.5,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "sotm:amethyst_ore"
+  },
+  "result": {
+    "item": "sotm:amethyst_gem"
+  }
+}

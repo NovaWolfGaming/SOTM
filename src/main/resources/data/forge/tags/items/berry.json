@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "sotm:sunberry",
+    "sotm:raspberries",
+    "sotm:eurola_berry",
+    "minecraft:sweet_berry_bush",
+    "sotm:blueberries",
+    "sotm:blackberries",
+    "sotm:raspberries",
+    "sotm:snozzberries",
+    "sotm:elder_berries"
+  ]
+}

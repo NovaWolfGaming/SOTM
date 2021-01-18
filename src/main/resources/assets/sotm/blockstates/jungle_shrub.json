@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=upper": {
+      "model": "sotm:block/jungle_shrub"
+    },
+    "half=lower": {
+      "model": "sotm:block/jungle_shrub_bottom"
+    }
+  }
+}

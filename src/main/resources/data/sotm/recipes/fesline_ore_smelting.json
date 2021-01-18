@@ -1,0 +1,12 @@
+{
+  "group": "sotm",
+  "type": "minecraft:smelting",
+  "experience": 3.15,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "sotm:fesline_ore"
+  },
+  "result": {
+    "item": "sotm:fesline_ingot"
+  }
+}

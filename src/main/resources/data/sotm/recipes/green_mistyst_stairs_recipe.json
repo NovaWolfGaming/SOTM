@@ -1,0 +1,33 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "sotm:green_mistyst_brick"
+    },
+    "3": {
+      "item": "sotm:green_mistyst_brick"
+    },
+    "4": {
+      "item": "sotm:green_mistyst_brick"
+    },
+    "6": {
+      "item": "sotm:green_mistyst_brick"
+    },
+    "7": {
+      "item": "sotm:green_mistyst_brick"
+    },
+    "8": {
+      "item": "sotm:green_mistyst_brick"
+    }
+  },
+  "result": {
+    "item": "sotm:green_mistyst_stairs",
+    "count": 6
+  }
+}

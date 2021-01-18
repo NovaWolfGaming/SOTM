@@ -1,0 +1,33 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "sotm:furiteblock"
+    },
+    "3": {
+      "item": "sotm:furiteblock"
+    },
+    "4": {
+      "item": "sotm:furiteblock"
+    },
+    "6": {
+      "item": "sotm:furiteblock"
+    },
+    "7": {
+      "item": "sotm:furiteblock"
+    },
+    "8": {
+      "item": "sotm:furiteblock"
+    }
+  },
+  "result": {
+    "item": "sotm:furiteblockstairs",
+    "count": 6
+  }
+}

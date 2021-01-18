@@ -1,0 +1,40 @@
+{
+  "_fv": 15,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [
+      {
+        "value": "CUSTOM:UaphreliaLog"
+      },
+      {
+        "value": "CUSTOM:CherryWoodLog"
+      },
+      {
+        "value": "CUSTOM:WalnutWoodLog"
+      },
+      {
+        "value": "CUSTOM:AssidiumWoodLog"
+      },
+      {
+        "value": "CUSTOM:Spotted_AshwoodLog"
+      },
+      {
+        "value": "CUSTOM:LightOakWood"
+      },
+      {
+        "value": "CUSTOM:DragonFirWood"
+      },
+      {
+        "value": "CUSTOM:TwistedMapleWood"
+      },
+      {
+        "value": "CUSTOM:AssidiumWoodLog"
+      }
+    ],
+    "functions": [],
+    "name": "logs",
+    "namespace": "minecraft"
+  }
+}

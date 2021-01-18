@@ -1,0 +1,26 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "sotm:bone_shard"
+    },
+    "1": {
+      "item": "sotm:bone_shard"
+    },
+    "2": {
+      "item": "sotm:bone_shard"
+    },
+    "3": {
+      "item": "sotm:bone_shard"
+    }
+  },
+  "result": {
+    "item": "sotm:bone_stem",
+    "count": 1
+  }
+}

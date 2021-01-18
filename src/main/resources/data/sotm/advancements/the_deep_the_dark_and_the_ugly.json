@@ -1,0 +1,29 @@
+{
+  "display": {
+    "icon": {
+      "item": "sotm:underworld"
+    },
+    "title": {
+      "translate": "advancements.the_deep_the_dark_and_the_ugly.title"
+    },
+    "description": {
+      "translate": "advancements.the_deep_the_dark_and_the_ugly.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "the_deep_the_dark_and_the_ugly": {
+      "trigger": "minecraft:changed_dimension",
+      "conditions": {
+        "to": "sotm:underworld"
+      }
+    }
+  },
+  "rewards": {
+    "experience": 20
+  },
+  "parent": "sotm:when_obsidian_glows"
+}

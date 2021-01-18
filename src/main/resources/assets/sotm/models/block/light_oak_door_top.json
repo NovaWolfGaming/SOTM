@@ -1,0 +1,7 @@
+{
+  "parent": "block/door_top",
+  "textures": {
+    "bottom": "sotm:blocks/light_oak_door_bottom",
+    "top": "sotm:blocks/light_oak_door"
+  }
+}

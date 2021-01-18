@@ -1,0 +1,36 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "sotm:copperingot"
+    },
+    "1": {
+      "item": "sotm:copperingot"
+    },
+    "2": {
+      "item": "sotm:copperingot"
+    },
+    "3": {
+      "item": "sotm:copperingot"
+    },
+    "5": {
+      "item": "sotm:copperingot"
+    },
+    "6": {
+      "item": "sotm:copperingot"
+    },
+    "8": {
+      "item": "sotm:copperingot"
+    }
+  },
+  "result": {
+    "item": "sotm:copperarmor_leggings",
+    "count": 1
+  }
+}

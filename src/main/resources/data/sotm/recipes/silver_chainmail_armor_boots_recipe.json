@@ -1,0 +1,26 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "sotm:silver_chain"
+    },
+    "2": {
+      "item": "sotm:silver_chain"
+    },
+    "3": {
+      "item": "sotm:silver_chain"
+    },
+    "5": {
+      "item": "sotm:silver_chain"
+    }
+  },
+  "result": {
+    "item": "sotm:silver_chainmail_armor_boots",
+    "count": 1
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:iron_ingot"
+  },
+  "addition": {
+    "item": "sotm:silveringot"
+  },
+  "result": {
+    "item": "sotm:iron_rapier_blade"
+  }
+}

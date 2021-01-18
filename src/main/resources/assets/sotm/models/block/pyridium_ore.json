@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "sotm:blocks/pyridium_ore_new",
+    "particle": "sotm:blocks/pyridium_ore_new"
+  }
+}

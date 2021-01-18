@@ -1,0 +1,7 @@
+{
+  "parent": "block/template_orientable_trapdoor_open",
+  "textures": {
+    "texture": "sotm:blocks/blood_alder_trapdoor_new",
+    "particle": "sotm:blocks/blood_alder_trapdoor_new"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "sotm:yellow_mushroom_planks"
+    },
+    "1": {
+      "item": "sotm:yellow_mushroom_planks"
+    },
+    "2": {
+      "item": "sotm:yellow_mushroom_planks"
+    }
+  },
+  "result": {
+    "item": "sotm:yellow_mushroom_slab",
+    "count": 6
+  }
+}

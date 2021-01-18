@@ -1,0 +1,8 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "sotm:blocks/green_mistyst_brick",
+    "top": "sotm:blocks/green_mistyst_brick",
+    "side": "sotm:blocks/green_mistyst_brick"
+  }
+}

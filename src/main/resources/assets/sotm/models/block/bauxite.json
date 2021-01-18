@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sotm:blocks/bauxite",
+    "up": "sotm:blocks/bauxite",
+    "north": "sotm:blocks/bauxite",
+    "east": "sotm:blocks/bauxite",
+    "south": "sotm:blocks/bauxite",
+    "west": "sotm:blocks/bauxite",
+    "particle": "sotm:blocks/bauxite"
+  }
+}

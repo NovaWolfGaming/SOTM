@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=upper": {
+      "model": "sotm:block/red_mushroom_double"
+    },
+    "half=lower": {
+      "model": "sotm:block/red_mushroom_double_bottom"
+    }
+  }
+}

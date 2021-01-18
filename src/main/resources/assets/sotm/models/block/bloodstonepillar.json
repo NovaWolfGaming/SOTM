@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sotm:blocks/bloodstone_pillar_top",
+    "up": "sotm:blocks/bloodstone_pillar_top",
+    "north": "sotm:blocks/bloodstone_pillar_side",
+    "east": "sotm:blocks/bloodstone_pillar_side",
+    "south": "sotm:blocks/bloodstone_pillar_side",
+    "west": "sotm:blocks/bloodstone_pillar_side",
+    "particle": "sotm:blocks/bloodstone_pillar_top"
+  }
+}

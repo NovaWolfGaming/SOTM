@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sotm:blocks/crystaline_frosted_block_chiseled",
+    "up": "sotm:blocks/crystaline_frosted_block_chiseled",
+    "north": "sotm:blocks/crystaline_frosted_block_chiseled_top",
+    "east": "sotm:blocks/crystaline_frosted_block_chiseled_top",
+    "south": "sotm:blocks/crystaline_frosted_block_chiseled_top",
+    "west": "sotm:blocks/crystaline_frosted_block_chiseled_top",
+    "particle": "sotm:blocks/crystaline_frosted_block_chiseled"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "sotm:netherstone_smooth"
+    },
+    "3": {
+      "item": "sotm:netherstone_smooth"
+    },
+    "4": {
+      "item": "sotm:netherstone_smooth"
+    },
+    "6": {
+      "item": "sotm:netherstone_smooth"
+    },
+    "7": {
+      "item": "sotm:netherstone_smooth"
+    },
+    "8": {
+      "item": "sotm:netherstone_smooth"
+    }
+  },
+  "result": {
+    "item": "sotm:netherstone_smooth_stairs",
+    "count": 6
+  }
+}

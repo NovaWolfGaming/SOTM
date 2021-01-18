@@ -1,0 +1,40 @@
+{
+  "_fv": 15,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [
+      {
+        "value": "CUSTOM:EurphreliaLeaves"
+      },
+      {
+        "value": "CUSTOM:LightOakLeaves"
+      },
+      {
+        "value": "CUSTOM:DragonFirLeaves"
+      },
+      {
+        "value": "CUSTOM:TwistedMapleLeaves"
+      },
+      {
+        "value": "CUSTOM:BloodElderLeaves"
+      },
+      {
+        "value": "CUSTOM:CherryLeaves"
+      },
+      {
+        "value": "CUSTOM:WalnutLeaves"
+      },
+      {
+        "value": "CUSTOM:AssidiumLeaves"
+      },
+      {
+        "value": "CUSTOM:Spotted_AshwoodLeaves"
+      }
+    ],
+    "functions": [],
+    "name": "leaves",
+    "namespace": "minecraft"
+  }
+}

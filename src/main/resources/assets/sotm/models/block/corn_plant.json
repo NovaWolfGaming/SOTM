@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "sotm:blocks/corn_plant_redone",
+    "particle": "sotm:blocks/corn_plant_redone"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "sotm:block/polishedcarboriteslab"
+    },
+    "type=top": {
+      "model": "sotm:block/polishedcarboriteslab_top"
+    },
+    "type=double": {
+      "model": "sotm:block/polishedcarboriteslab_full"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sotm:blocks/colphin",
+    "up": "sotm:blocks/colphin",
+    "north": "sotm:blocks/colphin",
+    "east": "sotm:blocks/colphin",
+    "south": "sotm:blocks/colphin",
+    "west": "sotm:blocks/colphin",
+    "particle": "sotm:blocks/colphin"
+  }
+}

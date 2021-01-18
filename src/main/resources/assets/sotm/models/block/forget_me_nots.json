@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "sotm:blocks/forget_me_nots_redone",
+    "particle": "sotm:blocks/forget_me_nots_redone"
+  }
+}

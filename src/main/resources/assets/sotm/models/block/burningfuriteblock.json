@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sotm:blocks/burningfuriteblock",
+    "up": "sotm:blocks/burningfuriteblock",
+    "north": "sotm:blocks/burningfuriteblock",
+    "east": "sotm:blocks/burningfuriteblock",
+    "south": "sotm:blocks/burningfuriteblock",
+    "west": "sotm:blocks/burningfuriteblock",
+    "particle": "sotm:blocks/burningfuriteblock"
+  }
+}

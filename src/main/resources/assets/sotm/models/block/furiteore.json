@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sotm:blocks/furite_ore_redone",
+    "up": "sotm:blocks/furite_ore_redone",
+    "north": "sotm:blocks/furite_ore_top",
+    "east": "sotm:blocks/furite_ore_top",
+    "south": "sotm:blocks/furite_ore_top",
+    "west": "sotm:blocks/furite_ore_top",
+    "particle": "sotm:blocks/furite_ore_redone"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "sotm:bauxite_bricks"
+    },
+    "3": {
+      "item": "sotm:bauxite_bricks"
+    },
+    "4": {
+      "item": "sotm:bauxite_bricks"
+    },
+    "6": {
+      "item": "sotm:bauxite_bricks"
+    },
+    "7": {
+      "item": "sotm:bauxite_bricks"
+    },
+    "8": {
+      "item": "sotm:bauxite_bricks"
+    }
+  },
+  "result": {
+    "item": "sotm:bauxite_brick_stairs",
+    "count": 6
+  }
+}

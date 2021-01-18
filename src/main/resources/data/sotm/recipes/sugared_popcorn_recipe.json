@@ -1,0 +1,20 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:sugar"
+    },
+    "1": {
+      "item": "sotm:popcorn"
+    }
+  },
+  "result": {
+    "item": "sotm:sugared_popcorn",
+    "count": 1
+  }
+}

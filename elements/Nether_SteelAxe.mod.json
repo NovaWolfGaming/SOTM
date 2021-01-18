@@ -1,0 +1,26 @@
+{
+  "_fv": 15,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "crystone_iron_axe",
+    "customModelName": "Normal",
+    "name": "Crystone Iron Axe",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:ToolsAndWeapons"
+    },
+    "toolType": "Axe",
+    "harvestLevel": 3,
+    "efficiency": 7.0,
+    "attackSpeed": 1.0,
+    "enchantability": 18,
+    "damageVsEntity": 6.5,
+    "usageCount": 361,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [],
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sotm:blocks/skarn_cracked",
+    "up": "sotm:blocks/skarn_cracked",
+    "north": "sotm:blocks/skarn_cracked",
+    "east": "sotm:blocks/skarn_cracked",
+    "south": "sotm:blocks/skarn_cracked",
+    "west": "sotm:blocks/skarn_cracked",
+    "particle": "sotm:blocks/skarn_cracked"
+  }
+}

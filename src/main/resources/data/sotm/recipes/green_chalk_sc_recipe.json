@@ -1,0 +1,9 @@
+{
+  "group": "sotm",
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "sotm:green_chalk"
+  },
+  "result": "sotm:green_chalk_brick"
+}

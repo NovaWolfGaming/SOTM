@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "sotm:blocks/sulphured_molten_weeds",
+    "particle": "sotm:blocks/sulphured_molten_weeds"
+  }
+}

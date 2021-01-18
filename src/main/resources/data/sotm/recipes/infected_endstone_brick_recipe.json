@@ -1,0 +1,26 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "sotm:infected_endstone"
+    },
+    "1": {
+      "item": "sotm:infected_endstone"
+    },
+    "2": {
+      "item": "sotm:infected_endstone"
+    },
+    "3": {
+      "item": "sotm:infected_endstone"
+    }
+  },
+  "result": {
+    "item": "sotm:infected_endstone_brick",
+    "count": 4
+  }
+}

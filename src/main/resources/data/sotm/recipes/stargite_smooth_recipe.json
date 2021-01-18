@@ -1,0 +1,26 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "sotm:stargite"
+    },
+    "1": {
+      "item": "sotm:stargite"
+    },
+    "2": {
+      "item": "sotm:stargite"
+    },
+    "3": {
+      "item": "sotm:stargite"
+    }
+  },
+  "result": {
+    "item": "sotm:stargite_smooth",
+    "count": 4
+  }
+}

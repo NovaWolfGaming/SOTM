@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "sotm:blocks/ender_plant",
+    "particle": "sotm:blocks/ender_plant"
+  }
+}

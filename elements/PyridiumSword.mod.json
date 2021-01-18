@@ -1,0 +1,26 @@
+{
+  "_fv": 15,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "pyridium_sword",
+    "customModelName": "Normal",
+    "name": "Pyridium Sword",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:ToolsAndWeapons"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 8,
+    "efficiency": 14.0,
+    "attackSpeed": 1.0,
+    "enchantability": 56,
+    "damageVsEntity": 8.0,
+    "usageCount": 1741,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [],
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

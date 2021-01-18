@@ -1,0 +1,33 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "sotm:darkquartzblock"
+    },
+    "3": {
+      "item": "sotm:darkquartzblock"
+    },
+    "4": {
+      "item": "sotm:darkquartzblock"
+    },
+    "6": {
+      "item": "sotm:darkquartzblock"
+    },
+    "7": {
+      "item": "sotm:darkquartzblock"
+    },
+    "8": {
+      "item": "sotm:darkquartzblock"
+    }
+  },
+  "result": {
+    "item": "sotm:darkquartzstairs",
+    "count": 6
+  }
+}

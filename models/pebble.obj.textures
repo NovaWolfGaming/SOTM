@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "m_0": "stone_new"
+      },
+      "name": "default"
+    }
+  }
+}

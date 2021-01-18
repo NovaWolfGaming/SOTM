@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sotm:blocks/redstone_ore_off",
+    "up": "sotm:blocks/redstone_ore_off",
+    "north": "sotm:blocks/redstone_ore_off",
+    "east": "sotm:blocks/redstone_ore_off",
+    "south": "sotm:blocks/redstone_ore_off",
+    "west": "sotm:blocks/redstone_ore_off",
+    "particle": "sotm:blocks/redstone_ore_off"
+  }
+}

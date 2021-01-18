@@ -1,0 +1,19 @@
+{
+  "_fv": 15,
+  "_type": "particle",
+  "definition": {
+    "texture": "dust_particles_2.png",
+    "animate": false,
+    "frameDuration": 1,
+    "width": 0.2,
+    "height": 0.2,
+    "scale": 1.0,
+    "speedFactor": 0.0,
+    "gravity": 0.0,
+    "maxAge": 7,
+    "maxAgeDiff": 3,
+    "canCollide": false,
+    "alwaysShow": false,
+    "renderType": "OPAQUE"
+  }
+}

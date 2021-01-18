@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "sotm:blocks/underworld_dirt_coarse",
+    "particle": "sotm:blocks/underworld_dirt_coarse"
+  }
+}

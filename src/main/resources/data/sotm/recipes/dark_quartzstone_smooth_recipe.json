@@ -1,0 +1,26 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "sotm:dark_quartzstone"
+    },
+    "1": {
+      "item": "sotm:dark_quartzstone"
+    },
+    "2": {
+      "item": "sotm:dark_quartzstone"
+    },
+    "3": {
+      "item": "sotm:dark_quartzstone"
+    }
+  },
+  "result": {
+    "item": "sotm:dark_quartzstone_smooth",
+    "count": 4
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "sotm:green_chalk"
+    },
+    "1": {
+      "item": "sotm:green_chalk"
+    },
+    "2": {
+      "item": "sotm:green_chalk"
+    },
+    "3": {
+      "item": "sotm:green_chalk"
+    }
+  },
+  "result": {
+    "item": "sotm:green_chalk_brick",
+    "count": 4
+  }
+}

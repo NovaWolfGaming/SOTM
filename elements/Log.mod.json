@@ -1,0 +1,25 @@
+{
+  "_fv": 15,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [
+      {
+        "value": "CUSTOM:UaphreliaLog"
+      },
+      {
+        "value": "CUSTOM:LightOakWood"
+      },
+      {
+        "value": "CUSTOM:DragonFirWood"
+      },
+      {
+        "value": "CUSTOM:TwistedMapleWood"
+      }
+    ],
+    "functions": [],
+    "name": "log",
+    "namespace": "minecraft"
+  }
+}

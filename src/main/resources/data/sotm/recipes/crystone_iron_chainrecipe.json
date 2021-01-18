@@ -1,0 +1,16 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "sotm:nether_steel_ingot"
+    }
+  },
+  "result": {
+    "item": "sotm:crystone_iron_chain",
+    "count": 4
+  }
+}

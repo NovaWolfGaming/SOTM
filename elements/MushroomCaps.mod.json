@@ -1,0 +1,28 @@
+{
+  "_fv": 15,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [
+      {
+        "value": "CUSTOM:BlackMushroomShell"
+      },
+      {
+        "value": "CUSTOM:YellowMushroomShell"
+      },
+      {
+        "value": "Blocks.RED_MUSHROOM_BLOCK"
+      },
+      {
+        "value": "Blocks.BROWN_MUSHROOM_BLOCK"
+      },
+      {
+        "value": "Blocks.MUSHROOM_STEM"
+      }
+    ],
+    "functions": [],
+    "name": "mushroom_caps",
+    "namespace": "mod"
+  }
+}

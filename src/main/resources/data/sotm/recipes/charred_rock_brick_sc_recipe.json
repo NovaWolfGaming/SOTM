@@ -1,0 +1,9 @@
+{
+  "group": "sotm",
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "sotm:charred_rock"
+  },
+  "result": "sotm:charred_rock_brick"
+}

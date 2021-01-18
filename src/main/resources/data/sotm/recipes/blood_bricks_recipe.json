@@ -1,0 +1,26 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "sotm:bloodbrick"
+    },
+    "1": {
+      "item": "sotm:bloodbrick"
+    },
+    "2": {
+      "item": "sotm:bloodbrick"
+    },
+    "3": {
+      "item": "sotm:bloodbrick"
+    }
+  },
+  "result": {
+    "item": "sotm:bloodbricks",
+    "count": 1
+  }
+}

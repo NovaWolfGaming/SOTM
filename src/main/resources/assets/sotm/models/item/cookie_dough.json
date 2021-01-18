@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "sotm:items/lob_of_cookie_dough"
+  }
+}

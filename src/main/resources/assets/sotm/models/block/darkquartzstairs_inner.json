@@ -1,0 +1,8 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "sotm:blocks/dark_quartz_block_side_new",
+    "top": "sotm:blocks/dark_quartz_block_side_new",
+    "side": "sotm:blocks/dark_quartz_block_side_new"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1"
+  ],
+  "key": {
+    "0": {
+      "item": "sotm:warped_quartz_slab"
+    },
+    "1": {
+      "item": "sotm:warped_quartz_slab"
+    }
+  },
+  "result": {
+    "item": "sotm:chiseled_warped_quartz",
+    "count": 1
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "sotm:bloodstoneblock"
+    },
+    "1": {
+      "item": "sotm:bloodstoneblock"
+    },
+    "2": {
+      "item": "sotm:bloodstoneblock"
+    }
+  },
+  "result": {
+    "item": "sotm:bloodstoneslab",
+    "count": 6
+  }
+}

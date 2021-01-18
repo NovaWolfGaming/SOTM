@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sotm:blocks/dark_nether_quartz_ore_new",
+    "up": "sotm:blocks/dark_nether_quartz_ore_new",
+    "north": "sotm:blocks/dark_nether_quartz_ore_new",
+    "east": "sotm:blocks/dark_nether_quartz_ore_new",
+    "south": "sotm:blocks/dark_nether_quartz_ore_new",
+    "west": "sotm:blocks/dark_nether_quartz_ore_new",
+    "particle": "sotm:blocks/dark_nether_quartz_ore_new"
+  }
+}

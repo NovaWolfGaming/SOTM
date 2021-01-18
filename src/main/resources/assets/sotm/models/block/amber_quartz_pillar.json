@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sotm:blocks/amber_quartz_block_lines_top",
+    "up": "sotm:blocks/amber_quartz_block_lines_top",
+    "north": "sotm:blocks/amber_quartz_block_lines",
+    "east": "sotm:blocks/amber_quartz_block_lines",
+    "south": "sotm:blocks/amber_quartz_block_lines",
+    "west": "sotm:blocks/amber_quartz_block_lines",
+    "particle": "sotm:blocks/amber_quartz_block_lines_top"
+  }
+}

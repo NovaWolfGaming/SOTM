@@ -1,0 +1,8 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "sotm:blocks/carboritesmooth",
+    "top": "sotm:blocks/carboritesmooth",
+    "side": "sotm:blocks/carboritesmooth"
+  }
+}

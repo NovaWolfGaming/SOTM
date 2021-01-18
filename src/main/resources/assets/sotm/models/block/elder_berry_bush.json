@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "sotm:blocks/elder_berry_bush",
+    "particle": "sotm:blocks/elder_berry_bush"
+  }
+}

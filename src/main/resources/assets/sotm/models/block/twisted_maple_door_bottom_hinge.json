@@ -1,0 +1,7 @@
+{
+  "parent": "block/door_bottom_rh",
+  "textures": {
+    "bottom": "sotm:blocks/twisted_maple_door_bottom",
+    "top": "sotm:blocks/twisted_maple_door_top"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "group": "sotm",
+  "type": "minecraft:smoking",
+  "experience": 1,
+  "cookingtime": 100,
+  "ingredient": {
+    "item": "sotm:shoarma"
+  },
+  "result": {
+    "item": "sotm:cooked_shoarma"
+  }
+}

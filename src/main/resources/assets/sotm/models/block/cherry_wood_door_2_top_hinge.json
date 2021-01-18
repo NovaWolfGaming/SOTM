@@ -1,0 +1,7 @@
+{
+  "parent": "block/door_top_rh",
+  "textures": {
+    "bottom": "sotm:blocks/cherry_wood_door_bottom",
+    "top": "sotm:blocks/cherry_wood_door"
+  }
+}

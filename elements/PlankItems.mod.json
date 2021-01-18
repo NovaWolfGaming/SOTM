@@ -1,0 +1,49 @@
+{
+  "_fv": 15,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:UaphreliaPlanks"
+      },
+      {
+        "value": "CUSTOM:LightOakPlanks"
+      },
+      {
+        "value": "CUSTOM:BloodElderPlanks"
+      },
+      {
+        "value": "CUSTOM:DragonFirPlanks"
+      },
+      {
+        "value": "CUSTOM:TwistedMaplePlanks"
+      },
+      {
+        "value": "CUSTOM:BlackMushroomPlanks"
+      },
+      {
+        "value": "CUSTOM:YellowMushroomPlanks"
+      },
+      {
+        "value": "CUSTOM:CherryWoodPlanks"
+      },
+      {
+        "value": "CUSTOM:WalnutWoodPlanks"
+      },
+      {
+        "value": "CUSTOM:AssidiumWoodPlanks"
+      },
+      {
+        "value": "CUSTOM:Spotted_AshwoodPlanks"
+      },
+      {
+        "value": "CUSTOM:BambooPlanks"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "name": "planks",
+    "namespace": "minecraft"
+  }
+}

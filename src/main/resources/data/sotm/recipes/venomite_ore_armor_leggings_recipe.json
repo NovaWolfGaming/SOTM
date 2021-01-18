@@ -1,0 +1,36 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "sotm:venomite_ore_gem"
+    },
+    "1": {
+      "item": "sotm:venomite_ore_gem"
+    },
+    "2": {
+      "item": "sotm:venomite_ore_gem"
+    },
+    "3": {
+      "item": "sotm:venomite_ore_gem"
+    },
+    "5": {
+      "item": "sotm:venomite_ore_gem"
+    },
+    "6": {
+      "item": "sotm:venomite_ore_gem"
+    },
+    "8": {
+      "item": "sotm:venomite_ore_gem"
+    }
+  },
+  "result": {
+    "item": "sotm:venomite_ore_armor_leggings",
+    "count": 1
+  }
+}

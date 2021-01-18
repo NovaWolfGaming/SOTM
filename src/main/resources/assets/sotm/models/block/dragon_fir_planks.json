@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sotm:blocks/dragon_fir_planks",
+    "up": "sotm:blocks/dragon_fir_planks",
+    "north": "sotm:blocks/dragon_fir_planks",
+    "east": "sotm:blocks/dragon_fir_planks",
+    "south": "sotm:blocks/dragon_fir_planks",
+    "west": "sotm:blocks/dragon_fir_planks",
+    "particle": "sotm:blocks/dragon_fir_planks"
+  }
+}

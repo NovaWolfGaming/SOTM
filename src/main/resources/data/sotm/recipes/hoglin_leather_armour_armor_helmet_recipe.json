@@ -1,0 +1,29 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "sotm:hoglin_leather"
+    },
+    "1": {
+      "item": "sotm:hoglin_leather"
+    },
+    "2": {
+      "item": "sotm:hoglin_leather"
+    },
+    "3": {
+      "item": "sotm:hoglin_leather"
+    },
+    "5": {
+      "item": "sotm:hoglin_leather"
+    }
+  },
+  "result": {
+    "item": "sotm:hoglin_leather_armour_armor_helmet",
+    "count": 1
+  }
+}

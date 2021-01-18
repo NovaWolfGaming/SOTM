@@ -1,0 +1,8 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "sotm:blocks/basalt_smooth",
+    "top": "sotm:blocks/basalt_smooth",
+    "side": "sotm:blocks/basalt_smooth"
+  }
+}

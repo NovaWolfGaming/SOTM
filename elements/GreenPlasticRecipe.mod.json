@@ -1,0 +1,46 @@
+{
+  "_fv": 15,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 4,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:PlasticBlock"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:PlasticBlock"
+      },
+      {
+        "value": "Items.DYE#2"
+      },
+      {
+        "value": "CUSTOM:PlasticBlock"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:PlasticBlock"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:GreenPlastic"
+    },
+    "name": "green_plastic_recipe",
+    "namespace": "mod"
+  }
+}

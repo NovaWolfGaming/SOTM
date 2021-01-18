@@ -1,0 +1,26 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "sotm:crystone_iron_chain"
+    },
+    "2": {
+      "item": "sotm:crystone_iron_chain"
+    },
+    "3": {
+      "item": "sotm:crystone_iron_chain"
+    },
+    "5": {
+      "item": "sotm:crystone_iron_chain"
+    }
+  },
+  "result": {
+    "item": "sotm:crystone_armor_boots",
+    "count": 1
+  }
+}

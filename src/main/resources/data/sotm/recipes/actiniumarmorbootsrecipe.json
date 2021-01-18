@@ -1,0 +1,26 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "sotm:actiniumingot"
+    },
+    "2": {
+      "item": "sotm:actiniumingot"
+    },
+    "3": {
+      "item": "sotm:actiniumingot"
+    },
+    "5": {
+      "item": "sotm:actiniumingot"
+    }
+  },
+  "result": {
+    "item": "sotm:actiniumarmor_boots",
+    "count": 1
+  }
+}

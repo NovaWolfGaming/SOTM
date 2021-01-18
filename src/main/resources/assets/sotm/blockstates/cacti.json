@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=upper": {
+      "model": "sotm:block/cacti"
+    },
+    "half=lower": {
+      "model": "sotm:block/cacti_bottom"
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "sotm:blocks/amber_quartz_block_side",
+    "top": "sotm:blocks/amber_quartz_block_side",
+    "side": "sotm:blocks/amber_quartz_block_side"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "sotm:cinistineingot"
+    },
+    "1": {
+      "item": "sotm:cinistineingot"
+    },
+    "2": {
+      "item": "sotm:cinistineingot"
+    },
+    "3": {
+      "item": "sotm:cinistineingot"
+    },
+    "4": {
+      "item": "minecraft:glowstone_dust"
+    },
+    "5": {
+      "item": "sotm:cinistineingot"
+    },
+    "6": {
+      "item": "sotm:cinistineingot"
+    },
+    "7": {
+      "item": "sotm:cinistineingot"
+    },
+    "8": {
+      "item": "sotm:cinistineingot"
+    }
+  },
+  "result": {
+    "item": "sotm:cinistinelamp",
+    "count": 1
+  }
+}

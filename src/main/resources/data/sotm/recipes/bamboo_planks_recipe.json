@@ -1,0 +1,26 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "sotm:bamboo_thatch"
+    },
+    "1": {
+      "item": "sotm:bamboo_thatch"
+    },
+    "2": {
+      "item": "sotm:bamboo_thatch"
+    },
+    "3": {
+      "item": "sotm:bamboo_thatch"
+    }
+  },
+  "result": {
+    "item": "sotm:bamboo_planks",
+    "count": 16
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sotm:blocks/enderite_brick",
+    "up": "sotm:blocks/enderite_brick",
+    "north": "sotm:blocks/enderite_brick",
+    "east": "sotm:blocks/enderite_brick",
+    "south": "sotm:blocks/enderite_brick",
+    "west": "sotm:blocks/enderite_brick",
+    "particle": "sotm:blocks/enderite_brick"
+  }
+}

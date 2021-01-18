@@ -1,0 +1,27 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01 ",
+    "  5",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "sotm:ancient_shard"
+    },
+    "1": {
+      "item": "sotm:ancient_shard"
+    },
+    "5": {
+      "item": "sotm:ancient_shard"
+    },
+    "7": {
+      "item": "sotm:ancient_shard"
+    }
+  },
+  "result": {
+    "item": "sotm:ancient_sword",
+    "count": 1
+  }
+}

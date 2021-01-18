@@ -1,0 +1,42 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "sotm:charred_netherwart"
+    },
+    "1": {
+      "item": "sotm:charred_netherwart"
+    },
+    "2": {
+      "item": "sotm:charred_netherwart"
+    },
+    "3": {
+      "item": "sotm:charred_netherwart"
+    },
+    "4": {
+      "item": "sotm:charred_netherwart"
+    },
+    "5": {
+      "item": "sotm:charred_netherwart"
+    },
+    "6": {
+      "item": "sotm:charred_netherwart"
+    },
+    "7": {
+      "item": "sotm:charred_netherwart"
+    },
+    "8": {
+      "item": "sotm:charred_netherwart"
+    }
+  },
+  "result": {
+    "item": "sotm:charred_netherwart_block",
+    "count": 1
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "variants": {
+    "age=0": {
+      "model": "sotm:block/glow_fruit_bush"
+    },
+    "age=1": {
+      "model": "sotm:block/glow_fruit_bush"
+    },
+    "age=2": {
+      "model": "sotm:block/glow_fruit_bush"
+    },
+    "age=3": {
+      "model": "sotm:block/glow_fruit_bush"
+    },
+    "age=4": {
+      "model": "sotm:block/glow_fruit_bush"
+    },
+    "age=5": {
+      "model": "sotm:block/glow_fruit_bush"
+    },
+    "age=6": {
+      "model": "sotm:block/glow_fruit_bush"
+    },
+    "age=7": {
+      "model": "sotm:block/glow_fruit_bush"
+    },
+    "age=8": {
+      "model": "sotm:block/glow_fruit_bush"
+    },
+    "age=9": {
+      "model": "sotm:block/glow_fruit_bush"
+    },
+    "age=10": {
+      "model": "sotm:block/glow_fruit_bush"
+    },
+    "age=11": {
+      "model": "sotm:block/glow_fruit_bush"
+    },
+    "age=12": {
+      "model": "sotm:block/glow_fruit_bush"
+    },
+    "age=13": {
+      "model": "sotm:block/glow_fruit_bush"
+    },
+    "age=14": {
+      "model": "sotm:block/glow_fruit_bush"
+    },
+    "age=15": {
+      "model": "sotm:block/glow_fruit_bush"
+    }
+  }
+}

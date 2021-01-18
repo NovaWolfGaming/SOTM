@@ -1,0 +1,26 @@
+modLoader="javafml"
+loaderVersion="[35,)"
+license="Not specified"
+
+[[mods]]
+modId="sotm"
+version="1.10.3"
+displayName="Survival of the Minecraftist"
+credits="NovaWolf Gaming Developer, MechaAdmiral Idea Representitive,  Settro Logo Designer and Uraneptus for the textures"
+displayURL="https://mcreator.net"
+logoFile="logo.png"
+authors="NovaWolf Gaming"
+description='''
+Improves Minecraft without changing too many features of the core game, also adds a backstory to the end
+'''
+
+[[dependencies.sotm]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.4]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+

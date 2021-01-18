@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=upper": {
+      "model": "sotm:block/lavender"
+    },
+    "half=lower": {
+      "model": "sotm:block/lavender_bottom"
+    }
+  }
+}

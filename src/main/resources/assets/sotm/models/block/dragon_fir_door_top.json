@@ -1,0 +1,7 @@
+{
+  "parent": "block/door_top",
+  "textures": {
+    "bottom": "sotm:blocks/dragon_fir_door_bottom",
+    "top": "sotm:blocks/dragon_fir_door_top"
+  }
+}

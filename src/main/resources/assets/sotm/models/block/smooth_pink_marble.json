@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sotm:blocks/marble_pink_smooth",
+    "up": "sotm:blocks/marble_pink_smooth",
+    "north": "sotm:blocks/marble_pink_smooth",
+    "east": "sotm:blocks/marble_pink_smooth",
+    "south": "sotm:blocks/marble_pink_smooth",
+    "west": "sotm:blocks/marble_pink_smooth",
+    "particle": "sotm:blocks/marble_pink_smooth"
+  }
+}

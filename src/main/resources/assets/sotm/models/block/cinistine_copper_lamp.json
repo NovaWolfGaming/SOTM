@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sotm:blocks/cinistine_redstone_lamp_off",
+    "up": "sotm:blocks/cinistine_redstone_lamp_off",
+    "north": "sotm:blocks/cinistine_redstone_lamp_off",
+    "east": "sotm:blocks/cinistine_redstone_lamp_off",
+    "south": "sotm:blocks/cinistine_redstone_lamp_off",
+    "west": "sotm:blocks/cinistine_redstone_lamp_off",
+    "particle": "sotm:blocks/cinistine_redstone_lamp_off"
+  }
+}

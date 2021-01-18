@@ -1,0 +1,16 @@
+{
+  "_fv": 15,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:StickyPaste"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "name": "slimeball",
+    "namespace": "forge"
+  }
+}

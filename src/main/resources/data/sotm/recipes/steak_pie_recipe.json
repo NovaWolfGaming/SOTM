@@ -1,0 +1,23 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "2 "
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:cooked_beef"
+    },
+    "1": {
+      "item": "sotm:salt"
+    },
+    "2": {
+      "item": "minecraft:wheat"
+    }
+  },
+  "result": {
+    "item": "sotm:steak_pie",
+    "count": 1
+  }
+}

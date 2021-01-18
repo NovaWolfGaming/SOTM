@@ -1,0 +1,27 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    " 3",
+    " 5"
+  ],
+  "key": {
+    "0": {
+      "item": "sotm:sapphire"
+    },
+    "1": {
+      "item": "sotm:sapphire"
+    },
+    "3": {
+      "item": "minecraft:stick"
+    },
+    "5": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "sotm:sapphire_hoe",
+    "count": 1
+  }
+}

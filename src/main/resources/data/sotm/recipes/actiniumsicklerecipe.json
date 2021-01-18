@@ -1,0 +1,33 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 12",
+    "  5",
+    "678"
+  ],
+  "key": {
+    "1": {
+      "item": "sotm:actiniumingot"
+    },
+    "2": {
+      "item": "sotm:actiniumingot"
+    },
+    "5": {
+      "item": "sotm:actiniumingot"
+    },
+    "6": {
+      "item": "minecraft:stick"
+    },
+    "7": {
+      "item": "sotm:actiniumingot"
+    },
+    "8": {
+      "item": "sotm:actiniumingot"
+    }
+  },
+  "result": {
+    "item": "sotm:actiniumsickle",
+    "count": 1
+  }
+}

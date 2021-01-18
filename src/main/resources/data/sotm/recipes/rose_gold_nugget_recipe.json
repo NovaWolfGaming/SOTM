@@ -1,0 +1,16 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "sotm:rose_gold_ingot"
+    }
+  },
+  "result": {
+    "item": "sotm:rose_gold_nuggets",
+    "count": 9
+  }
+}

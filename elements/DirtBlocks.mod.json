@@ -1,0 +1,49 @@
+{
+  "_fv": 15,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [
+      {
+        "value": "CUSTOM:UnderworldDirt"
+      },
+      {
+        "value": "CUSTOM:UnderworldCoarseDirt"
+      },
+      {
+        "value": "CUSTOM:NetherGrassMud"
+      },
+      {
+        "value": "CUSTOM:NetherGrassNetherrack"
+      },
+      {
+        "value": "CUSTOM:UnderworldGrass"
+      },
+      {
+        "value": "CUSTOM:UnderworldGrassFlowered"
+      },
+      {
+        "value": "CUSTOM:CrescentGrass"
+      },
+      {
+        "value": "CUSTOM:LeafedCrescentGrass"
+      },
+      {
+        "value": "CUSTOM:LuminousGrass"
+      },
+      {
+        "value": "CUSTOM:FieryShnyllium"
+      },
+      {
+        "value": "CUSTOM:FieryShnylliumLeaves"
+      },
+      {
+        "value": "Blocks.WARPED_NYLIUM"
+      }
+    ],
+    "functions": [],
+    "name": "dirt",
+    "namespace": "forge"
+  }
+}

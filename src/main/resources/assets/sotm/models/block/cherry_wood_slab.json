@@ -1,0 +1,8 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "sotm:blocks/cherry_wood_planks",
+    "top": "sotm:blocks/cherry_wood_planks",
+    "side": "sotm:blocks/cherry_wood_planks"
+  }
+}

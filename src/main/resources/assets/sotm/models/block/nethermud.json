@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sotm:blocks/nether_mud",
+    "up": "sotm:blocks/nether_mud",
+    "north": "sotm:blocks/nether_mud",
+    "east": "sotm:blocks/nether_mud",
+    "south": "sotm:blocks/nether_mud",
+    "west": "sotm:blocks/nether_mud",
+    "particle": "sotm:blocks/nether_mud"
+  }
+}

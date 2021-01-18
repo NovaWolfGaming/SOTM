@@ -1,0 +1,46 @@
+{
+  "_fv": 15,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 6,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:PhantomChorusStoneBrick"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:PhantomChorusStoneBrick"
+      },
+      {
+        "value": "CUSTOM:PhantomChorusStoneBrick"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:PhantomChorusStoneBrick"
+      },
+      {
+        "value": "CUSTOM:PhantomChorusStoneBrick"
+      },
+      {
+        "value": "CUSTOM:PhantomChorusStoneBrick"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:PhantomChorusStoneStairs"
+    },
+    "name": "phantom_chorus_stone_stairs_recipe",
+    "namespace": "mod"
+  }
+}

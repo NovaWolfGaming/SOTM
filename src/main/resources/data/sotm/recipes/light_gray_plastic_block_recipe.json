@@ -1,0 +1,30 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "item": "sotm:plastic_block"
+    },
+    "3": {
+      "item": "sotm:plastic_block"
+    },
+    "4": {
+      "item": "minecraft:light_gray_dye"
+    },
+    "5": {
+      "item": "sotm:plastic_block"
+    },
+    "7": {
+      "item": "sotm:plastic_block"
+    }
+  },
+  "result": {
+    "item": "sotm:light_gray_plastic",
+    "count": 4
+  }
+}

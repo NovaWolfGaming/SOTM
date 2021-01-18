@@ -1,0 +1,36 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "sotm:silver_chain"
+    },
+    "1": {
+      "item": "sotm:silver_chain"
+    },
+    "2": {
+      "item": "sotm:silver_chain"
+    },
+    "3": {
+      "item": "sotm:silver_chain"
+    },
+    "5": {
+      "item": "sotm:silver_chain"
+    },
+    "6": {
+      "item": "sotm:silver_chain"
+    },
+    "8": {
+      "item": "sotm:silver_chain"
+    }
+  },
+  "result": {
+    "item": "sotm:silver_chainmail_armor_leggings",
+    "count": 1
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "sotm:enderwart"
+    },
+    "1": {
+      "item": "sotm:enderwart"
+    },
+    "2": {
+      "item": "sotm:enderwart"
+    },
+    "3": {
+      "item": "sotm:enderwart"
+    },
+    "4": {
+      "item": "sotm:enderwart"
+    },
+    "5": {
+      "item": "sotm:enderwart"
+    },
+    "6": {
+      "item": "sotm:enderwart"
+    },
+    "7": {
+      "item": "sotm:enderwart"
+    },
+    "8": {
+      "item": "sotm:enderwart"
+    }
+  },
+  "result": {
+    "item": "sotm:ender_wart_block",
+    "count": 1
+  }
+}

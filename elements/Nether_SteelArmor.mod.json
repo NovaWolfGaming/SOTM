@@ -1,0 +1,52 @@
+{
+  "_fv": 15,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "crystone_iron_helmet",
+    "enableBody": true,
+    "textureBody": "crystone_iron_chestplate",
+    "enableLeggings": true,
+    "textureLeggings": "crystone_iron_leggings",
+    "enableBoots": true,
+    "textureBoots": "crystone_iron_boots",
+    "creativeTab": {
+      "value": "CUSTOM:ToolsAndWeapons"
+    },
+    "armorTextureFile": "crystone_iron_",
+    "helmetName": "Crystone Iron Helmet",
+    "bodyName": "Crystone Iron Chestplate",
+    "leggingsName": "Crystone Iron Leggings",
+    "bootsName": "Crystone Iron Boots",
+    "helmetSpecialInfo": [],
+    "bodySpecialInfo": [],
+    "leggingsSpecialInfo": [],
+    "bootsSpecialInfo": [],
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "maxDamage": 19,
+    "damageValueHelmet": 3,
+    "damageValueBody": 6,
+    "damageValueLeggings": 8,
+    "damageValueBoots": 3,
+    "enchantability": 12,
+    "toughness": 0.0,
+    "knockbackResistance": 0.0,
+    "equipSound": {
+      "value": ""
+    },
+    "repairItems": []
+  }
+}

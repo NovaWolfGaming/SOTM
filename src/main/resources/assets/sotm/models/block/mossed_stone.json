@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sotm:blocks/stone_new",
+    "up": "sotm:blocks/mossy_stone_top",
+    "north": "sotm:blocks/mossy_stone",
+    "east": "sotm:blocks/mossy_stone",
+    "south": "sotm:blocks/mossy_stone",
+    "west": "sotm:blocks/mossy_stone",
+    "particle": "sotm:blocks/stone_new"
+  }
+}

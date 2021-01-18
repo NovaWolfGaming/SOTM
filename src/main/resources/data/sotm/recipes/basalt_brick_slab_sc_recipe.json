@@ -1,0 +1,9 @@
+{
+  "group": "sotm",
+  "type": "minecraft:stonecutting",
+  "count": 2,
+  "ingredient": {
+    "item": "sotm:basalt"
+  },
+  "result": "sotm:basaltbrickslab"
+}

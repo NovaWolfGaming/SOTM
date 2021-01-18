@@ -1,0 +1,36 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "sotm:hoglin_leather"
+    },
+    "1": {
+      "item": "sotm:hoglin_leather"
+    },
+    "2": {
+      "item": "sotm:hoglin_leather"
+    },
+    "3": {
+      "item": "sotm:hoglin_leather"
+    },
+    "5": {
+      "item": "sotm:hoglin_leather"
+    },
+    "6": {
+      "item": "sotm:hoglin_leather"
+    },
+    "8": {
+      "item": "sotm:hoglin_leather"
+    }
+  },
+  "result": {
+    "item": "sotm:hoglin_leather_armour_armor_leggings",
+    "count": 1
+  }
+}

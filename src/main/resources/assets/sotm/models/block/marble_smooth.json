@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sotm:blocks/polished_marble",
+    "up": "sotm:blocks/polished_marble",
+    "north": "sotm:blocks/polished_marble",
+    "east": "sotm:blocks/polished_marble",
+    "south": "sotm:blocks/polished_marble",
+    "west": "sotm:blocks/polished_marble",
+    "particle": "sotm:blocks/polished_marble"
+  }
+}

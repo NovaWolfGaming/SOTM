@@ -1,0 +1,98 @@
+{
+  "_fv": 15,
+  "_type": "dimension",
+  "definition": {
+    "biomesInDimension": [
+      {
+        "value": "CUSTOM:UnderworldPlains"
+      },
+      {
+        "value": "CUSTOM:EuphreliaForest"
+      },
+      {
+        "value": "CUSTOM:LightOakForest"
+      },
+      {
+        "value": "CUSTOM:CarbonDesert"
+      },
+      {
+        "value": "CUSTOM:Undershroom"
+      },
+      {
+        "value": "CUSTOM:DragonFirForest"
+      },
+      {
+        "value": "CUSTOM:TwistedMapleForest"
+      },
+      {
+        "value": "CUSTOM:CorruptedEndPlains"
+      },
+      {
+        "value": "CUSTOM:UndershroomYelloow"
+      },
+      {
+        "value": "CUSTOM:ShnylliumPlains"
+      },
+      {
+        "value": "CUSTOM:BauxiteWastes"
+      },
+      {
+        "value": "CUSTOM:BloodElderForest"
+      },
+      {
+        "value": "CUSTOM:BasaltDeltas"
+      },
+      {
+        "value": "CUSTOM:BoneStemDeltas"
+      },
+      {
+        "value": "CUSTOM:AshwoodForest"
+      }
+    ],
+    "worldGenType": "Normal world gen",
+    "mainFillerBlock": {
+      "value": "CUSTOM:Carborite"
+    },
+    "fluidBlock": {
+      "value": "CUSTOM:Agalt"
+    },
+    "airColor": {
+      "value": -4138753,
+      "frgbvalue": [
+        0.753,
+        0.847,
+        1.0
+      ],
+      "fvalue": [
+        0.753,
+        0.847,
+        1.0
+      ],
+      "falpha": 1.0
+    },
+    "canRespawnHere": true,
+    "hasFog": false,
+    "isDark": false,
+    "doesWaterVaporize": true,
+    "sleepResult": "ALLOW",
+    "hasSkyLight": true,
+    "imitateOverworldBehaviour": true,
+    "portalFrame": {
+      "value": "CUSTOM:GlowingObsidian"
+    },
+    "portalParticles": {
+      "value": "PORTAL"
+    },
+    "portalLuminance": 0,
+    "portalSound": {
+      "value": "block.portal.ambient"
+    },
+    "igniterName": "Flint and Gold",
+    "igniterTab": {
+      "value": "CUSTOM:ToolsAndWeapons"
+    },
+    "texture": "flint_and_gold_new",
+    "portalTexture": "nderworld_ortal",
+    "enablePortal": true
+  }
+}

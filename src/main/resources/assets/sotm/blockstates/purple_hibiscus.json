@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=upper": {
+      "model": "sotm:block/purple_hibiscus"
+    },
+    "half=lower": {
+      "model": "sotm:block/purple_hibiscus_bottom"
+    }
+  }
+}

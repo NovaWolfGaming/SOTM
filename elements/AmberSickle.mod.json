@@ -1,0 +1,30 @@
+{
+  "_fv": 15,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "amber_sickle_redone",
+    "customModelName": "Normal",
+    "name": "Amber Sickle",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:ToolsAndWeapons"
+    },
+    "toolType": "Special",
+    "harvestLevel": 10,
+    "efficiency": 16.0,
+    "attackSpeed": 1.3,
+    "enchantability": 70,
+    "damageVsEntity": 11.5,
+    "usageCount": 2380,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:AmberGem"
+      }
+    ],
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "_fv": 15,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 4,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:OrangeMarble"
+      },
+      {
+        "value": "CUSTOM:OrangeMarble"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:OrangeMarble"
+      },
+      {
+        "value": "CUSTOM:OrangeMarble"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:OrangeMarblePolished"
+    },
+    "name": "orange_marble_polished_reciper",
+    "namespace": "mod"
+  }
+}

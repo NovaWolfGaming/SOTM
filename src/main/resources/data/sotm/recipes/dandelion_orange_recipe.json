@@ -1,0 +1,16 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "sotm:orange_dandelion"
+    }
+  },
+  "result": {
+    "item": "minecraft:orange_dye",
+    "count": 1
+  }
+}

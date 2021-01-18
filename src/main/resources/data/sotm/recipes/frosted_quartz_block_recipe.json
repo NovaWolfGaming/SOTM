@@ -1,0 +1,26 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "sotm:frosted_quartz"
+    },
+    "1": {
+      "item": "sotm:frosted_quartz"
+    },
+    "2": {
+      "item": "sotm:frosted_quartz"
+    },
+    "3": {
+      "item": "sotm:frosted_quartz"
+    }
+  },
+  "result": {
+    "item": "sotm:frosted_quartz_block",
+    "count": 1
+  }
+}

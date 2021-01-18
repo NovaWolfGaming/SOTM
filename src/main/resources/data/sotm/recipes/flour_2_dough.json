@@ -1,0 +1,24 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:cocoa_beans"
+    },
+    "1": {
+      "item": "sotm:flour"
+    },
+    "2": {
+      "item": "sotm:flour"
+    }
+  },
+  "result": {
+    "item": "sotm:cookie_dough",
+    "count": 2
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/door_top_rh",
+  "textures": {
+    "bottom": "sotm:blocks/mushroom_shell_yellow_door_bottom",
+    "top": "sotm:blocks/mushroom_shell_yellow_door"
+  }
+}

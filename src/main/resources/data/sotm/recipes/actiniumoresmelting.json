@@ -1,0 +1,12 @@
+{
+  "group": "sotm",
+  "type": "minecraft:smelting",
+  "experience": 3.8499999999999996,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "sotm:actiniumore"
+  },
+  "result": {
+    "item": "sotm:actiniumingot"
+  }
+}

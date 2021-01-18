@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "sotm:blocks/spikes_new",
+    "particle": "sotm:blocks/spikes_new"
+  }
+}

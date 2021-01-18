@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sotm:blocks/certus_block",
+    "up": "sotm:blocks/certus_block",
+    "north": "sotm:blocks/certus_block",
+    "east": "sotm:blocks/certus_block",
+    "south": "sotm:blocks/certus_block",
+    "west": "sotm:blocks/certus_block",
+    "particle": "sotm:blocks/certus_block"
+  }
+}

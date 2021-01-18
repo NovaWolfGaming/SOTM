@@ -1,0 +1,29 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "sotm:rose_gold_ingot"
+    },
+    "1": {
+      "item": "sotm:rose_gold_ingot"
+    },
+    "2": {
+      "item": "sotm:rose_gold_ingot"
+    },
+    "3": {
+      "item": "sotm:rose_gold_ingot"
+    },
+    "5": {
+      "item": "sotm:rose_gold_ingot"
+    }
+  },
+  "result": {
+    "item": "sotm:rose_armor_helmet",
+    "count": 1
+  }
+}

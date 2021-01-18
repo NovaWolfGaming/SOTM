@@ -1,0 +1,12 @@
+{
+  "group": "sotm",
+  "type": "minecraft:smelting",
+  "experience": 4.199999999999999,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "sotm:copper_ore_underworld"
+  },
+  "result": {
+    "item": "sotm:copperingot"
+  }
+}

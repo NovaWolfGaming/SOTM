@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "sotm:blocks/sircillium_ore_redone",
+    "particle": "sotm:blocks/sircillium_ore_redone"
+  }
+}

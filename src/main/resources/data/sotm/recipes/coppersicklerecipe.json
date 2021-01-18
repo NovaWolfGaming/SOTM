@@ -1,0 +1,33 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 12",
+    "  5",
+    "678"
+  ],
+  "key": {
+    "1": {
+      "item": "sotm:copperingot"
+    },
+    "2": {
+      "item": "sotm:copperingot"
+    },
+    "5": {
+      "item": "sotm:copperingot"
+    },
+    "6": {
+      "item": "minecraft:stick"
+    },
+    "7": {
+      "item": "sotm:copperingot"
+    },
+    "8": {
+      "item": "sotm:copperingot"
+    }
+  },
+  "result": {
+    "item": "sotm:coppersickle",
+    "count": 1
+  }
+}

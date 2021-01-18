@@ -1,0 +1,22 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "sotm:amber_quartz_block"
+    },
+    "1": {
+      "item": "sotm:amber_quartz_block"
+    },
+    "2": {
+      "item": "sotm:amber_quartz_block"
+    }
+  },
+  "result": {
+    "item": "sotm:amber_quartz_slab",
+    "count": 6
+  }
+}

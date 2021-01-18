@@ -1,0 +1,39 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "sotm:crystone_iron_chain"
+    },
+    "2": {
+      "item": "sotm:crystone_iron_chain"
+    },
+    "3": {
+      "item": "sotm:crystone_iron_chain"
+    },
+    "4": {
+      "item": "sotm:crystone_iron_chain"
+    },
+    "5": {
+      "item": "sotm:crystone_iron_chain"
+    },
+    "6": {
+      "item": "sotm:crystone_iron_chain"
+    },
+    "7": {
+      "item": "sotm:crystone_iron_chain"
+    },
+    "8": {
+      "item": "sotm:crystone_iron_chain"
+    }
+  },
+  "result": {
+    "item": "sotm:crystone_armor_chestplate",
+    "count": 1
+  }
+}

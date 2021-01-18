@@ -1,0 +1,30 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "sotm:sirccillun"
+    },
+    "1": {
+      "item": "sotm:sirccillun"
+    },
+    "2": {
+      "item": "sotm:sirccillun"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "7": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "sotm:sirccillun_pickaxe",
+    "count": 1
+  }
+}

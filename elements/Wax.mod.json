@@ -1,0 +1,22 @@
+{
+  "_fv": 15,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:CrimsonWax"
+      },
+      {
+        "value": "CUSTOM:AmberWax"
+      },
+      {
+        "value": "CUSTOM:SeraphystWax"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "name": "wax",
+    "namespace": "forge"
+  }
+}

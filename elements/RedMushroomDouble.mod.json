@@ -1,0 +1,58 @@
+{
+  "_fv": 15,
+  "_type": "plant",
+  "definition": {
+    "renderType": 12,
+    "texture": "double_red_mushroom_top",
+    "textureBottom": "double_red_mushroom",
+    "customModelName": "Cross model",
+    "itemTexture": "",
+    "particleTexture": "",
+    "plantType": "double",
+    "staticPlantGenerationType": "Flower",
+    "growapableSpawnType": "Plains",
+    "growapableMaxHeight": 3,
+    "doublePlantGenerationType": "Flower",
+    "name": "Double Red Mushroom",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:SOTMDecorations"
+    },
+    "hardness": 0.0,
+    "resistance": 0.0,
+    "luminance": 0,
+    "unbreakable": false,
+    "soundOnStep": {
+      "value": "BAMBOO"
+    },
+    "useLootTableForDrops": false,
+    "customDrop": {
+      "value": "Blocks.RED_MUSHROOM"
+    },
+    "dropAmount": 3,
+    "forceTicking": false,
+    "emissiveRendering": false,
+    "hasTileEntity": false,
+    "isReplaceable": false,
+    "colorOnMap": "DEFAULT",
+    "creativePickItem": {
+      "value": ""
+    },
+    "offsetType": "XZ",
+    "aiPathNodeType": "DEFAULT",
+    "flammability": 100,
+    "fireSpreadSpeed": 60,
+    "frequencyOnChunks": 2,
+    "spawnWorldTypes": [
+      "Surface"
+    ],
+    "restrictionBiomes": [
+      {
+        "value": "mushroom_fields"
+      },
+      {
+        "value": "mushroom_field_shore"
+      }
+    ]
+  }
+}

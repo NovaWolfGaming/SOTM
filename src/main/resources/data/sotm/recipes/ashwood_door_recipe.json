@@ -1,0 +1,33 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23",
+    "45"
+  ],
+  "key": {
+    "0": {
+      "item": "sotm:spotted_ashwood_planks"
+    },
+    "1": {
+      "item": "sotm:spotted_ashwood_planks"
+    },
+    "2": {
+      "item": "sotm:spotted_ashwood_planks"
+    },
+    "3": {
+      "item": "sotm:spotted_ashwood_planks"
+    },
+    "4": {
+      "item": "sotm:spotted_ashwood_planks"
+    },
+    "5": {
+      "item": "sotm:spotted_ashwood_planks"
+    }
+  },
+  "result": {
+    "item": "sotm:ashwood_door",
+    "count": 3
+  }
+}

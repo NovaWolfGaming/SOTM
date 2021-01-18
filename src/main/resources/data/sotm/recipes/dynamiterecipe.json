@@ -1,0 +1,23 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "2 "
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:gunpowder"
+    },
+    "1": {
+      "item": "minecraft:string"
+    },
+    "2": {
+      "tag": "minecraft:sand"
+    }
+  },
+  "result": {
+    "item": "sotm:dynamite",
+    "count": 2
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "sotm:crolphin_ball"
+    },
+    "1": {
+      "item": "sotm:crolphin_ball"
+    },
+    "2": {
+      "item": "sotm:crolphin_ball"
+    },
+    "3": {
+      "item": "sotm:crolphin_ball"
+    }
+  },
+  "result": {
+    "item": "sotm:crolphin",
+    "count": 1
+  }
+}

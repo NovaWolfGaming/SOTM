@@ -1,0 +1,8 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "sotm:blocks/shulkerite_bricks",
+    "top": "sotm:blocks/shulkerite_bricks",
+    "side": "sotm:blocks/shulkerite_bricks"
+  }
+}

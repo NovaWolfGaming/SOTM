@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "sotm:block/blubluh_slab"
+    },
+    "type=top": {
+      "model": "sotm:block/blubluh_slab_top"
+    },
+    "type=double": {
+      "model": "sotm:block/blubluh_slab_full"
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "sotm:blocks/pink_star_cluster",
+    "particle": "sotm:blocks/pink_star_cluster"
+  }
+}

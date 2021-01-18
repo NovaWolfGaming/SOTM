@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "sotm:blocks/blood_elder_leaves",
+    "particle": "sotm:blocks/blood_elder_leaves"
+  }
+}

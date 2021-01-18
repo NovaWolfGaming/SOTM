@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sotm:blocks/green_mistyst",
+    "up": "sotm:blocks/green_mistyst",
+    "north": "sotm:blocks/green_mistyst",
+    "east": "sotm:blocks/green_mistyst",
+    "south": "sotm:blocks/green_mistyst",
+    "west": "sotm:blocks/green_mistyst",
+    "particle": "sotm:blocks/green_mistyst"
+  }
+}

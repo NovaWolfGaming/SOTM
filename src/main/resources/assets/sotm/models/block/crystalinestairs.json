@@ -1,0 +1,8 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "sotm:blocks/crystaline_block_bottom",
+    "top": "sotm:blocks/crystaline_block_bottom",
+    "side": "sotm:blocks/crystaline_block_bottom"
+  }
+}

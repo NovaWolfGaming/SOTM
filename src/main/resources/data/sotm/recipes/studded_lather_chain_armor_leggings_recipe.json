@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:leather_leggings"
+  },
+  "addition": {
+    "item": "minecraft:chainmail_leggings"
+  },
+  "result": {
+    "item": "sotm:studded_lather_chain_armor_leggings"
+  }
+}

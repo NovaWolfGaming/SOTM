@@ -1,0 +1,16 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "sotm:twisted_maple_wood"
+    }
+  },
+  "result": {
+    "item": "sotm:twisted_maple_planks",
+    "count": 4
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "_fv": 15,
+  "_type": "fuel",
+  "definition": {
+    "power": 4200,
+    "block": {
+      "value": "CUSTOM:EchorinBlock"
+    }
+  }
+}

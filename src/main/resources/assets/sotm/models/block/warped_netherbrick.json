@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "sotm:blocks/warped_wart_brick",
+    "particle": "sotm:blocks/warped_wart_brick"
+  }
+}

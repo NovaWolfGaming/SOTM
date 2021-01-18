@@ -1,0 +1,22 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "sotm:blackstonesmooth"
+    },
+    "1": {
+      "item": "sotm:blackstonesmooth"
+    },
+    "2": {
+      "item": "sotm:blackstonesmooth"
+    }
+  },
+  "result": {
+    "item": "sotm:blackstonesmoothslab",
+    "count": 6
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sotm:blocks/underworld_dirt",
+    "up": "sotm:blocks/slimy_moss_top",
+    "north": "sotm:blocks/slimy_moss",
+    "east": "sotm:blocks/slimy_moss",
+    "south": "sotm:blocks/slimy_moss",
+    "west": "sotm:blocks/slimy_moss",
+    "particle": "sotm:blocks/underworld_dirt"
+  }
+}

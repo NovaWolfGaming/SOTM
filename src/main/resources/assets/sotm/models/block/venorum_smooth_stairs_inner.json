@@ -1,0 +1,8 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "sotm:blocks/venorum_smooth",
+    "top": "sotm:blocks/venorum_smooth",
+    "side": "sotm:blocks/venorum_smooth"
+  }
+}

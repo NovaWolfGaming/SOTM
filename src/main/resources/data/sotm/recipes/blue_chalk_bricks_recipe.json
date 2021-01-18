@@ -1,0 +1,26 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "sotm:blue_chalk"
+    },
+    "1": {
+      "item": "sotm:blue_chalk"
+    },
+    "2": {
+      "item": "sotm:blue_chalk"
+    },
+    "3": {
+      "item": "sotm:blue_chalk"
+    }
+  },
+  "result": {
+    "item": "sotm:blue_chalk_bricks",
+    "count": 4
+  }
+}

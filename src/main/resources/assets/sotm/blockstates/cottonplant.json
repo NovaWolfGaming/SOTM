@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=upper": {
+      "model": "sotm:block/cottonplant"
+    },
+    "half=lower": {
+      "model": "sotm:block/cottonplant_bottom"
+    }
+  }
+}

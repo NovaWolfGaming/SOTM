@@ -1,0 +1,37 @@
+{
+  "display": {
+    "icon": {
+      "item": "sotm:glowingobsidian"
+    },
+    "title": {
+      "translate": "advancements.when_obsidian_glows.title"
+    },
+    "description": {
+      "translate": "advancements.when_obsidian_glows.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "when_obsidian_glows": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "sotm:glowingobsidian",
+            "count": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 1
+  },
+  "parent": "sotm:sotm"
+}

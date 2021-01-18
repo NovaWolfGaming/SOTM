@@ -1,0 +1,46 @@
+{
+  "_fv": 15,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 6,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:DragonFirPlanks"
+      },
+      {
+        "value": "CUSTOM:DragonFirPlanks"
+      },
+      {
+        "value": "CUSTOM:DragonFirPlanks"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:DragonFirSlab"
+    },
+    "name": "dragon_fir_slab_recipe",
+    "namespace": "mod"
+  }
+}

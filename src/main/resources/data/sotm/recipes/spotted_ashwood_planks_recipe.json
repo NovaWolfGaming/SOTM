@@ -1,0 +1,13 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:spotted_ashwood_log"
+    }
+  ],
+  "result": {
+    "item": "sotm:spotted_ashwood_planks",
+    "count": 4
+  }
+}

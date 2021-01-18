@@ -1,0 +1,22 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "sotm:basaltbrick"
+    },
+    "1": {
+      "item": "sotm:basaltbrick"
+    },
+    "2": {
+      "item": "sotm:basaltbrick"
+    }
+  },
+  "result": {
+    "item": "sotm:basaltbrickslab",
+    "count": 6
+  }
+}

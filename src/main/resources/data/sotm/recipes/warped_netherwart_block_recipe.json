@@ -1,0 +1,42 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "sotm:warped_netherwart"
+    },
+    "1": {
+      "item": "sotm:warped_netherwart"
+    },
+    "2": {
+      "item": "sotm:warped_netherwart"
+    },
+    "3": {
+      "item": "sotm:warped_netherwart"
+    },
+    "4": {
+      "item": "sotm:warped_netherwart"
+    },
+    "5": {
+      "item": "sotm:warped_netherwart"
+    },
+    "6": {
+      "item": "sotm:warped_netherwart"
+    },
+    "7": {
+      "item": "sotm:warped_netherwart"
+    },
+    "8": {
+      "item": "sotm:warped_netherwart"
+    }
+  },
+  "result": {
+    "item": "minecraft:warped_wart_block",
+    "count": 1
+  }
+}

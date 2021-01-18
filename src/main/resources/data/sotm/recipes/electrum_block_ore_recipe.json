@@ -1,0 +1,13 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "sotm:electrum_block"
+    }
+  ],
+  "result": {
+    "item": "sotm:electrum_ingot",
+    "count": 9
+  }
+}

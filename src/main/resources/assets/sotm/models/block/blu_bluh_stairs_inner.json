@@ -1,0 +1,8 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "sotm:blocks/blubluh_block_new",
+    "top": "sotm:blocks/blubluh_block_new",
+    "side": "sotm:blocks/blubluh_block_new"
+  }
+}

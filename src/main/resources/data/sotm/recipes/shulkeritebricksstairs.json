@@ -1,0 +1,33 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "sotm:shulkeritebricks"
+    },
+    "3": {
+      "item": "sotm:shulkeritebricks"
+    },
+    "4": {
+      "item": "sotm:shulkeritebricks"
+    },
+    "6": {
+      "item": "sotm:shulkeritebricks"
+    },
+    "7": {
+      "item": "sotm:shulkeritebricks"
+    },
+    "8": {
+      "item": "sotm:shulkeritebricks"
+    }
+  },
+  "result": {
+    "item": "sotm:shulkeritestairs",
+    "count": 6
+  }
+}

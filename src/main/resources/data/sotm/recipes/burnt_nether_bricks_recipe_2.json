@@ -1,0 +1,26 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "sotm:burnt_netherbrick"
+    },
+    "1": {
+      "item": "sotm:burnt_netherbrick"
+    },
+    "2": {
+      "item": "sotm:burnt_netherbrick"
+    },
+    "3": {
+      "item": "sotm:burnt_netherbrick"
+    }
+  },
+  "result": {
+    "item": "sotm:burnt_netherbricks_recipe",
+    "count": 1
+  }
+}

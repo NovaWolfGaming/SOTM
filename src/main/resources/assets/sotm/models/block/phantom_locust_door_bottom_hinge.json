@@ -1,0 +1,7 @@
+{
+  "parent": "block/door_bottom_rh",
+  "textures": {
+    "bottom": "sotm:blocks/phantom_locust_door_bottom",
+    "top": "sotm:blocks/phantom_locust_door_top"
+  }
+}

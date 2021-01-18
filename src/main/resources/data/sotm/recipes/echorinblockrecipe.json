@@ -1,0 +1,42 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "sotm:echorin"
+    },
+    "1": {
+      "item": "sotm:echorin"
+    },
+    "2": {
+      "item": "sotm:echorin"
+    },
+    "3": {
+      "item": "sotm:echorin"
+    },
+    "4": {
+      "item": "sotm:echorin"
+    },
+    "5": {
+      "item": "sotm:echorin"
+    },
+    "6": {
+      "item": "sotm:echorin"
+    },
+    "7": {
+      "item": "sotm:echorin"
+    },
+    "8": {
+      "item": "sotm:echorin"
+    }
+  },
+  "result": {
+    "item": "sotm:echorinblock",
+    "count": 1
+  }
+}

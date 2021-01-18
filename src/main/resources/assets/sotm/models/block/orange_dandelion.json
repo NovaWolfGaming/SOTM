@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "sotm:blocks/dandelion_orange_new_2",
+    "particle": "sotm:blocks/dandelion_orange_new_2"
+  }
+}

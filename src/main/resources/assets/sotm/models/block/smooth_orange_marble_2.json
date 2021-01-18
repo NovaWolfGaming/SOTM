@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sotm:blocks/orange_smooth_marble_redone",
+    "up": "sotm:blocks/orange_smooth_marble_redone",
+    "north": "sotm:blocks/orange_smooth_marble_redone",
+    "east": "sotm:blocks/orange_smooth_marble_redone",
+    "south": "sotm:blocks/orange_smooth_marble_redone",
+    "west": "sotm:blocks/orange_smooth_marble_redone",
+    "particle": "sotm:blocks/orange_smooth_marble_redone"
+  }
+}

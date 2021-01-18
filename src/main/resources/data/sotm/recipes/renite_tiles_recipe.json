@@ -1,0 +1,26 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "sotm:renite"
+    },
+    "1": {
+      "item": "sotm:renite"
+    },
+    "2": {
+      "item": "sotm:renite"
+    },
+    "3": {
+      "item": "sotm:renite"
+    }
+  },
+  "result": {
+    "item": "sotm:renite_tiles",
+    "count": 4
+  }
+}

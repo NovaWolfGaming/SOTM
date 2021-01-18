@@ -1,0 +1,8 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "sotm:blocks/purple_mistyst_brick",
+    "top": "sotm:blocks/purple_mistyst_brick",
+    "side": "sotm:blocks/purple_mistyst_brick"
+  }
+}

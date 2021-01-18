@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sotm:blocks/mushroom_shell_black",
+    "up": "sotm:blocks/mushroom_shell_black",
+    "north": "sotm:blocks/mushroom_shell_black",
+    "east": "sotm:blocks/mushroom_shell_black",
+    "south": "sotm:blocks/mushroom_shell_black",
+    "west": "sotm:blocks/mushroom_shell_black",
+    "particle": "sotm:blocks/mushroom_shell_black"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "display": {
+    "icon": {
+      "item": "sotm:rubygem"
+    },
+    "title": {
+      "translate": "advancements.rediscovered.title"
+    },
+    "description": {
+      "translate": "advancements.rediscovered.descr"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "rediscovered": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "sotm:rubygem",
+            "count": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 10
+  },
+  "parent": "sotm:thats_a_start"
+}

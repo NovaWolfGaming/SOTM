@@ -1,0 +1,39 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "sotm:rabidiumgem"
+    },
+    "2": {
+      "item": "sotm:rabidiumgem"
+    },
+    "3": {
+      "item": "sotm:rabidiumgem"
+    },
+    "4": {
+      "item": "sotm:rabidiumgem"
+    },
+    "5": {
+      "item": "sotm:rabidiumgem"
+    },
+    "6": {
+      "item": "sotm:rabidiumgem"
+    },
+    "7": {
+      "item": "sotm:rabidiumgem"
+    },
+    "8": {
+      "item": "sotm:rabidiumgem"
+    }
+  },
+  "result": {
+    "item": "sotm:rabidiumarmor_chestplate",
+    "count": 1
+  }
+}

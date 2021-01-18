@@ -1,0 +1,32 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "sotm:lightoakplanks"
+    },
+    "1": {
+      "item": "minecraft:stick"
+    },
+    "2": {
+      "item": "sotm:lightoakplanks"
+    },
+    "3": {
+      "item": "sotm:lightoakplanks"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "5": {
+      "item": "sotm:lightoakplanks"
+    }
+  },
+  "result": {
+    "item": "sotm:light_oak_fence",
+    "count": 3
+  }
+}

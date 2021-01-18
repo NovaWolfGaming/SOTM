@@ -1,0 +1,46 @@
+{
+  "_fv": 15,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:HoglinLeather"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:HoglinLeather"
+      },
+      {
+        "value": "CUSTOM:HoglinLeather"
+      },
+      {
+        "value": "CUSTOM:HoglinLeather"
+      },
+      {
+        "value": "CUSTOM:HoglinLeather"
+      },
+      {
+        "value": "CUSTOM:HoglinLeather"
+      },
+      {
+        "value": "CUSTOM:HoglinLeather"
+      },
+      {
+        "value": "CUSTOM:HoglinLeather"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:HoglinLeatherArmourArmor.body"
+    },
+    "name": "hoglin_leather_armour_armor_body_recipe",
+    "namespace": "mod"
+  }
+}

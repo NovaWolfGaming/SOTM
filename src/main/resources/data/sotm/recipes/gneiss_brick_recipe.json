@@ -1,0 +1,26 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "sotm:gneiss"
+    },
+    "1": {
+      "item": "sotm:gneiss"
+    },
+    "2": {
+      "item": "sotm:gneiss"
+    },
+    "3": {
+      "item": "sotm:gneiss"
+    }
+  },
+  "result": {
+    "item": "sotm:gneiss_brick",
+    "count": 4
+  }
+}

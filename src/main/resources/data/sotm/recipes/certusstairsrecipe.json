@@ -1,0 +1,33 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "sotm:blockofcertus"
+    },
+    "3": {
+      "item": "sotm:blockofcertus"
+    },
+    "4": {
+      "item": "sotm:blockofcertus"
+    },
+    "6": {
+      "item": "sotm:blockofcertus"
+    },
+    "7": {
+      "item": "sotm:blockofcertus"
+    },
+    "8": {
+      "item": "sotm:blockofcertus"
+    }
+  },
+  "result": {
+    "item": "sotm:certusstairs",
+    "count": 6
+  }
+}

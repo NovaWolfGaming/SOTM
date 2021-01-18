@@ -1,0 +1,30 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "item": "sotm:cotton_wool"
+    },
+    "3": {
+      "item": "sotm:cotton_wool"
+    },
+    "4": {
+      "item": "minecraft:black_dye"
+    },
+    "5": {
+      "item": "sotm:cotton_wool"
+    },
+    "7": {
+      "item": "sotm:cotton_wool"
+    }
+  },
+  "result": {
+    "item": "sotm:black_cotton_wool",
+    "count": 4
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "_fv": 15,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [
+      {
+        "value": "CUSTOM:BlackPoppy"
+      },
+      {
+        "value": "CUSTOM:Begonia"
+      },
+      {
+        "value": "CUSTOM:Deepyellowbellflowers"
+      },
+      {
+        "value": "CUSTOM:TroddenFlowerWhite"
+      },
+      {
+        "value": "CUSTOM:TroddenFlowerRed"
+      },
+      {
+        "value": "CUSTOM:Peony"
+      },
+      {
+        "value": "CUSTOM:NetherStalks"
+      },
+      {
+        "value": "CUSTOM:NetherEyeStalks"
+      },
+      {
+        "value": "CUSTOM:SproutingSyringa"
+      },
+      {
+        "value": "CUSTOM:Freesia"
+      },
+      {
+        "value": "CUSTOM:YelloFreesia"
+      },
+      {
+        "value": "CUSTOM:FreesiaBlue"
+      },
+      {
+        "value": "CUSTOM:CyanFreesia"
+      },
+      {
+        "value": "CUSTOM:FreesiaPink"
+      },
+      {
+        "value": "CUSTOM:NetherLeaves"
+      },
+      {
+        "value": "CUSTOM:PinkRoses"
+      },
+      {
+        "value": "CUSTOM:WhiteRoses"
+      },
+      {
+        "value": "CUSTOM:NetheShrub"
+      },
+      {
+        "value": "CUSTOM:DriorianBerryBush"
+      },
+      {
+        "value": "CUSTOM:Diastemmium"
+      },
+      {
+        "value": "CUSTOM:Hellarium"
+      },
+      {
+        "value": "CUSTOM:Luminaria"
+      },
+      {
+        "value": "CUSTOM:EndBulbs"
+      },
+      {
+        "value": "CUSTOM:CyanRoses"
+      },
+      {
+        "value": "CUSTOM:RedRoses"
+      },
+      {
+        "value": "CUSTOM:BegoniaYellow"
+      },
+      {
+        "value": "CUSTOM:BegoniaRed"
+      },
+      {
+        "value": "CUSTOM:BegoniaPurple"
+      },
+      {
+        "value": "CUSTOM:BegoniaPink"
+      },
+      {
+        "value": "CUSTOM:BegoniaOrange"
+      },
+      {
+        "value": "CUSTOM:BegoniaGray"
+      },
+      {
+        "value": "CUSTOM:CyanRose2"
+      },
+      {
+        "value": "CUSTOM:RosePink"
+      },
+      {
+        "value": "CUSTOM:RoseRed"
+      },
+      {
+        "value": "CUSTOM:RoseWhite"
+      },
+      {
+        "value": "CUSTOM:RedStarCluster"
+      },
+      {
+        "value": "CUSTOM:PinkStarCluster"
+      },
+      {
+        "value": "CUSTOM:BlueStarCluster"
+      }
+    ],
+    "functions": [],
+    "name": "small_flowers",
+    "namespace": "minecraft"
+  }
+}

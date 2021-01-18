@@ -1,0 +1,33 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "sotm:blue_shulkerite_brick"
+    },
+    "3": {
+      "item": "sotm:blue_shulkerite_brick"
+    },
+    "4": {
+      "item": "sotm:blue_shulkerite_brick"
+    },
+    "6": {
+      "item": "sotm:blue_shulkerite_brick"
+    },
+    "7": {
+      "item": "sotm:blue_shulkerite_brick"
+    },
+    "8": {
+      "item": "sotm:blue_shulkerite_brick"
+    }
+  },
+  "result": {
+    "item": "sotm:blue_shulkerite_stairs",
+    "count": 6
+  }
+}

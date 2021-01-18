@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "sotm:blocks/netherwart_plant_warped",
+    "particle": "sotm:blocks/netherwart_plant_warped"
+  }
+}

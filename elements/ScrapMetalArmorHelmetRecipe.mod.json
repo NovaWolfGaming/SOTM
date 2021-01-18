@@ -1,0 +1,46 @@
+{
+  "_fv": 15,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:ScrapMetalIngot"
+      },
+      {
+        "value": "CUSTOM:ScrapMetalIngot"
+      },
+      {
+        "value": "CUSTOM:ScrapMetalIngot"
+      },
+      {
+        "value": "CUSTOM:ScrapMetalIngot"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:ScrapMetalIngot"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:ScrapMetalArmor.helmet"
+    },
+    "name": "scrap_metal_armor_helmet_recipe",
+    "namespace": "mod"
+  }
+}

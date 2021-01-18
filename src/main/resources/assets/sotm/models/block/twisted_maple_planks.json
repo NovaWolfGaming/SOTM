@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sotm:blocks/twisted_maple_planks",
+    "up": "sotm:blocks/twisted_maple_planks",
+    "north": "sotm:blocks/twisted_maple_planks",
+    "east": "sotm:blocks/twisted_maple_planks",
+    "south": "sotm:blocks/twisted_maple_planks",
+    "west": "sotm:blocks/twisted_maple_planks",
+    "particle": "sotm:blocks/twisted_maple_planks"
+  }
+}

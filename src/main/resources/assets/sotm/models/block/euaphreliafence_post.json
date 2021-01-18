@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_post",
+  "textures": {
+    "texture": "sotm:blocks/phantom_locust_planks",
+    "particle": "sotm:blocks/phantom_locust_planks"
+  }
+}

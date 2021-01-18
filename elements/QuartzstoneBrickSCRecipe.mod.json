@@ -1,0 +1,20 @@
+{
+  "_fv": 15,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Stone cutting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "stoneCuttingInputStack": {
+      "value": "CUSTOM:Quartzstone"
+    },
+    "stoneCuttingReturnStack": {
+      "value": "CUSTOM:QuartzStoneBrick"
+    },
+    "name": "quartzstone_brick_sc_recipe",
+    "namespace": "mod"
+  }
+}

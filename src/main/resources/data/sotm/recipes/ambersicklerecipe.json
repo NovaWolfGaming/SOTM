@@ -1,0 +1,33 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 12",
+    "  5",
+    "678"
+  ],
+  "key": {
+    "1": {
+      "item": "sotm:ambergem"
+    },
+    "2": {
+      "item": "sotm:ambergem"
+    },
+    "5": {
+      "item": "sotm:ambergem"
+    },
+    "6": {
+      "item": "minecraft:stick"
+    },
+    "7": {
+      "item": "sotm:ambergem"
+    },
+    "8": {
+      "item": "sotm:ambergem"
+    }
+  },
+  "result": {
+    "item": "sotm:ambersickle",
+    "count": 1
+  }
+}

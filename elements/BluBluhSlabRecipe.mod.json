@@ -1,0 +1,46 @@
+{
+  "_fv": 15,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 6,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:BlubluhBlock"
+      },
+      {
+        "value": "CUSTOM:BlubluhBlock"
+      },
+      {
+        "value": "CUSTOM:BlubluhBlock"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:BlubluhSlab"
+    },
+    "name": "blu_bluh_slab_recipe",
+    "namespace": "mod"
+  }
+}

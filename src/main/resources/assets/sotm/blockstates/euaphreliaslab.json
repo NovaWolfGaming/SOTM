@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "sotm:block/euaphreliaslab"
+    },
+    "type=top": {
+      "model": "sotm:block/euaphreliaslab_top"
+    },
+    "type=double": {
+      "model": "sotm:block/euaphreliaslab_full"
+    }
+  }
+}

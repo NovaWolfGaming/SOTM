@@ -1,0 +1,42 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "sotm:silveringot"
+    },
+    "1": {
+      "item": "sotm:silveringot"
+    },
+    "2": {
+      "item": "sotm:silveringot"
+    },
+    "3": {
+      "item": "sotm:silveringot"
+    },
+    "4": {
+      "item": "sotm:silveringot"
+    },
+    "5": {
+      "item": "sotm:silveringot"
+    },
+    "6": {
+      "item": "sotm:silveringot"
+    },
+    "7": {
+      "item": "sotm:silveringot"
+    },
+    "8": {
+      "item": "sotm:silveringot"
+    }
+  },
+  "result": {
+    "item": "sotm:silverblock",
+    "count": 1
+  }
+}

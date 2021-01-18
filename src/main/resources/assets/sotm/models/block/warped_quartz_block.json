@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sotm:blocks/warped_quartz_block_bottom_new",
+    "up": "sotm:blocks/warped_quartz_block_top_new",
+    "north": "sotm:blocks/warped_quartz_block_top_new",
+    "east": "sotm:blocks/warped_quartz_block_top_new",
+    "south": "sotm:blocks/warped_quartz_block_top_new",
+    "west": "sotm:blocks/warped_quartz_block_top_new",
+    "particle": "sotm:blocks/warped_quartz_block_bottom_new"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "block/outer_stairs",
+  "textures": {
+    "bottom": "sotm:blocks/warped_quartz_block_top_new",
+    "top": "sotm:blocks/warped_quartz_block_top_new",
+    "side": "sotm:blocks/warped_quartz_block_top_new"
+  }
+}

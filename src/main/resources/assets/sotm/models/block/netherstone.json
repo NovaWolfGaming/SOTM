@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sotm:blocks/nether_rock_2",
+    "up": "sotm:blocks/nether_rock_2",
+    "north": "sotm:blocks/nether_rock_2",
+    "east": "sotm:blocks/nether_rock_2",
+    "south": "sotm:blocks/nether_rock_2",
+    "west": "sotm:blocks/nether_rock_2",
+    "particle": "sotm:blocks/nether_rock_2"
+  }
+}

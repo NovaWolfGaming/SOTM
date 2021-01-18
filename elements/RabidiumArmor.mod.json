@@ -1,0 +1,56 @@
+{
+  "_fv": 15,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "rabidium_helmet_new",
+    "enableBody": true,
+    "textureBody": "rabidium_chestplate_new",
+    "enableLeggings": true,
+    "textureLeggings": "rabidium_leggings_new_2",
+    "enableBoots": true,
+    "textureBoots": "rabidium_boots_new",
+    "creativeTab": {
+      "value": "CUSTOM:ToolsAndWeapons"
+    },
+    "armorTextureFile": "rabidium",
+    "helmetName": "Rabidium Helmet",
+    "bodyName": "Rabidium Chestplate",
+    "leggingsName": "Rabidium Leggings",
+    "bootsName": "Rabidium Boots",
+    "helmetSpecialInfo": [],
+    "bodySpecialInfo": [],
+    "leggingsSpecialInfo": [],
+    "bootsSpecialInfo": [],
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "maxDamage": 90,
+    "damageValueHelmet": 10,
+    "damageValueBody": 20,
+    "damageValueLeggings": 30,
+    "damageValueBoots": 8,
+    "enchantability": 54,
+    "toughness": 0.0,
+    "knockbackResistance": 0.0,
+    "equipSound": {
+      "value": ""
+    },
+    "repairItems": [
+      {
+        "value": "CUSTOM:RabidiumGem"
+      }
+    ]
+  }
+}

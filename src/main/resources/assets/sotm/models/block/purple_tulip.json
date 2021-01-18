@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "sotm:blocks/tulip_purple_new",
+    "particle": "sotm:blocks/tulip_purple_new"
+  }
+}

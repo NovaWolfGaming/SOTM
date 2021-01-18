@@ -1,0 +1,33 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "sotm:carboritebrick"
+    },
+    "3": {
+      "item": "sotm:carboritebrick"
+    },
+    "4": {
+      "item": "sotm:carboritebrick"
+    },
+    "6": {
+      "item": "sotm:carboritebrick"
+    },
+    "7": {
+      "item": "sotm:carboritebrick"
+    },
+    "8": {
+      "item": "sotm:carboritebrick"
+    }
+  },
+  "result": {
+    "item": "sotm:carboritebrickstairs",
+    "count": 1
+  }
+}

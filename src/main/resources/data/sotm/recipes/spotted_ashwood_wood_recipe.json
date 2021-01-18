@@ -1,0 +1,26 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "sotm:spotted_ashwood_log"
+    },
+    "1": {
+      "item": "sotm:spotted_ashwood_log"
+    },
+    "2": {
+      "item": "sotm:spotted_ashwood_log"
+    },
+    "3": {
+      "item": "sotm:spotted_ashwood_log"
+    }
+  },
+  "result": {
+    "item": "sotm:spotted_ashwood_wood",
+    "count": 3
+  }
+}

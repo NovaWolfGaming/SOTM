@@ -1,0 +1,7 @@
+{
+  "parent": "block/template_orientable_trapdoor_top",
+  "textures": {
+    "texture": "sotm:blocks/walnut_trapdoor_redone",
+    "particle": "sotm:blocks/walnut_trapdoor_redone"
+  }
+}

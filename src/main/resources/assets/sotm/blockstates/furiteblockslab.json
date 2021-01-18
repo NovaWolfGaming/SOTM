@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "sotm:block/furiteblockslab"
+    },
+    "type=top": {
+      "model": "sotm:block/furiteblockslab_top"
+    },
+    "type=double": {
+      "model": "sotm:block/furiteblockslab_full"
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23",
+    "45"
+  ],
+  "key": {
+    "0": {
+      "item": "sotm:blood_elder_planks"
+    },
+    "1": {
+      "item": "sotm:blood_elder_planks"
+    },
+    "2": {
+      "item": "sotm:blood_elder_planks"
+    },
+    "3": {
+      "item": "sotm:blood_elder_planks"
+    },
+    "4": {
+      "item": "sotm:blood_elder_planks"
+    },
+    "5": {
+      "item": "sotm:blood_elder_planks"
+    }
+  },
+  "result": {
+    "item": "sotm:blood_alder_door",
+    "count": 3
+  }
+}

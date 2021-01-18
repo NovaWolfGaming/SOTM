@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sotm:blocks/chiseled_bricks",
+    "up": "sotm:blocks/chiseled_bricks",
+    "north": "sotm:blocks/chiseled_bricks",
+    "east": "sotm:blocks/chiseled_bricks",
+    "south": "sotm:blocks/chiseled_bricks",
+    "west": "sotm:blocks/chiseled_bricks",
+    "particle": "sotm:blocks/chiseled_bricks"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "sotm:silveringot"
+    },
+    "1": {
+      "item": "sotm:silveringot"
+    },
+    "2": {
+      "item": "sotm:silveringot"
+    },
+    "3": {
+      "item": "sotm:silveringot"
+    },
+    "4": {
+      "item": "sotm:silveringot"
+    },
+    "5": {
+      "item": "sotm:silveringot"
+    }
+  },
+  "result": {
+    "item": "sotm:silver_fence",
+    "count": 6
+  }
+}

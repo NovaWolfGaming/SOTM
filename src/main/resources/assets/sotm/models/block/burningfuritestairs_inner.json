@@ -1,0 +1,8 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "sotm:blocks/burningfuriteblock",
+    "top": "sotm:blocks/burningfuriteblock",
+    "side": "sotm:blocks/burningfuriteblock"
+  }
+}

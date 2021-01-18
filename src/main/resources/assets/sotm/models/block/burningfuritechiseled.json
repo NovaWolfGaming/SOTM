@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sotm:blocks/burningfuritechiseledtop",
+    "up": "sotm:blocks/burningfuritechiseledtop",
+    "north": "sotm:blocks/burningfuriteblockchiseled",
+    "east": "sotm:blocks/burningfuriteblockchiseled",
+    "south": "sotm:blocks/burningfuriteblockchiseled",
+    "west": "sotm:blocks/burningfuriteblockchiseled",
+    "particle": "sotm:blocks/burningfuritechiseledtop"
+  }
+}

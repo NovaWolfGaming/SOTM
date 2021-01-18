@@ -1,0 +1,42 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "sotm:sapphire"
+    },
+    "1": {
+      "item": "sotm:sapphire"
+    },
+    "2": {
+      "item": "sotm:sapphire"
+    },
+    "3": {
+      "item": "sotm:sapphire"
+    },
+    "4": {
+      "item": "sotm:sapphire"
+    },
+    "5": {
+      "item": "sotm:sapphire"
+    },
+    "6": {
+      "item": "sotm:sapphire"
+    },
+    "7": {
+      "item": "sotm:sapphire"
+    },
+    "8": {
+      "item": "sotm:sapphire"
+    }
+  },
+  "result": {
+    "item": "sotm:sapphire_block",
+    "count": 1
+  }
+}

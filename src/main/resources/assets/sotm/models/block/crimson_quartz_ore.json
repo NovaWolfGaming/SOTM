@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sotm:blocks/crimson_nether_quartz_ore",
+    "up": "sotm:blocks/crimson_nether_quartz_ore",
+    "north": "sotm:blocks/crimson_nether_quartz_ore",
+    "east": "sotm:blocks/crimson_nether_quartz_ore",
+    "south": "sotm:blocks/crimson_nether_quartz_ore",
+    "west": "sotm:blocks/crimson_nether_quartz_ore",
+    "particle": "sotm:blocks/crimson_nether_quartz_ore"
+  }
+}

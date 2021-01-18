@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sotm:blocks/crystaline_pillar_top",
+    "up": "sotm:blocks/crystaline_pillar_top",
+    "north": "sotm:blocks/crystaline_pilalr_side",
+    "east": "sotm:blocks/crystaline_pilalr_side",
+    "south": "sotm:blocks/crystaline_pilalr_side",
+    "west": "sotm:blocks/crystaline_pilalr_side",
+    "particle": "sotm:blocks/crystaline_pillar_top"
+  }
+}

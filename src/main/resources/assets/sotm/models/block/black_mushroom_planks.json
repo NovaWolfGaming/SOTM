@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sotm:blocks/darklight_planks",
+    "up": "sotm:blocks/darklight_planks",
+    "north": "sotm:blocks/darklight_planks",
+    "east": "sotm:blocks/darklight_planks",
+    "south": "sotm:blocks/darklight_planks",
+    "west": "sotm:blocks/darklight_planks",
+    "particle": "sotm:blocks/darklight_planks"
+  }
+}

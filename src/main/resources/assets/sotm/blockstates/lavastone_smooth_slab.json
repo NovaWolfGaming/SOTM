@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "sotm:block/lavastone_smooth_slab"
+    },
+    "type=top": {
+      "model": "sotm:block/lavastone_smooth_slab_top"
+    },
+    "type=double": {
+      "model": "sotm:block/lavastone_smooth_slab_full"
+    }
+  }
+}

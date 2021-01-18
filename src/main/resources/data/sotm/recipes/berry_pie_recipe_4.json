@@ -1,0 +1,23 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "2 "
+  ],
+  "key": {
+    "0": {
+      "item": "sotm:blackberries"
+    },
+    "1": {
+      "item": "minecraft:sugar"
+    },
+    "2": {
+      "item": "minecraft:wheat"
+    }
+  },
+  "result": {
+    "item": "sotm:berry_pie",
+    "count": 1
+  }
+}

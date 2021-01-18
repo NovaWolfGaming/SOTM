@@ -1,0 +1,29 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "sotm:amethyst_gem"
+    },
+    "1": {
+      "item": "sotm:amethyst_gem"
+    },
+    "2": {
+      "item": "sotm:amethyst_gem"
+    },
+    "3": {
+      "item": "sotm:amethyst_gem"
+    },
+    "5": {
+      "item": "sotm:amethyst_gem"
+    }
+  },
+  "result": {
+    "item": "sotm:amethyst_armor_helmet",
+    "count": 1
+  }
+}

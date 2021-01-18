@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sotm:blocks/echorinblock",
+    "up": "sotm:blocks/echorinblock",
+    "north": "sotm:blocks/echorinblock",
+    "east": "sotm:blocks/echorinblock",
+    "south": "sotm:blocks/echorinblock",
+    "west": "sotm:blocks/echorinblock",
+    "particle": "sotm:blocks/echorinblock"
+  }
+}

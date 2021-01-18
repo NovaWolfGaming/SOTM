@@ -1,0 +1,37 @@
+{
+  "_fv": 15,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:DarkQuartz"
+      },
+      {
+        "value": "CUSTOM:SulphurQuartz"
+      },
+      {
+        "value": "CUSTOM:RoseQuartz"
+      },
+      {
+        "value": "CUSTOM:FrostedQuartz"
+      },
+      {
+        "value": "CUSTOM:AmberQuartz"
+      },
+      {
+        "value": "CUSTOM:CrimsonQuartz"
+      },
+      {
+        "value": "CUSTOM:VenorumQuartz"
+      },
+      {
+        "value": "CUSTOM:WarpedQuartz"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "name": "gems/quartz",
+    "namespace": "minecraft"
+  }
+}

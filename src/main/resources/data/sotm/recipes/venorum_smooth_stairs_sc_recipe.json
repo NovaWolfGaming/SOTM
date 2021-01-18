@@ -1,0 +1,9 @@
+{
+  "group": "sotm",
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "sotm:venorum"
+  },
+  "result": "sotm:venorum_smooth_stairs"
+}

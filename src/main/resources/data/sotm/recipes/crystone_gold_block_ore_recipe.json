@@ -1,0 +1,13 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "sotm:crystone_gold_block"
+    }
+  ],
+  "result": {
+    "item": "sotm:crystone_gold_ingot",
+    "count": 9
+  }
+}

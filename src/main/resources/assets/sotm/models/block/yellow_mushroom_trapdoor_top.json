@@ -1,0 +1,7 @@
+{
+  "parent": "block/template_orientable_trapdoor_top",
+  "textures": {
+    "texture": "sotm:blocks/mushroom_shell_yellow_trapdoor",
+    "particle": "sotm:blocks/mushroom_shell_yellow_trapdoor"
+  }
+}

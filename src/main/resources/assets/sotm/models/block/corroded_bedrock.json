@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sotm:blocks/corrodedbedrock",
+    "up": "sotm:blocks/corrodedbedrock",
+    "north": "sotm:blocks/corrodedbedrock",
+    "east": "sotm:blocks/corrodedbedrock",
+    "south": "sotm:blocks/corrodedbedrock",
+    "west": "sotm:blocks/corrodedbedrock",
+    "particle": "sotm:blocks/corrodedbedrock"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sotm:blocks/rose_quartz_block_bottom_new",
+    "up": "sotm:blocks/rose_quarttz_block_top_new",
+    "north": "sotm:blocks/rose_quartz_block_side_new",
+    "east": "sotm:blocks/rose_quartz_block_side_new",
+    "south": "sotm:blocks/rose_quartz_block_side_new",
+    "west": "sotm:blocks/rose_quartz_block_side_new",
+    "particle": "sotm:blocks/rose_quartz_block_bottom_new"
+  }
+}

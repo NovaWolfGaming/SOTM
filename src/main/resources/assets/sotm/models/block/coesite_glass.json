@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sotm:blocks/janniks_fallout_craft",
+    "up": "sotm:blocks/janniks_fallout_craft",
+    "north": "sotm:blocks/janniks_fallout_craft",
+    "east": "sotm:blocks/janniks_fallout_craft",
+    "south": "sotm:blocks/janniks_fallout_craft",
+    "west": "sotm:blocks/janniks_fallout_craft",
+    "particle": "sotm:blocks/janniks_fallout_craft"
+  }
+}

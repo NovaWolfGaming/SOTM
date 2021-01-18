@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "sotm:block/shulkeriteslab"
+    },
+    "type=top": {
+      "model": "sotm:block/shulkeriteslab_top"
+    },
+    "type=double": {
+      "model": "sotm:block/shulkeriteslab_full"
+    }
+  }
+}

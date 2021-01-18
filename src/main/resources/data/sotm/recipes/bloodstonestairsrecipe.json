@@ -1,0 +1,33 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "sotm:bloodstoneblock"
+    },
+    "3": {
+      "item": "sotm:bloodstoneblock"
+    },
+    "4": {
+      "item": "sotm:bloodstoneblock"
+    },
+    "6": {
+      "item": "sotm:bloodstoneblock"
+    },
+    "7": {
+      "item": "sotm:bloodstoneblock"
+    },
+    "8": {
+      "item": "sotm:bloodstoneblock"
+    }
+  },
+  "result": {
+    "item": "sotm:bloodstonestairs",
+    "count": 6
+  }
+}

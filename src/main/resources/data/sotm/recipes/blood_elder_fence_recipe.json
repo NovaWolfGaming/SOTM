@@ -1,0 +1,32 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "sotm:blood_elder_planks"
+    },
+    "1": {
+      "item": "minecraft:stick"
+    },
+    "2": {
+      "item": "sotm:blood_elder_planks"
+    },
+    "3": {
+      "item": "sotm:blood_elder_planks"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "5": {
+      "item": "sotm:blood_elder_planks"
+    }
+  },
+  "result": {
+    "item": "sotm:blood_elder_fence",
+    "count": 3
+  }
+}

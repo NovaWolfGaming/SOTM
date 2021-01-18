@@ -1,0 +1,22 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "sotm:venorum_smooth"
+    },
+    "1": {
+      "item": "sotm:venorum_smooth"
+    },
+    "2": {
+      "item": "sotm:venorum_smooth"
+    }
+  },
+  "result": {
+    "item": "sotm:venorum_smooth_slab",
+    "count": 6
+  }
+}

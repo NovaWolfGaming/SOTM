@@ -1,0 +1,26 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "sotm:gypsum"
+    },
+    "1": {
+      "item": "sotm:gypsum"
+    },
+    "2": {
+      "item": "sotm:gypsum"
+    },
+    "3": {
+      "item": "sotm:gypsum"
+    }
+  },
+  "result": {
+    "item": "sotm:gypsum_brick",
+    "count": 4
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "block/slab_top",
+  "textures": {
+    "bottom": "sotm:blocks/burningfuriteblock",
+    "top": "sotm:blocks/burningfuriteblock",
+    "side": "sotm:blocks/burningfuriteblock"
+  }
+}

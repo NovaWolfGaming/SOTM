@@ -1,0 +1,34 @@
+{
+  "mud_step": {
+    "category": "block",
+    "sounds": []
+  },
+  "old_explode": {
+    "category": "master",
+    "sounds": []
+  },
+  "grinder": {
+    "category": "master",
+    "sounds": []
+  },
+  "ancient_ones_hurt": {
+    "category": "neutral",
+    "sounds": []
+  },
+  "corrupted_ones_hurt": {
+    "category": "master",
+    "sounds": []
+  },
+  "corrupted_ones_ambient": {
+    "category": "master",
+    "sounds": []
+  },
+  "corrupted_ones_death": {
+    "category": "master",
+    "sounds": []
+  },
+  "duck_ambient": {
+    "category": "master",
+    "sounds": []
+  }
+}

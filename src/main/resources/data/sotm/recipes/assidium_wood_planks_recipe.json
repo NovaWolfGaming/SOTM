@@ -1,0 +1,16 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "sotm:assidium_wood_log"
+    }
+  },
+  "result": {
+    "item": "sotm:assidium_wood_planks",
+    "count": 4
+  }
+}

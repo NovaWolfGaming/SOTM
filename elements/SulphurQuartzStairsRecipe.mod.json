@@ -1,0 +1,46 @@
+{
+  "_fv": 15,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 6,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:SulphurQuartzBlock"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:SulphurQuartzBlock"
+      },
+      {
+        "value": "CUSTOM:SulphurQuartzBlock"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:SulphurQuartzBlock"
+      },
+      {
+        "value": "CUSTOM:SulphurQuartzBlock"
+      },
+      {
+        "value": "CUSTOM:SulphurQuartzBlock"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:SulphurQuartzStairs"
+    },
+    "name": "sulphur_quartz_stairs_recipe",
+    "namespace": "mod"
+  }
+}

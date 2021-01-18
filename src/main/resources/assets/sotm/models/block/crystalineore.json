@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sotm:blocks/crystaline_ore_2",
+    "up": "sotm:blocks/crystaline_ore_2",
+    "north": "sotm:blocks/crystaline_ore_2",
+    "east": "sotm:blocks/crystaline_ore_2",
+    "south": "sotm:blocks/crystaline_ore_2",
+    "west": "sotm:blocks/crystaline_ore_2",
+    "particle": "sotm:blocks/crystaline_ore_2"
+  }
+}

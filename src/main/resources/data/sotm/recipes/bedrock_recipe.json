@@ -1,0 +1,42 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "sotm:bedrock_shard"
+    },
+    "1": {
+      "item": "sotm:bedrock_shard"
+    },
+    "2": {
+      "item": "sotm:bedrock_shard"
+    },
+    "3": {
+      "item": "sotm:bedrock_shard"
+    },
+    "4": {
+      "item": "sotm:bedrock_shard"
+    },
+    "5": {
+      "item": "sotm:bedrock_shard"
+    },
+    "6": {
+      "item": "sotm:bedrock_shard"
+    },
+    "7": {
+      "item": "sotm:bedrock_shard"
+    },
+    "8": {
+      "item": "sotm:bedrock_shard"
+    }
+  },
+  "result": {
+    "item": "minecraft:bedrock",
+    "count": 1
+  }
+}

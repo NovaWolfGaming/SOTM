@@ -1,0 +1,7 @@
+{
+  "parent": "block/template_orientable_trapdoor_top",
+  "textures": {
+    "texture": "sotm:blocks/twisted_maple_trapdoor_new",
+    "particle": "sotm:blocks/twisted_maple_trapdoor_new"
+  }
+}

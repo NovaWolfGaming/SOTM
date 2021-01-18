@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sotm:blocks/dark_quartz_block_lines_top_new",
+    "up": "sotm:blocks/dark_quartz_block_lines_top_new",
+    "north": "sotm:blocks/dark_quartz_block_lines_new",
+    "east": "sotm:blocks/dark_quartz_block_lines_new",
+    "south": "sotm:blocks/dark_quartz_block_lines_new",
+    "west": "sotm:blocks/dark_quartz_block_lines_new",
+    "particle": "sotm:blocks/dark_quartz_block_lines_top_new"
+  }
+}

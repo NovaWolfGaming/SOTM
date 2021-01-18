@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "sotm:block/underworldgrassflowered"
+    },
+    "facing=east": {
+      "model": "sotm:block/underworldgrassflowered",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "sotm:block/underworldgrassflowered",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "sotm:block/underworldgrassflowered",
+      "y": 270
+    }
+  }
+}

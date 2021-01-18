@@ -1,0 +1,46 @@
+{
+  "_fv": 15,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Crimsobrick"
+      },
+      {
+        "value": "CUSTOM:Crimsobrick"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Crimsobrick"
+      },
+      {
+        "value": "CUSTOM:Crimsobrick"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Crimsobricks"
+    },
+    "name": "crimsobricks_recipe",
+    "namespace": "mod"
+  }
+}

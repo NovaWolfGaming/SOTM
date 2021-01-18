@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "sotm:blocks/diastemmium",
+    "particle": "sotm:blocks/diastemmium"
+  }
+}

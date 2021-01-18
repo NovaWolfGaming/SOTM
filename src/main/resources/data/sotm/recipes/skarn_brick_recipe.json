@@ -1,0 +1,26 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "sotm:skarn"
+    },
+    "1": {
+      "item": "sotm:skarn"
+    },
+    "2": {
+      "item": "sotm:skarn"
+    },
+    "3": {
+      "item": "sotm:skarn"
+    }
+  },
+  "result": {
+    "item": "sotm:skarn_brick",
+    "count": 4
+  }
+}

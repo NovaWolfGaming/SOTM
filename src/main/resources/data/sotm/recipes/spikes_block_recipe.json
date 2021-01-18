@@ -1,0 +1,32 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "sotm:spikes"
+    },
+    "1": {
+      "item": "sotm:spikes"
+    },
+    "2": {
+      "item": "sotm:spikes"
+    },
+    "3": {
+      "item": "sotm:spikes"
+    },
+    "4": {
+      "item": "sotm:spikes"
+    },
+    "5": {
+      "item": "sotm:spikes"
+    }
+  },
+  "result": {
+    "item": "sotm:spikes_block",
+    "count": 3
+  }
+}

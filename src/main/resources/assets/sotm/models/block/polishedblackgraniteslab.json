@@ -1,0 +1,8 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "sotm:blocks/stone_granite_black_smooth",
+    "top": "sotm:blocks/stone_granite_black_smooth",
+    "side": "sotm:blocks/stone_granite_black_smooth"
+  }
+}

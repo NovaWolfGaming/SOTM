@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sotm:blocks/end_stone_new",
+    "up": "sotm:blocks/dragon_moss_end_top",
+    "north": "sotm:blocks/dragon_moss_end",
+    "east": "sotm:blocks/dragon_moss_end",
+    "south": "sotm:blocks/dragon_moss_end",
+    "west": "sotm:blocks/dragon_moss_end",
+    "particle": "sotm:blocks/end_stone_new"
+  }
+}

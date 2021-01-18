@@ -1,0 +1,39 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "sotm:silver_chain"
+    },
+    "2": {
+      "item": "sotm:silver_chain"
+    },
+    "3": {
+      "item": "sotm:silver_chain"
+    },
+    "4": {
+      "item": "sotm:silver_chain"
+    },
+    "5": {
+      "item": "sotm:silver_chain"
+    },
+    "6": {
+      "item": "sotm:silver_chain"
+    },
+    "7": {
+      "item": "sotm:silver_chain"
+    },
+    "8": {
+      "item": "sotm:silver_chain"
+    }
+  },
+  "result": {
+    "item": "sotm:silver_chainmail_armor_chestplate",
+    "count": 1
+  }
+}

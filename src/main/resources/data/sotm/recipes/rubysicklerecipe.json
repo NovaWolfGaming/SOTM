@@ -1,0 +1,33 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 12",
+    "  5",
+    "678"
+  ],
+  "key": {
+    "1": {
+      "item": "sotm:rubygem"
+    },
+    "2": {
+      "item": "sotm:rubygem"
+    },
+    "5": {
+      "item": "sotm:rubygem"
+    },
+    "6": {
+      "item": "minecraft:stick"
+    },
+    "7": {
+      "item": "sotm:rubygem"
+    },
+    "8": {
+      "item": "sotm:rubygem"
+    }
+  },
+  "result": {
+    "item": "sotm:rubysickle",
+    "count": 1
+  }
+}

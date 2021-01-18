@@ -1,0 +1,33 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "sotm:phantom_chorus_stone_brick"
+    },
+    "3": {
+      "item": "sotm:phantom_chorus_stone_brick"
+    },
+    "4": {
+      "item": "sotm:phantom_chorus_stone_brick"
+    },
+    "6": {
+      "item": "sotm:phantom_chorus_stone_brick"
+    },
+    "7": {
+      "item": "sotm:phantom_chorus_stone_brick"
+    },
+    "8": {
+      "item": "sotm:phantom_chorus_stone_brick"
+    }
+  },
+  "result": {
+    "item": "sotm:phantom_chorus_stone_stairs",
+    "count": 6
+  }
+}

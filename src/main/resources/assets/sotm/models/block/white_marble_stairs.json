@@ -1,0 +1,8 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "sotm:blocks/marble_bricks_white",
+    "top": "sotm:blocks/marble_bricks_white",
+    "side": "sotm:blocks/marble_bricks_white"
+  }
+}

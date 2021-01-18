@@ -1,0 +1,32 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "sotm:plexi_glass"
+    },
+    "1": {
+      "item": "sotm:plexi_glass"
+    },
+    "2": {
+      "item": "sotm:plexi_glass"
+    },
+    "3": {
+      "item": "sotm:plexi_glass"
+    },
+    "4": {
+      "item": "sotm:plexi_glass"
+    },
+    "5": {
+      "item": "sotm:plexi_glass"
+    }
+  },
+  "result": {
+    "item": "sotm:plexi_glass_panes",
+    "count": 16
+  }
+}

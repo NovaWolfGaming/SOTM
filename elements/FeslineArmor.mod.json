@@ -1,0 +1,52 @@
+{
+  "_fv": 15,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "fesline_armour_redone_head",
+    "enableBody": true,
+    "textureBody": "fesline_armour_redone_body",
+    "enableLeggings": true,
+    "textureLeggings": "fesline_armour_redone_leggings",
+    "enableBoots": true,
+    "textureBoots": "fesline_armour_redone_boots",
+    "creativeTab": {
+      "value": "CUSTOM:ToolsAndWeapons"
+    },
+    "armorTextureFile": "fesline_armour_redone",
+    "helmetName": "Fesline Helmet",
+    "bodyName": "Fesline Chestplate",
+    "leggingsName": "Fesline Leggings",
+    "bootsName": "Fesline Boots",
+    "helmetSpecialInfo": [],
+    "bodySpecialInfo": [],
+    "leggingsSpecialInfo": [],
+    "bootsSpecialInfo": [],
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "maxDamage": 68,
+    "damageValueHelmet": 9,
+    "damageValueBody": 23,
+    "damageValueLeggings": 27,
+    "damageValueBoots": 9,
+    "enchantability": 41,
+    "toughness": 0.0,
+    "knockbackResistance": 0.0,
+    "equipSound": {
+      "value": ""
+    },
+    "repairItems": []
+  }
+}

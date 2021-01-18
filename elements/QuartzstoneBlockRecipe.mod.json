@@ -1,0 +1,46 @@
+{
+  "_fv": 15,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 4,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:QuartzstoneSmooth"
+      },
+      {
+        "value": "CUSTOM:QuartzstoneSmooth"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:QuartzstoneSmooth"
+      },
+      {
+        "value": "CUSTOM:QuartzstoneSmooth"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:QuartzStoneBrick"
+    },
+    "name": "quartzstone_block_recipe",
+    "namespace": "mod"
+  }
+}

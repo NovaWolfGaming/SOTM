@@ -1,0 +1,46 @@
+{
+  "_fv": 15,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 6,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:AssidiumWoodPlanks"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:AssidiumWoodPlanks"
+      },
+      {
+        "value": "CUSTOM:AssidiumWoodPlanks"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:AssidiumWoodPlanks"
+      },
+      {
+        "value": "CUSTOM:AssidiumWoodPlanks"
+      },
+      {
+        "value": "CUSTOM:AssidiumWoodPlanks"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:AssidiumWoodStairs"
+    },
+    "name": "assidium_wood_stairs_recipe",
+    "namespace": "mod"
+  }
+}

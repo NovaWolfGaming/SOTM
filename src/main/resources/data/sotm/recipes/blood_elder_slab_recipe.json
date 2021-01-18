@@ -1,0 +1,22 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "sotm:blood_elder_planks"
+    },
+    "1": {
+      "item": "sotm:blood_elder_planks"
+    },
+    "2": {
+      "item": "sotm:blood_elder_planks"
+    }
+  },
+  "result": {
+    "item": "sotm:blood_elder_slab",
+    "count": 6
+  }
+}

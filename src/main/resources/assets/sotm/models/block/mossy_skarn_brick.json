@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sotm:blocks/mossy_skarn_brick",
+    "up": "sotm:blocks/mossy_skarn_brick",
+    "north": "sotm:blocks/mossy_skarn_brick",
+    "east": "sotm:blocks/mossy_skarn_brick",
+    "south": "sotm:blocks/mossy_skarn_brick",
+    "west": "sotm:blocks/mossy_skarn_brick",
+    "particle": "sotm:blocks/mossy_skarn_brick"
+  }
+}

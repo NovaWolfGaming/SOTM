@@ -1,0 +1,42 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "sotm:pyridium_gem"
+    },
+    "1": {
+      "item": "sotm:pyridium_gem"
+    },
+    "2": {
+      "item": "sotm:pyridium_gem"
+    },
+    "3": {
+      "item": "sotm:pyridium_gem"
+    },
+    "4": {
+      "item": "sotm:pyridium_gem"
+    },
+    "5": {
+      "item": "sotm:pyridium_gem"
+    },
+    "6": {
+      "item": "sotm:pyridium_gem"
+    },
+    "7": {
+      "item": "sotm:pyridium_gem"
+    },
+    "8": {
+      "item": "sotm:pyridium_gem"
+    }
+  },
+  "result": {
+    "item": "sotm:pyridium_ore_block",
+    "count": 1
+  }
+}

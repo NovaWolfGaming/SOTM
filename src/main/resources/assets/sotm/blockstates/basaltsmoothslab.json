@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "sotm:block/basaltsmoothslab"
+    },
+    "type=top": {
+      "model": "sotm:block/basaltsmoothslab_top"
+    },
+    "type=double": {
+      "model": "sotm:block/basaltsmoothslab_full"
+    }
+  }
+}

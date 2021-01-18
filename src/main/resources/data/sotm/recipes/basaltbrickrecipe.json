@@ -1,0 +1,26 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "sotm:basaltsmooth"
+    },
+    "1": {
+      "item": "sotm:basaltsmooth"
+    },
+    "2": {
+      "item": "sotm:basaltsmooth"
+    },
+    "3": {
+      "item": "sotm:basaltsmooth"
+    }
+  },
+  "result": {
+    "item": "sotm:basaltbrick",
+    "count": 4
+  }
+}

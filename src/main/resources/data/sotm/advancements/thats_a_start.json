@@ -1,0 +1,49 @@
+{
+  "display": {
+    "icon": {
+      "item": "sotm:copperingot"
+    },
+    "title": {
+      "translate": "advancements.thats_a_start.title"
+    },
+    "description": {
+      "translate": "advancements.thats_a_start.descr"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "thats_a_start": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "sotm:copperingot",
+            "count": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 5,
+    "recipes": [
+      "sotm:copperoreblockrecipe",
+      "sotm:copperpickaxerecipe",
+      "sotm:copperaxerecipe",
+      "sotm:copperswordrecipe",
+      "sotm:coppershovelrecipe",
+      "sotm:copperhoerecipe",
+      "sotm:copperarmorhelmetrecipe",
+      "sotm:copperarmorbodyrecipe",
+      "sotm:copperarmorleggingsrecipe",
+      "sotm:copperarmorbootsrecipe"
+    ]
+  },
+  "parent": "sotm:sotm"
+}

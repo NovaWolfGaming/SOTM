@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sotm:blocks/amerbrick",
+    "up": "sotm:blocks/amerbrick",
+    "north": "sotm:blocks/amerbrick",
+    "east": "sotm:blocks/amerbrick",
+    "south": "sotm:blocks/amerbrick",
+    "west": "sotm:blocks/amerbrick",
+    "particle": "sotm:blocks/amerbrick"
+  }
+}

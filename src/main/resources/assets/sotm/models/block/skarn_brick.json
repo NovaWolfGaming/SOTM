@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sotm:blocks/skarn_brick",
+    "up": "sotm:blocks/skarn_brick",
+    "north": "sotm:blocks/skarn_brick",
+    "east": "sotm:blocks/skarn_brick",
+    "south": "sotm:blocks/skarn_brick",
+    "west": "sotm:blocks/skarn_brick",
+    "particle": "sotm:blocks/skarn_brick"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "sotm:polished_cobblestone"
+    },
+    "1": {
+      "item": "sotm:polished_cobblestone"
+    },
+    "2": {
+      "item": "sotm:polished_cobblestone"
+    },
+    "3": {
+      "item": "sotm:polished_cobblestone"
+    },
+    "4": {
+      "item": "sotm:polished_cobblestone"
+    },
+    "5": {
+      "item": "sotm:polished_cobblestone"
+    }
+  },
+  "result": {
+    "item": "sotm:cobblestone_trapdoor",
+    "count": 2
+  }
+}

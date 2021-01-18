@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sotm:blocks/cotswold_bricks",
+    "up": "sotm:blocks/cotswold_bricks",
+    "north": "sotm:blocks/cotswold_bricks",
+    "east": "sotm:blocks/cotswold_bricks",
+    "south": "sotm:blocks/cotswold_bricks",
+    "west": "sotm:blocks/cotswold_bricks",
+    "particle": "sotm:blocks/cotswold_bricks"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sotm:blocks/blue_shulkerite_brick_2",
+    "up": "sotm:blocks/blue_shulkerite_brick_2",
+    "north": "sotm:blocks/blue_shulkerite_brick_2",
+    "east": "sotm:blocks/blue_shulkerite_brick_2",
+    "south": "sotm:blocks/blue_shulkerite_brick_2",
+    "west": "sotm:blocks/blue_shulkerite_brick_2",
+    "particle": "sotm:blocks/blue_shulkerite_brick_2"
+  }
+}

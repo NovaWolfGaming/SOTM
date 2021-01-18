@@ -1,0 +1,7 @@
+{
+  "parent": "block/door_top_rh",
+  "textures": {
+    "bottom": "sotm:blocks/cobblestone_door_bottom_new",
+    "top": "sotm:blocks/cobblestone_door_top"
+  }
+}

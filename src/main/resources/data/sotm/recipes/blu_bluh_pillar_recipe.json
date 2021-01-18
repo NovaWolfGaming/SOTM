@@ -1,0 +1,20 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1"
+  ],
+  "key": {
+    "0": {
+      "item": "sotm:blubluh_slab"
+    },
+    "1": {
+      "item": "sotm:blubluh_slab"
+    }
+  },
+  "result": {
+    "item": "sotm:blu_bluh_pillar",
+    "count": 1
+  }
+}

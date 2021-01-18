@@ -1,0 +1,30 @@
+{
+  "_fv": 15,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "rabidium_sickle",
+    "customModelName": "Normal",
+    "name": "Rabidium Sickle",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:ToolsAndWeapons"
+    },
+    "toolType": "Special",
+    "harvestLevel": 12,
+    "efficiency": 18.0,
+    "attackSpeed": 1.3,
+    "enchantability": 84,
+    "damageVsEntity": 13.5,
+    "usageCount": 3072,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:RabidiumGem"
+      }
+    ],
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

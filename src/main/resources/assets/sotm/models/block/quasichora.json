@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "sotm:blocks/quasichora",
+    "particle": "sotm:blocks/quasichora"
+  }
+}

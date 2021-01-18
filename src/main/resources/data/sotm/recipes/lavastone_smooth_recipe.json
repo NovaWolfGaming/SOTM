@@ -1,0 +1,26 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "sotm:lavastone"
+    },
+    "1": {
+      "item": "sotm:lavastone"
+    },
+    "2": {
+      "item": "sotm:lavastone"
+    },
+    "3": {
+      "item": "sotm:lavastone"
+    }
+  },
+  "result": {
+    "item": "sotm:lavastone_smooth",
+    "count": 4
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "variants": {
+    "facing=south": {
+      "model": "sotm:block/blood_elder"
+    },
+    "facing=north": {
+      "model": "sotm:block/blood_elder"
+    },
+    "facing=east": {
+      "model": "sotm:block/blood_elder",
+      "x": 90
+    },
+    "facing=west": {
+      "model": "sotm:block/blood_elder",
+      "x": 90
+    },
+    "facing=up": {
+      "model": "sotm:block/blood_elder",
+      "x": 90,
+      "y": 90
+    },
+    "facing=down": {
+      "model": "sotm:block/blood_elder",
+      "x": 90,
+      "y": 90
+    }
+  }
+}

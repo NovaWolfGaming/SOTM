@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "sotm:blocks/ender_moss_purple_redone",
+    "particle": "sotm:blocks/ender_moss_purple_redone"
+  }
+}

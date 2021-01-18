@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "sotm:blocks/limestone-bricks",
+    "particle": "sotm:blocks/limestone-bricks"
+  }
+}

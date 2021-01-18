@@ -1,0 +1,26 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "sotm:chorus_stone"
+    },
+    "1": {
+      "item": "sotm:chorus_stone"
+    },
+    "2": {
+      "item": "sotm:chorus_stone"
+    },
+    "3": {
+      "item": "sotm:chorus_stone"
+    }
+  },
+  "result": {
+    "item": "sotm:chorus_stone_tiles",
+    "count": 4
+  }
+}

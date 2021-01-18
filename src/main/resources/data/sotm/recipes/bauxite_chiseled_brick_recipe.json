@@ -1,0 +1,26 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "sotm:bauxite_bricks"
+    },
+    "1": {
+      "item": "sotm:bauxite_bricks"
+    },
+    "2": {
+      "item": "sotm:bauxite_bricks"
+    },
+    "3": {
+      "item": "sotm:bauxite_bricks"
+    }
+  },
+  "result": {
+    "item": "sotm:bauxtie_chiseled_brick",
+    "count": 4
+  }
+}

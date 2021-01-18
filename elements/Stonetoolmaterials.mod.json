@@ -1,0 +1,25 @@
+{
+  "_fv": 15,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:Carborite"
+      },
+      {
+        "value": "CUSTOM:Netherstone"
+      },
+      {
+        "value": "CUSTOM:ChorusStoneNew"
+      },
+      {
+        "value": "CUSTOM:PhantoChorusStone"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "name": "stone_tool_materials",
+    "namespace": "minecraft"
+  }
+}

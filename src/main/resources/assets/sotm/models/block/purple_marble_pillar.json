@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sotm:blocks/marble_pillar_top_purple",
+    "up": "sotm:blocks/marble_pillar_top_purple",
+    "north": "sotm:blocks/marble_pillar_purple_side",
+    "east": "sotm:blocks/marble_pillar_purple_side",
+    "south": "sotm:blocks/marble_pillar_purple_side",
+    "west": "sotm:blocks/marble_pillar_purple_side",
+    "particle": "sotm:blocks/marble_pillar_top_purple"
+  }
+}

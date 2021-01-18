@@ -1,0 +1,20 @@
+{
+  "_fv": 15,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Smoking",
+    "xpReward": 1.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "smokingInputStack": {
+      "value": "Items.FISH#3"
+    },
+    "smokingReturnStack": {
+      "value": "CUSTOM:CookedPufferfish"
+    },
+    "name": "cookedpufferfishbfrecipe",
+    "namespace": "mod"
+  }
+}

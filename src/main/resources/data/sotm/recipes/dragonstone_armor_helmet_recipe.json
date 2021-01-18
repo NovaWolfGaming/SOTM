@@ -1,0 +1,29 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "sotm:dragonstone_gem"
+    },
+    "1": {
+      "item": "sotm:dragonstone_gem"
+    },
+    "2": {
+      "item": "sotm:dragonstone_gem"
+    },
+    "3": {
+      "item": "sotm:dragonstone_gem"
+    },
+    "5": {
+      "item": "sotm:dragonstone_gem"
+    }
+  },
+  "result": {
+    "item": "sotm:dragonstone_armor_helmet",
+    "count": 1
+  }
+}

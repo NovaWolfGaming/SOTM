@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "sotm:block/frosted_crystaline_slab"
+    },
+    "type=top": {
+      "model": "sotm:block/frosted_crystaline_slab_top"
+    },
+    "type=double": {
+      "model": "sotm:block/frosted_crystaline_slab_full"
+    }
+  }
+}

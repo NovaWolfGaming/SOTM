@@ -1,0 +1,33 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "sotm:basaltbrick"
+    },
+    "3": {
+      "item": "sotm:basaltbrick"
+    },
+    "4": {
+      "item": "sotm:basaltbrick"
+    },
+    "6": {
+      "item": "sotm:basaltbrick"
+    },
+    "7": {
+      "item": "sotm:basaltbrick"
+    },
+    "8": {
+      "item": "sotm:basaltbrick"
+    }
+  },
+  "result": {
+    "item": "sotm:basaltbrickstairs",
+    "count": 6
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sotm:blocks/venorum",
+    "up": "sotm:blocks/venorum",
+    "north": "sotm:blocks/venorum",
+    "east": "sotm:blocks/venorum",
+    "south": "sotm:blocks/venorum",
+    "west": "sotm:blocks/venorum",
+    "particle": "sotm:blocks/venorum"
+  }
+}

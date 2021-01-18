@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sotm:blocks/underworld_mud",
+    "up": "sotm:blocks/cryphillium_top",
+    "north": "sotm:blocks/cryphilium",
+    "east": "sotm:blocks/cryphilium",
+    "south": "sotm:blocks/cryphilium",
+    "west": "sotm:blocks/cryphilium",
+    "particle": "sotm:blocks/underworld_mud"
+  }
+}

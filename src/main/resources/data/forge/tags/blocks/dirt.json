@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    "sotm:underworlddirt",
+    "sotm:underworld_coarse_dirt",
+    "sotm:nethergrassmud",
+    "sotm:nethergrassnetherrack",
+    "sotm:underworldgrass",
+    "sotm:underworldgrassflowered",
+    "sotm:crescent_grass",
+    "sotm:leafed_crescent_grass",
+    "sotm:luminous_grass",
+    "sotm:fiery_shnyllium",
+    "sotm:fiery_shnyllium_leaves",
+    "minecraft:warped_nylium"
+  ]
+}

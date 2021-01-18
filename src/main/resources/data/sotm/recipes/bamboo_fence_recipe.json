@@ -1,0 +1,32 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "sotm:bamboo_planks"
+    },
+    "1": {
+      "item": "minecraft:bamboo"
+    },
+    "2": {
+      "item": "sotm:bamboo_planks"
+    },
+    "3": {
+      "item": "sotm:bamboo_planks"
+    },
+    "4": {
+      "item": "minecraft:bamboo"
+    },
+    "5": {
+      "item": "sotm:bamboo_planks"
+    }
+  },
+  "result": {
+    "item": "sotm:bamboo_fence",
+    "count": 3
+  }
+}

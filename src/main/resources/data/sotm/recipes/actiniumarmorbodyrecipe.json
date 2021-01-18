@@ -1,0 +1,39 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "sotm:actiniumingot"
+    },
+    "2": {
+      "item": "sotm:actiniumingot"
+    },
+    "3": {
+      "item": "sotm:actiniumingot"
+    },
+    "4": {
+      "item": "sotm:actiniumingot"
+    },
+    "5": {
+      "item": "sotm:actiniumingot"
+    },
+    "6": {
+      "item": "sotm:actiniumingot"
+    },
+    "7": {
+      "item": "sotm:actiniumingot"
+    },
+    "8": {
+      "item": "sotm:actiniumingot"
+    }
+  },
+  "result": {
+    "item": "sotm:actiniumarmor_chestplate",
+    "count": 1
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "sotm:blocks/terracus_bush_n32",
+    "particle": "sotm:blocks/terracus_bush_n32"
+  }
+}

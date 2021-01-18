@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sotm:blocks/gold_ore_underworld",
+    "up": "sotm:blocks/gold_ore_underworld",
+    "north": "sotm:blocks/gold_ore_underworld",
+    "east": "sotm:blocks/gold_ore_underworld",
+    "south": "sotm:blocks/gold_ore_underworld",
+    "west": "sotm:blocks/gold_ore_underworld",
+    "particle": "sotm:blocks/gold_ore_underworld"
+  }
+}

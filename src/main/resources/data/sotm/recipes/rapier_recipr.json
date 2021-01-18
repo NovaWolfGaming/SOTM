@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "sotm:iron_rapier_hilt"
+  },
+  "addition": {
+    "item": "sotm:iron_rapier_blade"
+  },
+  "result": {
+    "item": "sotm:rapier"
+  }
+}

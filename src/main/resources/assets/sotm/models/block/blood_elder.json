@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sotm:blocks/blood_alder_top_new",
+    "up": "sotm:blocks/blood_alder_top_new",
+    "north": "sotm:blocks/blood_alder_side_2",
+    "east": "sotm:blocks/blood_alder_side_2",
+    "south": "sotm:blocks/blood_alder_side_2",
+    "west": "sotm:blocks/blood_alder_side_2",
+    "particle": "sotm:blocks/blood_alder_top_new"
+  }
+}

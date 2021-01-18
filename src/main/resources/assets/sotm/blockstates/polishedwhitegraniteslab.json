@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "sotm:block/polishedwhitegraniteslab"
+    },
+    "type=top": {
+      "model": "sotm:block/polishedwhitegraniteslab_top"
+    },
+    "type=double": {
+      "model": "sotm:block/polishedwhitegraniteslab_full"
+    }
+  }
+}

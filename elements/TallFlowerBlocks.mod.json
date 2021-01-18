@@ -1,0 +1,40 @@
+{
+  "_fv": 15,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [
+      {
+        "value": "CUSTOM:WhiteGranite"
+      },
+      {
+        "value": "CUSTOM:WhiteFloweredJungleShrub"
+      },
+      {
+        "value": "CUSTOM:PurpleHibiscus"
+      },
+      {
+        "value": "CUSTOM:RedMushroomDouble"
+      },
+      {
+        "value": "CUSTOM:BrownMushroomDouble"
+      },
+      {
+        "value": "CUSTOM:Lavender"
+      },
+      {
+        "value": "CUSTOM:EndVines"
+      },
+      {
+        "value": "CUSTOM:JungleShrub"
+      },
+      {
+        "value": "CUSTOM:PineappleBush"
+      }
+    ],
+    "functions": [],
+    "name": "tall_flowers",
+    "namespace": "minecraft"
+  }
+}

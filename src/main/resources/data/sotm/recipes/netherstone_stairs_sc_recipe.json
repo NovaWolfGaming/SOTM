@@ -1,0 +1,9 @@
+{
+  "group": "sotm",
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "sotm:netherstone"
+  },
+  "result": "sotm:netherstone_smooth_stairs"
+}

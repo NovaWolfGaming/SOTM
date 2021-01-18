@@ -1,0 +1,30 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "sotm:crystone_gold_ingot"
+    },
+    "1": {
+      "item": "sotm:crystone_gold_ingot"
+    },
+    "2": {
+      "item": "sotm:crystone_gold_ingot"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "7": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "sotm:crystone_gold_pickaxe",
+    "count": 1
+  }
+}

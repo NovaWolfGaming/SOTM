@@ -1,0 +1,33 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "sotm:uaphreliaplanks"
+    },
+    "3": {
+      "item": "sotm:uaphreliaplanks"
+    },
+    "4": {
+      "item": "sotm:uaphreliaplanks"
+    },
+    "6": {
+      "item": "sotm:uaphreliaplanks"
+    },
+    "7": {
+      "item": "sotm:uaphreliaplanks"
+    },
+    "8": {
+      "item": "sotm:uaphreliaplanks"
+    }
+  },
+  "result": {
+    "item": "sotm:euphreliastairs",
+    "count": 6
+  }
+}

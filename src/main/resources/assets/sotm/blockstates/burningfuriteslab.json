@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "sotm:block/burningfuriteslab"
+    },
+    "type=top": {
+      "model": "sotm:block/burningfuriteslab_top"
+    },
+    "type=double": {
+      "model": "sotm:block/burningfuriteslab_full"
+    }
+  }
+}

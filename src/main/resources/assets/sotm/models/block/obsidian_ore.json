@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sotm:blocks/obsidian_ore_ender",
+    "up": "sotm:blocks/obsidian_ore_ender",
+    "north": "sotm:blocks/obsidian_ore_ender",
+    "east": "sotm:blocks/obsidian_ore_ender",
+    "south": "sotm:blocks/obsidian_ore_ender",
+    "west": "sotm:blocks/obsidian_ore_ender",
+    "particle": "sotm:blocks/obsidian_ore_ender"
+  }
+}

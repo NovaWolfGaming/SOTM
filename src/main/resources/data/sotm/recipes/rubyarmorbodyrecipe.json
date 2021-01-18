@@ -1,0 +1,39 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "sotm:rubygem"
+    },
+    "2": {
+      "item": "sotm:rubygem"
+    },
+    "3": {
+      "item": "sotm:rubygem"
+    },
+    "4": {
+      "item": "sotm:rubygem"
+    },
+    "5": {
+      "item": "sotm:rubygem"
+    },
+    "6": {
+      "item": "sotm:rubygem"
+    },
+    "7": {
+      "item": "sotm:rubygem"
+    },
+    "8": {
+      "item": "sotm:rubygem"
+    }
+  },
+  "result": {
+    "item": "sotm:rubyarmor_chestplate",
+    "count": 1
+  }
+}

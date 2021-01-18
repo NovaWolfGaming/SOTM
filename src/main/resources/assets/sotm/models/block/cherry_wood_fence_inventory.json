@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_inventory",
+  "textures": {
+    "texture": "sotm:blocks/cherry_wood_planks",
+    "particle": "sotm:blocks/cherry_wood_planks"
+  }
+}

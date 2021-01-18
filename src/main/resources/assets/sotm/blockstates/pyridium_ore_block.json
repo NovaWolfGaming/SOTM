@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "sotm:block/pyridium_ore_block"
+    }
+  }
+}

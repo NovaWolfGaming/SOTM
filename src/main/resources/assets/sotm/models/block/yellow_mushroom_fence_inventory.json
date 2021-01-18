@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_inventory",
+  "textures": {
+    "texture": "sotm:blocks/mushroom_shell_yellow_planks",
+    "particle": "sotm:blocks/mushroom_shell_yellow_planks"
+  }
+}

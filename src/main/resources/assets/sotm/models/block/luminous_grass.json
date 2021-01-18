@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sotm:blocks/carborite",
+    "up": "sotm:blocks/luminous_moss_top",
+    "north": "sotm:blocks/luminous_moss",
+    "east": "sotm:blocks/luminous_moss",
+    "south": "sotm:blocks/luminous_moss",
+    "west": "sotm:blocks/luminous_moss",
+    "particle": "sotm:blocks/nether_nylium_top"
+  }
+}

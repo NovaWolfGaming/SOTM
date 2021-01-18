@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sotm:blocks/ruby_ore_nether_new",
+    "up": "sotm:blocks/ruby_ore_nether_new",
+    "north": "sotm:blocks/ruby_ore_nether_new",
+    "east": "sotm:blocks/ruby_ore_nether_new",
+    "south": "sotm:blocks/ruby_ore_nether_new",
+    "west": "sotm:blocks/ruby_ore_nether_new",
+    "particle": "sotm:blocks/ruby_ore_nether_new"
+  }
+}

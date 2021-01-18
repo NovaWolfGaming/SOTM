@@ -1,0 +1,26 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "sotm:venomite_ore_gem"
+    },
+    "2": {
+      "item": "sotm:venomite_ore_gem"
+    },
+    "3": {
+      "item": "sotm:venomite_ore_gem"
+    },
+    "5": {
+      "item": "sotm:venomite_ore_gem"
+    }
+  },
+  "result": {
+    "item": "sotm:venomite_ore_armor_boots",
+    "count": 1
+  }
+}

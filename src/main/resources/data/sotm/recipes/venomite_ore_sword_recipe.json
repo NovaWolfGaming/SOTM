@@ -1,0 +1,24 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "sotm:venomite_ore_gem"
+    },
+    "1": {
+      "item": "sotm:venomite_ore_gem"
+    },
+    "2": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "sotm:venomite_ore_sword",
+    "count": 1
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=upper": {
+      "model": "sotm:block/elder_berry_bush"
+    },
+    "half=lower": {
+      "model": "sotm:block/elder_berry_bush_bottom"
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "sotm:blocks/blackstone_smooth",
+    "particle": "sotm:blocks/blackstone_smooth"
+  }
+}

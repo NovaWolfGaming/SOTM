@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "sotm:pyridium"
+  },
+  "addition": {
+    "item": "sotm:fesline_dust"
+  },
+  "result": {
+    "item": "sotm:ancient_shard"
+  }
+}

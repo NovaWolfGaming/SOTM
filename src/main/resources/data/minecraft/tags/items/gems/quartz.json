@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "sotm:darkquartz",
+    "sotm:sulphur_quartz",
+    "sotm:rose_quartz",
+    "sotm:frosted_quartz",
+    "sotm:amber_quartz",
+    "sotm:crimson_quartz",
+    "sotm:venorum_quartz",
+    "sotm:warped_quartz"
+  ]
+}

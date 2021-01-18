@@ -1,0 +1,26 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "sotm:darkquartz"
+    },
+    "1": {
+      "item": "sotm:darkquartz"
+    },
+    "2": {
+      "item": "sotm:darkquartz"
+    },
+    "3": {
+      "item": "sotm:darkquartz"
+    }
+  },
+  "result": {
+    "item": "sotm:darkquartzblock",
+    "count": 1
+  }
+}

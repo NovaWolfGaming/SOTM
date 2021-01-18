@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sotm:blocks/ashwood_log_top",
+    "up": "sotm:blocks/ashwood_log_top",
+    "north": "sotm:blocks/ashwood_log_side",
+    "east": "sotm:blocks/ashwood_log_side",
+    "south": "sotm:blocks/ashwood_log_side",
+    "west": "sotm:blocks/ashwood_log_side",
+    "particle": "sotm:blocks/ashwood_log_top"
+  }
+}

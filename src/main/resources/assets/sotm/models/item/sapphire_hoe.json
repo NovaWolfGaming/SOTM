@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "sotm:items/sapphire_hoe_2"
+  }
+}

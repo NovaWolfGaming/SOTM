@@ -1,0 +1,12 @@
+{
+  "group": "sotm",
+  "type": "minecraft:smelting",
+  "experience": 1,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "sotm:ironoreunderworld"
+  },
+  "result": {
+    "item": "minecraft:iron_ingot"
+  }
+}

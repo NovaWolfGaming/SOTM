@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sotm:blocks/warped_nether_quartz_ore_new",
+    "up": "sotm:blocks/warped_nether_quartz_ore_new",
+    "north": "sotm:blocks/warped_nether_quartz_ore_new",
+    "east": "sotm:blocks/warped_nether_quartz_ore_new",
+    "south": "sotm:blocks/warped_nether_quartz_ore_new",
+    "west": "sotm:blocks/warped_nether_quartz_ore_new",
+    "particle": "sotm:blocks/warped_nether_quartz_ore_new"
+  }
+}

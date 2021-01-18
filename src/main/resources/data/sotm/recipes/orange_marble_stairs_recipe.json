@@ -1,0 +1,33 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "sotm:orange_marble_brick_2"
+    },
+    "3": {
+      "item": "sotm:orange_marble_brick_2"
+    },
+    "4": {
+      "item": "sotm:orange_marble_brick_2"
+    },
+    "6": {
+      "item": "sotm:orange_marble_brick_2"
+    },
+    "7": {
+      "item": "sotm:orange_marble_brick_2"
+    },
+    "8": {
+      "item": "sotm:orange_marble_brick_2"
+    }
+  },
+  "result": {
+    "item": "sotm:orange_marble_stairs",
+    "count": 6
+  }
+}

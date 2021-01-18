@@ -1,0 +1,30 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "sotm:amethyst_gem"
+    },
+    "1": {
+      "item": "sotm:amethyst_gem"
+    },
+    "2": {
+      "item": "sotm:amethyst_gem"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "7": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "sotm:amethyst_pickaxe",
+    "count": 1
+  }
+}

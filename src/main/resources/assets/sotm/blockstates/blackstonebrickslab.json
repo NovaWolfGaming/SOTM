@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "sotm:block/blackstonebrickslab"
+    },
+    "type=top": {
+      "model": "sotm:block/blackstonebrickslab_top"
+    },
+    "type=double": {
+      "model": "sotm:block/blackstonebrickslab_full"
+    }
+  }
+}

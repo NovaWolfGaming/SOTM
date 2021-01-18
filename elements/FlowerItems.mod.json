@@ -1,0 +1,118 @@
+{
+  "_fv": 15,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:TroddenFlower"
+      },
+      {
+        "value": "CUSTOM:TroddenFlower2"
+      },
+      {
+        "value": "CUSTOM:OasisFlower"
+      },
+      {
+        "value": "CUSTOM:Deepyellowbellflowers"
+      },
+      {
+        "value": "CUSTOM:TroddenFlowerWhite"
+      },
+      {
+        "value": "CUSTOM:TroddenFlowerRed"
+      },
+      {
+        "value": "CUSTOM:WhiteFloweredJungleShrub"
+      },
+      {
+        "value": "CUSTOM:Deepyellowbellflowers"
+      },
+      {
+        "value": "CUSTOM:SproutingSyringa"
+      },
+      {
+        "value": "CUSTOM:Freesia"
+      },
+      {
+        "value": "CUSTOM:YelloFreesia"
+      },
+      {
+        "value": "CUSTOM:FreesiaBlue"
+      },
+      {
+        "value": "CUSTOM:CyanFreesia"
+      },
+      {
+        "value": "CUSTOM:FreesiaPink"
+      },
+      {
+        "value": "CUSTOM:PinkRoses"
+      },
+      {
+        "value": "CUSTOM:WhiteRoses"
+      },
+      {
+        "value": "CUSTOM:WhiteFloweredJungleShrub"
+      },
+      {
+        "value": "CUSTOM:PurpleHibiscus"
+      },
+      {
+        "value": "CUSTOM:Lavender"
+      },
+      {
+        "value": "CUSTOM:Hellarium"
+      },
+      {
+        "value": "CUSTOM:CyanRoses"
+      },
+      {
+        "value": "CUSTOM:RedRoses"
+      },
+      {
+        "value": "CUSTOM:BegoniaYellow"
+      },
+      {
+        "value": "CUSTOM:BegoniaRed"
+      },
+      {
+        "value": "CUSTOM:BegoniaPurple"
+      },
+      {
+        "value": "CUSTOM:BegoniaPink"
+      },
+      {
+        "value": "CUSTOM:BegoniaOrange"
+      },
+      {
+        "value": "CUSTOM:BegoniaGray"
+      },
+      {
+        "value": "CUSTOM:CyanRose2"
+      },
+      {
+        "value": "CUSTOM:RosePink"
+      },
+      {
+        "value": "CUSTOM:RoseRed"
+      },
+      {
+        "value": "CUSTOM:RoseWhite"
+      },
+      {
+        "value": "CUSTOM:RedStarCluster"
+      },
+      {
+        "value": "CUSTOM:PinkStarCluster"
+      },
+      {
+        "value": "CUSTOM:BlueStarCluster"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "name": "flowers",
+    "namespace": "minecraft"
+  }
+}

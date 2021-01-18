@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "sotm:block/blue_shulkerite_slab"
+    },
+    "type=top": {
+      "model": "sotm:block/blue_shulkerite_slab_top"
+    },
+    "type=double": {
+      "model": "sotm:block/blue_shulkerite_slab_full"
+    }
+  }
+}

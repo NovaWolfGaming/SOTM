@@ -1,0 +1,23 @@
+{
+  "_fv": 15,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Smithing",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "smithingInputStack": {
+      "value": "CUSTOM:CopperIngot"
+    },
+    "smithingInputAdditionStack": {
+      "value": "CUSTOM:SilverIngot"
+    },
+    "smithingReturnStack": {
+      "value": "CUSTOM:BillonIngot"
+    },
+    "name": "billon_ingot_recipe",
+    "namespace": "mod"
+  }
+}

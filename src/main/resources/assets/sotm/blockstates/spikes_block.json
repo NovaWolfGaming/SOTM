@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "sotm:block/spikes_block"
+    }
+  }
+}

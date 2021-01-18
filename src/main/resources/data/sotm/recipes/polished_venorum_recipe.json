@@ -1,0 +1,26 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "sotm:venorum"
+    },
+    "1": {
+      "item": "sotm:venorum"
+    },
+    "2": {
+      "item": "sotm:venorum"
+    },
+    "3": {
+      "item": "sotm:venorum"
+    }
+  },
+  "result": {
+    "item": "sotm:venorum_smooth",
+    "count": 4
+  }
+}

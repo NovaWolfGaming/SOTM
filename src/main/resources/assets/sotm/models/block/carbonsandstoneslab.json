@@ -1,0 +1,8 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "sotm:blocks/gray_sandstone_normal",
+    "top": "sotm:blocks/gray_sandstone_normal",
+    "side": "sotm:blocks/gray_sandstone_normal"
+  }
+}

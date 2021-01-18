@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sotm:blocks/bone_block_1",
+    "up": "sotm:blocks/bone_block_1",
+    "north": "sotm:blocks/bone_block_1",
+    "east": "sotm:blocks/bone_block_1",
+    "south": "sotm:blocks/bone_block_1",
+    "west": "sotm:blocks/bone_block_1",
+    "particle": "sotm:blocks/bone_block_1"
+  }
+}

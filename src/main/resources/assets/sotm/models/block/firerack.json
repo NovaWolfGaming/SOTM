@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "sotm:blocks/firerack",
+    "particle": "sotm:blocks/firerack"
+  }
+}

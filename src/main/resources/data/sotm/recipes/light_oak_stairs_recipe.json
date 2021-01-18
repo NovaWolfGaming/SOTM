@@ -1,0 +1,33 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "sotm:lightoakplanks"
+    },
+    "3": {
+      "item": "sotm:lightoakplanks"
+    },
+    "4": {
+      "item": "sotm:lightoakplanks"
+    },
+    "6": {
+      "item": "sotm:lightoakplanks"
+    },
+    "7": {
+      "item": "sotm:lightoakplanks"
+    },
+    "8": {
+      "item": "sotm:lightoakplanks"
+    }
+  },
+  "result": {
+    "item": "sotm:light_oak_stairs",
+    "count": 6
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "sotm:rose_gold_nuggets"
+    },
+    "1": {
+      "item": "sotm:rose_gold_nuggets"
+    },
+    "2": {
+      "item": "sotm:rose_gold_nuggets"
+    },
+    "3": {
+      "item": "sotm:rose_gold_nuggets"
+    },
+    "4": {
+      "item": "sotm:rose_gold_nuggets"
+    },
+    "5": {
+      "item": "sotm:rose_gold_nuggets"
+    },
+    "6": {
+      "item": "sotm:rose_gold_nuggets"
+    },
+    "7": {
+      "item": "sotm:rose_gold_nuggets"
+    },
+    "8": {
+      "item": "sotm:rose_gold_nuggets"
+    }
+  },
+  "result": {
+    "item": "sotm:rose_gold_ingot",
+    "count": 1
+  }
+}

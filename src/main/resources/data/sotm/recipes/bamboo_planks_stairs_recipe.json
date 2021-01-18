@@ -1,0 +1,33 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "sotm:bamboo_planks"
+    },
+    "3": {
+      "item": "sotm:bamboo_planks"
+    },
+    "4": {
+      "item": "sotm:bamboo_planks"
+    },
+    "6": {
+      "item": "sotm:bamboo_planks"
+    },
+    "7": {
+      "item": "sotm:bamboo_planks"
+    },
+    "8": {
+      "item": "sotm:bamboo_planks"
+    }
+  },
+  "result": {
+    "item": "sotm:bamboo_planks_stairs",
+    "count": 6
+  }
+}

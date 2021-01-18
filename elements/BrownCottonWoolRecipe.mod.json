@@ -1,0 +1,46 @@
+{
+  "_fv": 15,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 4,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:CottonWool"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:CottonWool"
+      },
+      {
+        "value": "Items.DYE#17"
+      },
+      {
+        "value": "CUSTOM:CottonWool"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:CottonWool"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:BrownCottonWool"
+    },
+    "name": "brown_cotton_wool_recipe",
+    "namespace": "mod"
+  }
+}

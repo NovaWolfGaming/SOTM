@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sotm:blocks/saprolite_brick",
+    "up": "sotm:blocks/saprolite_brick",
+    "north": "sotm:blocks/saprolite_brick",
+    "east": "sotm:blocks/saprolite_brick",
+    "south": "sotm:blocks/saprolite_brick",
+    "west": "sotm:blocks/saprolite_brick",
+    "particle": "sotm:blocks/saprolite_brick"
+  }
+}

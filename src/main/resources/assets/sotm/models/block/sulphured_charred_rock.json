@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sotm:blocks/basalto1",
+    "up": "sotm:blocks/sulphured_charred_rock",
+    "north": "sotm:blocks/basalto1",
+    "east": "sotm:blocks/basalto1",
+    "south": "sotm:blocks/basalto1",
+    "west": "sotm:blocks/basalto1",
+    "particle": "sotm:blocks/basalto1"
+  }
+}

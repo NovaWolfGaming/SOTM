@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sotm:blocks/underworld_dirt",
+    "up": "sotm:blocks/crescent_grass_top",
+    "north": "sotm:blocks/crescent_grass_side",
+    "east": "sotm:blocks/crescent_grass_side",
+    "south": "sotm:blocks/crescent_grass_side",
+    "west": "sotm:blocks/crescent_grass_side",
+    "particle": "sotm:blocks/underworld_dirt"
+  }
+}

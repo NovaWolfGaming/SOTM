@@ -1,0 +1,20 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1"
+  ],
+  "key": {
+    "0": {
+      "item": "sotm:blockofcertus"
+    },
+    "1": {
+      "item": "sotm:blockofcertus"
+    }
+  },
+  "result": {
+    "item": "sotm:certuspillar",
+    "count": 2
+  }
+}

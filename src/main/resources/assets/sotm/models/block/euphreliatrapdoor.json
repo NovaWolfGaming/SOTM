@@ -1,0 +1,7 @@
+{
+  "parent": "block/template_orientable_trapdoor_bottom",
+  "textures": {
+    "texture": "sotm:blocks/phantom_locust_trapdoor_new",
+    "particle": "sotm:blocks/phantom_locust_trapdoor_new"
+  }
+}

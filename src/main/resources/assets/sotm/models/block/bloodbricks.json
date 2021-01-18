@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sotm:blocks/bloodrack_brick",
+    "up": "sotm:blocks/bloodrack_brick",
+    "north": "sotm:blocks/bloodrack_brick",
+    "east": "sotm:blocks/bloodrack_brick",
+    "south": "sotm:blocks/bloodrack_brick",
+    "west": "sotm:blocks/bloodrack_brick",
+    "particle": "sotm:blocks/bloodrack_brick"
+  }
+}

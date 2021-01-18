@@ -1,0 +1,20 @@
+{
+  "_fv": 15,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Smoking",
+    "xpReward": 1.0,
+    "cookingTime": 100,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "smokingInputStack": {
+      "value": "CUSTOM:CrackledEnderwart"
+    },
+    "smokingReturnStack": {
+      "value": "CUSTOM:CookedCrackledEnderwart"
+    },
+    "name": "cooked_crackled_enderwart_recipe",
+    "namespace": "mod"
+  }
+}

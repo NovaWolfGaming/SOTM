@@ -1,0 +1,19 @@
+{
+  "_fv": 15,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:Mushroomblackitem"
+      },
+      {
+        "value": "CUSTOM:Mushroomyellowitem"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "name": "undershrooms",
+    "namespace": "mod"
+  }
+}

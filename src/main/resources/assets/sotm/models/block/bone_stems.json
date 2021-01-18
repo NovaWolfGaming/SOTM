@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "sotm:blocks/bone_stems_2",
+    "particle": "sotm:blocks/bone_stems_2"
+  }
+}

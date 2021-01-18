@@ -1,0 +1,9 @@
+{
+  "group": "sotm",
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "sotm:dark_quartzstone"
+  },
+  "result": "sotm:dark_quartzstone_smooth"
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "block/slab_top",
+  "textures": {
+    "bottom": "sotm:blocks/marble_bricks_pink",
+    "top": "sotm:blocks/marble_bricks_pink",
+    "side": "sotm:blocks/marble_bricks_pink"
+  }
+}

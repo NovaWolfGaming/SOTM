@@ -1,0 +1,46 @@
+{
+  "_fv": 15,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:LeatherStrips"
+      },
+      {
+        "value": "CUSTOM:LeatherStrips"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:LeatherStrips"
+      },
+      {
+        "value": "TAG:slimeball"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:LeatherStrips"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "Items.LEAD"
+    },
+    "name": "lead_recipe",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "sotm:rubygem"
+    },
+    "1": {
+      "item": "sotm:rubygem"
+    },
+    "2": {
+      "item": "sotm:rubygem"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "7": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "sotm:rubypickaxe",
+    "count": 1
+  }
+}

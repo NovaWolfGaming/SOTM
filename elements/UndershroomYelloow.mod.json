@@ -1,0 +1,108 @@
+{
+  "_fv": 15,
+  "_type": "biome",
+  "definition": {
+    "name": "Yellow Undershroom Plains",
+    "groundBlock": {
+      "value": "CUSTOM:Cryphilium"
+    },
+    "undergroundBlock": {
+      "value": "CUSTOM:UnderworldMud"
+    },
+    "airColor": {
+      "value": -16737946,
+      "falpha": 0.0
+    },
+    "grassColor": {
+      "value": -16724839,
+      "falpha": 0.0
+    },
+    "foliageColor": {
+      "value": -16724839,
+      "falpha": 0.0
+    },
+    "waterColor": {
+      "value": -3407872,
+      "falpha": 0.0
+    },
+    "waterFogColor": {
+      "value": -3407872,
+      "falpha": 0.0
+    },
+    "biomeCategory": "NONE",
+    "parent": {
+      "value": "No parent"
+    },
+    "rainingPossibility": 0.5,
+    "temperature": 0.5,
+    "baseHeight": 0.1,
+    "heightVariation": 0.2,
+    "biomeType": "WARM",
+    "spawnBiome": false,
+    "biomeWeight": 1,
+    "biomeDictionaryTypes": [],
+    "grassPerChunk": 0,
+    "seagrassPerChunk": 0,
+    "flowersPerChunk": 0,
+    "mushroomsPerChunk": 1,
+    "bigMushroomsChunk": 0,
+    "sandPatchesPerChunk": 0,
+    "gravelPatchesPerChunk": 0,
+    "reedsPerChunk": 0,
+    "cactiPerChunk": 0,
+    "treesPerChunk": 2,
+    "vanillaTreeType": "Default",
+    "treeType": 1,
+    "minHeight": 6,
+    "treeStem": {
+      "value": "Blocks.MUSHROOM_STEM"
+    },
+    "treeBranch": {
+      "value": "CUSTOM:YellowMushroomShell"
+    },
+    "treeVines": {
+      "value": "Blocks.AIR"
+    },
+    "treeFruits": {
+      "value": "Blocks.AIR"
+    },
+    "spawnStronghold": true,
+    "spawnMineshaft": true,
+    "spawnPillagerOutpost": true,
+    "villageType": "none",
+    "spawnWoodlandMansion": false,
+    "spawnJungleTemple": false,
+    "spawnDesertPyramid": false,
+    "spawnIgloo": false,
+    "spawnOceanMonument": false,
+    "spawnShipwreck": false,
+    "oceanRuinType": "NONE",
+    "defaultFeatures": [
+      "Caves",
+      "MonsterRooms",
+      "Structures",
+      "Ores",
+      "Lakes"
+    ],
+    "spawnEntries": [
+      {
+        "entity": {
+          "value": "CUSTOM:Duck"
+        },
+        "minGroup": 1,
+        "maxGroup": 2,
+        "weight": 2,
+        "spawnType": "creature"
+      },
+      {
+        "entity": {
+          "value": "CUSTOM:CorruptedOnes"
+        },
+        "minGroup": 1,
+        "maxGroup": 1,
+        "weight": 1,
+        "spawnType": "monster"
+      }
+    ]
+  }
+}

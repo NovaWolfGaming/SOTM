@@ -1,0 +1,8 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "sotm:blocks/light_oak_planks_2",
+    "top": "sotm:blocks/light_oak_planks_2",
+    "side": "sotm:blocks/light_oak_planks_2"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "sotm:blocks/upper_cacti",
+    "particle": "sotm:blocks/upper_cacti"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sotm:blocks/iron_ore_underworld",
+    "up": "sotm:blocks/iron_ore_underworld",
+    "north": "sotm:blocks/iron_ore_underworld",
+    "east": "sotm:blocks/iron_ore_underworld",
+    "south": "sotm:blocks/iron_ore_underworld",
+    "west": "sotm:blocks/iron_ore_underworld",
+    "particle": "sotm:blocks/iron_ore_underworld"
+  }
+}

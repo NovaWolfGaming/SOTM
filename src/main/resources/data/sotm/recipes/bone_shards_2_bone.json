@@ -1,0 +1,16 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "sotm:bone_shard"
+    },
+    {
+      "item": "sotm:bone_shard"
+    }
+  ],
+  "result": {
+    "item": "minecraft:bone",
+    "count": 1
+  }
+}

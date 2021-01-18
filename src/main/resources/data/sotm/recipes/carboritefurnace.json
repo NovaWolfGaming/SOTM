@@ -1,0 +1,39 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "tag": "sotmstones"
+    },
+    "1": {
+      "tag": "sotmstones"
+    },
+    "2": {
+      "tag": "sotmstones"
+    },
+    "3": {
+      "tag": "sotmstones"
+    },
+    "5": {
+      "tag": "sotmstones"
+    },
+    "6": {
+      "tag": "sotmstones"
+    },
+    "7": {
+      "tag": "sotmstones"
+    },
+    "8": {
+      "tag": "sotmstones"
+    }
+  },
+  "result": {
+    "item": "minecraft:furnace",
+    "count": 1
+  }
+}

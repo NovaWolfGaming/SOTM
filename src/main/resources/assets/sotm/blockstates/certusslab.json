@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "sotm:block/certusslab"
+    },
+    "type=top": {
+      "model": "sotm:block/certusslab_top"
+    },
+    "type=double": {
+      "model": "sotm:block/certusslab_full"
+    }
+  }
+}

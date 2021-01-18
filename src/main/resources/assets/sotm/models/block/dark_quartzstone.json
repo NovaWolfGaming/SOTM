@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sotm:blocks/quartzstone_black",
+    "up": "sotm:blocks/quartzstone_black",
+    "north": "sotm:blocks/quartzstone_black",
+    "east": "sotm:blocks/quartzstone_black",
+    "south": "sotm:blocks/quartzstone_black",
+    "west": "sotm:blocks/quartzstone_black",
+    "particle": "sotm:blocks/quartzstone_black"
+  }
+}

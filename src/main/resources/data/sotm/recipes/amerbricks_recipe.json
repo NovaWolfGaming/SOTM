@@ -1,0 +1,26 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "sotm:amerbrick"
+    },
+    "1": {
+      "item": "sotm:amerbrick"
+    },
+    "2": {
+      "item": "sotm:amerbrick"
+    },
+    "3": {
+      "item": "sotm:amerbrick"
+    }
+  },
+  "result": {
+    "item": "sotm:amerbricks",
+    "count": 1
+  }
+}

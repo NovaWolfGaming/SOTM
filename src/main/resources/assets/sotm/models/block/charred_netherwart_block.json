@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sotm:blocks/charred_netherwart_block",
+    "up": "sotm:blocks/charred_netherwart_block",
+    "north": "sotm:blocks/charred_netherwart_block",
+    "east": "sotm:blocks/charred_netherwart_block",
+    "south": "sotm:blocks/charred_netherwart_block",
+    "west": "sotm:blocks/charred_netherwart_block",
+    "particle": "sotm:blocks/charred_netherwart_block"
+  }
+}

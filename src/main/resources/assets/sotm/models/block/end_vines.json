@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "sotm:blocks/endvine",
+    "particle": "sotm:blocks/endvine"
+  }
+}

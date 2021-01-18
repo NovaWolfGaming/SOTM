@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "sotm:block/blackstonesmoothslab"
+    },
+    "type=top": {
+      "model": "sotm:block/blackstonesmoothslab_top"
+    },
+    "type=double": {
+      "model": "sotm:block/blackstonesmoothslab_full"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "sotm:rubyoreblock"
+    }
+  ],
+  "result": {
+    "item": "sotm:rubygem",
+    "count": 9
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "sotm:bauxite_bricks"
+    },
+    "1": {
+      "item": "sotm:bauxite_bricks"
+    },
+    "2": {
+      "item": "sotm:bauxite_bricks"
+    }
+  },
+  "result": {
+    "item": "sotm:bauxite_brick_slab",
+    "count": 6
+  }
+}

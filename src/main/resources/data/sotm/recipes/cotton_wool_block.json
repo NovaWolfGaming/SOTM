@@ -1,0 +1,26 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "sotm:cotton"
+    },
+    "1": {
+      "item": "sotm:cotton"
+    },
+    "2": {
+      "item": "sotm:cotton"
+    },
+    "3": {
+      "item": "sotm:cotton"
+    }
+  },
+  "result": {
+    "item": "sotm:cotton_wool",
+    "count": 1
+  }
+}

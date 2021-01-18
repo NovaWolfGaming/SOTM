@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "sotm:blocks/burnt_flower",
+    "particle": "sotm:blocks/burnt_flower"
+  }
+}

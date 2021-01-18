@@ -1,0 +1,20 @@
+{
+  "replace": false,
+  "values": [
+    "sotm:euaphreliafence",
+    "sotm:silver_fence",
+    "sotm:blood_elder_fence",
+    "sotm:light_oak_fence",
+    "sotm:dragon_fir_fence",
+    "sotm:twisted_maple_fence",
+    "sotm:black_mushroom_fence",
+    "sotm:yellow_mushroom_fence",
+    "sotm:cherry_wood_fence",
+    "sotm:walnut_wood_fence",
+    "sotm:assidium_wood_fence",
+    "sotm:spotted_ashwood_fence",
+    "sotm:spotted_ashwood_fence_gate",
+    "sotm:bamboo_fence",
+    "sotm:bamboo_fence_gate"
+  ]
+}

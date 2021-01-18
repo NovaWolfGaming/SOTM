@@ -1,0 +1,26 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "sotm:flour"
+    },
+    "1": {
+      "item": "sotm:flour"
+    },
+    "2": {
+      "item": "sotm:flour"
+    },
+    "3": {
+      "item": "sotm:flour"
+    }
+  },
+  "result": {
+    "item": "sotm:dough",
+    "count": 4
+  }
+}

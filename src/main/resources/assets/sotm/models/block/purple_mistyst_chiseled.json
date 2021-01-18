@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sotm:blocks/purple_mistyst_chiseled",
+    "up": "sotm:blocks/purple_mistyst_chiseled",
+    "north": "sotm:blocks/purple_mistyst_chiseled",
+    "east": "sotm:blocks/purple_mistyst_chiseled",
+    "south": "sotm:blocks/purple_mistyst_chiseled",
+    "west": "sotm:blocks/purple_mistyst_chiseled",
+    "particle": "sotm:blocks/purple_mistyst_chiseled"
+  }
+}

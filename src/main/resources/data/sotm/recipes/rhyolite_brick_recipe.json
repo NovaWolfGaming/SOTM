@@ -1,0 +1,26 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "sotm:rhyolite"
+    },
+    "1": {
+      "item": "sotm:rhyolite"
+    },
+    "2": {
+      "item": "sotm:rhyolite"
+    },
+    "3": {
+      "item": "sotm:rhyolite"
+    }
+  },
+  "result": {
+    "item": "sotm:rhyolite_brick",
+    "count": 4
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "sotm:blocks/enderite_brick",
+    "top": "sotm:blocks/enderite_brick",
+    "side": "sotm:blocks/enderite_brick"
+  }
+}

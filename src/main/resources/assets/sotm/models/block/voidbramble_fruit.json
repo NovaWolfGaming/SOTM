@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "sotm:blocks/void_bramble_block",
+    "particle": "sotm:blocks/void_bramble_block"
+  }
+}

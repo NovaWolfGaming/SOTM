@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "sotm:blocks/grapes_bush_new_stage_4",
+    "particle": "sotm:blocks/grapes_bush_new_stage_4"
+  }
+}

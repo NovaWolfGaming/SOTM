@@ -1,0 +1,26 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "sotm:quartzstonesmooth"
+    },
+    "1": {
+      "item": "sotm:quartzstonesmooth"
+    },
+    "2": {
+      "item": "sotm:quartzstonesmooth"
+    },
+    "3": {
+      "item": "sotm:quartzstonesmooth"
+    }
+  },
+  "result": {
+    "item": "sotm:quartz_stone_brick",
+    "count": 4
+  }
+}

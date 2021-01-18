@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sotm:blocks/blubluh_pillar_top_new",
+    "up": "sotm:blocks/blubluh_pillar_top_new",
+    "north": "sotm:blocks/blubluh_pillar_side_new",
+    "east": "sotm:blocks/blubluh_pillar_side_new",
+    "south": "sotm:blocks/blubluh_pillar_side_new",
+    "west": "sotm:blocks/blubluh_pillar_side_new",
+    "particle": "sotm:blocks/blubluh_pillar_top_new"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "sotm:begonia_purple"
+    }
+  },
+  "result": {
+    "item": "minecraft:purple_dye",
+    "count": 1
+  }
+}

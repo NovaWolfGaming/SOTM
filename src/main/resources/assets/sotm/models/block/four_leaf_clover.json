@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "sotm:blocks/four_leaf_clover",
+    "particle": "sotm:blocks/four_leaf_clover"
+  }
+}

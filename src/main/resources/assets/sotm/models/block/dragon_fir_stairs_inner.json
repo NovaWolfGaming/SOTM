@@ -1,0 +1,8 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "sotm:blocks/dragon_fir_planks",
+    "top": "sotm:blocks/dragon_fir_planks",
+    "side": "sotm:blocks/dragon_fir_planks"
+  }
+}

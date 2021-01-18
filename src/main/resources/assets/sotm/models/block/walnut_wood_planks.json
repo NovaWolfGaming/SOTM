@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "sotm:blocks/walnut_planks",
+    "particle": "sotm:blocks/walnut_planks"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "sotm:blocks/chilli_plant_3",
+    "particle": "sotm:blocks/chilli_plant_3"
+  }
+}

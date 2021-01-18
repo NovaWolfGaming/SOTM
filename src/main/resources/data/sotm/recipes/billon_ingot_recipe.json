@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "sotm:copperingot"
+  },
+  "addition": {
+    "item": "sotm:silveringot"
+  },
+  "result": {
+    "item": "sotm:billon_ingot"
+  }
+}

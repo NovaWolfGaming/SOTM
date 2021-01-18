@@ -1,0 +1,7 @@
+{
+  "parent": "block/door_bottom",
+  "textures": {
+    "bottom": "sotm:blocks/assidium_door_bottom",
+    "top": "sotm:blocks/assidium_door_top"
+  }
+}

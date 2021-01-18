@@ -1,0 +1,39 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "sotm:sapphire"
+    },
+    "2": {
+      "item": "sotm:sapphire"
+    },
+    "3": {
+      "item": "sotm:sapphire"
+    },
+    "4": {
+      "item": "sotm:sapphire"
+    },
+    "5": {
+      "item": "sotm:sapphire"
+    },
+    "6": {
+      "item": "sotm:sapphire"
+    },
+    "7": {
+      "item": "sotm:sapphire"
+    },
+    "8": {
+      "item": "sotm:sapphire"
+    }
+  },
+  "result": {
+    "item": "sotm:sapphire_armor_chestplate",
+    "count": 1
+  }
+}

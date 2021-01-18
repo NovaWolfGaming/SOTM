@@ -1,0 +1,26 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "sotm:sulphur_quartz"
+    },
+    "1": {
+      "item": "sotm:sulphur_quartz"
+    },
+    "2": {
+      "item": "sotm:sulphur_quartz"
+    },
+    "3": {
+      "item": "sotm:sulphur_quartz"
+    }
+  },
+  "result": {
+    "item": "sotm:sulphur_quartz_block",
+    "count": 1
+  }
+}

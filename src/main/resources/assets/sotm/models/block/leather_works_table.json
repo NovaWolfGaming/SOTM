@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sotm:blocks/grinder_bottom",
+    "up": "sotm:blocks/leather_works_table_top",
+    "north": "sotm:blocks/grinder_side",
+    "east": "sotm:blocks/grinder_side",
+    "south": "sotm:blocks/grinder_side",
+    "west": "sotm:blocks/grinder_side",
+    "particle": "sotm:blocks/grinder_bottom"
+  }
+}

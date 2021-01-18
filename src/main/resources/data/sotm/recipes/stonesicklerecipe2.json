@@ -1,0 +1,33 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 12",
+    "  5",
+    "678"
+  ],
+  "key": {
+    "1": {
+      "tag": "sotmstones"
+    },
+    "2": {
+      "tag": "sotmstones"
+    },
+    "5": {
+      "tag": "sotmstones"
+    },
+    "6": {
+      "item": "minecraft:stick"
+    },
+    "7": {
+      "tag": "sotmstones"
+    },
+    "8": {
+      "tag": "sotmstones"
+    }
+  },
+  "result": {
+    "item": "sotm:stonesickle",
+    "count": 1
+  }
+}

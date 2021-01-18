@@ -1,0 +1,33 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "34 ",
+    "6  "
+  ],
+  "key": {
+    "0": {
+      "item": "sotm:leather_strips"
+    },
+    "1": {
+      "item": "sotm:leather_strips"
+    },
+    "2": {
+      "item": "minecraft:leather"
+    },
+    "3": {
+      "item": "sotm:leather_strips"
+    },
+    "4": {
+      "item": "minecraft:leather"
+    },
+    "6": {
+      "item": "minecraft:leather"
+    }
+  },
+  "result": {
+    "item": "sotm:quiver",
+    "count": 1
+  }
+}

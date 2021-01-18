@@ -1,0 +1,26 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "sotm:chalk"
+    },
+    "1": {
+      "item": "sotm:chalk"
+    },
+    "2": {
+      "item": "sotm:chalk"
+    },
+    "3": {
+      "item": "sotm:chalk"
+    }
+  },
+  "result": {
+    "item": "sotm:polished_chalk",
+    "count": 4
+  }
+}

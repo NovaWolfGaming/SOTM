@@ -1,0 +1,26 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "sotm:carbonsandstone"
+    },
+    "1": {
+      "item": "sotm:carbonsandstone"
+    },
+    "2": {
+      "item": "sotm:carbonsandstone"
+    },
+    "3": {
+      "item": "sotm:carbonsandstone"
+    }
+  },
+  "result": {
+    "item": "sotm:carbonsmoothsandstone",
+    "count": 4
+  }
+}

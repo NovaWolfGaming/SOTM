@@ -1,0 +1,46 @@
+{
+  "_fv": 15,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Fibre"
+      },
+      {
+        "value": "CUSTOM:Fibre"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Fibre"
+      },
+      {
+        "value": "CUSTOM:Fibre"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "Items.STRING"
+    },
+    "name": "fibre_2_string",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "sotm:blocks/jungle_shrubs",
+    "particle": "sotm:blocks/jungle_shrubs"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "sotm:block/bloodstoneslab"
+    },
+    "type=top": {
+      "model": "sotm:block/bloodstoneslab_top"
+    },
+    "type=double": {
+      "model": "sotm:block/bloodstoneslab_full"
+    }
+  }
+}

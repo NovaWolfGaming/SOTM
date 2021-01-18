@@ -1,0 +1,26 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "sotm:green_mistyst"
+    },
+    "1": {
+      "item": "sotm:green_mistyst"
+    },
+    "2": {
+      "item": "sotm:green_mistyst"
+    },
+    "3": {
+      "item": "sotm:green_mistyst"
+    }
+  },
+  "result": {
+    "item": "sotm:green_mistyst_brick",
+    "count": 4
+  }
+}

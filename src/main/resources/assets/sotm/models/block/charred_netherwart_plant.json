@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "sotm:blocks/charred_netherwart",
+    "particle": "sotm:blocks/charred_netherwart"
+  }
+}

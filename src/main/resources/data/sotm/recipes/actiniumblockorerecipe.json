@@ -1,0 +1,13 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "sotm:actiniumoreblock"
+    }
+  ],
+  "result": {
+    "item": "sotm:actiniumingot",
+    "count": 9
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sotm:blocks/pespil_ore",
+    "up": "sotm:blocks/pespil_ore",
+    "north": "sotm:blocks/pespil_ore",
+    "east": "sotm:blocks/pespil_ore",
+    "south": "sotm:blocks/pespil_ore",
+    "west": "sotm:blocks/pespil_ore",
+    "particle": "sotm:blocks/pespil_ore"
+  }
+}

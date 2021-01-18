@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "sotm:blocks/frosted_rock",
+    "particle": "sotm:blocks/frosted_rock"
+  }
+}

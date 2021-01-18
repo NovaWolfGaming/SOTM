@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "sotm:blocks/begonia_orange",
+    "particle": "sotm:blocks/begonia_orange"
+  }
+}

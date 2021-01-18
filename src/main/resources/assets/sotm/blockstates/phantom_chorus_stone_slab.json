@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "sotm:block/phantom_chorus_stone_slab"
+    },
+    "type=top": {
+      "model": "sotm:block/phantom_chorus_stone_slab_top"
+    },
+    "type=double": {
+      "model": "sotm:block/phantom_chorus_stone_slab_full"
+    }
+  }
+}

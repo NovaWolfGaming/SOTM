@@ -1,0 +1,26 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "sotm:purple_shulkerite"
+    },
+    "1": {
+      "item": "sotm:purple_shulkerite"
+    },
+    "2": {
+      "item": "sotm:purple_shulkerite"
+    },
+    "3": {
+      "item": "sotm:purple_shulkerite"
+    }
+  },
+  "result": {
+    "item": "sotm:purple_shulkerite_brick",
+    "count": 4
+  }
+}

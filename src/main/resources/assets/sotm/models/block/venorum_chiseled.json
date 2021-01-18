@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sotm:blocks/venorum_chiseled",
+    "up": "sotm:blocks/venorum_chiseled",
+    "north": "sotm:blocks/venorum_chiseled",
+    "east": "sotm:blocks/venorum_chiseled",
+    "south": "sotm:blocks/venorum_chiseled",
+    "west": "sotm:blocks/venorum_chiseled",
+    "particle": "sotm:blocks/venorum_chiseled"
+  }
+}

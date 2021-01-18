@@ -1,0 +1,30 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 12",
+    " 45",
+    "6  "
+  ],
+  "key": {
+    "1": {
+      "item": "sotm:artron_ball"
+    },
+    "2": {
+      "item": "sotm:ambergem"
+    },
+    "4": {
+      "item": "sotm:silveringot"
+    },
+    "5": {
+      "item": "sotm:artron_ball"
+    },
+    "6": {
+      "item": "sotm:copperingot"
+    }
+  },
+  "result": {
+    "item": "sotm:sonic_screwdriver",
+    "count": 1
+  }
+}

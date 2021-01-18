@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "sotm:blocks/double_plant_lavender_bottom",
+    "particle": "sotm:blocks/double_plant_lavender_bottom"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "_fv": 15,
+  "_type": "painting",
+  "definition": {
+    "texture": "mona_lisa.png",
+    "width": 32,
+    "height": 48
+  }
+}

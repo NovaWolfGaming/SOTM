@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_side",
+  "textures": {
+    "texture": "sotm:blocks/dragon_fir_planks",
+    "particle": "sotm:blocks/dragon_fir_planks"
+  }
+}

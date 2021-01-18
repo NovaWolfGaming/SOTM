@@ -1,0 +1,7 @@
+{
+  "parent": "block/door_top",
+  "textures": {
+    "bottom": "sotm:blocks/blood_alder_door_bottom",
+    "top": "sotm:blocks/blood_alder_door_top"
+  }
+}

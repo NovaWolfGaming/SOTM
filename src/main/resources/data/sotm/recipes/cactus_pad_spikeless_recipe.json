@@ -1,0 +1,16 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "sotm:cactus_pad"
+    }
+  },
+  "result": {
+    "item": "sotm:cactus_pad_spikeless",
+    "count": 1
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "sotm:block/walnut_wood_slab"
+    },
+    "type=top": {
+      "model": "sotm:block/walnut_wood_slab_top"
+    },
+    "type=double": {
+      "model": "sotm:block/walnut_wood_slab_full"
+    }
+  }
+}

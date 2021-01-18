@@ -1,0 +1,32 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "sotm:cherry_wood_planks"
+    },
+    "1": {
+      "item": "sotm:cherry_wood_planks"
+    },
+    "2": {
+      "item": "sotm:cherry_wood_planks"
+    },
+    "3": {
+      "item": "sotm:cherry_wood_planks"
+    },
+    "4": {
+      "item": "sotm:cherry_wood_planks"
+    },
+    "5": {
+      "item": "sotm:cherry_wood_planks"
+    }
+  },
+  "result": {
+    "item": "sotm:cherry_wood_door",
+    "count": 1
+  }
+}

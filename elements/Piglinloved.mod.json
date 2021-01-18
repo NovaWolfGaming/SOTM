@@ -1,0 +1,55 @@
+{
+  "_fv": 15,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:GoldenSickle"
+      },
+      {
+        "value": "CUSTOM:RoseGoldIngot"
+      },
+      {
+        "value": "CUSTOM:RoseGoldPickaxe"
+      },
+      {
+        "value": "CUSTOM:RoseGoldAxe"
+      },
+      {
+        "value": "CUSTOM:RoseGoldSword"
+      },
+      {
+        "value": "CUSTOM:RoseGoldShovel"
+      },
+      {
+        "value": "CUSTOM:RoseGoldHoe"
+      },
+      {
+        "value": "CUSTOM:RoseArmor.helmet"
+      },
+      {
+        "value": "CUSTOM:RoseArmor.body"
+      },
+      {
+        "value": "CUSTOM:RoseArmor.legs"
+      },
+      {
+        "value": "CUSTOM:RoseArmor.boots"
+      },
+      {
+        "value": "CUSTOM:RoseGoldNuggets"
+      },
+      {
+        "value": "CUSTOM:UnderworldGoldOre"
+      },
+      {
+        "value": "CUSTOM:NetherGoldOre"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "name": "piglin_loved",
+    "namespace": "minecraft"
+  }
+}

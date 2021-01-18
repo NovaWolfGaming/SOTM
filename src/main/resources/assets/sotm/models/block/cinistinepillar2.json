@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sotm:blocks/cinistine_pillar_carborite",
+    "up": "sotm:blocks/cinistine_pillar_carborite",
+    "north": "sotm:blocks/cinistine_pillar_side_carborite",
+    "east": "sotm:blocks/cinistine_pillar_side_carborite",
+    "south": "sotm:blocks/cinistine_pillar_side_carborite",
+    "west": "sotm:blocks/cinistine_pillar_side_carborite",
+    "particle": "sotm:blocks/cinistine_pillar_carborite"
+  }
+}

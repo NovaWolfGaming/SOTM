@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "sotm:blocks/flower_freesia_yellow",
+    "particle": "sotm:blocks/flower_freesia_yellow"
+  }
+}

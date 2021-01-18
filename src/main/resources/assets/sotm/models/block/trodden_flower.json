@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "sotm:blocks/flower_allium",
+    "particle": "sotm:blocks/flower_allium"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "sotm:dragonstone_gem"
+    },
+    "1": {
+      "item": "sotm:dragonstone_gem"
+    },
+    "2": {
+      "item": "sotm:dragonstone_gem"
+    },
+    "3": {
+      "item": "sotm:dragonstone_gem"
+    },
+    "4": {
+      "item": "sotm:dragonstone_gem"
+    },
+    "5": {
+      "item": "sotm:dragonstone_gem"
+    },
+    "6": {
+      "item": "sotm:dragonstone_gem"
+    },
+    "7": {
+      "item": "sotm:dragonstone_gem"
+    },
+    "8": {
+      "item": "sotm:dragonstone_gem"
+    }
+  },
+  "result": {
+    "item": "sotm:dragonstone_ore_block",
+    "count": 1
+  }
+}

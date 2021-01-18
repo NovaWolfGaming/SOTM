@@ -1,0 +1,13 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "sotm:venomite_ore_ore_block"
+    }
+  ],
+  "result": {
+    "item": "sotm:venomite_ore_gem",
+    "count": 9
+  }
+}

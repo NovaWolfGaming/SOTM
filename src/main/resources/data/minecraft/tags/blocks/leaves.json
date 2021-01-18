@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "sotm:eurphrelialeaves",
+    "sotm:lightoakleaves",
+    "sotm:dragon_fir_leaves",
+    "sotm:twisted_maple_leaves",
+    "sotm:blood_elder_leaves",
+    "sotm:cherry_leaves",
+    "sotm:walnut_leaves",
+    "sotm:assidium_leaves",
+    "sotm:spotted_ashwood_leaves"
+  ]
+}

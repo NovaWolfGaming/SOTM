@@ -1,0 +1,9 @@
+{
+  "group": "granite_sotm",
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "sotm:blackgranite"
+  },
+  "result": "sotm:polishedblackgrabite"
+}

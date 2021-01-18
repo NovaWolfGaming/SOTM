@@ -1,0 +1,33 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "sotm:blackstonebrick"
+    },
+    "3": {
+      "item": "sotm:blackstonebrick"
+    },
+    "4": {
+      "item": "sotm:blackstonebrick"
+    },
+    "6": {
+      "item": "sotm:blackstonebrick"
+    },
+    "7": {
+      "item": "sotm:blackstonebrick"
+    },
+    "8": {
+      "item": "sotm:blackstonebrick"
+    }
+  },
+  "result": {
+    "item": "sotm:blackstonebrickstairs",
+    "count": 6
+  }
+}

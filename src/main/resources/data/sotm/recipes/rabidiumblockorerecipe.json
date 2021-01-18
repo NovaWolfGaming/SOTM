@@ -1,0 +1,13 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "sotm:rabidiumoreblock"
+    }
+  ],
+  "result": {
+    "item": "sotm:rabidiumgem",
+    "count": 9
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "sotm:mushroomblackitem"
+    },
+    {
+      "item": "sotm:mushroomyellowitem"
+    },
+    {
+      "item": "minecraft:bowl"
+    }
+  ],
+  "result": {
+    "item": "sotm:undershroom_stew",
+    "count": 1
+  }
+}

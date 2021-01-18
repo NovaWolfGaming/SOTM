@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_side",
+  "textures": {
+    "texture": "sotm:blocks/darklight_planks",
+    "particle": "sotm:blocks/darklight_planks"
+  }
+}

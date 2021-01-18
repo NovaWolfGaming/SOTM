@@ -1,0 +1,23 @@
+{
+  "_fv": 15,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Smithing",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "smithingInputStack": {
+      "value": "Items.STICK"
+    },
+    "smithingInputAdditionStack": {
+      "value": "CUSTOM:CinistineIngot"
+    },
+    "smithingReturnStack": {
+      "value": "CUSTOM:IronRapierHilt"
+    },
+    "name": "iron_rapier_hilt_recipe",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "_fv": 15,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:Carborite"
+      },
+      {
+        "value": "CUSTOM:PurpurStone"
+      },
+      {
+        "value": "CUSTOM:BlubluhStone"
+      },
+      {
+        "value": "CUSTOM:Netherstone"
+      },
+      {
+        "value": "CUSTOM:ChorusStoneNew"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "name": "blocks/stone",
+    "namespace": "minecraft"
+  }
+}

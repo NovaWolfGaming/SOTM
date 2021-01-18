@@ -1,0 +1,26 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "sotm:corrupted_endstone"
+    },
+    "1": {
+      "item": "sotm:corrupted_endstone"
+    },
+    "2": {
+      "item": "sotm:corrupted_endstone"
+    },
+    "3": {
+      "item": "sotm:corrupted_endstone"
+    }
+  },
+  "result": {
+    "item": "sotm:corrupted_endstone_bricks",
+    "count": 4
+  }
+}

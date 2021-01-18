@@ -1,0 +1,238 @@
+{
+  "type": "sotm:underworld",
+  "generator": {
+    "type": "minecraft:noise",
+    "seed": 0,
+    "biome_source": {
+      "type": "minecraft:multi_noise",
+      "seed": 0,
+      "altitude_noise": {
+        "firstOctave": -7,
+        "amplitudes": [
+          1,
+          1
+        ]
+      },
+      "temperature_noise": {
+        "firstOctave": -7,
+        "amplitudes": [
+          1,
+          1
+        ]
+      },
+      "humidity_noise": {
+        "firstOctave": -7,
+        "amplitudes": [
+          1,
+          1
+        ]
+      },
+      "weirdness_noise": {
+        "firstOctave": -7,
+        "amplitudes": [
+          1,
+          1
+        ]
+      },
+      "biomes": [
+        {
+          "biome": "sotm:underworldplains",
+          "parameters": {
+            "altitude": 0,
+            "temperature": 0.5,
+            "humidity": 0.1,
+            "weirdness": 0,
+            "offset": 0
+          }
+        },
+        {
+          "biome": "sotm:euphreliaforest",
+          "parameters": {
+            "altitude": 0,
+            "temperature": 0.471428571428,
+            "humidity": 0.128571428572,
+            "weirdness": 0,
+            "offset": 0
+          }
+        },
+        {
+          "biome": "sotm:lightoakforest",
+          "parameters": {
+            "altitude": 0,
+            "temperature": 0.442857142857,
+            "humidity": 0.157142857143,
+            "weirdness": 0,
+            "offset": 0
+          }
+        },
+        {
+          "biome": "sotm:carbondesert",
+          "parameters": {
+            "altitude": 0,
+            "temperature": 0.414285714286,
+            "humidity": 0.185714285714,
+            "weirdness": 0,
+            "offset": 0
+          }
+        },
+        {
+          "biome": "sotm:undershroom_black",
+          "parameters": {
+            "altitude": 0,
+            "temperature": 0.385714285714,
+            "humidity": 0.214285714286,
+            "weirdness": 0,
+            "offset": 0
+          }
+        },
+        {
+          "biome": "sotm:dragon_fir_forest",
+          "parameters": {
+            "altitude": 0,
+            "temperature": 0.357142857143,
+            "humidity": 0.242857142857,
+            "weirdness": 0,
+            "offset": 0
+          }
+        },
+        {
+          "biome": "sotm:twisted_maple_forest",
+          "parameters": {
+            "altitude": 0,
+            "temperature": 0.328571428572,
+            "humidity": 0.271428571428,
+            "weirdness": 0,
+            "offset": 0
+          }
+        },
+        {
+          "biome": "sotm:corrupted_end_plains",
+          "parameters": {
+            "altitude": 0,
+            "temperature": 0.3,
+            "humidity": 0.3,
+            "weirdness": 0,
+            "offset": 0
+          }
+        },
+        {
+          "biome": "sotm:undershroom_yellow",
+          "parameters": {
+            "altitude": 0,
+            "temperature": 0.271428571428,
+            "humidity": 0.328571428572,
+            "weirdness": 0,
+            "offset": 0
+          }
+        },
+        {
+          "biome": "sotm:shnyllium_plains",
+          "parameters": {
+            "altitude": 0,
+            "temperature": 0.242857142857,
+            "humidity": 0.357142857143,
+            "weirdness": 0,
+            "offset": 0
+          }
+        },
+        {
+          "biome": "sotm:bauxite_wastes",
+          "parameters": {
+            "altitude": 0,
+            "temperature": 0.214285714286,
+            "humidity": 0.385714285714,
+            "weirdness": 0,
+            "offset": 0
+          }
+        },
+        {
+          "biome": "sotm:blood_elder_forest",
+          "parameters": {
+            "altitude": 0,
+            "temperature": 0.185714285714,
+            "humidity": 0.414285714286,
+            "weirdness": 0,
+            "offset": 0
+          }
+        },
+        {
+          "biome": "sotm:darkstonedeltas",
+          "parameters": {
+            "altitude": 0,
+            "temperature": 0.157142857143,
+            "humidity": 0.442857142857,
+            "weirdness": 0,
+            "offset": 0
+          }
+        },
+        {
+          "biome": "sotm:bone_stem_deltas",
+          "parameters": {
+            "altitude": 0,
+            "temperature": 0.128571428572,
+            "humidity": 0.471428571428,
+            "weirdness": 0,
+            "offset": 0
+          }
+        },
+        {
+          "biome": "sotm:ashwood_forest",
+          "parameters": {
+            "altitude": 0,
+            "temperature": 0.1,
+            "humidity": 0.5,
+            "weirdness": 0,
+            "offset": 0
+          }
+        }
+      ]
+    },
+    "settings": {
+      "name": "sotm:underworld",
+      "bedrock_roof_position": -10,
+      "bedrock_floor_position": 0,
+      "sea_level": 63,
+      "disable_mob_generation": false,
+      "default_block": {
+        "Name": "sotm:carborite"
+      },
+      "default_fluid": {
+        "Name": "sotm:agalt",
+        "Properties": {
+          "level": "0"
+        }
+      },
+      "noise": {
+        "min_y": 0,
+        "height": 256,
+        "density_factor": 1,
+        "density_offset": -0.46875,
+        "size_horizontal": 1,
+        "size_vertical": 2,
+        "simplex_surface_noise": true,
+        "random_density_offset": true,
+        "island_noise_override": false,
+        "amplified": false,
+        "sampling": {
+          "xz_scale": 1,
+          "y_scale": 1,
+          "xz_factor": 80,
+          "y_factor": 160
+        },
+        "bottom_slide": {
+          "target": -30,
+          "size": 0,
+          "offset": 0
+        },
+        "top_slide": {
+          "target": -10,
+          "size": 3,
+          "offset": 0
+        }
+      },
+      "structures": {
+        "structures": {}
+      }
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_inventory",
+  "textures": {
+    "texture": "sotm:blocks/bamboo_planks",
+    "particle": "sotm:blocks/bamboo_planks"
+  }
+}

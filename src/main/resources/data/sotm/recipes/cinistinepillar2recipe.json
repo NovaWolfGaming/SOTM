@@ -1,0 +1,42 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "sotm:polishedcarborite"
+    },
+    "1": {
+      "item": "sotm:cinistineingot"
+    },
+    "2": {
+      "item": "sotm:polishedcarborite"
+    },
+    "3": {
+      "item": "sotm:polishedcarborite"
+    },
+    "4": {
+      "item": "sotm:cinistineingot"
+    },
+    "5": {
+      "item": "sotm:polishedcarborite"
+    },
+    "6": {
+      "item": "sotm:polishedcarborite"
+    },
+    "7": {
+      "item": "sotm:cinistineingot"
+    },
+    "8": {
+      "item": "sotm:polishedcarborite"
+    }
+  },
+  "result": {
+    "item": "sotm:cinistinepillar2",
+    "count": 1
+  }
+}

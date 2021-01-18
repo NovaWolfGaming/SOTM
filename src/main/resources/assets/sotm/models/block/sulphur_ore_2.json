@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sotm:blocks/sulphur_ore_charred",
+    "up": "sotm:blocks/sulphur_ore_charred",
+    "north": "sotm:blocks/sulphur_ore_charred",
+    "east": "sotm:blocks/sulphur_ore_charred",
+    "south": "sotm:blocks/sulphur_ore_charred",
+    "west": "sotm:blocks/sulphur_ore_charred",
+    "particle": "sotm:blocks/sulphur_ore_charred"
+  }
+}

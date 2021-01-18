@@ -1,0 +1,46 @@
+{
+  "_fv": 15,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 3,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:PolishedCobblestone"
+      },
+      {
+        "value": "CUSTOM:PolishedCobblestone"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:PolishedCobblestone"
+      },
+      {
+        "value": "CUSTOM:PolishedCobblestone"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:PolishedCobblestone"
+      },
+      {
+        "value": "CUSTOM:PolishedCobblestone"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:CobblestoneDoorRecipe"
+    },
+    "name": "cobblestone_smooth_door_recipe",
+    "namespace": "mod"
+  }
+}

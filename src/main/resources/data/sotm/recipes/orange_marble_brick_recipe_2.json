@@ -1,0 +1,26 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "sotm:orange_marble_polished_2"
+    },
+    "1": {
+      "item": "sotm:orange_marble_polished_2"
+    },
+    "2": {
+      "item": "sotm:orange_marble_polished_2"
+    },
+    "3": {
+      "item": "sotm:orange_marble_polished_2"
+    }
+  },
+  "result": {
+    "item": "sotm:orange_marble_brick_2",
+    "count": 4
+  }
+}

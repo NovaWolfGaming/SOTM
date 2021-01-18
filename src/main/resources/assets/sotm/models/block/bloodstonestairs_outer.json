@@ -1,0 +1,8 @@
+{
+  "parent": "block/outer_stairs",
+  "textures": {
+    "bottom": "sotm:blocks/bloodstone_block_bottom",
+    "top": "sotm:blocks/bloodstone_block_bottom",
+    "side": "sotm:blocks/bloodstone_block_bottom"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sotm:blocks/furitechiseledtop2",
+    "up": "sotm:blocks/furitechiseledtop2",
+    "north": "sotm:blocks/furitechiseled2",
+    "east": "sotm:blocks/furitechiseled2",
+    "south": "sotm:blocks/furitechiseled2",
+    "west": "sotm:blocks/furitechiseled2",
+    "particle": "sotm:blocks/furitechiseledtop2"
+  }
+}

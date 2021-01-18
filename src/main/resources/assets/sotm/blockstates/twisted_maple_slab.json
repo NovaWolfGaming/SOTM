@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "sotm:block/twisted_maple_slab"
+    },
+    "type=top": {
+      "model": "sotm:block/twisted_maple_slab_top"
+    },
+    "type=double": {
+      "model": "sotm:block/twisted_maple_slab_full"
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "block/outer_stairs",
+  "textures": {
+    "bottom": "sotm:blocks/certus_block",
+    "top": "sotm:blocks/certus_block",
+    "side": "sotm:blocks/certus_block"
+  }
+}

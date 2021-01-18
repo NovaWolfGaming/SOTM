@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sotm:blocks/walnut_log_top",
+    "up": "sotm:blocks/walnut_log_top",
+    "north": "sotm:blocks/walnut_log",
+    "east": "sotm:blocks/walnut_log",
+    "south": "sotm:blocks/walnut_log",
+    "west": "sotm:blocks/walnut_log",
+    "particle": "sotm:blocks/walnut_log_top"
+  }
+}

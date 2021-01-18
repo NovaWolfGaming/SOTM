@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "sotm:blocks/short_grass",
+    "particle": "sotm:blocks/short_grass"
+  }
+}

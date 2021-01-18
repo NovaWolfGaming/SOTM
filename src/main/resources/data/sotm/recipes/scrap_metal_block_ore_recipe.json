@@ -1,0 +1,13 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "sotm:scrap_metal_block"
+    }
+  ],
+  "result": {
+    "item": "sotm:scrap_metal_ingot",
+    "count": 9
+  }
+}

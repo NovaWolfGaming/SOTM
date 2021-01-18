@@ -1,0 +1,33 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "sotm:blackstonesmooth"
+    },
+    "3": {
+      "item": "sotm:blackstonesmooth"
+    },
+    "4": {
+      "item": "sotm:blackstonesmooth"
+    },
+    "6": {
+      "item": "sotm:blackstonesmooth"
+    },
+    "7": {
+      "item": "sotm:blackstonesmooth"
+    },
+    "8": {
+      "item": "sotm:blackstonesmooth"
+    }
+  },
+  "result": {
+    "item": "sotm:blackstonesmoothstairs",
+    "count": 6
+  }
+}

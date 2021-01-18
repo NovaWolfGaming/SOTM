@@ -1,0 +1,9 @@
+{
+  "group": "sotm",
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "sotm:chorus_stone_new"
+  },
+  "result": "sotm:chorus_stone_brick_stairs"
+}

@@ -1,0 +1,26 @@
+{
+  "group": "granite_sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "sotm:blackgranite"
+    },
+    "1": {
+      "item": "sotm:blackgranite"
+    },
+    "2": {
+      "item": "sotm:blackgranite"
+    },
+    "3": {
+      "item": "sotm:blackgranite"
+    }
+  },
+  "result": {
+    "item": "sotm:polishedblackgrabite",
+    "count": 4
+  }
+}

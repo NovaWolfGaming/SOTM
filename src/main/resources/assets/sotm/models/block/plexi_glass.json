@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sotm:blocks/plexi_glass",
+    "up": "sotm:blocks/plexi_glass",
+    "north": "sotm:blocks/plexi_glass",
+    "east": "sotm:blocks/plexi_glass",
+    "south": "sotm:blocks/plexi_glass",
+    "west": "sotm:blocks/plexi_glass",
+    "particle": "sotm:blocks/plexi_glass"
+  }
+}

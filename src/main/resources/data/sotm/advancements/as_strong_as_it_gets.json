@@ -1,0 +1,37 @@
+{
+  "display": {
+    "icon": {
+      "item": "sotm:rabidiumgem"
+    },
+    "title": {
+      "translate": "advancements.as_strong_as_it_gets.title"
+    },
+    "description": {
+      "translate": "advancements.as_strong_as_it_gets.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "as_strong_as_it_gets": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "sotm:rabidiumgem",
+            "count": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 35
+  },
+  "parent": "sotm:not_quite_the_best"
+}

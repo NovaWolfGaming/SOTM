@@ -1,0 +1,29 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "sotm:ambergem"
+    },
+    "1": {
+      "item": "sotm:ambergem"
+    },
+    "2": {
+      "item": "sotm:ambergem"
+    },
+    "3": {
+      "item": "sotm:ambergem"
+    },
+    "5": {
+      "item": "sotm:ambergem"
+    }
+  },
+  "result": {
+    "item": "sotm:amberarmor_helmet",
+    "count": 1
+  }
+}

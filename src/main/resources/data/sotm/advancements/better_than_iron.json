@@ -1,0 +1,37 @@
+{
+  "display": {
+    "icon": {
+      "item": "sotm:silveringot"
+    },
+    "title": {
+      "translate": "advancements.better_than_iron.title"
+    },
+    "description": {
+      "translate": "advancements.better_than_iron.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "better_than_iron": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "sotm:silverore",
+            "count": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 25
+  },
+  "parent": "sotm:coal"
+}

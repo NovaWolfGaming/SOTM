@@ -1,0 +1,33 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 12",
+    "  5",
+    "678"
+  ],
+  "key": {
+    "1": {
+      "item": "sotm:rabidiumgem"
+    },
+    "2": {
+      "item": "sotm:rabidiumgem"
+    },
+    "5": {
+      "item": "sotm:rabidiumgem"
+    },
+    "6": {
+      "item": "minecraft:stick"
+    },
+    "7": {
+      "item": "sotm:rabidiumgem"
+    },
+    "8": {
+      "item": "sotm:rabidiumgem"
+    }
+  },
+  "result": {
+    "item": "sotm:rabidiumsickle",
+    "count": 1
+  }
+}

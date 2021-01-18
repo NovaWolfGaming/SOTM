@@ -1,0 +1,33 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "sotm:crystalineblock"
+    },
+    "3": {
+      "item": "sotm:crystalineblock"
+    },
+    "4": {
+      "item": "sotm:crystalineblock"
+    },
+    "6": {
+      "item": "sotm:crystalineblock"
+    },
+    "7": {
+      "item": "sotm:crystalineblock"
+    },
+    "8": {
+      "item": "sotm:crystalineblock"
+    }
+  },
+  "result": {
+    "item": "sotm:crystalinestairs",
+    "count": 6
+  }
+}

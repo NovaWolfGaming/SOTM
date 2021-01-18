@@ -1,0 +1,19 @@
+{
+  "_fv": 15,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:Spotted_AshwoodWood"
+      },
+      {
+        "value": "CUSTOM:Spotted_AshwoodLog"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "name": "spotted_ashwood_log",
+    "namespace": "forge"
+  }
+}

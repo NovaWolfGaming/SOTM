@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sotm:blocks/bauxite",
+    "up": "sotm:blocks/shnyllium_top_leaves",
+    "north": "sotm:blocks/shnyllium",
+    "east": "sotm:blocks/shnyllium",
+    "south": "sotm:blocks/shnyllium",
+    "west": "sotm:blocks/shnyllium",
+    "particle": "sotm:blocks/bauxite"
+  }
+}

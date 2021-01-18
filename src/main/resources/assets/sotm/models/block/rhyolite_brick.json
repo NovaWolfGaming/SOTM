@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "sotm:blocks/rhyolite_brick",
+    "particle": "sotm:blocks/rhyolite_brick"
+  }
+}

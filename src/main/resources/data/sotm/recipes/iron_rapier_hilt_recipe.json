@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:stick"
+  },
+  "addition": {
+    "item": "sotm:cinistineingot"
+  },
+  "result": {
+    "item": "sotm:iron_rapier_hilt"
+  }
+}

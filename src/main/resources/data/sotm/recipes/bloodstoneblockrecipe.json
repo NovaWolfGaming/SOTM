@@ -1,0 +1,26 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "sotm:bloodstoneshard"
+    },
+    "1": {
+      "item": "sotm:bloodstoneshard"
+    },
+    "2": {
+      "item": "sotm:bloodstoneshard"
+    },
+    "3": {
+      "item": "sotm:bloodstoneshard"
+    }
+  },
+  "result": {
+    "item": "sotm:bloodstoneblock",
+    "count": 1
+  }
+}

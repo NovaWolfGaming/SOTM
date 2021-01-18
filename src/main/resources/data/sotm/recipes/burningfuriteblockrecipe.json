@@ -1,0 +1,26 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "sotm:burningfurite"
+    },
+    "1": {
+      "item": "sotm:burningfurite"
+    },
+    "2": {
+      "item": "sotm:burningfurite"
+    },
+    "3": {
+      "item": "sotm:burningfurite"
+    }
+  },
+  "result": {
+    "item": "sotm:burningfuriteblock",
+    "count": 1
+  }
+}

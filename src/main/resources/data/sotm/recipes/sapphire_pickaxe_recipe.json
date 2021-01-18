@@ -1,0 +1,30 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "sotm:sapphire"
+    },
+    "1": {
+      "item": "sotm:sapphire"
+    },
+    "2": {
+      "item": "sotm:sapphire"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "7": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "sotm:sapphire_pickaxe",
+    "count": 1
+  }
+}

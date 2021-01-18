@@ -1,0 +1,40 @@
+{
+  "_fv": 15,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:Sunberry"
+      },
+      {
+        "value": "CUSTOM:Raspberries"
+      },
+      {
+        "value": "CUSTOM:EurolaBerry"
+      },
+      {
+        "value": "Blocks.SWEET_BERRY_BUSH"
+      },
+      {
+        "value": "CUSTOM:Blueberries"
+      },
+      {
+        "value": "CUSTOM:Blackberries"
+      },
+      {
+        "value": "CUSTOM:Raspberries"
+      },
+      {
+        "value": "CUSTOM:Snozzberries"
+      },
+      {
+        "value": "CUSTOM:ElderBerries"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "name": "berry",
+    "namespace": "forge"
+  }
+}

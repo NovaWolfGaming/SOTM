@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sotm:blocks/nether_rock_chiseled",
+    "up": "sotm:blocks/nether_rock_chiseled",
+    "north": "sotm:blocks/nether_rock_chiseled",
+    "east": "sotm:blocks/nether_rock_chiseled",
+    "south": "sotm:blocks/nether_rock_chiseled",
+    "west": "sotm:blocks/nether_rock_chiseled",
+    "particle": "sotm:blocks/nether_rock_chiseled"
+  }
+}

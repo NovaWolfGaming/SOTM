@@ -1,0 +1,36 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "sotm:sapphire"
+    },
+    "1": {
+      "item": "sotm:sapphire"
+    },
+    "2": {
+      "item": "sotm:sapphire"
+    },
+    "3": {
+      "item": "sotm:sapphire"
+    },
+    "5": {
+      "item": "sotm:sapphire"
+    },
+    "6": {
+      "item": "sotm:sapphire"
+    },
+    "8": {
+      "item": "sotm:sapphire"
+    }
+  },
+  "result": {
+    "item": "sotm:sapphire_armor_leggings",
+    "count": 1
+  }
+}

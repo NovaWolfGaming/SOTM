@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "sotm:block/blood_elder_slab"
+    },
+    "type=top": {
+      "model": "sotm:block/blood_elder_slab_top"
+    },
+    "type=double": {
+      "model": "sotm:block/blood_elder_slab_full"
+    }
+  }
+}

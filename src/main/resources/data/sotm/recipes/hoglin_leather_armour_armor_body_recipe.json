@@ -1,0 +1,39 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "sotm:hoglin_leather"
+    },
+    "2": {
+      "item": "sotm:hoglin_leather"
+    },
+    "3": {
+      "item": "sotm:hoglin_leather"
+    },
+    "4": {
+      "item": "sotm:hoglin_leather"
+    },
+    "5": {
+      "item": "sotm:hoglin_leather"
+    },
+    "6": {
+      "item": "sotm:hoglin_leather"
+    },
+    "7": {
+      "item": "sotm:hoglin_leather"
+    },
+    "8": {
+      "item": "sotm:hoglin_leather"
+    }
+  },
+  "result": {
+    "item": "sotm:hoglin_leather_armour_armor_chestplate",
+    "count": 1
+  }
+}

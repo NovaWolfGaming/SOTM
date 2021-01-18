@@ -1,0 +1,42 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "sotm:limestone"
+    },
+    "1": {
+      "item": "minecraft:clay_ball"
+    },
+    "2": {
+      "item": "sotm:limestone"
+    },
+    "3": {
+      "item": "minecraft:clay_ball"
+    },
+    "4": {
+      "item": "sotm:limestone"
+    },
+    "5": {
+      "item": "minecraft:clay_ball"
+    },
+    "6": {
+      "item": "sotm:limestone"
+    },
+    "7": {
+      "item": "minecraft:clay_ball"
+    },
+    "8": {
+      "item": "sotm:limestone"
+    }
+  },
+  "result": {
+    "item": "sotm:cotswold_bricks",
+    "count": 5
+  }
+}

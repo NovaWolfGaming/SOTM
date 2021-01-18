@@ -1,0 +1,26 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "sotm:crimsobrick"
+    },
+    "1": {
+      "item": "sotm:crimsobrick"
+    },
+    "2": {
+      "item": "sotm:crimsobrick"
+    },
+    "3": {
+      "item": "sotm:crimsobrick"
+    }
+  },
+  "result": {
+    "item": "sotm:crimsobricks",
+    "count": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "_fv": 15,
+  "_type": "achievement",
+  "definition": {
+    "achievementName": "Thats A Start",
+    "achievementDescription": "You collected Copper",
+    "achievementIcon": {
+      "value": "CUSTOM:CopperIngot"
+    },
+    "background": "Default",
+    "disableDisplay": false,
+    "showPopup": true,
+    "announceToChat": true,
+    "hideIfNotCompleted": false,
+    "rewardLoot": [],
+    "rewardRecipes": [
+      "CopperOreBlockRecipe",
+      "CopperPickaxeRecipe",
+      "CopperAxeRecipe",
+      "CopperSwordRecipe",
+      "CopperShovelRecipe",
+      "CopperHoeRecipe",
+      "CopperArmorHelmetRecipe",
+      "CopperArmorBodyRecipe",
+      "CopperArmorLeggingsRecipe",
+      "CopperArmorBootsRecipe"
+    ],
+    "rewardFunction": "No function",
+    "rewardXP": 5,
+    "achievementType": "goal",
+    "parent": {
+      "value": "CUSTOM:SOTM"
+    },
+    "triggerxml": "<xml xmlns=\"https://developers.google.com/blockly/xml\"><block type=\"item_in_inventory\" x=\"35\" y=\"39\"><value name=\"amount_l\"><block type=\"math_number\"><field name=\"NUM\">1</field></block></value><value name=\"amount_h\"><block type=\"math_number\"><field name=\"NUM\">1</field></block></value><value name=\"item\"><block type=\"mcitem_all\"><field name=\"value\">CUSTOM:CopperIngot</field></block></value><next><block type=\"advancement_trigger\" deletable=\"false\"/></next></block></xml>"
+  }
+}

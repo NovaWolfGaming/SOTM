@@ -1,0 +1,15 @@
+{
+  "replace": false,
+  "values": [
+    "sotm:goldensickle",
+    "sotm:rose_gold_ingot",
+    "sotm:rose_gold_pickaxe",
+    "sotm:rose_gold_axe",
+    "sotm:rose_gold_sword",
+    "sotm:rose_gold_shovel",
+    "sotm:rose_gold_hoe",
+    "sotm:rose_gold_nuggets",
+    "sotm:underworldgoldore",
+    "sotm:nethergoldore"
+  ]
+}

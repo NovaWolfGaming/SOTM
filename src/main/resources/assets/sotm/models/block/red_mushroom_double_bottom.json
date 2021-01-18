@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "sotm:blocks/double_red_mushroom",
+    "particle": "sotm:blocks/double_red_mushroom"
+  }
+}

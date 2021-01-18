@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "sotm:blocks/crystone_gold_block",
+    "particle": "sotm:blocks/crystone_gold_block"
+  }
+}

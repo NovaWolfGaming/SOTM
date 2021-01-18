@@ -1,0 +1,7 @@
+{
+  "parent": "block/template_orientable_trapdoor_open",
+  "textures": {
+    "texture": "sotm:blocks/light_oak_trapdoor_2_side",
+    "particle": "sotm:blocks/light_oak_trapdoor_2_side"
+  }
+}

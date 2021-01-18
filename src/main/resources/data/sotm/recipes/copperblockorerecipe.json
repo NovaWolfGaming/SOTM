@@ -1,0 +1,13 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "sotm:copperoreblock"
+    }
+  ],
+  "result": {
+    "item": "sotm:copperingot",
+    "count": 9
+  }
+}

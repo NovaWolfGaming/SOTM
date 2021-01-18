@@ -1,0 +1,33 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "sotm:carbonsandstone"
+    },
+    "3": {
+      "item": "sotm:carbonsandstone"
+    },
+    "4": {
+      "item": "sotm:carbonsandstone"
+    },
+    "6": {
+      "item": "sotm:carbonsandstone"
+    },
+    "7": {
+      "item": "sotm:carbonsandstone"
+    },
+    "8": {
+      "item": "sotm:carbonsandstone"
+    }
+  },
+  "result": {
+    "item": "sotm:carbonsandstonestairs",
+    "count": 6
+  }
+}

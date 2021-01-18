@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "sotm:block/carboritebrickslab"
+    },
+    "type=top": {
+      "model": "sotm:block/carboritebrickslab_top"
+    },
+    "type=double": {
+      "model": "sotm:block/carboritebrickslab_full"
+    }
+  }
+}

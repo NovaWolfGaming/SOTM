@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sotm:blocks/phantom_locust_wood_top",
+    "up": "sotm:blocks/phantom_locust_wood_top",
+    "north": "sotm:blocks/phantom_locust_wood",
+    "east": "sotm:blocks/phantom_locust_wood",
+    "south": "sotm:blocks/phantom_locust_wood",
+    "west": "sotm:blocks/phantom_locust_wood",
+    "particle": "sotm:blocks/phantom_locust_wood_top"
+  }
+}

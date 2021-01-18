@@ -1,0 +1,26 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "sotm:crimson_quartz"
+    },
+    "1": {
+      "item": "sotm:crimson_quartz"
+    },
+    "2": {
+      "item": "sotm:crimson_quartz"
+    },
+    "3": {
+      "item": "sotm:crimson_quartz"
+    }
+  },
+  "result": {
+    "item": "sotm:crimson_quartz_block",
+    "count": 1
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "sotm:crystaline"
+    },
+    "1": {
+      "item": "sotm:crystaline"
+    },
+    "2": {
+      "item": "sotm:crystaline"
+    },
+    "3": {
+      "item": "sotm:crystaline"
+    }
+  },
+  "result": {
+    "item": "sotm:crystalineblock",
+    "count": 1
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sotm:blocks/bamboo_block_top",
+    "up": "sotm:blocks/bamboo_block_top",
+    "north": "sotm:blocks/bamboo_block_side",
+    "east": "sotm:blocks/bamboo_block_side",
+    "south": "sotm:blocks/bamboo_block_side",
+    "west": "sotm:blocks/bamboo_block_side",
+    "particle": "sotm:blocks/bamboo_block_top"
+  }
+}

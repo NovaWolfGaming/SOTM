@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "sotm:black_mushroom_shell",
+    "sotm:yellow_mushroom_shell",
+    "minecraft:red_mushroom_block",
+    "minecraft:brown_mushroom_block",
+    "minecraft:mushroom_stem"
+  ]
+}

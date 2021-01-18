@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "sotm:blocks/glow_fruit_bush",
+    "particle": "sotm:blocks/glow_fruit_bush"
+  }
+}

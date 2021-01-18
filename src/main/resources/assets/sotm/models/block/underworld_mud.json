@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sotm:blocks/underworld_mud",
+    "up": "sotm:blocks/underworld_mud",
+    "north": "sotm:blocks/underworld_mud",
+    "east": "sotm:blocks/underworld_mud",
+    "south": "sotm:blocks/underworld_mud",
+    "west": "sotm:blocks/underworld_mud",
+    "particle": "sotm:blocks/underworld_mud"
+  }
+}

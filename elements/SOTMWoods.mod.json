@@ -1,0 +1,22 @@
+{
+  "_fv": 15,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:LightOakPlanks"
+      },
+      {
+        "value": "CUSTOM:UaphreliaPlanks"
+      },
+      {
+        "value": "CUSTOM:BloodElderPlanks"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "name": "planks",
+    "namespace": "minecraft"
+  }
+}

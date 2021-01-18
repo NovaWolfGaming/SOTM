@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sotm:blocks/dark_quartz_block_chiseled_top_new",
+    "up": "sotm:blocks/dark_quartz_block_chiseled_top_new",
+    "north": "sotm:blocks/dark_quartz_block_chiseled_new",
+    "east": "sotm:blocks/dark_quartz_block_chiseled_new",
+    "south": "sotm:blocks/dark_quartz_block_chiseled_new",
+    "west": "sotm:blocks/dark_quartz_block_chiseled_new",
+    "particle": "sotm:blocks/dark_quartz_block_chiseled_top_new"
+  }
+}

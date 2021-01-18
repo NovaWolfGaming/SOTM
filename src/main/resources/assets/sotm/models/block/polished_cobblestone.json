@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sotm:blocks/grinder_bottom",
+    "up": "sotm:blocks/grinder_bottom",
+    "north": "sotm:blocks/grinder_bottom",
+    "east": "sotm:blocks/grinder_bottom",
+    "south": "sotm:blocks/grinder_bottom",
+    "west": "sotm:blocks/grinder_bottom",
+    "particle": "sotm:blocks/grinder_bottom"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sotm:blocks/soul_glass_2",
+    "up": "sotm:blocks/soul_glass_2",
+    "north": "sotm:blocks/soul_glass_2",
+    "east": "sotm:blocks/soul_glass_2",
+    "south": "sotm:blocks/soul_glass_2",
+    "west": "sotm:blocks/soul_glass_2",
+    "particle": "sotm:blocks/soul_glass_2"
+  }
+}

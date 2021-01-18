@@ -1,0 +1,19 @@
+{
+  "_fv": 15,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:Echorin"
+      },
+      {
+        "value": "CUSTOM:Seraphyst"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "name": "dusts/coal",
+    "namespace": "minecraft"
+  }
+}

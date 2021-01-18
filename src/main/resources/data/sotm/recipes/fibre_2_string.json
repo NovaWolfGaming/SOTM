@@ -1,0 +1,26 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "sotm:fibre"
+    },
+    "1": {
+      "item": "sotm:fibre"
+    },
+    "2": {
+      "item": "sotm:fibre"
+    },
+    "3": {
+      "item": "sotm:fibre"
+    }
+  },
+  "result": {
+    "item": "minecraft:string",
+    "count": 1
+  }
+}

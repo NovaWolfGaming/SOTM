@@ -1,0 +1,37 @@
+{
+  "display": {
+    "icon": {
+      "item": "sotm:nether_steel_ingot"
+    },
+    "title": {
+      "translate": "advancements.nether_steel_from_the_nether.title"
+    },
+    "description": {
+      "translate": "advancements.nether_steel_from_the_nether.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "nether_steel_from_the_nether": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "sotm:nether_steel_ore",
+            "count": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 7
+  },
+  "parent": "sotm:sotm"
+}

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "sotm:block/yellow_mushroom_slab"
+    },
+    "type=top": {
+      "model": "sotm:block/yellow_mushroom_slab_top"
+    },
+    "type=double": {
+      "model": "sotm:block/yellow_mushroom_slab_full"
+    }
+  }
+}

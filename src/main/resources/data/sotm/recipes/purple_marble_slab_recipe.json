@@ -1,0 +1,22 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "sotm:purple_marble_brick"
+    },
+    "1": {
+      "item": "sotm:purple_marble_brick"
+    },
+    "2": {
+      "item": "sotm:purple_marble_brick"
+    }
+  },
+  "result": {
+    "item": "sotm:purple_marble_slab",
+    "count": 6
+  }
+}

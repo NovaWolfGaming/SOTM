@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "sotm:block/light_oak_slab"
+    },
+    "type=top": {
+      "model": "sotm:block/light_oak_slab_top"
+    },
+    "type=double": {
+      "model": "sotm:block/light_oak_slab_full"
+    }
+  }
+}

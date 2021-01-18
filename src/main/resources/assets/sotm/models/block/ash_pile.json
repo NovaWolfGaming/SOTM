@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "sotm:blocks/ash_pile",
+    "particle": "sotm:blocks/ash_pile"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "sotm:block/spotted_ashwood_slab"
+    },
+    "type=top": {
+      "model": "sotm:block/spotted_ashwood_slab_top"
+    },
+    "type=double": {
+      "model": "sotm:block/spotted_ashwood_slab_full"
+    }
+  }
+}

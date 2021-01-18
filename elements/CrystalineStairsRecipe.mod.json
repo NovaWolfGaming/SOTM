@@ -1,0 +1,46 @@
+{
+  "_fv": 15,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 6,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Crystalineblock"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Crystalineblock"
+      },
+      {
+        "value": "CUSTOM:Crystalineblock"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Crystalineblock"
+      },
+      {
+        "value": "CUSTOM:Crystalineblock"
+      },
+      {
+        "value": "CUSTOM:Crystalineblock"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:CrystalineStairs"
+    },
+    "name": "crystalinestairsrecipe",
+    "namespace": "mod"
+  }
+}

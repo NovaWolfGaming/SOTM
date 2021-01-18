@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sotm:blocks/chorus_bricks",
+    "up": "sotm:blocks/chorus_bricks",
+    "north": "sotm:blocks/chorus_bricks",
+    "east": "sotm:blocks/chorus_bricks",
+    "south": "sotm:blocks/chorus_bricks",
+    "west": "sotm:blocks/chorus_bricks",
+    "particle": "sotm:blocks/chorus_bricks"
+  }
+}

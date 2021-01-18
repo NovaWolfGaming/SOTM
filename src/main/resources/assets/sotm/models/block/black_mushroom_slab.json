@@ -1,0 +1,8 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "sotm:blocks/darklight_planks",
+    "top": "sotm:blocks/darklight_planks",
+    "side": "sotm:blocks/darklight_planks"
+  }
+}

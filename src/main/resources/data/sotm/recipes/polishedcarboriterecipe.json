@@ -1,0 +1,26 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "sotm:carborite"
+    },
+    "1": {
+      "item": "sotm:carborite"
+    },
+    "2": {
+      "item": "sotm:carborite"
+    },
+    "3": {
+      "item": "sotm:carborite"
+    }
+  },
+  "result": {
+    "item": "sotm:polishedcarborite",
+    "count": 4
+  }
+}

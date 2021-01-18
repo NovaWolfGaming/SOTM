@@ -1,0 +1,26 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "sotm:purpurstone"
+    },
+    "1": {
+      "item": "sotm:purpurstone"
+    },
+    "2": {
+      "item": "sotm:purpurstone"
+    },
+    "3": {
+      "item": "sotm:purpurstone"
+    }
+  },
+  "result": {
+    "item": "minecraft:purpur_block",
+    "count": 4
+  }
+}

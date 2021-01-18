@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "sotm:block/venorum_quartz_slab"
+    },
+    "type=top": {
+      "model": "sotm:block/venorum_quartz_slab_top"
+    },
+    "type=double": {
+      "model": "sotm:block/venorum_quartz_slab_full"
+    }
+  }
+}

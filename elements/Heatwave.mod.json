@@ -1,0 +1,22 @@
+{
+  "_fv": 15,
+  "_type": "potion",
+  "definition": {
+    "name": "Heatwave",
+    "effectName": "Heatwave",
+    "icon": "1fire.png",
+    "color": {
+      "value": -52480,
+      "falpha": 0.0
+    },
+    "isInstant": true,
+    "isBad": true,
+    "isBenefitical": false,
+    "registerPotionType": true,
+    "renderStatusInInventory": true,
+    "renderStatusInHUD": true,
+    "onActiveTick": {
+      "name": "HeatwaveOnPotionActiveTick"
+    }
+  }
+}

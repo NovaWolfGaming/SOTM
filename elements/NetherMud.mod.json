@@ -1,0 +1,118 @@
+{
+  "_fv": 15,
+  "_type": "block",
+  "definition": {
+    "texture": "nether_mud",
+    "textureTop": "nether_mud",
+    "textureLeft": "nether_mud",
+    "textureFront": "nether_mud",
+    "textureRight": "nether_mud",
+    "textureBack": "nether_mud",
+    "renderType": 10,
+    "customModelName": "Normal",
+    "rotationMode": 0,
+    "emissiveRendering": false,
+    "displayFluidOverlay": false,
+    "itemTexture": "",
+    "particleTexture": "",
+    "hasTransparency": true,
+    "connectedSides": false,
+    "transparencyType": "SOLID",
+    "mx": 0.0,
+    "my": 0.0,
+    "mz": 0.0,
+    "Mx": 1.0,
+    "My": 0.9,
+    "Mz": 1.0,
+    "name": "Nether Mud",
+    "specialInfo": [],
+    "hardness": 1.0,
+    "resistance": 10.0,
+    "hasGravity": false,
+    "isWaterloggable": false,
+    "creativeTab": {
+      "value": "CUSTOM:SOTMBlocks"
+    },
+    "destroyTool": "shovel",
+    "customDrop": {
+      "value": ""
+    },
+    "dropAmount": 1,
+    "useLootTableForDrops": false,
+    "enchantPowerBonus": 0.0,
+    "plantsGrowOn": false,
+    "canProvidePower": false,
+    "lightOpacity": 255,
+    "material": {
+      "value": "EARTH"
+    },
+    "tickRate": 10,
+    "tickRandomly": false,
+    "isReplaceable": false,
+    "colorOnMap": "DEFAULT",
+    "creativePickItem": {
+      "value": ""
+    },
+    "offsetType": "NONE",
+    "aiPathNodeType": "DEFAULT",
+    "flammability": 0,
+    "fireSpreadSpeed": 0,
+    "isLadder": false,
+    "slipperiness": 0.6,
+    "reactionToPushing": "NORMAL",
+    "isNotColidable": false,
+    "soundOnStep": {
+      "value": "WET_GRASS"
+    },
+    "luminance": 0,
+    "unbreakable": false,
+    "breakHarvestLevel": 0,
+    "spawnParticles": false,
+    "particleToSpawn": {
+      "value": "EXPLOSION_NORMAL"
+    },
+    "particleSpawningShape": "Spread",
+    "particleSpawningRadious": 0.5,
+    "particleAmount": 4,
+    "hasInventory": false,
+    "guiBoundTo": "<NONE>",
+    "openGUIOnRightClick": false,
+    "inventorySize": 9,
+    "inventoryStackSize": 64,
+    "inventoryDropWhenDestroyed": true,
+    "inventoryComparatorPower": true,
+    "inventoryOutSlotIDs": [],
+    "inventoryInSlotIDs": [],
+    "hasEnergyStorage": false,
+    "energyInitial": 0,
+    "energyCapacity": 400000,
+    "energyMaxReceive": 200,
+    "energyMaxExtract": 200,
+    "isFluidTank": false,
+    "fluidCapacity": 8000,
+    "fluidRestrictions": [],
+    "onEntityCollides": {
+      "name": "NetherMudEntityWalksOnTheBlock"
+    },
+    "onEntityWalksOn": {
+      "name": "NetherMudEntityWalksOnTheBlock"
+    },
+    "spawnWorldTypes": [
+      "Nether"
+    ],
+    "restrictionBiomes": [
+      {
+        "value": "soul_sand_valley"
+      }
+    ],
+    "blocksToReplace": [
+      {
+        "value": "Blocks.SOUL_SAND"
+      }
+    ],
+    "frequencyPerChunks": 20,
+    "frequencyOnChunk": 26,
+    "minGenerateHeight": 0,
+    "maxGenerateHeight": 64
+  }
+}

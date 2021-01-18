@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "sotm:block/basaltbrickslab"
+    },
+    "type=top": {
+      "model": "sotm:block/basaltbrickslab_top"
+    },
+    "type=double": {
+      "model": "sotm:block/basaltbrickslab_full"
+    }
+  }
+}

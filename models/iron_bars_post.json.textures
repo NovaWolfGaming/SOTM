@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "all": "copper_ore_block"
+      },
+      "name": "default"
+    }
+  }
+}

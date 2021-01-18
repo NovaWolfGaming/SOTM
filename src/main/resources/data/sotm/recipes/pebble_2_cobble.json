@@ -1,0 +1,42 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "sotm:pebble"
+    },
+    "1": {
+      "item": "sotm:pebble"
+    },
+    "2": {
+      "item": "sotm:pebble"
+    },
+    "3": {
+      "item": "sotm:pebble"
+    },
+    "4": {
+      "item": "sotm:pebble"
+    },
+    "5": {
+      "item": "sotm:pebble"
+    },
+    "6": {
+      "item": "sotm:pebble"
+    },
+    "7": {
+      "item": "sotm:pebble"
+    },
+    "8": {
+      "item": "sotm:pebble"
+    }
+  },
+  "result": {
+    "item": "minecraft:cobblestone",
+    "count": 1
+  }
+}

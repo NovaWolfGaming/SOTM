@@ -1,0 +1,11 @@
+{
+  "_fv": 15,
+  "_type": "tab",
+  "definition": {
+    "name": "SOTM Rocks And Stones",
+    "icon": {
+      "value": "Blocks.STONE#0"
+    },
+    "showSearch": false
+  }
+}

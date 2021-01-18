@@ -1,0 +1,36 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "sotm:rubygem"
+    },
+    "1": {
+      "item": "sotm:rubygem"
+    },
+    "2": {
+      "item": "sotm:rubygem"
+    },
+    "3": {
+      "item": "sotm:rubygem"
+    },
+    "5": {
+      "item": "sotm:rubygem"
+    },
+    "6": {
+      "item": "sotm:rubygem"
+    },
+    "8": {
+      "item": "sotm:rubygem"
+    }
+  },
+  "result": {
+    "item": "sotm:rubyarmor_leggings",
+    "count": 1
+  }
+}

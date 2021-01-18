@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sotm:blocks/gray_sandstone_bottom",
+    "up": "sotm:blocks/gray_sandstone_bottom",
+    "north": "sotm:blocks/gray_sandstone_bottom",
+    "east": "sotm:blocks/gray_sandstone_bottom",
+    "south": "sotm:blocks/gray_sandstone_bottom",
+    "west": "sotm:blocks/gray_sandstone_bottom",
+    "particle": "sotm:blocks/gray_sandstone_bottom"
+  }
+}

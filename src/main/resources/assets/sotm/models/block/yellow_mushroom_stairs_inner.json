@@ -1,0 +1,8 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "sotm:blocks/mushroom_shell_yellow_planks",
+    "top": "sotm:blocks/mushroom_shell_yellow_planks",
+    "side": "sotm:blocks/mushroom_shell_yellow_planks"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "sotm:bedrock_shard"
+    },
+    "1": {
+      "item": "sotm:bedrock_shard"
+    },
+    "2": {
+      "item": "sotm:bedrock_shard"
+    },
+    "3": {
+      "item": "sotm:bedrock_shard"
+    }
+  },
+  "result": {
+    "item": "sotm:corroded_bedrock",
+    "count": 1
+  }
+}

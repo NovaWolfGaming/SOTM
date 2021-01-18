@@ -1,0 +1,46 @@
+{
+  "_fv": 15,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 6,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:PumiceBricks"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:PumiceBricks"
+      },
+      {
+        "value": "CUSTOM:PumiceBricks"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:PumiceBricks"
+      },
+      {
+        "value": "CUSTOM:PumiceBricks"
+      },
+      {
+        "value": "CUSTOM:PumiceBricks"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:PumiceBrickStairs"
+    },
+    "name": "pumice_brick_stairs_recipe",
+    "namespace": "mod"
+  }
+}

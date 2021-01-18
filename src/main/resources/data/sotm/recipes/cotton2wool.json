@@ -1,0 +1,42 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "sotm:cotton"
+    },
+    "1": {
+      "item": "sotm:cotton"
+    },
+    "2": {
+      "item": "sotm:cotton"
+    },
+    "3": {
+      "item": "sotm:cotton"
+    },
+    "4": {
+      "item": "sotm:cotton"
+    },
+    "5": {
+      "item": "sotm:cotton"
+    },
+    "6": {
+      "item": "sotm:cotton"
+    },
+    "7": {
+      "item": "sotm:cotton"
+    },
+    "8": {
+      "item": "sotm:cotton"
+    }
+  },
+  "result": {
+    "item": "minecraft:white_wool",
+    "count": 1
+  }
+}

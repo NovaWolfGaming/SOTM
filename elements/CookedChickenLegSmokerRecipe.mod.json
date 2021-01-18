@@ -1,0 +1,20 @@
+{
+  "_fv": 15,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Smoking",
+    "xpReward": 1.0,
+    "cookingTime": 100,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "smokingInputStack": {
+      "value": "CUSTOM:RawChickenLeg"
+    },
+    "smokingReturnStack": {
+      "value": "CUSTOM:ChickenLegCooked"
+    },
+    "name": "cooked_chicken_leg_smoker_recipe",
+    "namespace": "mod"
+  }
+}

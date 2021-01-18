@@ -1,0 +1,26 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "sotm:netherstone"
+    },
+    "1": {
+      "item": "sotm:netherstone"
+    },
+    "2": {
+      "item": "sotm:netherstone"
+    },
+    "3": {
+      "item": "sotm:netherstone"
+    }
+  },
+  "result": {
+    "item": "sotm:netherstone_smooth",
+    "count": 4
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "sotm:blocks/twisted_maple_planks",
+    "top": "sotm:blocks/twisted_maple_planks",
+    "side": "sotm:blocks/twisted_maple_planks"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "sotm:block/carbonsandstoneslab"
+    },
+    "type=top": {
+      "model": "sotm:block/carbonsandstoneslab_top"
+    },
+    "type=double": {
+      "model": "sotm:block/carbonsandstoneslab_full"
+    }
+  }
+}
