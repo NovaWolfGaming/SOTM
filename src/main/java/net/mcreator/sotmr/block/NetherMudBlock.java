@@ -72,7 +72,7 @@ public class NetherMudBlock extends SotmModElements.ModElement {
 	public static class CustomBlock extends Block {
 		public CustomBlock() {
 			super(Block.Properties.create(Material.EARTH).sound(SoundType.WET_GRASS).hardnessAndResistance(1f, 10f).setLightLevel(s -> 0)
-					.harvestLevel(0).harvestTool(ToolType.SHOVEL).notSolid().setOpaque((bs, br, bp) -> false));
+					.harvestLevel(0).harvestTool(ToolType.SHOVEL).slipperiness(0.8f).notSolid().setOpaque((bs, br, bp) -> false));
 			setRegistryName("nethermud");
 		}
 

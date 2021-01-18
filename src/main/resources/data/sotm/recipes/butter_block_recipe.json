@@ -1,0 +1,26 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "sotm:butter"
+    },
+    "1": {
+      "item": "sotm:butter"
+    },
+    "2": {
+      "item": "sotm:butter"
+    },
+    "3": {
+      "item": "sotm:butter"
+    }
+  },
+  "result": {
+    "item": "sotm:butter_block",
+    "count": 1
+  }
+}

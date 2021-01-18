@@ -18765,6 +18765,51 @@
           }
         ]
       }
+    },
+    {
+      "name": "StryderString",
+      "type": "item",
+      "sortid": 2124,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stryder_string"
+    },
+    {
+      "name": "Strider",
+      "type": "loottable",
+      "sortid": 2125,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "strider"
+    },
+    {
+      "name": "StriderString2String",
+      "type": "recipe",
+      "sortid": 2126,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "strider_string_2_string"
+    },
+    {
+      "name": "ButterBlock",
+      "type": "block",
+      "sortid": 2127,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "butter_block"
+    },
+    {
+      "name": "ButterBlockRecipe",
+      "type": "recipe",
+      "sortid": 2128,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "butter_block_recipe"
     }
   ],
   "variable_elements": [
@@ -19076,6 +19121,7 @@
       "item.sotm.cherries": "Cherries",
       "block.sotm.gray_cotton_wool": "Gray Cotton Wool",
       "item.sotm.rabidiumarmor_leggings": "Rabidium Leggings",
+      "block.sotm.butter_block": "Butter Block",
       "item.sotm.scrap_metal_ingot": "Scrap Metal Ingot",
       "advancements.so_the_opposite_of_quartz.title": "So...The Opposite Of Quartz?",
       "block.sotm.blubluh_stone": "Blubluh Stone",
@@ -19668,6 +19714,7 @@
       "block.sotm.whitegranite": "White Granite",
       "block.sotmremake.warped_quartz_pillar": "Warped Quartz Pillar",
       "block.sotm.charred_rock_brick": "Charred Rock Brick",
+      "item.sotm.stryder_string": "Strider String",
       "item.sotmremake.fesline_ingot": "Fesline",
       "block.sotmremake.purple_shulkerite_slab": "Purple Shulkerite Slab",
       "block.sotm.leafed_crescent_grass": "Leafed Crescent Shnyllium",

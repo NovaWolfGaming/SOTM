@@ -77,10 +77,10 @@ public class SulphurOreBlock extends SotmModElements.ModElement {
 					return false;
 				return super.generate(world, generator, rand, pos, config);
 			}
-		}.withConfiguration(new OreFeatureConfig(new BlockMatchRuleTest(Blocks.NETHERRACK.getDefaultState().getBlock()) {
+		}.withConfiguration(new OreFeatureConfig(new BlockMatchRuleTest(Blocks.BASALT.getDefaultState().getBlock()) {
 			public boolean test(BlockState blockAt, Random random) {
 				boolean blockCriteria = false;
-				if (blockAt.getBlock() == Blocks.NETHERRACK.getDefaultState().getBlock())
+				if (blockAt.getBlock() == Blocks.BASALT.getDefaultState().getBlock())
 					blockCriteria = true;
 				return blockCriteria;
 			}
