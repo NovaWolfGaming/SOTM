@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sotm:blocks/crystone_lamp",
+    "up": "sotm:blocks/crystone_lamp",
+    "north": "sotm:blocks/crystone_lamp",
+    "east": "sotm:blocks/crystone_lamp",
+    "south": "sotm:blocks/crystone_lamp",
+    "west": "sotm:blocks/crystone_lamp",
+    "particle": "sotm:blocks/crystone_lamp"
+  }
+}
