@@ -18838,6 +18838,210 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "crystone_lamp_recipe"
+    },
+    {
+      "name": "Boundland",
+      "type": "biome",
+      "sortid": 2133,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "boundland"
+    },
+    {
+      "name": "BlueGlowingOrb",
+      "type": "particle",
+      "sortid": 2134,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "blue_glowing_orb"
+    },
+    {
+      "name": "SeraphystSteelIngot",
+      "type": "item",
+      "sortid": 2135,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "seraphyst_steel_ingot"
+    },
+    {
+      "name": "SeraphystSteelBlock",
+      "type": "block",
+      "sortid": 2137,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "seraphyst_steel_block"
+    },
+    {
+      "name": "SeraphystSteelOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 2138,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "seraphyst_steel_ore_block_recipe"
+    },
+    {
+      "name": "SeraphystSteelBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 2139,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "seraphyst_steel_block_ore_recipe"
+    },
+    {
+      "name": "SeraphystSteelOreSmelting",
+      "type": "recipe",
+      "sortid": 2140,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "seraphyst_steel_ore_smelting"
+    },
+    {
+      "name": "SeraphystSteelPickaxe",
+      "type": "tool",
+      "sortid": 2141,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "seraphyst_steel_pickaxe"
+    },
+    {
+      "name": "SeraphystSteelAxe",
+      "type": "tool",
+      "sortid": 2142,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "seraphyst_steel_axe"
+    },
+    {
+      "name": "SeraphystSteelSword",
+      "type": "tool",
+      "sortid": 2143,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "seraphyst_steel_sword"
+    },
+    {
+      "name": "SeraphystSteelShovel",
+      "type": "tool",
+      "sortid": 2144,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "seraphyst_steel_shovel"
+    },
+    {
+      "name": "SeraphystSteelHoe",
+      "type": "tool",
+      "sortid": 2145,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "seraphyst_steel_hoe"
+    },
+    {
+      "name": "SeraphystSteelPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 2146,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "seraphyst_steel_pickaxe_recipe"
+    },
+    {
+      "name": "SeraphystSteelAxeRecipe",
+      "type": "recipe",
+      "sortid": 2147,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "seraphyst_steel_axe_recipe"
+    },
+    {
+      "name": "SeraphystSteelSwordRecipe",
+      "type": "recipe",
+      "sortid": 2148,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "seraphyst_steel_sword_recipe"
+    },
+    {
+      "name": "SeraphystSteelShovelRecipe",
+      "type": "recipe",
+      "sortid": 2149,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "seraphyst_steel_shovel_recipe"
+    },
+    {
+      "name": "SeraphystSteelHoeRecipe",
+      "type": "recipe",
+      "sortid": 2150,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "seraphyst_steel_hoe_recipe"
+    },
+    {
+      "name": "SeraphystSteelArmor",
+      "type": "armor",
+      "sortid": 2151,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "seraphyst_steel_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "SeraphystSteelArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 2152,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "seraphyst_steel_armor_helmet_recipe"
+    },
+    {
+      "name": "SeraphystSteelArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 2153,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "seraphyst_steel_armor_body_recipe"
+    },
+    {
+      "name": "SeraphystSteelArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 2154,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "seraphyst_steel_armor_leggings_recipe"
+    },
+    {
+      "name": "SeraphystSteelArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 2155,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "seraphyst_steel_armor_boots_recipe"
     }
   ],
   "variable_elements": [
@@ -19058,6 +19262,7 @@
       "block.sotm.twisted_maple_stairs": "Twisted Maple Stairs",
       "item.minecraft.potion.effect.heatwave": "Heatwave",
       "item.sotm.sodeobaco": "Orant",
+      "item.sotm.seraphyst_steel_axe": "Seraphyst Steel Axe",
       "item.sotmremake.venomite_ore_armorhelmet": "VenomiteOre Helmet",
       "item.sotm.amberarmor_leggings": "Amber Leggings",
       "block.sotm.blueberrybush": "Blueberry Bush",
@@ -19176,6 +19381,7 @@
       "block.sotmremake.purpurstone": "Purpur Stone",
       "block.sotmremake.yellow_tulip": "Yellow Tulip",
       "block.sotmremake.smooth_orange_marble": "Smooth Orange Marble",
+      "block.sotm.seraphyst_steel_block": "Seraphyst Steel Block",
       "item.sotm.amberaxe": "Amber Axe",
       "item.sotm.rubyarmor_leggings": "Ruby Leggings",
       "item.sotmremake.venomite_ore_hoe": "VenomiteOre Hoe",
@@ -19430,6 +19636,7 @@
       "item.sotm.dragonstone_armor_boots": "Dragonstone Boots",
       "item.sotm.amethyst_axe": "Amethyst Axe",
       "item.sotm.rose_armor_helmet": "Rose Gold Helmet",
+      "item.sotm.seraphyst_steel_armor_chestplate": "Seraphyst Steel Chestplate",
       "block.sotmremake.twisted_maple_wood": "Twisted Maple Wood",
       "block.sotm.charred_rock": "Charred Rock",
       "block.sotmremake.orange_marble_polished": "Polished Orange Marble",
@@ -19449,6 +19656,7 @@
       "item.sotmremake.fesline_pickaxe": "Fesline Pickaxe",
       "block.sotm.rose_white": "White Rose",
       "item.sotm.venomite_ore_armor_chestplate": "VenomiteOre Chestplate",
+      "item.sotm.seraphyst_steel_armor_leggings": "Seraphyst Steel Leggings",
       "item.sotm.crystone_armor_helmet": "Crystone Iron Chainmail Helmet",
       "block.sotmremake.redstoneoreonunder": "Underworld Redstone Ore On",
       "block.sotm.uaphreliaplanks": "Phantom Locust Planks",
@@ -19579,6 +19787,7 @@
       "block.sotm.blackberrybush": "Blackberry Bush",
       "item.sotmremake.copperarmor_chestplate": "Copper Chestplate",
       "block.sotmremake.chiseled_rose_quartz": "Chiseled Rose Quartz",
+      "item.sotm.seraphyst_steel_ingot": "Seraphyst Steel",
       "block.sotm.cherry_wood_log": "Cherry Wood Log",
       "block.sotm.nethergoldore": "Gilded Netherrack",
       "block.sotmremake.certusstairs": "Artinium Stairs",
@@ -19588,6 +19797,7 @@
       "item.sotmremake.copperpickaxe": "Copper Pickaxe",
       "block.sotm.lavastone": "Lavastone",
       "item.sotmremake.silver_chainmail_armor_leggings": "Silver_Chainmail Leggings",
+      "item.sotm.seraphyst_steel_sword": "Seraphyst Steel Sword",
       "block.sotm.brown_cotton_wool": "Brown Cotton Wool",
       "item.sotmremake.silver_chainmail_armor_helmet": "Silver_Chainmail Helmet",
       "item.sotm.blackberries": "Blackberries",
@@ -19613,6 +19823,7 @@
       "block.sotm.underworld_coarse_dirt": "Underworld Coarse Dirt",
       "block.sotm.silverore": "Underworld Silver Ore",
       "block.sotm.black_plastic": "Black Plastic Block",
+      "item.sotm.seraphyst_steel_armor_helmet": "Seraphyst Steel Helmet",
       "item.sotm.amethyst_armor_helmet": "Amethyst Helmet",
       "item.sotm.ambershovel": "Amber Shovel",
       "block.sotm.carbonsand": "Carbon Sand",
@@ -19874,6 +20085,7 @@
       "block.sotm.blackstone": "Darkstone",
       "item.sotmremake.amethyst_armorbody": "Amethyst Chestplate",
       "item.sotm.ambersickle": "Amber Sickle",
+      "biome.sotm.boundland": "Boundland",
       "item.sotm.mummy": "Mummy Spawn Egg",
       "item.sotmremake.amethyst_pickaxe": "Amethyst Pickaxe",
       "block.sotmremake.brown_mushroom_slab": "Brown Mushroom Slab",
@@ -20040,6 +20252,7 @@
       "block.sotmremake.dragon_fir_trapdoor": "Dragon Fir Trapdoor",
       "item.sotmremake.rubyarmorboots": "Ruby Boots",
       "item.sotmremake.studded_lather_chain_armorhelmet": "Leather-Chain Helmet",
+      "item.sotm.seraphyst_steel_shovel": " Seraphyst Steel Shovel",
       "block.sotmremake.chiseled_frosted_quartz": "Chiseled Frosted Quartz",
       "block.sotmremake.netherwart_natural": "Netherwart Natural",
       "block.sotm.venorum_quartz_slab": "Venorum Quartz Slab",
@@ -20128,6 +20341,7 @@
       "advancements.the_deep_the_dark_and_the_ugly.descr": "You Entered The Underworld",
       "block.sotm.polished_cobblestone": "Polished Cobblestone",
       "block.sotm.venorum": "Venorum",
+      "item.sotm.seraphyst_steel_armor_boots": "Seraphyst Steel Boots",
       "block.sotm.endergrass": "Phantom Cryllium",
       "item.sotmremake.rabidiumgem": "Rabidium",
       "block.sotmremake.carbon_smoothed_sandstone": "Carbon Smooth Sandstone",
@@ -20188,6 +20402,7 @@
       "block.sotm.basaltsmooth": "Polished Voidstone",
       "item.sotmremake.amberarmor_chestplate": "Amber Chestplate",
       "item.sotmremake.coppersword": "Copper Sword",
+      "item.sotm.seraphyst_steel_hoe": "Seraphyst Steel Hoe",
       "item.sotmremake.amerbrick": "Amer Bricks",
       "block.sotm.amethyst_ore_block": "Amethyst Block",
       "item.sotm.quiver": "Quiver",
@@ -20726,6 +20941,7 @@
       "biome.sotmremake.lightoakforest": "Light Oak Forest",
       "item.sotmremake.ancient_sword": "Ancient Hook",
       "item.sotmremake.rubypickaxe": "Ruby Pickaxe",
+      "item.sotm.seraphyst_steel_pickaxe": "Seraphyst Steel Pickaxe",
       "block.sotm.quartzstonesmooth": "Polished Quartzstone",
       "block.sotm.dragon_fir_planks": "Dragon Fir Planks"
     }

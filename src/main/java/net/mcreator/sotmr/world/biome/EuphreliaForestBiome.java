@@ -27,6 +27,7 @@ import net.minecraft.world.gen.feature.BaseTreeFeatureConfig;
 import net.minecraft.world.gen.blockstateprovider.SimpleBlockStateProvider;
 import net.minecraft.world.gen.blockplacer.SimpleBlockPlacer;
 import net.minecraft.world.gen.GenerationStage;
+import net.minecraft.world.biome.ParticleEffectAmbience;
 import net.minecraft.world.biome.MobSpawnInfo;
 import net.minecraft.world.biome.DefaultBiomeFeatures;
 import net.minecraft.world.biome.BiomeGenerationSettings;
@@ -43,6 +44,7 @@ import net.minecraft.entity.EntityClassification;
 import net.minecraft.block.Blocks;
 import net.minecraft.block.BlockState;
 
+import net.mcreator.sotmr.particle.BlueGlowingOrbParticle;
 import net.mcreator.sotmr.entity.DuckEntity;
 import net.mcreator.sotmr.entity.BisonEntity;
 import net.mcreator.sotmr.block.UnderworldGrassBlock;
@@ -69,7 +71,8 @@ public class EuphreliaForestBiome extends SotmModElements.ModElement {
 		public void registerBiomes(RegistryEvent.Register<Biome> event) {
 			if (biome == null) {
 				BiomeAmbience effects = new BiomeAmbience.Builder().setFogColor(-16777012).setWaterColor(-65536).setWaterFogColor(-65536)
-						.withSkyColor(-16777012).withFoliageColor(-16737793).withGrassColor(-16737793).build();
+						.withSkyColor(-16777012).withFoliageColor(-16737793).withGrassColor(-16737793)
+						.setParticle(new ParticleEffectAmbience(BlueGlowingOrbParticle.particle, 0f)).build();
 				BiomeGenerationSettings.Builder biomeGenerationSettings = new BiomeGenerationSettings.Builder().withSurfaceBuilder(
 						SurfaceBuilder.DEFAULT.func_242929_a(new SurfaceBuilderConfig(UnderworldGrassBlock.block.getDefaultState(),
 								UnderworldDirtBlock.block.getDefaultState(), UnderworldDirtBlock.block.getDefaultState())));

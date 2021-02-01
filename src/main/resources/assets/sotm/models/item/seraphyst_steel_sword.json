@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "sotm:items/seraphyst_steel_sword"
+  }
+}

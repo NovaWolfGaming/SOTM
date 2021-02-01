@@ -47,6 +47,9 @@
       },
       {
         "value": "CUSTOM:AshwoodForest"
+      },
+      {
+        "value": "CUSTOM:Boundland"
       }
     ],
     "worldGenType": "Normal world gen",
@@ -62,7 +65,7 @@
     "doesWaterVaporize": false,
     "sleepResult": "ALLOW",
     "hasSkyLight": true,
-    "imitateOverworldBehaviour": true,
+    "imitateOverworldBehaviour": false,
     "portalFrame": {
       "value": "CUSTOM:GlowingObsidian"
     },

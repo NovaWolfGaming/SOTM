@@ -84,12 +84,6 @@
           "y": 53
         }
       }
-    ],
-    "onTick": {
-      "name": "LeatherWorksTableProcedure"
-    },
-    "onClosed": {
-      "name": "LeatherWorksTableProcedure"
-    }
+    ]
   }
 }

@@ -25,6 +25,7 @@ import net.minecraft.world.gen.feature.Feature;
 import net.minecraft.world.gen.feature.BaseTreeFeatureConfig;
 import net.minecraft.world.gen.blockstateprovider.SimpleBlockStateProvider;
 import net.minecraft.world.gen.GenerationStage;
+import net.minecraft.world.biome.ParticleEffectAmbience;
 import net.minecraft.world.biome.MobSpawnInfo;
 import net.minecraft.world.biome.DefaultBiomeFeatures;
 import net.minecraft.world.biome.BiomeGenerationSettings;
@@ -40,6 +41,7 @@ import net.minecraft.entity.EntityClassification;
 import net.minecraft.block.Blocks;
 import net.minecraft.block.BlockState;
 
+import net.mcreator.sotmr.particle.RedGlowingOrParticle;
 import net.mcreator.sotmr.entity.BisonEntity;
 import net.mcreator.sotmr.entity.AnicentOnesEntity;
 import net.mcreator.sotmr.block.UnderworldMudBlock;
@@ -66,7 +68,8 @@ public class TwistedMapleForestBiome extends SotmModElements.ModElement {
 		public void registerBiomes(RegistryEvent.Register<Biome> event) {
 			if (biome == null) {
 				BiomeAmbience effects = new BiomeAmbience.Builder().setFogColor(-65383).setWaterColor(-65536).setWaterFogColor(-65536)
-						.withSkyColor(-65383).withFoliageColor(-3407821).withGrassColor(-3407821).build();
+						.withSkyColor(-65383).withFoliageColor(-3407821).withGrassColor(-3407821)
+						.setParticle(new ParticleEffectAmbience(RedGlowingOrParticle.particle, 0f)).build();
 				BiomeGenerationSettings.Builder biomeGenerationSettings = new BiomeGenerationSettings.Builder()
 						.withSurfaceBuilder(SurfaceBuilder.DEFAULT.func_242929_a(new SurfaceBuilderConfig(CryphiliumBlock.block.getDefaultState(),
 								UnderworldMudBlock.block.getDefaultState(), UnderworldMudBlock.block.getDefaultState())));

@@ -42,7 +42,7 @@
       "value": ""
     },
     "moodSoundDelay": 0,
-    "spawnParticles": false,
+    "spawnParticles": true,
     "particleToSpawn": {
       "value": "CUSTOM:RedGlowingOr"
     },

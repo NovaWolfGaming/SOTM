@@ -49,8 +49,8 @@
           "biome": "sotm:euphreliaforest",
           "parameters": {
             "altitude": 0,
-            "temperature": 0.471428571428,
-            "humidity": 0.128571428572,
+            "temperature": 0.473333333333,
+            "humidity": 0.126666666667,
             "weirdness": 0,
             "offset": 0
           }
@@ -59,8 +59,8 @@
           "biome": "sotm:lightoakforest",
           "parameters": {
             "altitude": 0,
-            "temperature": 0.442857142857,
-            "humidity": 0.157142857143,
+            "temperature": 0.446666666667,
+            "humidity": 0.153333333333,
             "weirdness": 0,
             "offset": 0
           }
@@ -69,8 +69,8 @@
           "biome": "sotm:carbondesert",
           "parameters": {
             "altitude": 0,
-            "temperature": 0.414285714286,
-            "humidity": 0.185714285714,
+            "temperature": 0.42,
+            "humidity": 0.18,
             "weirdness": 0,
             "offset": 0
           }
@@ -79,8 +79,8 @@
           "biome": "sotm:undershroom_black",
           "parameters": {
             "altitude": 0,
-            "temperature": 0.385714285714,
-            "humidity": 0.214285714286,
+            "temperature": 0.393333333333,
+            "humidity": 0.206666666667,
             "weirdness": 0,
             "offset": 0
           }
@@ -89,8 +89,8 @@
           "biome": "sotm:dragon_fir_forest",
           "parameters": {
             "altitude": 0,
-            "temperature": 0.357142857143,
-            "humidity": 0.242857142857,
+            "temperature": 0.366666666667,
+            "humidity": 0.233333333333,
             "weirdness": 0,
             "offset": 0
           }
@@ -99,8 +99,8 @@
           "biome": "sotm:twisted_maple_forest",
           "parameters": {
             "altitude": 0,
-            "temperature": 0.328571428572,
-            "humidity": 0.271428571428,
+            "temperature": 0.34,
+            "humidity": 0.26,
             "weirdness": 0,
             "offset": 0
           }
@@ -109,8 +109,8 @@
           "biome": "sotm:corrupted_end_plains",
           "parameters": {
             "altitude": 0,
-            "temperature": 0.3,
-            "humidity": 0.3,
+            "temperature": 0.313333333333,
+            "humidity": 0.286666666667,
             "weirdness": 0,
             "offset": 0
           }
@@ -119,8 +119,8 @@
           "biome": "sotm:undershroom_yellow",
           "parameters": {
             "altitude": 0,
-            "temperature": 0.271428571428,
-            "humidity": 0.328571428572,
+            "temperature": 0.286666666667,
+            "humidity": 0.313333333333,
             "weirdness": 0,
             "offset": 0
           }
@@ -129,8 +129,8 @@
           "biome": "sotm:shnyllium_plains",
           "parameters": {
             "altitude": 0,
-            "temperature": 0.242857142857,
-            "humidity": 0.357142857143,
+            "temperature": 0.26,
+            "humidity": 0.34,
             "weirdness": 0,
             "offset": 0
           }
@@ -139,8 +139,8 @@
           "biome": "sotm:bauxite_wastes",
           "parameters": {
             "altitude": 0,
-            "temperature": 0.214285714286,
-            "humidity": 0.385714285714,
+            "temperature": 0.233333333333,
+            "humidity": 0.366666666667,
             "weirdness": 0,
             "offset": 0
           }
@@ -149,8 +149,8 @@
           "biome": "sotm:blood_elder_forest",
           "parameters": {
             "altitude": 0,
-            "temperature": 0.185714285714,
-            "humidity": 0.414285714286,
+            "temperature": 0.206666666667,
+            "humidity": 0.393333333333,
             "weirdness": 0,
             "offset": 0
           }
@@ -159,8 +159,8 @@
           "biome": "sotm:darkstonedeltas",
           "parameters": {
             "altitude": 0,
-            "temperature": 0.157142857143,
-            "humidity": 0.442857142857,
+            "temperature": 0.18,
+            "humidity": 0.42,
             "weirdness": 0,
             "offset": 0
           }
@@ -169,14 +169,24 @@
           "biome": "sotm:bone_stem_deltas",
           "parameters": {
             "altitude": 0,
-            "temperature": 0.128571428572,
-            "humidity": 0.471428571428,
+            "temperature": 0.153333333333,
+            "humidity": 0.446666666667,
             "weirdness": 0,
             "offset": 0
           }
         },
         {
           "biome": "sotm:ashwood_forest",
+          "parameters": {
+            "altitude": 0,
+            "temperature": 0.126666666667,
+            "humidity": 0.473333333333,
+            "weirdness": 0,
+            "offset": 0
+          }
+        },
+        {
+          "biome": "sotm:boundland",
           "parameters": {
             "altitude": 0,
             "temperature": 0.1,
@@ -192,7 +202,7 @@
       "bedrock_roof_position": -10,
       "bedrock_floor_position": 0,
       "sea_level": 63,
-      "disable_mob_generation": false,
+      "disable_mob_generation": true,
       "default_block": {
         "Name": "sotm:carborite"
       },

@@ -42,9 +42,9 @@
       "value": ""
     },
     "moodSoundDelay": 0,
-    "spawnParticles": false,
+    "spawnParticles": true,
     "particleToSpawn": {
-      "value": "CUSTOM:RedGlowingOr"
+      "value": "CUSTOM:BlueGlowingOrb"
     },
     "particlesProbability": 0.0,
     "biomeCategory": "NONE",
