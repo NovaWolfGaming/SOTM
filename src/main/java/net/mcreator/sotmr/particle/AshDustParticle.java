@@ -47,8 +47,8 @@ public class AshDustParticle extends SotmModElements.ModElement {
 			this.setSize((float) 0.2, (float) 0.2);
 			this.particleScale *= (float) 1;
 			this.maxAge = (int) Math.max(1, 7 + (this.rand.nextInt(6) - 3));
-			this.particleGravity = (float) 0;
-			this.canCollide = false;
+			this.particleGravity = (float) 0.1;
+			this.canCollide = true;
 			this.motionX = vx * 0;
 			this.motionY = vy * 0;
 			this.motionZ = vz * 0;

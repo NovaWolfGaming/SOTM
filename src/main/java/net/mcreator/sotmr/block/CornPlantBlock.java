@@ -95,7 +95,7 @@ public class CornPlantBlock extends SotmModElements.ModElement {
 				.add(() -> (ConfiguredFeature<?, ?>) feature.withConfiguration(
 						(new BlockClusterFeatureConfig.Builder(new SimpleBlockStateProvider(block.getDefaultState()), new DoublePlantBlockPlacer()))
 								.tries(64).build())
-						.withPlacement(Placement.COUNT_NOISE.configure(new NoiseDependant(-0.8, 0, 2))));
+						.withPlacement(Placement.COUNT_NOISE.configure(new NoiseDependant(-0.8, 0, 1))));
 	}
 	public static class BlockCustomFlower extends DoublePlantBlock {
 		public BlockCustomFlower() {

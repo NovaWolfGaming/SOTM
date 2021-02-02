@@ -1,0 +1,13 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "sotm:dark_steel_block"
+    }
+  ],
+  "result": {
+    "item": "sotm:dark_steel_ingot",
+    "count": 9
+  }
+}

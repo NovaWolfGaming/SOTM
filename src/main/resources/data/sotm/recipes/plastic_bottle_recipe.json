@@ -1,0 +1,23 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    " 4 "
+  ],
+  "key": {
+    "0": {
+      "item": "sotm:plastic"
+    },
+    "2": {
+      "item": "sotm:plastic"
+    },
+    "4": {
+      "item": "sotm:plastic"
+    }
+  },
+  "result": {
+    "item": "sotm:plastic_bottle",
+    "count": 3
+  }
+}

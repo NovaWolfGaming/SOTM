@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "sotm:darkquartz"
+  },
+  "addition": {
+    "item": "sotm:silveringot"
+  },
+  "result": {
+    "item": "sotm:dark_steel_ingot"
+  }
+}

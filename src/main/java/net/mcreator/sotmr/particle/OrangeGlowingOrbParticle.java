@@ -47,7 +47,7 @@ public class OrangeGlowingOrbParticle extends SotmModElements.ModElement {
 			this.setSize((float) 0.2, (float) 0.2);
 			this.particleScale *= (float) 1;
 			this.maxAge = 7;
-			this.particleGravity = (float) 0;
+			this.particleGravity = (float) 0.3;
 			this.canCollide = true;
 			this.motionX = vx * 1;
 			this.motionY = vy * 1;

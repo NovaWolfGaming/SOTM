@@ -47,7 +47,7 @@ public class BlueGlowingOrbParticle extends SotmModElements.ModElement {
 			this.setSize((float) 0.1, (float) 0.1);
 			this.particleScale *= (float) 0.1;
 			this.maxAge = 4;
-			this.particleGravity = (float) 0;
+			this.particleGravity = (float) 0.3;
 			this.canCollide = true;
 			this.motionX = vx * 0.3;
 			this.motionY = vy * 0.3;
