@@ -41,13 +41,13 @@ public class CorruptedEndPlainsBiome extends SotmModElements.ModElement {
 				BiomeGenerationSettings.Builder biomeGenerationSettings = new BiomeGenerationSettings.Builder()
 						.withSurfaceBuilder(SurfaceBuilder.DEFAULT.func_242929_a(new SurfaceBuilderConfig(Blocks.END_STONE.getDefaultState(),
 								Blocks.END_STONE.getDefaultState(), Blocks.END_STONE.getDefaultState())));
+				biomeGenerationSettings.withStructure(StructureFeatures.STRONGHOLD);
+				biomeGenerationSettings.withStructure(StructureFeatures.MINESHAFT);
+				biomeGenerationSettings.withStructure(StructureFeatures.PILLAGER_OUTPOST);
 				DefaultBiomeFeatures.withCavesAndCanyons(biomeGenerationSettings);
 				DefaultBiomeFeatures.withMonsterRoom(biomeGenerationSettings);
 				DefaultBiomeFeatures.withOverworldOres(biomeGenerationSettings);
 				DefaultBiomeFeatures.withLavaAndWaterLakes(biomeGenerationSettings);
-				biomeGenerationSettings.withStructure(StructureFeatures.STRONGHOLD);
-				biomeGenerationSettings.withStructure(StructureFeatures.MINESHAFT);
-				biomeGenerationSettings.withStructure(StructureFeatures.PILLAGER_OUTPOST);
 				MobSpawnInfo.Builder mobSpawnInfo = new MobSpawnInfo.Builder().isValidSpawnBiomeForPlayer();
 				mobSpawnInfo.withSpawner(EntityClassification.MONSTER, new MobSpawnInfo.Spawners(CorruptedOnesEntity.entity, 1, 4, 2));
 				mobSpawnInfo.withSpawner(EntityClassification.CREATURE, new MobSpawnInfo.Spawners(AnicentOnesEntity.entity, 1, 4, 2));

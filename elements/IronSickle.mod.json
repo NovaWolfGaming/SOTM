@@ -24,6 +24,7 @@
         "value": "Items.IRON_INGOT"
       }
     ],
+    "immuneToFire": false,
     "stayInGridWhenCrafting": false,
     "damageOnCrafting": false
   }

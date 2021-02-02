@@ -4,7 +4,6 @@ package net.mcreator.sotmr.particle;
 import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;
 import net.minecraftforge.eventbus.api.SubscribeEvent;
 import net.minecraftforge.event.RegistryEvent;
-import net.minecraftforge.common.MinecraftForge;
 import net.minecraftforge.client.event.ParticleFactoryRegisterEvent;
 import net.minecraftforge.api.distmarker.OnlyIn;
 import net.minecraftforge.api.distmarker.Dist;
@@ -26,7 +25,6 @@ public class OrangeGlowingOrbParticle extends SotmModElements.ModElement {
 	public static final BasicParticleType particle = new BasicParticleType(false);
 	public OrangeGlowingOrbParticle(SotmModElements instance) {
 		super(instance, 1342);
-		MinecraftForge.EVENT_BUS.register(this);
 		FMLJavaModLoadingContext.get().getModEventBus().register(this);
 	}
 

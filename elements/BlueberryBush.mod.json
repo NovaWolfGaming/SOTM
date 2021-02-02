@@ -5,6 +5,8 @@
     "renderType": 12,
     "texture": "blue_berry_bush_1",
     "customModelName": "Cross model",
+    "tintType": "No tint",
+    "isItemTinted": false,
     "plantType": "normal",
     "staticPlantGenerationType": "Flower",
     "growapableSpawnType": "Plains",

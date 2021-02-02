@@ -24,6 +24,7 @@
         "value": "CUSTOM:RoseGoldIngot"
       }
     ],
+    "immuneToFire": false,
     "stayInGridWhenCrafting": false,
     "damageOnCrafting": false
   }

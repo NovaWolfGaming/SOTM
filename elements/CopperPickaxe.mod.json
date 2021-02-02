@@ -24,6 +24,7 @@
         "value": "CUSTOM:CopperIngot"
       }
     ],
+    "immuneToFire": false,
     "stayInGridWhenCrafting": false,
     "damageOnCrafting": false
   }

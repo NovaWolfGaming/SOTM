@@ -24,6 +24,7 @@
         "value": "CUSTOM:AncientShard"
       }
     ],
+    "immuneToFire": false,
     "stayInGridWhenCrafting": false,
     "damageOnCrafting": false
   }

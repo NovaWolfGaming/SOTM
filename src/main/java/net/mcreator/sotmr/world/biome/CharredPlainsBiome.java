@@ -38,13 +38,13 @@ public class CharredPlainsBiome extends SotmModElements.ModElement {
 				BiomeGenerationSettings.Builder biomeGenerationSettings = new BiomeGenerationSettings.Builder()
 						.withSurfaceBuilder(SurfaceBuilder.DEFAULT.func_242929_a(new SurfaceBuilderConfig(CharredRockBlock.block.getDefaultState(),
 								CharredRockBlock.block.getDefaultState(), CharredRockBlock.block.getDefaultState())));
+				biomeGenerationSettings.withStructure(StructureFeatures.STRONGHOLD);
+				biomeGenerationSettings.withStructure(StructureFeatures.MINESHAFT);
+				biomeGenerationSettings.withStructure(StructureFeatures.PILLAGER_OUTPOST);
 				DefaultBiomeFeatures.withCavesAndCanyons(biomeGenerationSettings);
 				DefaultBiomeFeatures.withMonsterRoom(biomeGenerationSettings);
 				DefaultBiomeFeatures.withOverworldOres(biomeGenerationSettings);
 				DefaultBiomeFeatures.withLavaAndWaterLakes(biomeGenerationSettings);
-				biomeGenerationSettings.withStructure(StructureFeatures.STRONGHOLD);
-				biomeGenerationSettings.withStructure(StructureFeatures.MINESHAFT);
-				biomeGenerationSettings.withStructure(StructureFeatures.PILLAGER_OUTPOST);
 				MobSpawnInfo.Builder mobSpawnInfo = new MobSpawnInfo.Builder().isValidSpawnBiomeForPlayer();
 				mobSpawnInfo.withSpawner(EntityClassification.MONSTER, new MobSpawnInfo.Spawners(MummyEntity.entity, 1, 1, 1));
 				mobSpawnInfo.withSpawner(EntityClassification.MONSTER, new MobSpawnInfo.Spawners(ScorpionEntity.entity, 1, 1, 1));

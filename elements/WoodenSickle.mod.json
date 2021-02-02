@@ -42,6 +42,7 @@
         "value": "Blocks.PLANKS#5"
       }
     ],
+    "immuneToFire": false,
     "stayInGridWhenCrafting": false,
     "damageOnCrafting": false
   }

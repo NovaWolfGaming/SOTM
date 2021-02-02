@@ -70,10 +70,6 @@ public class TwistedMapleForestBiome extends SotmModElements.ModElement {
 				BiomeGenerationSettings.Builder biomeGenerationSettings = new BiomeGenerationSettings.Builder()
 						.withSurfaceBuilder(SurfaceBuilder.DEFAULT.func_242929_a(new SurfaceBuilderConfig(CryphiliumBlock.block.getDefaultState(),
 								UnderworldMudBlock.block.getDefaultState(), UnderworldMudBlock.block.getDefaultState())));
-				DefaultBiomeFeatures.withCavesAndCanyons(biomeGenerationSettings);
-				DefaultBiomeFeatures.withMonsterRoom(biomeGenerationSettings);
-				DefaultBiomeFeatures.withOverworldOres(biomeGenerationSettings);
-				DefaultBiomeFeatures.withLavaAndWaterLakes(biomeGenerationSettings);
 				biomeGenerationSettings.withStructure(StructureFeatures.STRONGHOLD);
 				biomeGenerationSettings.withStructure(StructureFeatures.MINESHAFT);
 				biomeGenerationSettings.withStructure(StructureFeatures.PILLAGER_OUTPOST);
@@ -86,9 +82,13 @@ public class TwistedMapleForestBiome extends SotmModElements.ModElement {
 										new GiantTrunkPlacer(7, 2, 14), new TwoLayerFeature(1, 1, 2)))
 												.setDecorators(ImmutableList.of(CustomLeaveVineTreeDecorator.instance,
 														CustomTrunkVineTreeDecorator.instance, new CustomCocoaTreeDecorator()))
-												.build())
+												.setMaxWaterDepth(0).build())
 						.withPlacement(Features.Placements.HEIGHTMAP_PLACEMENT)
 						.withPlacement(Placement.COUNT_EXTRA.configure(new AtSurfaceWithExtraConfig(3, 0.1F, 1))));
+				DefaultBiomeFeatures.withCavesAndCanyons(biomeGenerationSettings);
+				DefaultBiomeFeatures.withMonsterRoom(biomeGenerationSettings);
+				DefaultBiomeFeatures.withOverworldOres(biomeGenerationSettings);
+				DefaultBiomeFeatures.withLavaAndWaterLakes(biomeGenerationSettings);
 				MobSpawnInfo.Builder mobSpawnInfo = new MobSpawnInfo.Builder().isValidSpawnBiomeForPlayer();
 				mobSpawnInfo.withSpawner(EntityClassification.CREATURE, new MobSpawnInfo.Spawners(BisonEntity.entity, 1, 1, 2));
 				mobSpawnInfo.withSpawner(EntityClassification.CREATURE, new MobSpawnInfo.Spawners(AnicentOnesEntity.entity, 1, 1, 1));

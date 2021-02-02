@@ -27,6 +27,7 @@
         "value": "Items.BONE"
       }
     ],
+    "immuneToFire": false,
     "stayInGridWhenCrafting": false,
     "damageOnCrafting": false
   }

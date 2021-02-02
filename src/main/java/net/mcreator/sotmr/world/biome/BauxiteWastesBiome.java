@@ -34,14 +34,14 @@ public class BauxiteWastesBiome extends SotmModElements.ModElement {
 				BiomeGenerationSettings.Builder biomeGenerationSettings = new BiomeGenerationSettings.Builder()
 						.withSurfaceBuilder(SurfaceBuilder.DEFAULT.func_242929_a(new SurfaceBuilderConfig(BauxiteBlock.block.getDefaultState(),
 								BauxiteBlock.block.getDefaultState(), BauxiteBlock.block.getDefaultState())));
+				biomeGenerationSettings.withStructure(StructureFeatures.STRONGHOLD);
+				biomeGenerationSettings.withStructure(StructureFeatures.MINESHAFT);
+				biomeGenerationSettings.withStructure(StructureFeatures.PILLAGER_OUTPOST);
 				DefaultBiomeFeatures.withCavesAndCanyons(biomeGenerationSettings);
 				DefaultBiomeFeatures.withMonsterRoom(biomeGenerationSettings);
 				DefaultBiomeFeatures.withOverworldOres(biomeGenerationSettings);
 				DefaultBiomeFeatures.withLavaAndWaterLakes(biomeGenerationSettings);
 				DefaultBiomeFeatures.withDesertDeadBushes(biomeGenerationSettings);
-				biomeGenerationSettings.withStructure(StructureFeatures.STRONGHOLD);
-				biomeGenerationSettings.withStructure(StructureFeatures.MINESHAFT);
-				biomeGenerationSettings.withStructure(StructureFeatures.PILLAGER_OUTPOST);
 				MobSpawnInfo.Builder mobSpawnInfo = new MobSpawnInfo.Builder().isValidSpawnBiomeForPlayer();
 				biome = new Biome.Builder().precipitation(Biome.RainType.RAIN).category(Biome.Category.NETHER).depth(0.1f).scale(0.2f)
 						.temperature(0.5f).downfall(0.5f).setEffects(effects).withMobSpawnSettings(mobSpawnInfo.copy())
