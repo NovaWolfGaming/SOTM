@@ -8,7 +8,7 @@
   ],
   "key": {
     "0": {
-      "item": "sotm:seraphyst_steel_ingot"
+      "item": "sotm:deleted_mod_element"
     },
     "1": {
       "item": "minecraft:stick"
@@ -18,7 +18,7 @@
     }
   },
   "result": {
-    "item": "sotm:seraphyst_steel_shovel",
+    "item": "sotm:deleted_mod_element",
     "count": 1
   }
 }

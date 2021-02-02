@@ -6,7 +6,7 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "sotm:stryder_string",
+          "name": "sotm:deleted_mod_element",
           "weight": 1,
           "functions": [
             {

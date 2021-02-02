@@ -8,13 +8,13 @@
   ],
   "key": {
     "0": {
-      "item": "sotm:seraphyst_steel_ingot"
+      "item": "sotm:deleted_mod_element"
     },
     "1": {
-      "item": "sotm:seraphyst_steel_ingot"
+      "item": "sotm:deleted_mod_element"
     },
     "2": {
-      "item": "sotm:seraphyst_steel_ingot"
+      "item": "sotm:deleted_mod_element"
     },
     "4": {
       "item": "minecraft:stick"
@@ -24,7 +24,7 @@
     }
   },
   "result": {
-    "item": "sotm:seraphyst_steel_pickaxe",
+    "item": "sotm:deleted_mod_element",
     "count": 1
   }
 }

@@ -14,11 +14,11 @@
       "falpha": 0.0
     },
     "grassColor": {
-      "value": -10092289,
+      "value": -16777012,
       "falpha": 0.0
     },
     "foliageColor": {
-      "value": -10092340,
+      "value": -16777012,
       "falpha": 0.0
     },
     "waterColor": {
@@ -29,23 +29,8 @@
       "value": -3407872,
       "falpha": 0.0
     },
-    "ambientSound": {
-      "value": ""
-    },
-    "additionsSound": {
-      "value": ""
-    },
-    "music": {
-      "value": ""
-    },
-    "moodSound": {
-      "value": ""
-    },
     "moodSoundDelay": 0,
     "spawnParticles": false,
-    "particleToSpawn": {
-      "value": "CUSTOM:RedGlowingOr"
-    },
     "particlesProbability": 0.0,
     "biomeCategory": "NONE",
     "parent": {

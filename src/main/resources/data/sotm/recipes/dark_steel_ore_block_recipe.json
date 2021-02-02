@@ -8,35 +8,35 @@
   ],
   "key": {
     "0": {
-      "item": "sotm:dark_steel_ingot"
+      "item": "sotm:deleted_mod_element"
     },
     "1": {
-      "item": "sotm:dark_steel_ingot"
+      "item": "sotm:deleted_mod_element"
     },
     "2": {
-      "item": "sotm:dark_steel_ingot"
+      "item": "sotm:deleted_mod_element"
     },
     "3": {
-      "item": "sotm:dark_steel_ingot"
+      "item": "sotm:deleted_mod_element"
     },
     "4": {
-      "item": "sotm:dark_steel_ingot"
+      "item": "sotm:deleted_mod_element"
     },
     "5": {
-      "item": "sotm:dark_steel_ingot"
+      "item": "sotm:deleted_mod_element"
     },
     "6": {
-      "item": "sotm:dark_steel_ingot"
+      "item": "sotm:deleted_mod_element"
     },
     "7": {
-      "item": "sotm:dark_steel_ingot"
+      "item": "sotm:deleted_mod_element"
     },
     "8": {
-      "item": "sotm:dark_steel_ingot"
+      "item": "sotm:deleted_mod_element"
     }
   },
   "result": {
-    "item": "sotm:dark_steel_block",
+    "item": "sotm:deleted_mod_element",
     "count": 1
   }
 }
