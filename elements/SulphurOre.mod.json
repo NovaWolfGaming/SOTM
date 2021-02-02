@@ -99,7 +99,7 @@
     "restrictionBiomes": [],
     "blocksToReplace": [
       {
-        "value": "Blocks.NETHERRACK"
+        "value": "Blocks.BASALT"
       }
     ],
     "frequencyPerChunks": 10,

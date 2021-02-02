@@ -100,10 +100,10 @@ public class UnderworldDimension extends SotmModElements.ModElement {
 	@Override
 	@OnlyIn(Dist.CLIENT)
 	public void clientLoad(FMLClientSetupEvent event) {
-		DimensionRenderInfo customEffect = new DimensionRenderInfo(128, true, DimensionRenderInfo.FogType.NORMAL, false, false) {
+		DimensionRenderInfo customEffect = new DimensionRenderInfo(Float.NaN, true, DimensionRenderInfo.FogType.NONE, false, false) {
 			@Override
 			public Vector3d func_230494_a_(Vector3d color, float sunHeight) {
-				return new Vector3d(0.752941176471, 0.847058823529, 1);
+				return color;
 			}
 
 			@Override
@@ -140,7 +140,7 @@ public class UnderworldDimension extends SotmModElements.ModElement {
 	public static class CustomPortalBlock extends NetherPortalBlock {
 		public CustomPortalBlock() {
 			super(Block.Properties.create(Material.PORTAL).doesNotBlockMovement().tickRandomly().hardnessAndResistance(-1.0F).sound(SoundType.GLASS)
-					.setLightLevel(s -> 0).noDrops());
+					.setLightLevel(s -> 3).noDrops());
 			setRegistryName("underworld_portal");
 		}
 

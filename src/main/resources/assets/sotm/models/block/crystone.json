@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sotm:blocks/crystone",
+    "up": "sotm:blocks/crystone",
+    "north": "sotm:blocks/crystone",
+    "east": "sotm:blocks/crystone",
+    "south": "sotm:blocks/crystone",
+    "west": "sotm:blocks/crystone",
+    "particle": "sotm:blocks/crystone"
+  }
+}

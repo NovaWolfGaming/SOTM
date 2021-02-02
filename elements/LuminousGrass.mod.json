@@ -11,7 +11,7 @@
     "renderType": 10,
     "customModelName": "Normal",
     "rotationMode": 0,
-    "emissiveRendering": false,
+    "emissiveRendering": true,
     "displayFluidOverlay": false,
     "itemTexture": "",
     "particleTexture": "nether_nylium_top",
@@ -69,7 +69,7 @@
     "luminance": 3,
     "unbreakable": false,
     "breakHarvestLevel": 1,
-    "spawnParticles": true,
+    "spawnParticles": false,
     "particleToSpawn": {
       "value": "CUSTOM:RedGlowingOr"
     },

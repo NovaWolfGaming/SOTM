@@ -1803,14 +1803,6 @@
       }
     },
     {
-      "name": "Agalt",
-      "type": "fluid",
-      "sortid": 363,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {}
-    },
-    {
       "name": "DynamiteRecipe",
       "type": "recipe",
       "sortid": 756,
@@ -18765,6 +18757,291 @@
           }
         ]
       }
+    },
+    {
+      "name": "SeraphystSteelArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 2153,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "seraphyst_steel_armor_body_recipe"
+    },
+    {
+      "name": "SeraphystSteelArmor",
+      "type": "armor",
+      "sortid": 2151,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "seraphyst_steel_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "ButterBlock",
+      "type": "block",
+      "sortid": 2127,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "butter_block"
+    },
+    {
+      "name": "SeraphystSteelPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 2146,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "seraphyst_steel_pickaxe_recipe"
+    },
+    {
+      "name": "SeraphystSteelBlock",
+      "type": "block",
+      "sortid": 2137,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "seraphyst_steel_block"
+    },
+    {
+      "name": "CrystoneNugget",
+      "type": "item",
+      "sortid": 2129,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "crystone_nugget"
+    },
+    {
+      "name": "SeraphystSteelSwordRecipe",
+      "type": "recipe",
+      "sortid": 2148,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "seraphyst_steel_sword_recipe"
+    },
+    {
+      "name": "SeraphystSteelArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 2154,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "seraphyst_steel_armor_leggings_recipe"
+    },
+    {
+      "name": "SeraphystSteelSword",
+      "type": "tool",
+      "sortid": 2143,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "seraphyst_steel_sword"
+    },
+    {
+      "name": "SeraphystSteelOreSmelting",
+      "type": "recipe",
+      "sortid": 2140,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "seraphyst_steel_ore_smelting"
+    },
+    {
+      "name": "SeraphystSteelShovelRecipe",
+      "type": "recipe",
+      "sortid": 2149,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "seraphyst_steel_shovel_recipe"
+    },
+    {
+      "name": "SeraphystSteelHoe",
+      "type": "tool",
+      "sortid": 2145,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "seraphyst_steel_hoe"
+    },
+    {
+      "name": "SeraphystSteelIngot",
+      "type": "item",
+      "sortid": 2135,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "seraphyst_steel_ingot"
+    },
+    {
+      "name": "SeraphystSteelArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 2155,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "seraphyst_steel_armor_boots_recipe"
+    },
+    {
+      "name": "SeraphystSteelPickaxe",
+      "type": "tool",
+      "sortid": 2141,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "seraphyst_steel_pickaxe"
+    },
+    {
+      "name": "Strider",
+      "type": "loottable",
+      "sortid": 2125,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "strider"
+    },
+    {
+      "name": "StriderString2String",
+      "type": "recipe",
+      "sortid": 2126,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "strider_string_2_string"
+    },
+    {
+      "name": "CrystoneLamp",
+      "type": "block",
+      "sortid": 2131,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "crystone_lamp"
+    },
+    {
+      "name": "SeraphystSteelOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 2138,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "seraphyst_steel_ore_block_recipe"
+    },
+    {
+      "name": "StryderString",
+      "type": "item",
+      "sortid": 2124,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stryder_string"
+    },
+    {
+      "name": "SeraphystSteelAxe",
+      "type": "tool",
+      "sortid": 2142,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "seraphyst_steel_axe"
+    },
+    {
+      "name": "Crystone",
+      "type": "block",
+      "sortid": 2130,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "crystone"
+    },
+    {
+      "name": "Boundland",
+      "type": "biome",
+      "sortid": 2133,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "boundland"
+    },
+    {
+      "name": "SeraphystSteelAxeRecipe",
+      "type": "recipe",
+      "sortid": 2147,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "seraphyst_steel_axe_recipe"
+    },
+    {
+      "name": "SeraphystSteelBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 2139,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "seraphyst_steel_block_ore_recipe"
+    },
+    {
+      "name": "SeraphystSteelArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 2152,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "seraphyst_steel_armor_helmet_recipe"
+    },
+    {
+      "name": "SeraphystSteelHoeRecipe",
+      "type": "recipe",
+      "sortid": 2150,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "seraphyst_steel_hoe_recipe"
+    },
+    {
+      "name": "SeraphystSteelShovel",
+      "type": "tool",
+      "sortid": 2144,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "seraphyst_steel_shovel"
+    },
+    {
+      "name": "CrystoneLampRecipe",
+      "type": "recipe",
+      "sortid": 2132,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "crystone_lamp_recipe"
+    },
+    {
+      "name": "BlueGlowingOrb",
+      "type": "particle",
+      "sortid": 2134,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "blue_glowing_orb"
+    },
+    {
+      "name": "ButterBlockRecipe",
+      "type": "recipe",
+      "sortid": 2128,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "butter_block_recipe"
     }
   ],
   "variable_elements": [
@@ -20674,5 +20951,5 @@
     "modElementsPackage": "net.mcreator.sotmr",
     "lockBaseModFiles": false
   },
-  "mcreatorVersion": 202100103117
+  "mcreatorVersion": 202000652319
 }

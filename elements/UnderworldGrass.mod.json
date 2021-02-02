@@ -15,7 +15,7 @@
     "displayFluidOverlay": false,
     "itemTexture": "",
     "particleTexture": "",
-    "tintType": "No tint",
+    "tintType": "Grass",
     "isItemTinted": false,
     "hasTransparency": false,
     "connectedSides": true,

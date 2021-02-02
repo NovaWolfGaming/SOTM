@@ -1,0 +1,42 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "sotm:crystone_nugget"
+    },
+    "1": {
+      "item": "sotm:crystone_nugget"
+    },
+    "2": {
+      "item": "sotm:crystone_nugget"
+    },
+    "3": {
+      "item": "sotm:crystone_nugget"
+    },
+    "4": {
+      "item": "sotm:copperingot"
+    },
+    "5": {
+      "item": "sotm:crystone_nugget"
+    },
+    "6": {
+      "item": "sotm:crystone_nugget"
+    },
+    "7": {
+      "item": "sotm:crystone_nugget"
+    },
+    "8": {
+      "item": "sotm:crystone_nugget"
+    }
+  },
+  "result": {
+    "item": "sotm:crystone_lamp",
+    "count": 1
+  }
+}

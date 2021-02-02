@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sotm:blocks/butter_block",
+    "up": "sotm:blocks/butter_block",
+    "north": "sotm:blocks/butter_block",
+    "east": "sotm:blocks/butter_block",
+    "south": "sotm:blocks/butter_block",
+    "west": "sotm:blocks/butter_block",
+    "particle": "sotm:blocks/butter_block"
+  }
+}

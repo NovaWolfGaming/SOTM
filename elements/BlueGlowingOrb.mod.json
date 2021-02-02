@@ -1,0 +1,19 @@
+{
+  "_fv": 15,
+  "_type": "particle",
+  "definition": {
+    "texture": "blue_orb.png",
+    "animate": false,
+    "frameDuration": 1,
+    "width": 0.1,
+    "height": 0.1,
+    "scale": 0.1,
+    "speedFactor": 0.30000000000000004,
+    "gravity": 0.0,
+    "maxAge": 4,
+    "maxAgeDiff": 0,
+    "canCollide": true,
+    "alwaysShow": true,
+    "renderType": "TRANSLUCENT"
+  }
+}

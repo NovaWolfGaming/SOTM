@@ -13,9 +13,24 @@
       "value": -16777216,
       "falpha": 0.0
     },
+    "ambientSound": {
+      "value": ""
+    },
+    "additionsSound": {
+      "value": ""
+    },
+    "music": {
+      "value": ""
+    },
+    "moodSound": {
+      "value": ""
+    },
     "moodSoundDelay": 0,
-    "spawnParticles": false,
-    "particlesProbability": 0.0,
+    "spawnParticles": true,
+    "particleToSpawn": {
+      "value": "CUSTOM:AshDust"
+    },
+    "particlesProbability": 1.0,
     "biomeCategory": "NONE",
     "parent": {
       "value": "No parent"
