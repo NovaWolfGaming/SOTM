@@ -1,7 +1,7 @@
 {
   "parent": "block/cross",
   "textures": {
-    "cross": "sotm:blocks/rose_pink",
-    "particle": "sotm:blocks/rose_pink"
+    "cross": "sotm:blocks/pink_rose",
+    "particle": "sotm:blocks/pink_rose"
   }
 }
