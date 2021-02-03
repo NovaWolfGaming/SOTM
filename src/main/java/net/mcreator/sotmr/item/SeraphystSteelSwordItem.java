@@ -1,12 +1,21 @@
 
 package net.mcreator.sotmr.item;
 
+import net.minecraftforge.registries.ObjectHolder;
+
+import net.minecraft.item.crafting.Ingredient;
+import net.minecraft.item.SwordItem;
+import net.minecraft.item.ItemStack;
+import net.minecraft.item.Item;
+import net.minecraft.item.IItemTier;
+
+import net.mcreator.sotmr.itemgroup.ToolsAndWeaponsItemGroup;
+import net.mcreator.sotmr.SotmModElements;
+
 @SotmModElements.ModElement.Tag
 public class SeraphystSteelSwordItem extends SotmModElements.ModElement {
-
 	@ObjectHolder("sotm:seraphyst_steel_sword")
 	public static final Item block = null;
-
 	public SeraphystSteelSwordItem(SotmModElements instance) {
 		super(instance, 2143);
 	}
@@ -38,8 +47,6 @@ public class SeraphystSteelSwordItem extends SotmModElements.ModElement {
 				return Ingredient.fromStacks(new ItemStack(SeraphystSteelIngotItem.block, (int) (1)));
 			}
 		}, 3, -3f, new Item.Properties().group(ToolsAndWeaponsItemGroup.tab)) {
-
 		}.setRegistryName("seraphyst_steel_sword"));
 	}
-
 }

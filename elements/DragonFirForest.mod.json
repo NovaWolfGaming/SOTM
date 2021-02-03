@@ -9,8 +9,23 @@
     "undergroundBlock": {
       "value": "CUSTOM:UnderworldMud"
     },
+    "ambientSound": {
+      "value": ""
+    },
+    "additionsSound": {
+      "value": ""
+    },
+    "music": {
+      "value": ""
+    },
+    "moodSound": {
+      "value": ""
+    },
     "moodSoundDelay": 0,
     "spawnParticles": false,
+    "particleToSpawn": {
+      "value": "CUSTOM:RedGlowingOr"
+    },
     "particlesProbability": 0.0,
     "biomeCategory": "NONE",
     "parent": {
