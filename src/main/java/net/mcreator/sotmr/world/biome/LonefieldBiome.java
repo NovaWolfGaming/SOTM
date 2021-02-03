@@ -33,6 +33,7 @@ import net.minecraft.particles.ParticleTypes;
 import net.minecraft.block.Blocks;
 
 import net.mcreator.sotmr.block.MonochromeWoodLogBlock;
+import net.mcreator.sotmr.block.MonochromeWoodLeavesBlock;
 import net.mcreator.sotmr.block.LoneGrassBlockBlock;
 import net.mcreator.sotmr.block.LoneDirtBlock;
 import net.mcreator.sotmr.SotmModElements;
@@ -59,7 +60,7 @@ public class LonefieldBiome extends SotmModElements.ModElement {
 				biomeGenerationSettings.withFeature(GenerationStage.Decoration.VEGETAL_DECORATION, Feature.TREE
 						.withConfiguration(
 								(new BaseTreeFeatureConfig.Builder(new SimpleBlockStateProvider(MonochromeWoodLogBlock.block.getDefaultState()),
-										new SimpleBlockStateProvider(MonochromeWoodLogBlock.block.getDefaultState()),
+										new SimpleBlockStateProvider(MonochromeWoodLeavesBlock.block.getDefaultState()),
 										new BlobFoliagePlacer(FeatureSpread.func_242252_a(2), FeatureSpread.func_242252_a(0), 3),
 										new StraightTrunkPlacer(7, 2, 0), new TwoLayerFeature(1, 0, 1))).setIgnoreVines().setMaxWaterDepth(0).build())
 						.withPlacement(Features.Placements.HEIGHTMAP_PLACEMENT)
