@@ -3,11 +3,11 @@
   "type": "minecraft:crafting_shapeless",
   "ingredients": [
     {
-      "item": "sotm:deleted_mod_element"
+      "item": "sotm:dark_steel_block"
     }
   ],
   "result": {
-    "item": "sotm:deleted_mod_element",
+    "item": "sotm:dark_steel_ingot",
     "count": 9
   }
 }

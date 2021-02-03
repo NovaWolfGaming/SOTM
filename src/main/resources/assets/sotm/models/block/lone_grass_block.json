@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sotm:blocks/lonedirt",
+    "up": "sotm:blocks/lonegrasstop",
+    "north": "sotm:blocks/lonegrassblock",
+    "east": "sotm:blocks/lonegrassblock",
+    "south": "sotm:blocks/lonegrassblock",
+    "west": "sotm:blocks/lonegrassblock",
+    "particle": "sotm:blocks/lonedirt"
+  }
+}

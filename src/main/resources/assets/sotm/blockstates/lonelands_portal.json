@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "sotm:block/lonelands_portal_ew"
+    },
+    "axis=x": {
+      "model": "sotm:block/lonelands_portal_ns"
+    }
+  }
+}

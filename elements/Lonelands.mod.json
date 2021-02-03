@@ -1,0 +1,42 @@
+{
+  "_fv": 15,
+  "_type": "dimension",
+  "definition": {
+    "biomesInDimension": [
+      {
+        "value": "CUSTOM:Lonefield"
+      }
+    ],
+    "worldGenType": "Normal world gen",
+    "mainFillerBlock": {
+      "value": "CUSTOM:LoneStone"
+    },
+    "fluidBlock": {
+      "value": "CUSTOM:Mercury"
+    },
+    "canRespawnHere": true,
+    "hasFog": false,
+    "isDark": false,
+    "doesWaterVaporize": false,
+    "sleepResult": "ALLOW",
+    "hasSkyLight": false,
+    "imitateOverworldBehaviour": true,
+    "portalFrame": {
+      "value": "Blocks.CRYING_OBSIDIAN"
+    },
+    "portalParticles": {
+      "value": "CUSTOM:RedGlowingOr"
+    },
+    "portalLuminance": 0,
+    "portalSound": {
+      "value": "block.portal.ambient"
+    },
+    "igniterName": "Lone Igniter",
+    "igniterTab": {
+      "value": "TOOLS"
+    },
+    "texture": "lone_igniter_placeholder",
+    "portalTexture": "lonegrasstop",
+    "enablePortal": true
+  }
+}

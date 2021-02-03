@@ -19389,6 +19389,224 @@
         "eb": true,
         "ec": true
       }
+    },
+    {
+      "name": "MonochromeWoodPlanksRecipe",
+      "type": "recipe",
+      "sortid": 2208,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "monochrome_wood_planks_recipe"
+    },
+    {
+      "name": "MonochromeWoodFenceRecipe",
+      "type": "recipe",
+      "sortid": 2211,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "monochrome_wood_fence_recipe"
+    },
+    {
+      "name": "MercuryMobplayerCollidesBlock",
+      "type": "procedure",
+      "sortid": 2194,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mercury_mobplayer_collides_block",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "MonochromeWoodWoodRecipe",
+      "type": "recipe",
+      "sortid": 2207,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "monochrome_wood_wood_recipe"
+    },
+    {
+      "name": "MonochromeWoodPlanks",
+      "type": "block",
+      "sortid": 2200,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "monochrome_wood_planks"
+    },
+    {
+      "name": "MonochromeWoodLeaves",
+      "type": "block",
+      "sortid": 2201,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "monochrome_wood_leaves"
+    },
+    {
+      "name": "MonochromeWoodLog",
+      "type": "block",
+      "sortid": 2199,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "monochrome_wood_log"
+    },
+    {
+      "name": "MonochromeWoodSlabRecipe",
+      "type": "recipe",
+      "sortid": 2210,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "monochrome_wood_slab_recipe"
+    },
+    {
+      "name": "MonochromeWoodWood",
+      "type": "block",
+      "sortid": 2198,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "monochrome_wood_wood"
+    },
+    {
+      "name": "Lonefield",
+      "type": "biome",
+      "sortid": 2214,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lonefield"
+    },
+    {
+      "name": "LoneStone",
+      "type": "block",
+      "sortid": 2195,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lone_stone"
+    },
+    {
+      "name": "MonochromeWoodSlab",
+      "type": "block",
+      "sortid": 2203,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "monochrome_wood_slab"
+    },
+    {
+      "name": "MonochromeWoodItemsTag",
+      "type": "tag",
+      "sortid": 2206,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "monochrome_wood_items_tag"
+    },
+    {
+      "name": "LoneGrassBlock",
+      "type": "block",
+      "sortid": 2197,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lone_grass_block"
+    },
+    {
+      "name": "MonochromeWoodFenceGateRecipe",
+      "type": "recipe",
+      "sortid": 2212,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "monochrome_wood_fence_gate_recipe"
+    },
+    {
+      "name": "LoneDirt",
+      "type": "block",
+      "sortid": 2196,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lone_dirt"
+    },
+    {
+      "name": "MonochromeWoodStairs",
+      "type": "block",
+      "sortid": 2202,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "monochrome_wood_stairs"
+    },
+    {
+      "name": "MonochromeWoodStairsRecipe",
+      "type": "recipe",
+      "sortid": 2209,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "monochrome_wood_stairs_recipe"
+    },
+    {
+      "name": "Lonelands",
+      "type": "dimension",
+      "sortid": 2215,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lonelands",
+      "metadata": {
+        "ep": true
+      }
+    },
+    {
+      "name": "MonochromeWoodFenceGate",
+      "type": "block",
+      "sortid": 2205,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "monochrome_wood_fence_gate"
+    },
+    {
+      "name": "MonochromeWoodFence",
+      "type": "block",
+      "sortid": 2204,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "monochrome_wood_fence"
+    },
+    {
+      "name": "MonochromeWoodStickRecipe",
+      "type": "recipe",
+      "sortid": 2213,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "monochrome_wood_stick_recipe"
+    },
+    {
+      "name": "Mercury",
+      "type": "fluid",
+      "sortid": 2193,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mercury"
     }
   ],
   "variable_elements": [
@@ -20003,6 +20221,7 @@
       "item.sotm.void_bramble_foof": "Void Bramble",
       "item.sotm.dark_steel_armor_helmet": "Dark Steel Helmet",
       "item.sotm.grapes": "Grapes",
+      "item.sotm.lonelands": "Lone Igniter",
       "block.sotm.crystalineslab": "Crystaline Slab",
       "item.sotm.ender_moss_food": "Ender Moss",
       "block.sotmremake.certusore": "Ender Artinium Ore",

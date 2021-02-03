@@ -1,0 +1,13 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:monochromewood_log"
+    }
+  ],
+  "result": {
+    "item": "sotm:deleted_mod_element",
+    "count": 4
+  }
+}

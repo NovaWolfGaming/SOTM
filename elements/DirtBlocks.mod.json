@@ -40,9 +40,13 @@
       },
       {
         "value": "Blocks.WARPED_NYLIUM"
+      },
+      {
+        "value": "CUSTOM:LoneDirt"
       }
     ],
     "functions": [],
+    "entities": [],
     "name": "dirt",
     "namespace": "forge"
   }

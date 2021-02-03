@@ -15,10 +15,14 @@
       },
       {
         "value": "CUSTOM:PhantoChorusStone"
+      },
+      {
+        "value": "CUSTOM:LoneStone"
       }
     ],
     "blocks": [],
     "functions": [],
+    "entities": [],
     "name": "stone_tool_materials",
     "namespace": "minecraft"
   }

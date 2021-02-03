@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sotm:blocks/lonestone",
+    "up": "sotm:blocks/lonestone",
+    "north": "sotm:blocks/lonestone",
+    "east": "sotm:blocks/lonestone",
+    "south": "sotm:blocks/lonestone",
+    "west": "sotm:blocks/lonestone",
+    "particle": "sotm:blocks/lonestone"
+  }
+}
