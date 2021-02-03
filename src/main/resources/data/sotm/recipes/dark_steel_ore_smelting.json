@@ -1,0 +1,12 @@
+{
+  "group": "sotm",
+  "type": "minecraft:smelting",
+  "experience": 0.9099999999999999,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "sotm:deleted_mod_element"
+  },
+  "result": {
+    "item": "sotm:dark_steel_ingot"
+  }
+}

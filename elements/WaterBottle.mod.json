@@ -1,0 +1,26 @@
+{
+  "_fv": 15,
+  "_type": "food",
+  "definition": {
+    "renderType": 0,
+    "texture": "plastic_bottle_water",
+    "customModelName": "Normal",
+    "name": "Water Bottle",
+    "rarity": "COMMON",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:SOTMFood"
+    },
+    "stackSize": 16,
+    "nutritionalValue": 1,
+    "saturation": 0.1,
+    "eatingSpeed": 32,
+    "resultItem": {
+      "value": ""
+    },
+    "forDogs": false,
+    "isAlwaysEdible": false,
+    "animation": "drink",
+    "hasGlow": false
+  }
+}

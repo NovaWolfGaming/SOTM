@@ -19042,6 +19042,353 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "butter_block_recipe"
+    },
+    {
+      "name": "DarkSteelPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 2169,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_steel_pickaxe_recipe"
+    },
+    {
+      "name": "DarkSteelArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 2175,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_steel_armor_helmet_recipe"
+    },
+    {
+      "name": "WaterBottle",
+      "type": "food",
+      "sortid": 2184,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "water_bottle"
+    },
+    {
+      "name": "PlasticBottle",
+      "type": "item",
+      "sortid": 2180,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "plastic_bottle"
+    },
+    {
+      "name": "OilFuel",
+      "type": "fuel",
+      "sortid": 2187,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "oil_fuel"
+    },
+    {
+      "name": "DarkSteelShovel",
+      "type": "tool",
+      "sortid": 2167,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_steel_shovel"
+    },
+    {
+      "name": "WaterBottleRecipe",
+      "type": "recipe",
+      "sortid": 2185,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "water_bottle_recipe"
+    },
+    {
+      "name": "CrystoneGoldRecipe",
+      "type": "recipe",
+      "sortid": 2156,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "crystone_gold_recipe"
+    },
+    {
+      "name": "DarkSteelShovelRecipe",
+      "type": "recipe",
+      "sortid": 2172,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_steel_shovel_recipe"
+    },
+    {
+      "name": "DarkSteelArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 2178,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_steel_armor_boots_recipe"
+    },
+    {
+      "name": "OilBottle",
+      "type": "item",
+      "sortid": 2186,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "oil_bottle"
+    },
+    {
+      "name": "DarkSteelPickaxe",
+      "type": "tool",
+      "sortid": 2164,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_steel_pickaxe"
+    },
+    {
+      "name": "KilnGUI",
+      "type": "gui",
+      "sortid": 2192,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "kiln_gui"
+    },
+    {
+      "name": "DarkSteelBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 2162,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_steel_block_ore_recipe"
+    },
+    {
+      "name": "DarkSteelOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 2161,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_steel_ore_block_recipe"
+    },
+    {
+      "name": "OilRecipe4",
+      "type": "recipe",
+      "sortid": 2191,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "oil_recipe_4"
+    },
+    {
+      "name": "OilRecipe3",
+      "type": "recipe",
+      "sortid": 2190,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "oil_recipe_3"
+    },
+    {
+      "name": "DarkSteelSwordRecipe",
+      "type": "recipe",
+      "sortid": 2171,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_steel_sword_recipe"
+    },
+    {
+      "name": "OilRecipe",
+      "type": "recipe",
+      "sortid": 2188,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "oil_recipe"
+    },
+    {
+      "name": "OilRecipe2",
+      "type": "recipe",
+      "sortid": 2189,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "oil_recipe_2"
+    },
+    {
+      "name": "DarkSteelBlock",
+      "type": "block",
+      "sortid": 2160,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_steel_block"
+    },
+    {
+      "name": "PlasticBottleRecipe",
+      "type": "recipe",
+      "sortid": 2181,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "plastic_bottle_recipe"
+    },
+    {
+      "name": "DarkSteelHoeRecipe",
+      "type": "recipe",
+      "sortid": 2173,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_steel_hoe_recipe"
+    },
+    {
+      "name": "CrystoneIronRecipe",
+      "type": "recipe",
+      "sortid": 2157,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "crystone_iron_recipe"
+    },
+    {
+      "name": "DarkSteelAxe",
+      "type": "tool",
+      "sortid": 2165,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_steel_axe"
+    },
+    {
+      "name": "DarkSteelAxeRecipe",
+      "type": "recipe",
+      "sortid": 2170,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_steel_axe_recipe"
+    },
+    {
+      "name": "DarkSteelIngot",
+      "type": "item",
+      "sortid": 2158,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_steel_ingot"
+    },
+    {
+      "name": "MilkBottleFoodEaten",
+      "type": "procedure",
+      "sortid": 2182,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "milk_bottle_food_eaten",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "DarkSteelOreSmelting",
+      "type": "recipe",
+      "sortid": 2163,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_steel_ore_smelting"
+    },
+    {
+      "name": "DarkSteelArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 2176,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_steel_armor_body_recipe"
+    },
+    {
+      "name": "DarkSteelArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 2177,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_steel_armor_leggings_recipe"
+    },
+    {
+      "name": "MilkBottle",
+      "type": "food",
+      "sortid": 2182,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "milk_bottle"
+    },
+    {
+      "name": "DarkSteelRecipe",
+      "type": "recipe",
+      "sortid": 2179,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_steel_recipe"
+    },
+    {
+      "name": "DarkSteelSword",
+      "type": "tool",
+      "sortid": 2166,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_steel_sword"
+    },
+    {
+      "name": "DarkSteelHoe",
+      "type": "tool",
+      "sortid": 2168,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_steel_hoe"
+    },
+    {
+      "name": "MilkBottleRecipe",
+      "type": "recipe",
+      "sortid": 2183,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "milk_bottle_recipe"
+    },
+    {
+      "name": "DarkSteelArmor",
+      "type": "armor",
+      "sortid": 2174,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_steel_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
     }
   ],
   "variable_elements": [
@@ -19333,6 +19680,7 @@
       "block.sotmremake.frosted_crystaline_pillar": "Frosted Crystaline Pillar",
       "item.sotm.amethyst_armor_chestplate": "Amethyst Chestplate",
       "block.sotm.darkquartzpillar": "Dark Quartz Pillar",
+      "block.sotm.dark_steel_block": "Dark Steel Block",
       "block.sotm.bloodstoneblock": "Bloodstone Block",
       "block.sotm.bloodstoneblockchiseled": "Bloodstone Block Chiseled",
       "block.sotm.gneiss": "Gneiss",
@@ -19384,13 +19732,14 @@
       "block.sotm.seraphyst_steel_block": "Seraphyst Steel Block",
       "item.sotm.amberaxe": "Amber Axe",
       "item.sotm.rubyarmor_leggings": "Ruby Leggings",
+      "item.sotm.dark_steel_hoe": "Dark Steel Hoe",
       "item.sotm.apple_pie": "Apple Pie",
       "item.sotmremake.venomite_ore_hoe": "VenomiteOre Hoe",
       "block.sotmremake.crimson_quartz_pillar": "Crimson Quartz Pillar",
       "item.sotm.pyridium_hoe": "Pyridium Hoe",
       "item.sotm.actiniumarmor_leggings": "Actinium Leggings",
-      "item.sotm.chopped_pineapple": "Chopped Pineapple",
       "block.sotmremake.crystalinestairs": "Crystaline Stairs",
+      "item.sotm.chopped_pineapple": "Chopped Pineapple",
       "item.sotm.dragonstone_shovel": "Dragonstone Shovel",
       "block.sotm.yellow_mushroom_trapdoor": "Yellow Undershroom Trapdoor",
       "block.sotmremake.purple_shulkerite": "Purple Shulkerite",
@@ -19425,6 +19774,7 @@
       "block.sotm.underworlddirt": "Underworld Dirt",
       "block.sotm.green_plastic": "Green Plastic Block",
       "block.sotm.rose_quartz_slab": "Rose Quartz Slab",
+      "item.sotm.milk_bottle": "Milk Bottle",
       "block.sotm.cinistinepillar2": "Carborite Cinistine Pillar",
       "item.sotm.firebrick": "Firebrick",
       "block.sotm.blood_elder_slab": "Blood Elder Slab",
@@ -19563,6 +19913,7 @@
       "block.sotm.rabidiumore": "Underworld Rabidium Ore",
       "block.sotmremake.yellow_mushroom": "Yellow Mushroom",
       "block.sotmremake.underworldsweetberrybush": "Sweetberry Bush",
+      "item.sotm.dark_steel_armor_chestplate": "Dark Steel Chestplate",
       "block.sotmremake.red_mushroom_planks": "Red Mushroom Planks",
       "block.sotm.nether_eye_stalks": "Nether Eye Stalks",
       "block.sotm.blood_elder_leaves": "Blood Elder Leaves",
@@ -19636,8 +19987,8 @@
       "block.sotm.carboritebrickslab": "Carborite Brick Slab",
       "item.sotm.dragonstone_armor_boots": "Dragonstone Boots",
       "item.sotm.amethyst_axe": "Amethyst Axe",
-      "item.sotm.seraphyst_steel_armor_chestplate": "Seraphyst Steel Chestplate",
       "item.sotm.rose_armor_helmet": "Rose Gold Helmet",
+      "item.sotm.seraphyst_steel_armor_chestplate": "Seraphyst Steel Chestplate",
       "block.sotmremake.twisted_maple_wood": "Twisted Maple Wood",
       "block.sotm.charred_rock": "Charred Rock",
       "block.sotmremake.orange_marble_polished": "Polished Orange Marble",
@@ -19650,6 +20001,7 @@
       "block.sotmremake.ender_moss_purple": "Twisted Ender Moss",
       "block.sotm.assidium_wood_stairs": "Assidium Wood Stairs",
       "item.sotm.void_bramble_foof": "Void Bramble",
+      "item.sotm.dark_steel_armor_helmet": "Dark Steel Helmet",
       "item.sotm.grapes": "Grapes",
       "block.sotm.crystalineslab": "Crystaline Slab",
       "item.sotm.ender_moss_food": "Ender Moss",
@@ -20038,6 +20390,7 @@
       "item.sotmremake.copperarmor_boots": "Copper Boots",
       "block.sotm.chorus_stone_bricks": "Chorus Stone Bricks",
       "block.sotm.bamboo_fence": "Bamboo Fence",
+      "item.sotm.dark_steel_armor_leggings": "Dark Steel Leggings",
       "block.sotmremake.euaphreliaslab": "Phantom Locust Slab",
       "item.minecraft.tipped_arrow.effect.spiked": "Arrow of Spiked",
       "item.sotmremake.silveringot": "Underworld Silver Ingot",
@@ -20237,6 +20590,7 @@
       "block.sotm.cryphiliumrocky": "Rocky Cryphillium",
       "item.sotm.sapphire_axe": "Sapphire Axe",
       "block.sotmremake.limestone": "Limestone",
+      "item.sotm.plastic_bottle": "Plastic Bottle",
       "block.sotmremake.blueberrybush": "Blueberry Bush",
       "block.sotm.yellow_mushroom": "Yellow Mushroom",
       "item.sotm.copperarmor_chestplate": "Copper Chestplate",
@@ -20254,6 +20608,7 @@
       "block.sotmremake.dragon_fir_trapdoor": "Dragon Fir Trapdoor",
       "item.sotmremake.rubyarmorboots": "Ruby Boots",
       "item.sotmremake.studded_lather_chain_armorhelmet": "Leather-Chain Helmet",
+      "item.sotm.dark_steel_sword": "Dark Steel Sword",
       "item.sotm.seraphyst_steel_shovel": " Seraphyst Steel Shovel",
       "block.sotmremake.chiseled_frosted_quartz": "Chiseled Frosted Quartz",
       "block.sotmremake.netherwart_natural": "Netherwart Natural",
@@ -20321,6 +20676,7 @@
       "block.sotm.pyridium_ore": "Pyridium Ore",
       "item.sotmremake.amethyst_axe": "Amethyst Axe",
       "block.sotm.ash_pile": "Ash",
+      "item.sotm.dark_steel_pickaxe": "Dark Steel Pickaxe",
       "block.sotmremake.blue_marble_polished": "Polished Blue Marble",
       "block.sotmremake.vibrant_green_marble_polished": "Polished Vibrant Green Marble",
       "block.sotmremake.blood_elder_planks": "Blood Elder Planks",
@@ -20440,6 +20796,7 @@
       "block.sotm.black_marble_polished": "Polished Black Marble",
       "block.sotm.green_marble_pillar": "Green Marble Pillar",
       "block.sotmremake.cherry_wood_door": "Cherry Wood Trapdoor",
+      "item.sotm.dark_steel_shovel": "Dark Steel Shovel",
       "item.sotmremake.musketball": "Musket Ball",
       "advancements.useless_but_fancy.descr": "You Got Cinistine",
       "item.sotm.amethyst_armor_leggings": "Amethyst Leggings",
@@ -20458,8 +20815,10 @@
       "block.sotmremake.warped_netherwart_plant": "Warped Netherwart Plant",
       "biome.sotm.euphreliaforest": "Phantom Locust Forest",
       "block.sotm.frosted_crystaline_chiseled": "Chiseled Frosted Crystaline",
+      "item.sotm.dark_steel_ingot": "Dark Steel Ingot",
       "item.sotm.actiniumarmor_chestplate": "Actinium Chestplate",
       "block.sotm.quasichora": "Quasichora",
+      "item.sotm.oil_bottle": "Oil",
       "item.sotm.nether_steel_pickaxe": "Crystone Iron Pickaxe",
       "item.sotmremake.rose_quartz": "Nether Rose Quartz",
       "item.sotm.billon_shovel": "Billon Shovel",
@@ -20524,6 +20883,7 @@
       "item.sotmremake.actiniumarmor_helmet": "Actinium Helmet",
       "block.sotm.purple_mistyst_slab": "Purple Mistyst Slab",
       "item.sotm.scrap_metal_armor_helmet": "Scrap Metal Helmet",
+      "item.sotm.dark_steel_axe": "Dark Steel Axe",
       "block.sotm.actiniumoreblock": "Block of Actinium",
       "item.sotm.scorpion": "Scorpion Spawn Egg",
       "block.sotmremake.blackstonebrickslab": "Blackstone Brick Slab",
@@ -20753,6 +21113,7 @@
       "advancements.as_strong_as_it_gets.descr": "You Got Rabidium",
       "item.sotm.silver_chainmail_armor_leggings": "Silver_Chainmail Leggings",
       "block.sotm.venorum_chiseled": "Chiseled Venorum",
+      "item.sotm.water_bottle": "Water Bottle",
       "block.sotm.jungle_shrub": "Jungle Shrub",
       "block.sotm.cherry_leaves": "Cherry Leaves",
       "item.sotmremake.pebble": "Pebble",
@@ -20849,6 +21210,7 @@
       "block.sotmremake.lavastone_chisled": "Chiseled Lavastone",
       "item.sotm.eye": "Eye",
       "item.sotm.rose_armor_boots": "Rose Gold Boots",
+      "item.sotm.dark_steel_armor_boots": "Dark Steel Boots",
       "effect.biting": "Biting",
       "item.sotmremake.rabidiumarmorboots": "Rabidium Boots",
       "block.sotmremake.carbonsandstone": "Carbon Sandstone",
@@ -20968,5 +21330,5 @@
     "modElementsPackage": "net.mcreator.sotmr",
     "lockBaseModFiles": false
   },
-  "mcreatorVersion": 202100103117
+  "mcreatorVersion": 202000652319
 }

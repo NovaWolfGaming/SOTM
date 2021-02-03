@@ -29,8 +29,23 @@
       "value": -16750849,
       "falpha": 0.0
     },
+    "ambientSound": {
+      "value": ""
+    },
+    "additionsSound": {
+      "value": ""
+    },
+    "music": {
+      "value": ""
+    },
+    "moodSound": {
+      "value": ""
+    },
     "moodSoundDelay": 0,
     "spawnParticles": false,
+    "particleToSpawn": {
+      "value": "CUSTOM:RedGlowingOr"
+    },
     "particlesProbability": 0.0,
     "biomeCategory": "NETHER",
     "parent": {

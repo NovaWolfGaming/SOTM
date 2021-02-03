@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "sotm:items/nether_steel_shovel"
+  }
+}

@@ -9,7 +9,7 @@
     "height": 0.1,
     "scale": 0.1,
     "speedFactor": 0.30000000000000004,
-    "gravity": 0.0,
+    "gravity": 0.30000000000000004,
     "maxAge": 4,
     "maxAgeDiff": 0,
     "canCollide": true,

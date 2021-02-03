@@ -1,0 +1,42 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "sotm:plastic_bottle"
+    },
+    "1": {
+      "item": "sotm:plastic_bottle"
+    },
+    "2": {
+      "item": "sotm:plastic_bottle"
+    },
+    "3": {
+      "item": "sotm:plastic_bottle"
+    },
+    "4": {
+      "item": "minecraft:pumpkin_seeds"
+    },
+    "5": {
+      "item": "sotm:plastic_bottle"
+    },
+    "6": {
+      "item": "sotm:plastic_bottle"
+    },
+    "7": {
+      "item": "sotm:plastic_bottle"
+    },
+    "8": {
+      "item": "sotm:plastic_bottle"
+    }
+  },
+  "result": {
+    "item": "sotm:oil_bottle",
+    "count": 8
+  }
+}

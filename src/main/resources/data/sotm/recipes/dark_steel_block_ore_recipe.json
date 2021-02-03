@@ -1,0 +1,13 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "sotm:deleted_mod_element"
+    }
+  ],
+  "result": {
+    "item": "sotm:deleted_mod_element",
+    "count": 9
+  }
+}
