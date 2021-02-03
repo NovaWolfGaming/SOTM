@@ -3,8 +3,11 @@
   "_type": "plant",
   "definition": {
     "renderType": 12,
-    "texture": "rose_cyan_new",
+    "texture": "cyan_rose_underworld",
+    "textureBottom": "",
     "customModelName": "Cross model",
+    "itemTexture": "",
+    "particleTexture": "",
     "tintType": "No tint",
     "isItemTinted": false,
     "plantType": "normal",
