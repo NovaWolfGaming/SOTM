@@ -1,12 +1,21 @@
 
 package net.mcreator.sotmr.item;
 
+import net.minecraftforge.registries.ObjectHolder;
+
+import net.minecraft.item.crafting.Ingredient;
+import net.minecraft.item.ItemStack;
+import net.minecraft.item.Item;
+import net.minecraft.item.IItemTier;
+import net.minecraft.item.HoeItem;
+
+import net.mcreator.sotmr.itemgroup.ToolsAndWeaponsItemGroup;
+import net.mcreator.sotmr.SotmModElements;
+
 @SotmModElements.ModElement.Tag
 public class DarkSteelHoeItem extends SotmModElements.ModElement {
-
 	@ObjectHolder("sotm:dark_steel_hoe")
 	public static final Item block = null;
-
 	public DarkSteelHoeItem(SotmModElements instance) {
 		super(instance, 2168);
 	}
@@ -38,8 +47,6 @@ public class DarkSteelHoeItem extends SotmModElements.ModElement {
 				return Ingredient.fromStacks(new ItemStack(DarkSteelIngotItem.block, (int) (1)));
 			}
 		}, 0, -3f, new Item.Properties().group(ToolsAndWeaponsItemGroup.tab)) {
-
 		}.setRegistryName("dark_steel_hoe"));
 	}
-
 }

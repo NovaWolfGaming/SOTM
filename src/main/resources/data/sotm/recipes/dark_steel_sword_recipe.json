@@ -8,17 +8,17 @@
   ],
   "key": {
     "0": {
-      "item": "sotm:deleted_mod_element"
+      "item": "sotm:dark_steel_ingot"
     },
     "1": {
-      "item": "sotm:deleted_mod_element"
+      "item": "sotm:dark_steel_ingot"
     },
     "2": {
       "item": "minecraft:stick"
     }
   },
   "result": {
-    "item": "sotm:deleted_mod_element",
+    "item": "sotm:dark_steel_sword",
     "count": 1
   }
 }
