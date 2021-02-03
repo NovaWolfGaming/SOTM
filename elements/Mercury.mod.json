@@ -1,0 +1,24 @@
+{
+  "_fv": 15,
+  "_type": "fluid",
+  "definition": {
+    "name": "Mercury",
+    "textureStill": "mercury",
+    "textureFlowing": "mercury",
+    "luminosity": 0,
+    "density": 13000,
+    "viscosity": 5000,
+    "isGas": false,
+    "type": "WATER",
+    "generateBucket": true,
+    "creativeTab": {
+      "value": "CUSTOM:ToolsAndWeapons"
+    },
+    "frequencyOnChunks": 5,
+    "spawnWorldTypes": [],
+    "restrictionBiomes": [],
+    "onEntityCollides": {
+      "name": "MercuryMobplayerCollidesBlock"
+    }
+  }
+}

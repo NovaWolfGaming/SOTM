@@ -1,0 +1,20 @@
+{
+  "_fv": 15,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:MonochromeWoodWood"
+      },
+      {
+        "value": "CUSTOM:MonochromeWoodLog"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "name": "monochromewood_log",
+    "namespace": "forge"
+  }
+}

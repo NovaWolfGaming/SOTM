@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_side",
+  "textures": {
+    "texture": "sotm:blocks/monochromewood_planks",
+    "particle": "sotm:blocks/monochromewood_planks"
+  }
+}

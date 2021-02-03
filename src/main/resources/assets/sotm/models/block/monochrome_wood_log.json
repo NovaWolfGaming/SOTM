@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sotm:blocks/monochromewood_log_top",
+    "up": "sotm:blocks/monochromewood_log_top",
+    "north": "sotm:blocks/monochromewood_log_side",
+    "east": "sotm:blocks/monochromewood_log_side",
+    "south": "sotm:blocks/monochromewood_log_side",
+    "west": "sotm:blocks/monochromewood_log_side",
+    "particle": "sotm:blocks/monochromewood_log_top"
+  }
+}
