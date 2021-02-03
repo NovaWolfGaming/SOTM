@@ -19083,7 +19083,7 @@
       "name": "OilFuel",
       "type": "fuel",
       "sortid": 2187,
-      "compiles": false,
+      "compiles": true,
       "locked_code": false,
       "ids": {},
       "registry_name": "oil_fuel"
@@ -19092,7 +19092,7 @@
       "name": "DarkSteelShovel",
       "type": "tool",
       "sortid": 2167,
-      "compiles": false,
+      "compiles": true,
       "locked_code": false,
       "ids": {},
       "registry_name": "dark_steel_shovel"
@@ -19146,7 +19146,7 @@
       "name": "DarkSteelPickaxe",
       "type": "tool",
       "sortid": 2164,
-      "compiles": false,
+      "compiles": true,
       "locked_code": false,
       "ids": {},
       "registry_name": "dark_steel_pickaxe"
@@ -19155,7 +19155,7 @@
       "name": "KilnGUI",
       "type": "gui",
       "sortid": 2192,
-      "compiles": false,
+      "compiles": true,
       "locked_code": false,
       "ids": {},
       "registry_name": "kiln_gui"
@@ -19227,7 +19227,7 @@
       "name": "DarkSteelBlock",
       "type": "block",
       "sortid": 2160,
-      "compiles": false,
+      "compiles": true,
       "locked_code": false,
       "ids": {},
       "registry_name": "dark_steel_block"
@@ -19263,7 +19263,7 @@
       "name": "DarkSteelAxe",
       "type": "tool",
       "sortid": 2165,
-      "compiles": false,
+      "compiles": true,
       "locked_code": false,
       "ids": {},
       "registry_name": "dark_steel_axe"
@@ -19281,7 +19281,7 @@
       "name": "DarkSteelIngot",
       "type": "item",
       "sortid": 2158,
-      "compiles": false,
+      "compiles": true,
       "locked_code": false,
       "ids": {},
       "registry_name": "dark_steel_ingot"
@@ -19334,7 +19334,7 @@
       "name": "MilkBottle",
       "type": "food",
       "sortid": 2182,
-      "compiles": false,
+      "compiles": true,
       "locked_code": false,
       "ids": {},
       "registry_name": "milk_bottle"
@@ -19352,7 +19352,7 @@
       "name": "DarkSteelSword",
       "type": "tool",
       "sortid": 2166,
-      "compiles": false,
+      "compiles": true,
       "locked_code": false,
       "ids": {},
       "registry_name": "dark_steel_sword"
@@ -19361,7 +19361,7 @@
       "name": "DarkSteelHoe",
       "type": "tool",
       "sortid": 2168,
-      "compiles": false,
+      "compiles": true,
       "locked_code": false,
       "ids": {},
       "registry_name": "dark_steel_hoe"
@@ -19379,7 +19379,7 @@
       "name": "DarkSteelArmor",
       "type": "armor",
       "sortid": 2174,
-      "compiles": false,
+      "compiles": true,
       "locked_code": false,
       "ids": {},
       "registry_name": "dark_steel_armor",
