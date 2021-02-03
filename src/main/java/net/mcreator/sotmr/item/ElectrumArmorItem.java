@@ -79,25 +79,25 @@ public class ElectrumArmorItem extends SotmModElements.ModElement {
 		elements.items.add(() -> new ArmorItem(armormaterial, EquipmentSlotType.HEAD, new Item.Properties().group(ToolsAndWeaponsItemGroup.tab)) {
 			@Override
 			public String getArmorTexture(ItemStack stack, Entity entity, EquipmentSlotType slot, String type) {
-				return "sotm:textures/models/armor/crystone_gold__layer_" + (slot == EquipmentSlotType.LEGS ? "2" : "1") + ".png";
+				return "sotm:textures/models/armor/electrum__layer_" + (slot == EquipmentSlotType.LEGS ? "2" : "1") + ".png";
 			}
 		}.setRegistryName("electrum_armor_helmet"));
 		elements.items.add(() -> new ArmorItem(armormaterial, EquipmentSlotType.CHEST, new Item.Properties().group(ToolsAndWeaponsItemGroup.tab)) {
 			@Override
 			public String getArmorTexture(ItemStack stack, Entity entity, EquipmentSlotType slot, String type) {
-				return "sotm:textures/models/armor/crystone_gold__layer_" + (slot == EquipmentSlotType.LEGS ? "2" : "1") + ".png";
+				return "sotm:textures/models/armor/electrum__layer_" + (slot == EquipmentSlotType.LEGS ? "2" : "1") + ".png";
 			}
 		}.setRegistryName("electrum_armor_chestplate"));
 		elements.items.add(() -> new ArmorItem(armormaterial, EquipmentSlotType.LEGS, new Item.Properties().group(ToolsAndWeaponsItemGroup.tab)) {
 			@Override
 			public String getArmorTexture(ItemStack stack, Entity entity, EquipmentSlotType slot, String type) {
-				return "sotm:textures/models/armor/crystone_gold__layer_" + (slot == EquipmentSlotType.LEGS ? "2" : "1") + ".png";
+				return "sotm:textures/models/armor/electrum__layer_" + (slot == EquipmentSlotType.LEGS ? "2" : "1") + ".png";
 			}
 		}.setRegistryName("electrum_armor_leggings"));
 		elements.items.add(() -> new ArmorItem(armormaterial, EquipmentSlotType.FEET, new Item.Properties().group(ToolsAndWeaponsItemGroup.tab)) {
 			@Override
 			public String getArmorTexture(ItemStack stack, Entity entity, EquipmentSlotType slot, String type) {
-				return "sotm:textures/models/armor/crystone_gold__layer_" + (slot == EquipmentSlotType.LEGS ? "2" : "1") + ".png";
+				return "sotm:textures/models/armor/electrum__layer_" + (slot == EquipmentSlotType.LEGS ? "2" : "1") + ".png";
 			}
 		}.setRegistryName("electrum_armor_boots"));
 	}

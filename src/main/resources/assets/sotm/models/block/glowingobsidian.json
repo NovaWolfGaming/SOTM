@@ -1,12 +1,7 @@
 {
-  "parent": "block/cube",
+  "parent": "block/cube_all",
   "textures": {
-    "down": "sotm:blocks/glowing_obsidian_new_2",
-    "up": "sotm:blocks/glowing_obsidian_new_2",
-    "north": "sotm:blocks/glowing_obsidian_new_2",
-    "east": "sotm:blocks/glowing_obsidian_new_2",
-    "south": "sotm:blocks/glowing_obsidian_new_2",
-    "west": "sotm:blocks/glowing_obsidian_new_2",
-    "particle": "sotm:blocks/glowing_obsidian_new_2"
+    "all": "sotm:blocks/glowing_obsidian_animation",
+    "particle": "sotm:blocks/glowing_obsidian_animation"
   }
 }
