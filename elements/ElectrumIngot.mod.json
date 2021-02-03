@@ -3,7 +3,7 @@
   "_type": "item",
   "definition": {
     "renderType": 0,
-    "texture": "crystone_gold_ingot",
+    "texture": "electrum_ingot",
     "customModelName": "Normal",
     "name": "Electrum Ingot",
     "rarity": "COMMON",

@@ -2,11 +2,11 @@
   "parent": "block/cube",
   "textures": {
     "down": "sotm:blocks/nether_mud",
-    "up": "sotm:blocks/nether_grass_top_3",
-    "north": "sotm:blocks/nether_nylium_mud_side",
-    "east": "sotm:blocks/nether_nylium_mud_side",
-    "south": "sotm:blocks/nether_nylium_mud_side",
-    "west": "sotm:blocks/nether_nylium_mud_side",
+    "up": "sotm:blocks/elder_nylium_top_animated",
+    "north": "sotm:blocks/elder_nylium_side_animated_mud",
+    "east": "sotm:blocks/elder_nylium_side_animated_mud",
+    "south": "sotm:blocks/elder_nylium_side_animated_mud",
+    "west": "sotm:blocks/elder_nylium_side_animated_mud",
     "particle": "sotm:blocks/nether_mud"
   }
 }

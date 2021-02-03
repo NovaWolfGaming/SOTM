@@ -3,7 +3,7 @@
   "_type": "block",
   "definition": {
     "texture": "underworld_dirt",
-    "textureTop": "crescent_grass_top_leaves",
+    "textureTop": "crescent_grass_animated_2",
     "textureLeft": "crescent_grass_side",
     "textureFront": "crescent_grass_side",
     "textureRight": "crescent_grass_side",
