@@ -7,20 +7,20 @@
   ],
   "key": {
     "0": {
-      "item": "sotm:golden_chain"
+      "item": "sotm:deleted_mod_element"
     },
     "2": {
-      "item": "sotm:golden_chain"
+      "item": "sotm:deleted_mod_element"
     },
     "3": {
-      "item": "sotm:golden_chain"
+      "item": "sotm:deleted_mod_element"
     },
     "5": {
-      "item": "sotm:golden_chain"
+      "item": "sotm:deleted_mod_element"
     }
   },
   "result": {
-    "item": "sotm:golden_chain_armor_armor_boots",
+    "item": "sotm:deleted_mod_element_boots",
     "count": 1
   }
 }

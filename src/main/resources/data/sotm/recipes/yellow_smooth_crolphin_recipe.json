@@ -7,20 +7,20 @@
   ],
   "key": {
     "0": {
-      "item": "sotm:yellow_crolphin"
+      "item": "sotm:deleted_mod_element"
     },
     "1": {
-      "item": "sotm:yellow_crolphin"
+      "item": "sotm:deleted_mod_element"
     },
     "2": {
-      "item": "sotm:yellow_crolphin"
+      "item": "sotm:deleted_mod_element"
     },
     "3": {
-      "item": "sotm:yellow_crolphin"
+      "item": "sotm:deleted_mod_element"
     }
   },
   "result": {
-    "item": "sotm:yellow_smooth_crolphin",
+    "item": "sotm:deleted_mod_element",
     "count": 4
   }
 }

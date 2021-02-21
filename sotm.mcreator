@@ -18732,8 +18732,20 @@
       "metadata": {
         "dependencies": [
           {
-            "name": "entity",
-            "type": "entity"
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
           }
         ]
       }
@@ -19589,6 +19601,114 @@
       "registry_name": "mercury"
     },
     {
+      "name": "GrayCrolphin",
+      "type": "block",
+      "sortid": 2231,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gray_crolphin"
+    },
+    {
+      "name": "MagentaCrolphin",
+      "type": "block",
+      "sortid": 2239,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "magenta_crolphin"
+    },
+    {
+      "name": "PinkSmoothCrolphin",
+      "type": "block",
+      "sortid": 2269,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pink_smooth_crolphin"
+    },
+    {
+      "name": "PurpleCrolphinRecipe",
+      "type": "recipe",
+      "sortid": 2242,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "purple_crolphin_recipe"
+    },
+    {
+      "name": "LightGrayCrolphin",
+      "type": "block",
+      "sortid": 2229,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "light_gray_crolphin"
+    },
+    {
+      "name": "BlackCrolphinBricksRecipe",
+      "type": "recipe",
+      "sortid": 2298,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "black_crolphin_bricks_recipe"
+    },
+    {
+      "name": "BlackSmoothCrolphinRecipe",
+      "type": "recipe",
+      "sortid": 2266,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "black_smooth_crolphin_recipe"
+    },
+    {
+      "name": "RedCrolphinRecipe",
+      "type": "recipe",
+      "sortid": 2236,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "red_crolphin_recipe"
+    },
+    {
+      "name": "WhiteCrolphin",
+      "type": "block",
+      "sortid": 2226,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "white_crolphin"
+    },
+    {
+      "name": "PinkCrolphin",
+      "type": "block",
+      "sortid": 2237,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pink_crolphin"
+    },
+    {
+      "name": "LightBlueCrolphinBricks",
+      "type": "block",
+      "sortid": 2309,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "light_blue_crolphin_bricks"
+    },
+    {
+      "name": "GrayCrolphinRecipe",
+      "type": "recipe",
+      "sortid": 2232,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gray_crolphin_recipe"
+    },
+    {
       "name": "LeavesSilkWorm",
       "type": "procedure",
       "sortid": 2216,
@@ -19618,13 +19738,490 @@
       }
     },
     {
-      "name": "PlerraBerryBush",
-      "type": "plant",
-      "sortid": 2217,
+      "name": "BrownCrolphinRecipe",
+      "type": "recipe",
+      "sortid": 2258,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "plerra_berry_bush"
+      "registry_name": "brown_crolphin_recipe"
+    },
+    {
+      "name": "YellowCrolphinBricks",
+      "type": "block",
+      "sortid": 2317,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "yellow_crolphin_bricks"
+    },
+    {
+      "name": "BlackCrolphinBricks",
+      "type": "block",
+      "sortid": 2297,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "black_crolphin_bricks"
+    },
+    {
+      "name": "GreenSmoothCrolphin",
+      "type": "block",
+      "sortid": 2283,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "green_smooth_crolphin"
+    },
+    {
+      "name": "PurpleCrolphinBricksRecipe",
+      "type": "recipe",
+      "sortid": 2306,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "purple_crolphin_bricks_recipe"
+    },
+    {
+      "name": "OrangeSmoothCrolphin",
+      "type": "block",
+      "sortid": 2287,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "orange_smooth_crolphin"
+    },
+    {
+      "name": "BrownCrolphin",
+      "type": "block",
+      "sortid": 2257,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "brown_crolphin"
+    },
+    {
+      "name": "CyanCrolphinBricks",
+      "type": "block",
+      "sortid": 2311,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cyan_crolphin_bricks"
+    },
+    {
+      "name": "WhiteCrolphinRecipe",
+      "type": "recipe",
+      "sortid": 2227,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "white_crolphin_recipe"
+    },
+    {
+      "name": "PinkCrolphinBricks",
+      "type": "block",
+      "sortid": 2301,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pink_crolphin_bricks"
+    },
+    {
+      "name": "WhiteCrolphinBricksRecipe",
+      "type": "recipe",
+      "sortid": 2292,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "white_crolphin_bricks_recipe"
+    },
+    {
+      "name": "LightGraySmoothCrolphinRecipe",
+      "type": "recipe",
+      "sortid": 2262,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "light_gray_smooth_crolphin_recipe"
+    },
+    {
+      "name": "GreenCrolphinBricks",
+      "type": "block",
+      "sortid": 2315,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "green_crolphin_bricks"
+    },
+    {
+      "name": "OrangeCrolphinBricksRecipe",
+      "type": "recipe",
+      "sortid": 2320,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "orange_crolphin_bricks_recipe"
+    },
+    {
+      "name": "PurpleCrolphinBricks",
+      "type": "block",
+      "sortid": 2305,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "purple_crolphin_bricks"
+    },
+    {
+      "name": "BrownSmoothCrolphinRecipe",
+      "type": "recipe",
+      "sortid": 2290,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "brown_smooth_crolphin_recipe"
+    },
+    {
+      "name": "GraySmoothCrolphinRecipe",
+      "type": "recipe",
+      "sortid": 2264,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gray_smooth_crolphin_recipe"
+    },
+    {
+      "name": "YellowCrolphinBricksRecipe",
+      "type": "recipe",
+      "sortid": 2318,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "yellow_crolphin_bricks_recipe"
+    },
+    {
+      "name": "LimeCrolphin",
+      "type": "block",
+      "sortid": 2249,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lime_crolphin"
+    },
+    {
+      "name": "LightGrayCrolphinBricksRecipe",
+      "type": "recipe",
+      "sortid": 2294,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "light_gray_crolphin_bricks_recipe"
+    },
+    {
+      "name": "HardenedCrolphin",
+      "type": "block",
+      "sortid": 2225,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "hardened_crolphin"
+    },
+    {
+      "name": "LimeCrolphinBricks",
+      "type": "block",
+      "sortid": 2313,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lime_crolphin_bricks"
+    },
+    {
+      "name": "LimeSmoothCrolphin",
+      "type": "block",
+      "sortid": 2281,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lime_smooth_crolphin"
+    },
+    {
+      "name": "LightGrayCrolphinBricks",
+      "type": "block",
+      "sortid": 2293,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "light_gray_crolphin_bricks"
+    },
+    {
+      "name": "LightGraySmoothCrolphin",
+      "type": "block",
+      "sortid": 2261,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "light_gray_smooth_crolphin"
+    },
+    {
+      "name": "WhiteCrolphinBricks",
+      "type": "block",
+      "sortid": 2291,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "white_crolphin_bricks"
+    },
+    {
+      "name": "LimeSmoothCrolphinRecipe",
+      "type": "recipe",
+      "sortid": 2282,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lime_smooth_crolphin_recipe"
+    },
+    {
+      "name": "CyanCrolphinRecipe",
+      "type": "recipe",
+      "sortid": 2248,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cyan_crolphin_recipe"
+    },
+    {
+      "name": "PinkCrolphinBricksRecipe",
+      "type": "recipe",
+      "sortid": 2302,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pink_crolphin_bricks_recipe"
+    },
+    {
+      "name": "LightBlueCrolphinRecipe",
+      "type": "recipe",
+      "sortid": 2246,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "light_blue_crolphin_recipe"
+    },
+    {
+      "name": "GreenSmoothCrolphinRecipe",
+      "type": "recipe",
+      "sortid": 2284,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "green_smooth_crolphin_recipe"
+    },
+    {
+      "name": "GreenCrolphinRecipe",
+      "type": "recipe",
+      "sortid": 2252,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "green_crolphin_recipe"
+    },
+    {
+      "name": "MagentaCrolphinBricksRecipe",
+      "type": "recipe",
+      "sortid": 2304,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "magenta_crolphin_bricks_recipe"
+    },
+    {
+      "name": "LightBlueSmoothCrolphin",
+      "type": "block",
+      "sortid": 2277,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "light_blue_smooth_crolphin"
+    },
+    {
+      "name": "GoldenChainArmorArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 2224,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "golden_chain_armor_armor_boots_recipe"
+    },
+    {
+      "name": "LightBlueCrolphinBricksRecipe",
+      "type": "recipe",
+      "sortid": 2310,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "light_blue_crolphin_bricks_recipe"
+    },
+    {
+      "name": "GoldenChainArmorArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 2221,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "golden_chain_armor_armor_helmet_recipe"
+    },
+    {
+      "name": "LightBlueSmoothCrolphinRecipe",
+      "type": "recipe",
+      "sortid": 2278,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "light_blue_smooth_crolphin_recipe"
+    },
+    {
+      "name": "OrangeCrolphinRecipe",
+      "type": "recipe",
+      "sortid": 2256,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "orange_crolphin_recipe"
+    },
+    {
+      "name": "CyanSmoothCrolphin",
+      "type": "block",
+      "sortid": 2279,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cyan_smooth_crolphin"
+    },
+    {
+      "name": "MagentaCrolphinBricks",
+      "type": "block",
+      "sortid": 2303,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "magenta_crolphin_bricks"
+    },
+    {
+      "name": "MagentaSmoothCrolphinRecipe",
+      "type": "recipe",
+      "sortid": 2272,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "magenta_smooth_crolphin_recipe"
+    },
+    {
+      "name": "WhiteSmoothCrolphin",
+      "type": "block",
+      "sortid": 2259,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "white_smooth_crolphin"
+    },
+    {
+      "name": "GoldenChain",
+      "type": "item",
+      "sortid": 2219,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "golden_chain"
+    },
+    {
+      "name": "BlueCrolphin",
+      "type": "block",
+      "sortid": 2243,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "blue_crolphin"
+    },
+    {
+      "name": "LimeCrolphinRecipe",
+      "type": "recipe",
+      "sortid": 2250,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lime_crolphin_recipe"
+    },
+    {
+      "name": "LightGrayCrolphinRecipe",
+      "type": "recipe",
+      "sortid": 2230,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "light_gray_crolphin_recipe"
+    },
+    {
+      "name": "RedSmoothCrolphinRecipe",
+      "type": "recipe",
+      "sortid": 2268,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "red_smooth_crolphin_recipe"
+    },
+    {
+      "name": "YellowSmoothCrolphinRecipe",
+      "type": "recipe",
+      "sortid": 2286,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "yellow_smooth_crolphin_recipe"
+    },
+    {
+      "name": "CyanCrolphinBricksRecipe",
+      "type": "recipe",
+      "sortid": 2312,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cyan_crolphin_bricks_recipe"
+    },
+    {
+      "name": "PinkCrolphinRecipe",
+      "type": "recipe",
+      "sortid": 2238,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pink_crolphin_recipe"
+    },
+    {
+      "name": "PurpleSmoothCrolphin",
+      "type": "block",
+      "sortid": 2273,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "purple_smooth_crolphin"
+    },
+    {
+      "name": "GrayCrolphinBricksRecipe",
+      "type": "recipe",
+      "sortid": 2296,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gray_crolphin_bricks_recipe"
+    },
+    {
+      "name": "BrownCrolphinBricksRecipe",
+      "type": "recipe",
+      "sortid": 2322,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "brown_crolphin_bricks_recipe"
     },
     {
       "name": "PlerraBerry",
@@ -19636,13 +20233,220 @@
       "registry_name": "plerra_berry"
     },
     {
-      "name": "GoldenChain",
-      "type": "item",
-      "sortid": 2219,
+      "name": "PlerraBerryBush",
+      "type": "plant",
+      "sortid": 2217,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "golden_chain"
+      "registry_name": "plerra_berry_bush"
+    },
+    {
+      "name": "BrownSmoothCrolphin",
+      "type": "block",
+      "sortid": 2289,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "brown_smooth_crolphin"
+    },
+    {
+      "name": "PinkSmoothCrolphinRecipe",
+      "type": "recipe",
+      "sortid": 2270,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pink_smooth_crolphin_recipe"
+    },
+    {
+      "name": "YellowCrolphin",
+      "type": "block",
+      "sortid": 2253,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "yellow_crolphin"
+    },
+    {
+      "name": "LimeCrolphinBricksRecipe",
+      "type": "recipe",
+      "sortid": 2314,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lime_crolphin_bricks_recipe"
+    },
+    {
+      "name": "GreenCrolphinBricksRecipe",
+      "type": "recipe",
+      "sortid": 2316,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "green_crolphin_bricks_recipe"
+    },
+    {
+      "name": "GreenCrolphin",
+      "type": "block",
+      "sortid": 2251,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "green_crolphin"
+    },
+    {
+      "name": "RedCrolphin",
+      "type": "block",
+      "sortid": 2235,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "red_crolphin"
+    },
+    {
+      "name": "YellowSmoothCrolphin",
+      "type": "block",
+      "sortid": 2285,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "yellow_smooth_crolphin"
+    },
+    {
+      "name": "OrangeSmoothCrolphinRecipe",
+      "type": "recipe",
+      "sortid": 2288,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "orange_smooth_crolphin_recipe"
+    },
+    {
+      "name": "HardenedCrolphinRecipe",
+      "type": "recipe",
+      "sortid": 2228,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "hardened_crolphin_recipe"
+    },
+    {
+      "name": "BlueCrolphinBricks",
+      "type": "block",
+      "sortid": 2307,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "blue_crolphin_bricks"
+    },
+    {
+      "name": "OrangeCrolphinBricks",
+      "type": "block",
+      "sortid": 2319,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "orange_crolphin_bricks"
+    },
+    {
+      "name": "GoldenChainArmorArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 2222,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "golden_chain_armor_armor_body_recipe"
+    },
+    {
+      "name": "BlueSmoothCrolphinRecipe",
+      "type": "recipe",
+      "sortid": 2276,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "blue_smooth_crolphin_recipe"
+    },
+    {
+      "name": "MagentaSmoothCrolphin",
+      "type": "block",
+      "sortid": 2271,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "magenta_smooth_crolphin"
+    },
+    {
+      "name": "BlackSmoothCrolphin",
+      "type": "block",
+      "sortid": 2265,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "black_smooth_crolphin"
+    },
+    {
+      "name": "BrownCrolphinBricks",
+      "type": "block",
+      "sortid": 2321,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "brown_crolphin_bricks"
+    },
+    {
+      "name": "WhiteSmoothCrolphinRecipe",
+      "type": "recipe",
+      "sortid": 2260,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "white_smooth_crolphin_recipe"
+    },
+    {
+      "name": "GraySmoothCrolphin",
+      "type": "block",
+      "sortid": 2263,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gray_smooth_crolphin"
+    },
+    {
+      "name": "RedCrolphinBricks",
+      "type": "block",
+      "sortid": 2299,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "red_crolphin_bricks"
+    },
+    {
+      "name": "BlackCrolphin",
+      "type": "block",
+      "sortid": 2233,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "black_crolphin"
+    },
+    {
+      "name": "LightBlueCrolphin",
+      "type": "block",
+      "sortid": 2245,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "light_blue_crolphin"
+    },
+    {
+      "name": "CyanCrolphin",
+      "type": "block",
+      "sortid": 2247,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cyan_crolphin"
     },
     {
       "name": "GoldenChainArmorArmor",
@@ -19660,312 +20464,6 @@
       }
     },
     {
-      "name": "GoldenChainArmorArmorHelmetRecipe",
-      "type": "recipe",
-      "sortid": 2221,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "golden_chain_armor_armor_helmet_recipe"
-    },
-    {
-      "name": "GoldenChainArmorArmorBodyRecipe",
-      "type": "recipe",
-      "sortid": 2222,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "golden_chain_armor_armor_body_recipe"
-    },
-    {
-      "name": "GoldenChainArmorArmorLeggingsRecipe",
-      "type": "recipe",
-      "sortid": 2223,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "golden_chain_armor_armor_leggings_recipe"
-    },
-    {
-      "name": "GoldenChainArmorArmorBootsRecipe",
-      "type": "recipe",
-      "sortid": 2224,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "golden_chain_armor_armor_boots_recipe"
-    },
-    {
-      "name": "HardenedCrolphin",
-      "type": "block",
-      "sortid": 2225,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "hardened_crolphin"
-    },
-    {
-      "name": "WhiteCrolphin",
-      "type": "block",
-      "sortid": 2226,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "white_crolphin"
-    },
-    {
-      "name": "WhiteCrolphinRecipe",
-      "type": "recipe",
-      "sortid": 2227,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "white_crolphin_recipe"
-    },
-    {
-      "name": "HardenedCrolphinRecipe",
-      "type": "recipe",
-      "sortid": 2228,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "hardened_crolphin_recipe"
-    },
-    {
-      "name": "LightGrayCrolphin",
-      "type": "block",
-      "sortid": 2229,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "light_gray_crolphin"
-    },
-    {
-      "name": "LightGrayCrolphinRecipe",
-      "type": "recipe",
-      "sortid": 2230,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "light_gray_crolphin_recipe"
-    },
-    {
-      "name": "GrayCrolphin",
-      "type": "block",
-      "sortid": 2231,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "gray_crolphin"
-    },
-    {
-      "name": "GrayCrolphinRecipe",
-      "type": "recipe",
-      "sortid": 2232,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "gray_crolphin_recipe"
-    },
-    {
-      "name": "BlackCrolphin",
-      "type": "block",
-      "sortid": 2233,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "black_crolphin"
-    },
-    {
-      "name": "BlackCrolphinRecipe",
-      "type": "recipe",
-      "sortid": 2234,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "black_crolphin_recipe"
-    },
-    {
-      "name": "RedCrolphin",
-      "type": "block",
-      "sortid": 2235,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "red_crolphin"
-    },
-    {
-      "name": "RedCrolphinRecipe",
-      "type": "recipe",
-      "sortid": 2236,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "red_crolphin_recipe"
-    },
-    {
-      "name": "PinkCrolphin",
-      "type": "block",
-      "sortid": 2237,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "pink_crolphin"
-    },
-    {
-      "name": "PinkCrolphinRecipe",
-      "type": "recipe",
-      "sortid": 2238,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "pink_crolphin_recipe"
-    },
-    {
-      "name": "MagentaCrolphin",
-      "type": "block",
-      "sortid": 2239,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "magenta_crolphin"
-    },
-    {
-      "name": "MagentaCrolphinRecipe",
-      "type": "recipe",
-      "sortid": 2240,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "magenta_crolphin_recipe"
-    },
-    {
-      "name": "PurpleCrolphin",
-      "type": "block",
-      "sortid": 2241,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "purple_crolphin"
-    },
-    {
-      "name": "PurpleCrolphinRecipe",
-      "type": "recipe",
-      "sortid": 2242,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "purple_crolphin_recipe"
-    },
-    {
-      "name": "BlueCrolphin",
-      "type": "block",
-      "sortid": 2243,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "blue_crolphin"
-    },
-    {
-      "name": "BlueCrolphinRecipe",
-      "type": "recipe",
-      "sortid": 2244,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "blue_crolphin_recipe"
-    },
-    {
-      "name": "LightBlueCrolphin",
-      "type": "block",
-      "sortid": 2245,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "light_blue_crolphin"
-    },
-    {
-      "name": "LightBlueCrolphinRecipe",
-      "type": "recipe",
-      "sortid": 2246,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "light_blue_crolphin_recipe"
-    },
-    {
-      "name": "CyanCrolphin",
-      "type": "block",
-      "sortid": 2247,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "cyan_crolphin"
-    },
-    {
-      "name": "CyanCrolphinRecipe",
-      "type": "recipe",
-      "sortid": 2248,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "cyan_crolphin_recipe"
-    },
-    {
-      "name": "LimeCrolphin",
-      "type": "block",
-      "sortid": 2249,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "lime_crolphin"
-    },
-    {
-      "name": "LimeCrolphinRecipe",
-      "type": "recipe",
-      "sortid": 2250,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "lime_crolphin_recipe"
-    },
-    {
-      "name": "GreenCrolphin",
-      "type": "block",
-      "sortid": 2251,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "green_crolphin"
-    },
-    {
-      "name": "GreenCrolphinRecipe",
-      "type": "recipe",
-      "sortid": 2252,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "green_crolphin_recipe"
-    },
-    {
-      "name": "YellowCrolphin",
-      "type": "block",
-      "sortid": 2253,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "yellow_crolphin"
-    },
-    {
-      "name": "YellowCrolphinRecipe",
-      "type": "recipe",
-      "sortid": 2254,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "yellow_crolphin_recipe"
-    },
-    {
       "name": "OrangeCrolphin",
       "type": "block",
       "sortid": 2255,
@@ -19973,402 +20471,6 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "orange_crolphin"
-    },
-    {
-      "name": "OrangeCrolphinRecipe",
-      "type": "recipe",
-      "sortid": 2256,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "orange_crolphin_recipe"
-    },
-    {
-      "name": "BrownCrolphin",
-      "type": "block",
-      "sortid": 2257,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "brown_crolphin"
-    },
-    {
-      "name": "BrownCrolphinRecipe",
-      "type": "recipe",
-      "sortid": 2258,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "brown_crolphin_recipe"
-    },
-    {
-      "name": "WhiteSmoothCrolphin",
-      "type": "block",
-      "sortid": 2259,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "white_smooth_crolphin"
-    },
-    {
-      "name": "WhiteSmoothCrolphinRecipe",
-      "type": "recipe",
-      "sortid": 2260,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "white_smooth_crolphin_recipe"
-    },
-    {
-      "name": "LightGraySmoothCrolphin",
-      "type": "block",
-      "sortid": 2261,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "light_gray_smooth_crolphin"
-    },
-    {
-      "name": "LightGraySmoothCrolphinRecipe",
-      "type": "recipe",
-      "sortid": 2262,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "light_gray_smooth_crolphin_recipe"
-    },
-    {
-      "name": "GraySmoothCrolphin",
-      "type": "block",
-      "sortid": 2263,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "gray_smooth_crolphin"
-    },
-    {
-      "name": "GraySmoothCrolphinRecipe",
-      "type": "recipe",
-      "sortid": 2264,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "gray_smooth_crolphin_recipe"
-    },
-    {
-      "name": "BlackSmoothCrolphin",
-      "type": "block",
-      "sortid": 2265,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "black_smooth_crolphin"
-    },
-    {
-      "name": "BlackSmoothCrolphinRecipe",
-      "type": "recipe",
-      "sortid": 2266,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "black_smooth_crolphin_recipe"
-    },
-    {
-      "name": "RedSmoothCrolphin",
-      "type": "block",
-      "sortid": 2267,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "red_smooth_crolphin"
-    },
-    {
-      "name": "RedSmoothCrolphinRecipe",
-      "type": "recipe",
-      "sortid": 2268,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "red_smooth_crolphin_recipe"
-    },
-    {
-      "name": "PinkSmoothCrolphin",
-      "type": "block",
-      "sortid": 2269,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "pink_smooth_crolphin"
-    },
-    {
-      "name": "PinkSmoothCrolphinRecipe",
-      "type": "recipe",
-      "sortid": 2270,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "pink_smooth_crolphin_recipe"
-    },
-    {
-      "name": "MagentaSmoothCrolphin",
-      "type": "block",
-      "sortid": 2271,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "magenta_smooth_crolphin"
-    },
-    {
-      "name": "MagentaSmoothCrolphinRecipe",
-      "type": "recipe",
-      "sortid": 2272,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "magenta_smooth_crolphin_recipe"
-    },
-    {
-      "name": "PurpleSmoothCrolphin",
-      "type": "block",
-      "sortid": 2273,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "purple_smooth_crolphin"
-    },
-    {
-      "name": "PurpleSmoothCrolphinRecipe",
-      "type": "recipe",
-      "sortid": 2274,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "purple_smooth_crolphin_recipe"
-    },
-    {
-      "name": "BlueSmoothCrolphin",
-      "type": "block",
-      "sortid": 2275,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "blue_smooth_crolphin"
-    },
-    {
-      "name": "BlueSmoothCrolphinRecipe",
-      "type": "recipe",
-      "sortid": 2276,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "blue_smooth_crolphin_recipe"
-    },
-    {
-      "name": "LightBlueSmoothCrolphin",
-      "type": "block",
-      "sortid": 2277,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "light_blue_smooth_crolphin"
-    },
-    {
-      "name": "LightBlueSmoothCrolphinRecipe",
-      "type": "recipe",
-      "sortid": 2278,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "light_blue_smooth_crolphin_recipe"
-    },
-    {
-      "name": "CyanSmoothCrolphin",
-      "type": "block",
-      "sortid": 2279,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "cyan_smooth_crolphin"
-    },
-    {
-      "name": "CyanSmoothCrolphinRecipe",
-      "type": "recipe",
-      "sortid": 2280,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "cyan_smooth_crolphin_recipe"
-    },
-    {
-      "name": "LimeSmoothCrolphin",
-      "type": "block",
-      "sortid": 2281,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "lime_smooth_crolphin"
-    },
-    {
-      "name": "LimeSmoothCrolphinRecipe",
-      "type": "recipe",
-      "sortid": 2282,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "lime_smooth_crolphin_recipe"
-    },
-    {
-      "name": "GreenSmoothCrolphin",
-      "type": "block",
-      "sortid": 2283,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "green_smooth_crolphin"
-    },
-    {
-      "name": "GreenSmoothCrolphinRecipe",
-      "type": "recipe",
-      "sortid": 2284,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "green_smooth_crolphin_recipe"
-    },
-    {
-      "name": "YellowSmoothCrolphin",
-      "type": "block",
-      "sortid": 2285,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "yellow_smooth_crolphin"
-    },
-    {
-      "name": "YellowSmoothCrolphinRecipe",
-      "type": "recipe",
-      "sortid": 2286,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "yellow_smooth_crolphin_recipe"
-    },
-    {
-      "name": "OrangeSmoothCrolphin",
-      "type": "block",
-      "sortid": 2287,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "orange_smooth_crolphin"
-    },
-    {
-      "name": "OrangeSmoothCrolphinRecipe",
-      "type": "recipe",
-      "sortid": 2288,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "orange_smooth_crolphin_recipe"
-    },
-    {
-      "name": "BrownSmoothCrolphin",
-      "type": "block",
-      "sortid": 2289,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "brown_smooth_crolphin"
-    },
-    {
-      "name": "BrownSmoothCrolphinRecipe",
-      "type": "recipe",
-      "sortid": 2290,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "brown_smooth_crolphin_recipe"
-    },
-    {
-      "name": "WhiteCrolphinBricks",
-      "type": "block",
-      "sortid": 2291,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "white_crolphin_bricks"
-    },
-    {
-      "name": "WhiteCrolphinBricksRecipe",
-      "type": "recipe",
-      "sortid": 2292,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "white_crolphin_bricks_recipe"
-    },
-    {
-      "name": "LightGrayCrolphinBricks",
-      "type": "block",
-      "sortid": 2293,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "light_gray_crolphin_bricks"
-    },
-    {
-      "name": "LightGrayCrolphinBricksRecipe",
-      "type": "recipe",
-      "sortid": 2294,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "light_gray_crolphin_bricks_recipe"
-    },
-    {
-      "name": "GrayCrolphinBricks",
-      "type": "block",
-      "sortid": 2295,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "gray_crolphin_bricks"
-    },
-    {
-      "name": "GrayCrolphinBricksRecipe",
-      "type": "recipe",
-      "sortid": 2296,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "gray_crolphin_bricks_recipe"
-    },
-    {
-      "name": "BlackCrolphinBricks",
-      "type": "block",
-      "sortid": 2297,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "black_crolphin_bricks"
-    },
-    {
-      "name": "BlackCrolphinBricksRecipe",
-      "type": "recipe",
-      "sortid": 2298,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "black_crolphin_bricks_recipe"
-    },
-    {
-      "name": "RedCrolphinBricks",
-      "type": "block",
-      "sortid": 2299,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "red_crolphin_bricks"
     },
     {
       "name": "RedCrolphinBricksRecipe",
@@ -20380,67 +20482,94 @@
       "registry_name": "red_crolphin_bricks_recipe"
     },
     {
-      "name": "PinkCrolphinBricks",
-      "type": "block",
-      "sortid": 2301,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "pink_crolphin_bricks"
-    },
-    {
-      "name": "PinkCrolphinBricksRecipe",
+      "name": "BlackCrolphinRecipe",
       "type": "recipe",
-      "sortid": 2302,
+      "sortid": 2234,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "pink_crolphin_bricks_recipe"
+      "registry_name": "black_crolphin_recipe"
     },
     {
-      "name": "MagentaCrolphinBricks",
+      "name": "BlueSmoothCrolphin",
       "type": "block",
-      "sortid": 2303,
+      "sortid": 2275,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "magenta_crolphin_bricks"
+      "registry_name": "blue_smooth_crolphin"
     },
     {
-      "name": "MagentaCrolphinBricksRecipe",
+      "name": "RedSmoothCrolphin",
+      "type": "block",
+      "sortid": 2267,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "red_smooth_crolphin"
+    },
+    {
+      "name": "MagentaCrolphinRecipe",
       "type": "recipe",
-      "sortid": 2304,
+      "sortid": 2240,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "magenta_crolphin_bricks_recipe"
+      "registry_name": "magenta_crolphin_recipe"
     },
     {
-      "name": "PurpleCrolphinBricks",
-      "type": "block",
-      "sortid": 2305,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "purple_crolphin_bricks"
-    },
-    {
-      "name": "PurpleCrolphinBricksRecipe",
+      "name": "YellowCrolphinRecipe",
       "type": "recipe",
-      "sortid": 2306,
+      "sortid": 2254,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "purple_crolphin_bricks_recipe"
+      "registry_name": "yellow_crolphin_recipe"
     },
     {
-      "name": "BlueCrolphinBricks",
+      "name": "GrayCrolphinBricks",
       "type": "block",
-      "sortid": 2307,
+      "sortid": 2295,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "blue_crolphin_bricks"
+      "registry_name": "gray_crolphin_bricks"
+    },
+    {
+      "name": "PurpleSmoothCrolphinRecipe",
+      "type": "recipe",
+      "sortid": 2274,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "purple_smooth_crolphin_recipe"
+    },
+    {
+      "name": "GoldenChainArmorArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 2223,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "golden_chain_armor_armor_leggings_recipe"
+    },
+    {
+      "name": "CyanSmoothCrolphinRecipe",
+      "type": "recipe",
+      "sortid": 2280,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cyan_smooth_crolphin_recipe"
+    },
+    {
+      "name": "BlueCrolphinRecipe",
+      "type": "recipe",
+      "sortid": 2244,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "blue_crolphin_recipe"
     },
     {
       "name": "BlueCrolphinBricksRecipe",
@@ -20452,130 +20581,13 @@
       "registry_name": "blue_crolphin_bricks_recipe"
     },
     {
-      "name": "LightBlueCrolphinBricks",
+      "name": "PurpleCrolphin",
       "type": "block",
-      "sortid": 2309,
+      "sortid": 2241,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "light_blue_crolphin_bricks"
-    },
-    {
-      "name": "LightBlueCrolphinBricksRecipe",
-      "type": "recipe",
-      "sortid": 2310,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "light_blue_crolphin_bricks_recipe"
-    },
-    {
-      "name": "CyanCrolphinBricks",
-      "type": "block",
-      "sortid": 2311,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "cyan_crolphin_bricks"
-    },
-    {
-      "name": "CyanCrolphinBricksRecipe",
-      "type": "recipe",
-      "sortid": 2312,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "cyan_crolphin_bricks_recipe"
-    },
-    {
-      "name": "LimeCrolphinBricks",
-      "type": "block",
-      "sortid": 2313,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "lime_crolphin_bricks"
-    },
-    {
-      "name": "LimeCrolphinBricksRecipe",
-      "type": "recipe",
-      "sortid": 2314,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "lime_crolphin_bricks_recipe"
-    },
-    {
-      "name": "GreenCrolphinBricks",
-      "type": "block",
-      "sortid": 2315,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "green_crolphin_bricks"
-    },
-    {
-      "name": "GreenCrolphinBricksRecipe",
-      "type": "recipe",
-      "sortid": 2316,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "green_crolphin_bricks_recipe"
-    },
-    {
-      "name": "YellowCrolphinBricks",
-      "type": "block",
-      "sortid": 2317,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "yellow_crolphin_bricks"
-    },
-    {
-      "name": "YellowCrolphinBricksRecipe",
-      "type": "recipe",
-      "sortid": 2318,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "yellow_crolphin_bricks_recipe"
-    },
-    {
-      "name": "OrangeCrolphinBricks",
-      "type": "block",
-      "sortid": 2319,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "orange_crolphin_bricks"
-    },
-    {
-      "name": "OrangeCrolphinBricksRecipe",
-      "type": "recipe",
-      "sortid": 2320,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "orange_crolphin_bricks_recipe"
-    },
-    {
-      "name": "BrownCrolphinBricks",
-      "type": "block",
-      "sortid": 2321,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "brown_crolphin_bricks"
-    },
-    {
-      "name": "BrownCrolphinBricksRecipe",
-      "type": "recipe",
-      "sortid": 2322,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "brown_crolphin_bricks_recipe"
+      "registry_name": "purple_crolphin"
     }
   ],
   "variable_elements": [
@@ -22588,5 +22600,5 @@
     "modElementsPackage": "net.mcreator.sotmr",
     "lockBaseModFiles": false
   },
-  "mcreatorVersion": 202100103117
+  "mcreatorVersion": 202000652319
 }
