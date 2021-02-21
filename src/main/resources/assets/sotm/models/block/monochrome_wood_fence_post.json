@@ -1,7 +1,7 @@
 {
   "parent": "block/fence_post",
   "textures": {
-    "texture": "sotm:blocks/monochromewood_planks",
-    "particle": "sotm:blocks/monochromewood_planks"
+    "texture": "sotm:blocks/monochrome_wood_planks",
+    "particle": "sotm:blocks/monochrome_wood_planks"
   }
 }

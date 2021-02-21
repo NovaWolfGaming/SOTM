@@ -1,0 +1,46 @@
+{
+  "_fv": 15,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 8,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:HardenedCrolphin"
+      },
+      {
+        "value": "CUSTOM:HardenedCrolphin"
+      },
+      {
+        "value": "CUSTOM:HardenedCrolphin"
+      },
+      {
+        "value": "CUSTOM:HardenedCrolphin"
+      },
+      {
+        "value": "Items.DYE#18"
+      },
+      {
+        "value": "CUSTOM:HardenedCrolphin"
+      },
+      {
+        "value": "CUSTOM:HardenedCrolphin"
+      },
+      {
+        "value": "CUSTOM:HardenedCrolphin"
+      },
+      {
+        "value": "CUSTOM:HardenedCrolphin"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:BlueCrolphin"
+    },
+    "name": "blue_crolphin_recipe",
+    "namespace": "mod"
+  }
+}

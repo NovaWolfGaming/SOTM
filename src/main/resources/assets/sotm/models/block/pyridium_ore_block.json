@@ -1,7 +1,7 @@
 {
   "parent": "block/cube_all",
   "textures": {
-    "all": "sotm:blocks/pyrium_block",
-    "particle": "sotm:blocks/pyrium_block"
+    "all": "sotm:blocks/pyridium_block_2",
+    "particle": "sotm:blocks/pyridium_block_2"
   }
 }

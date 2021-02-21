@@ -2,7 +2,7 @@
   "_fv": 15,
   "_type": "block",
   "definition": {
-    "texture": "monochromewood_log_side",
+    "texture": "monochrome_log_side",
     "textureTop": "",
     "textureLeft": "",
     "textureFront": "",
@@ -26,14 +26,14 @@
     "Mx": 1.0,
     "My": 1.0,
     "Mz": 1.0,
-    "name": "MonochromeWood Wood",
+    "name": "Monochrome Wood ",
     "specialInfo": [],
     "hardness": 2.0,
     "resistance": 2.0,
     "hasGravity": false,
     "isWaterloggable": false,
     "creativeTab": {
-      "value": "CUSTOM:ToolsAndWeapons"
+      "value": "CUSTOM:SOTMBlocks"
     },
     "destroyTool": "axe",
     "customDrop": {

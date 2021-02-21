@@ -1,7 +1,7 @@
 {
   "parent": "block/cube_all",
   "textures": {
-    "all": "sotm:blocks/monochromewood_leaves",
-    "particle": "sotm:blocks/monochromewood_leaves"
+    "all": "sotm:blocks/monochrome_leaves",
+    "particle": "sotm:blocks/monochrome_leaves"
   }
 }

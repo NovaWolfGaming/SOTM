@@ -2,10 +2,10 @@
   "_fv": 15,
   "_type": "block",
   "definition": {
-    "texture": "monochromewood_planks",
-    "textureTop": "monochromewood_planks",
+    "texture": "monochrome_wood_planks",
+    "textureTop": "monochrome_wood_planks",
     "textureLeft": "",
-    "textureFront": "monochromewood_planks",
+    "textureFront": "monochrome_wood_planks",
     "textureRight": "",
     "textureBack": "",
     "renderType": 10,
@@ -27,14 +27,14 @@
     "Mx": 1.0,
     "My": 1.0,
     "Mz": 1.0,
-    "name": "MonochromeWood Stairs",
+    "name": "Monochrome Wood Stairs",
     "specialInfo": [],
     "hardness": 3.0,
     "resistance": 2.0,
     "hasGravity": false,
     "isWaterloggable": false,
     "creativeTab": {
-      "value": "CUSTOM:ToolsAndWeapons"
+      "value": "CUSTOM:SOTMDecorations"
     },
     "destroyTool": "Not specified",
     "customDrop": {

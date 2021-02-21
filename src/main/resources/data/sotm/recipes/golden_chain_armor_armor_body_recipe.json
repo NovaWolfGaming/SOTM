@@ -1,0 +1,39 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "sotm:golden_chain"
+    },
+    "2": {
+      "item": "sotm:golden_chain"
+    },
+    "3": {
+      "item": "sotm:golden_chain"
+    },
+    "4": {
+      "item": "sotm:golden_chain"
+    },
+    "5": {
+      "item": "sotm:golden_chain"
+    },
+    "6": {
+      "item": "sotm:golden_chain"
+    },
+    "7": {
+      "item": "sotm:golden_chain"
+    },
+    "8": {
+      "item": "sotm:golden_chain"
+    }
+  },
+  "result": {
+    "item": "sotm:golden_chain_armor_armor_chestplate",
+    "count": 1
+  }
+}

@@ -58,8 +58,7 @@ public class StuddedLatherChainArmorItem extends SotmModElements.ModElement {
 
 			@Override
 			public Ingredient getRepairMaterial() {
-				return Ingredient.fromStacks(new ItemStack(SilverChainItem.block, (int) (1)), new ItemStack(Items.LEATHER, (int) (1)),
-						new ItemStack(PigLeatherItem.block, (int) (1)), new ItemStack(LeatherBallItem.block, (int) (1)));
+				return Ingredient.fromStacks(new ItemStack(SilverChainItem.block, (int) (1)), new ItemStack(Items.LEATHER, (int) (1)));
 			}
 
 			@OnlyIn(Dist.CLIENT)

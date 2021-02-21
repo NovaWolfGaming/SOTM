@@ -1,0 +1,42 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "sotm:hardened_crolphin"
+    },
+    "1": {
+      "item": "sotm:hardened_crolphin"
+    },
+    "2": {
+      "item": "sotm:hardened_crolphin"
+    },
+    "3": {
+      "item": "sotm:hardened_crolphin"
+    },
+    "4": {
+      "item": "minecraft:light_blue_dye"
+    },
+    "5": {
+      "item": "sotm:hardened_crolphin"
+    },
+    "6": {
+      "item": "sotm:hardened_crolphin"
+    },
+    "7": {
+      "item": "sotm:hardened_crolphin"
+    },
+    "8": {
+      "item": "sotm:hardened_crolphin"
+    }
+  },
+  "result": {
+    "item": "sotm:light_blue_crolphin",
+    "count": 8
+  }
+}

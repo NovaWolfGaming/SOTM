@@ -2,7 +2,7 @@
   "_fv": 15,
   "_type": "block",
   "definition": {
-    "texture": "monochromewood_leaves",
+    "texture": "monochrome_leaves",
     "textureTop": "",
     "textureLeft": "",
     "textureFront": "",
@@ -27,7 +27,7 @@
     "Mx": 1.0,
     "My": 1.0,
     "Mz": 1.0,
-    "name": "MonochromeWood Leaves",
+    "name": "Monochrome Leaves",
     "specialInfo": [],
     "hardness": 0.2,
     "resistance": 0.2,

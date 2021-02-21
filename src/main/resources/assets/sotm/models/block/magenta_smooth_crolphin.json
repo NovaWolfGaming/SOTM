@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "sotm:blocks/magentacrolphin_2",
+    "particle": "sotm:blocks/magentacrolphin_2"
+  }
+}

@@ -1,8 +1,8 @@
 {
   "parent": "block/stairs",
   "textures": {
-    "bottom": "sotm:blocks/monochromewood_planks",
-    "top": "sotm:blocks/monochromewood_planks",
-    "side": "sotm:blocks/monochromewood_planks"
+    "bottom": "sotm:blocks/monochrome_wood_planks",
+    "top": "sotm:blocks/monochrome_wood_planks",
+    "side": "sotm:blocks/monochrome_wood_planks"
   }
 }

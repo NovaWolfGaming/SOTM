@@ -1,6 +1,6 @@
 {
   "parent": "block/template_fence_gate_wall",
   "textures": {
-    "texture": "sotm:blocks/monochromewood_planks"
+    "texture": "sotm:blocks/monochrome_wood_planks"
   }
 }

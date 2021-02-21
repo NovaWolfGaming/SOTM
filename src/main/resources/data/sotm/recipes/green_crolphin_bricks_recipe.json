@@ -1,0 +1,26 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "sotm:green_smooth_crolphin"
+    },
+    "1": {
+      "item": "sotm:green_smooth_crolphin"
+    },
+    "2": {
+      "item": "sotm:green_smooth_crolphin"
+    },
+    "3": {
+      "item": "sotm:green_smooth_crolphin"
+    }
+  },
+  "result": {
+    "item": "sotm:green_crolphin_bricks",
+    "count": 4
+  }
+}

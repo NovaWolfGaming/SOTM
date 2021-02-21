@@ -1,7 +1,7 @@
 {
   "parent": "block/cube_all",
   "textures": {
-    "all": "sotm:blocks/monochromewood_planks",
-    "particle": "sotm:blocks/monochromewood_planks"
+    "all": "sotm:blocks/monochrome_wood_planks",
+    "particle": "sotm:blocks/monochrome_wood_planks"
   }
 }

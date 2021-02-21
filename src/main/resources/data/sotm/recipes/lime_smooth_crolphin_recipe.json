@@ -1,0 +1,26 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "sotm:lime_crolphin"
+    },
+    "1": {
+      "item": "sotm:lime_crolphin"
+    },
+    "2": {
+      "item": "sotm:lime_crolphin"
+    },
+    "3": {
+      "item": "sotm:lime_crolphin"
+    }
+  },
+  "result": {
+    "item": "sotm:lime_smooth_crolphin",
+    "count": 4
+  }
+}

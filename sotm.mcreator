@@ -3568,14 +3568,6 @@
       "ids": {}
     },
     {
-      "name": "Crolphin2HardenedClay",
-      "type": "recipe",
-      "sortid": 870,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {}
-    },
-    {
       "name": "CarbonSand2Sandstone",
       "type": "recipe",
       "sortid": 871,
@@ -18740,20 +18732,8 @@
       "metadata": {
         "dependencies": [
           {
-            "name": "x",
-            "type": "number"
-          },
-          {
-            "name": "y",
-            "type": "number"
-          },
-          {
-            "name": "z",
-            "type": "number"
-          },
-          {
-            "name": "world",
-            "type": "world"
+            "name": "entity",
+            "type": "entity"
           }
         ]
       }
@@ -19607,6 +19587,995 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "mercury"
+    },
+    {
+      "name": "LeavesSilkWorm",
+      "type": "procedure",
+      "sortid": 2216,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "leaves_silk_worm",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "PlerraBerryBush",
+      "type": "plant",
+      "sortid": 2217,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "plerra_berry_bush"
+    },
+    {
+      "name": "PlerraBerry",
+      "type": "food",
+      "sortid": 2218,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "plerra_berry"
+    },
+    {
+      "name": "GoldenChain",
+      "type": "item",
+      "sortid": 2219,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "golden_chain"
+    },
+    {
+      "name": "GoldenChainArmorArmor",
+      "type": "armor",
+      "sortid": 2220,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "golden_chain_armor_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "GoldenChainArmorArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 2221,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "golden_chain_armor_armor_helmet_recipe"
+    },
+    {
+      "name": "GoldenChainArmorArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 2222,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "golden_chain_armor_armor_body_recipe"
+    },
+    {
+      "name": "GoldenChainArmorArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 2223,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "golden_chain_armor_armor_leggings_recipe"
+    },
+    {
+      "name": "GoldenChainArmorArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 2224,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "golden_chain_armor_armor_boots_recipe"
+    },
+    {
+      "name": "HardenedCrolphin",
+      "type": "block",
+      "sortid": 2225,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "hardened_crolphin"
+    },
+    {
+      "name": "WhiteCrolphin",
+      "type": "block",
+      "sortid": 2226,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "white_crolphin"
+    },
+    {
+      "name": "WhiteCrolphinRecipe",
+      "type": "recipe",
+      "sortid": 2227,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "white_crolphin_recipe"
+    },
+    {
+      "name": "HardenedCrolphinRecipe",
+      "type": "recipe",
+      "sortid": 2228,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "hardened_crolphin_recipe"
+    },
+    {
+      "name": "LightGrayCrolphin",
+      "type": "block",
+      "sortid": 2229,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "light_gray_crolphin"
+    },
+    {
+      "name": "LightGrayCrolphinRecipe",
+      "type": "recipe",
+      "sortid": 2230,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "light_gray_crolphin_recipe"
+    },
+    {
+      "name": "GrayCrolphin",
+      "type": "block",
+      "sortid": 2231,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gray_crolphin"
+    },
+    {
+      "name": "GrayCrolphinRecipe",
+      "type": "recipe",
+      "sortid": 2232,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gray_crolphin_recipe"
+    },
+    {
+      "name": "BlackCrolphin",
+      "type": "block",
+      "sortid": 2233,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "black_crolphin"
+    },
+    {
+      "name": "BlackCrolphinRecipe",
+      "type": "recipe",
+      "sortid": 2234,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "black_crolphin_recipe"
+    },
+    {
+      "name": "RedCrolphin",
+      "type": "block",
+      "sortid": 2235,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "red_crolphin"
+    },
+    {
+      "name": "RedCrolphinRecipe",
+      "type": "recipe",
+      "sortid": 2236,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "red_crolphin_recipe"
+    },
+    {
+      "name": "PinkCrolphin",
+      "type": "block",
+      "sortid": 2237,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pink_crolphin"
+    },
+    {
+      "name": "PinkCrolphinRecipe",
+      "type": "recipe",
+      "sortid": 2238,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pink_crolphin_recipe"
+    },
+    {
+      "name": "MagentaCrolphin",
+      "type": "block",
+      "sortid": 2239,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "magenta_crolphin"
+    },
+    {
+      "name": "MagentaCrolphinRecipe",
+      "type": "recipe",
+      "sortid": 2240,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "magenta_crolphin_recipe"
+    },
+    {
+      "name": "PurpleCrolphin",
+      "type": "block",
+      "sortid": 2241,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "purple_crolphin"
+    },
+    {
+      "name": "PurpleCrolphinRecipe",
+      "type": "recipe",
+      "sortid": 2242,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "purple_crolphin_recipe"
+    },
+    {
+      "name": "BlueCrolphin",
+      "type": "block",
+      "sortid": 2243,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "blue_crolphin"
+    },
+    {
+      "name": "BlueCrolphinRecipe",
+      "type": "recipe",
+      "sortid": 2244,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "blue_crolphin_recipe"
+    },
+    {
+      "name": "LightBlueCrolphin",
+      "type": "block",
+      "sortid": 2245,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "light_blue_crolphin"
+    },
+    {
+      "name": "LightBlueCrolphinRecipe",
+      "type": "recipe",
+      "sortid": 2246,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "light_blue_crolphin_recipe"
+    },
+    {
+      "name": "CyanCrolphin",
+      "type": "block",
+      "sortid": 2247,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cyan_crolphin"
+    },
+    {
+      "name": "CyanCrolphinRecipe",
+      "type": "recipe",
+      "sortid": 2248,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cyan_crolphin_recipe"
+    },
+    {
+      "name": "LimeCrolphin",
+      "type": "block",
+      "sortid": 2249,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lime_crolphin"
+    },
+    {
+      "name": "LimeCrolphinRecipe",
+      "type": "recipe",
+      "sortid": 2250,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lime_crolphin_recipe"
+    },
+    {
+      "name": "GreenCrolphin",
+      "type": "block",
+      "sortid": 2251,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "green_crolphin"
+    },
+    {
+      "name": "GreenCrolphinRecipe",
+      "type": "recipe",
+      "sortid": 2252,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "green_crolphin_recipe"
+    },
+    {
+      "name": "YellowCrolphin",
+      "type": "block",
+      "sortid": 2253,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "yellow_crolphin"
+    },
+    {
+      "name": "YellowCrolphinRecipe",
+      "type": "recipe",
+      "sortid": 2254,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "yellow_crolphin_recipe"
+    },
+    {
+      "name": "OrangeCrolphin",
+      "type": "block",
+      "sortid": 2255,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "orange_crolphin"
+    },
+    {
+      "name": "OrangeCrolphinRecipe",
+      "type": "recipe",
+      "sortid": 2256,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "orange_crolphin_recipe"
+    },
+    {
+      "name": "BrownCrolphin",
+      "type": "block",
+      "sortid": 2257,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "brown_crolphin"
+    },
+    {
+      "name": "BrownCrolphinRecipe",
+      "type": "recipe",
+      "sortid": 2258,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "brown_crolphin_recipe"
+    },
+    {
+      "name": "WhiteSmoothCrolphin",
+      "type": "block",
+      "sortid": 2259,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "white_smooth_crolphin"
+    },
+    {
+      "name": "WhiteSmoothCrolphinRecipe",
+      "type": "recipe",
+      "sortid": 2260,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "white_smooth_crolphin_recipe"
+    },
+    {
+      "name": "LightGraySmoothCrolphin",
+      "type": "block",
+      "sortid": 2261,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "light_gray_smooth_crolphin"
+    },
+    {
+      "name": "LightGraySmoothCrolphinRecipe",
+      "type": "recipe",
+      "sortid": 2262,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "light_gray_smooth_crolphin_recipe"
+    },
+    {
+      "name": "GraySmoothCrolphin",
+      "type": "block",
+      "sortid": 2263,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gray_smooth_crolphin"
+    },
+    {
+      "name": "GraySmoothCrolphinRecipe",
+      "type": "recipe",
+      "sortid": 2264,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gray_smooth_crolphin_recipe"
+    },
+    {
+      "name": "BlackSmoothCrolphin",
+      "type": "block",
+      "sortid": 2265,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "black_smooth_crolphin"
+    },
+    {
+      "name": "BlackSmoothCrolphinRecipe",
+      "type": "recipe",
+      "sortid": 2266,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "black_smooth_crolphin_recipe"
+    },
+    {
+      "name": "RedSmoothCrolphin",
+      "type": "block",
+      "sortid": 2267,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "red_smooth_crolphin"
+    },
+    {
+      "name": "RedSmoothCrolphinRecipe",
+      "type": "recipe",
+      "sortid": 2268,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "red_smooth_crolphin_recipe"
+    },
+    {
+      "name": "PinkSmoothCrolphin",
+      "type": "block",
+      "sortid": 2269,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pink_smooth_crolphin"
+    },
+    {
+      "name": "PinkSmoothCrolphinRecipe",
+      "type": "recipe",
+      "sortid": 2270,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pink_smooth_crolphin_recipe"
+    },
+    {
+      "name": "MagentaSmoothCrolphin",
+      "type": "block",
+      "sortid": 2271,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "magenta_smooth_crolphin"
+    },
+    {
+      "name": "MagentaSmoothCrolphinRecipe",
+      "type": "recipe",
+      "sortid": 2272,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "magenta_smooth_crolphin_recipe"
+    },
+    {
+      "name": "PurpleSmoothCrolphin",
+      "type": "block",
+      "sortid": 2273,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "purple_smooth_crolphin"
+    },
+    {
+      "name": "PurpleSmoothCrolphinRecipe",
+      "type": "recipe",
+      "sortid": 2274,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "purple_smooth_crolphin_recipe"
+    },
+    {
+      "name": "BlueSmoothCrolphin",
+      "type": "block",
+      "sortid": 2275,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "blue_smooth_crolphin"
+    },
+    {
+      "name": "BlueSmoothCrolphinRecipe",
+      "type": "recipe",
+      "sortid": 2276,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "blue_smooth_crolphin_recipe"
+    },
+    {
+      "name": "LightBlueSmoothCrolphin",
+      "type": "block",
+      "sortid": 2277,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "light_blue_smooth_crolphin"
+    },
+    {
+      "name": "LightBlueSmoothCrolphinRecipe",
+      "type": "recipe",
+      "sortid": 2278,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "light_blue_smooth_crolphin_recipe"
+    },
+    {
+      "name": "CyanSmoothCrolphin",
+      "type": "block",
+      "sortid": 2279,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cyan_smooth_crolphin"
+    },
+    {
+      "name": "CyanSmoothCrolphinRecipe",
+      "type": "recipe",
+      "sortid": 2280,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cyan_smooth_crolphin_recipe"
+    },
+    {
+      "name": "LimeSmoothCrolphin",
+      "type": "block",
+      "sortid": 2281,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lime_smooth_crolphin"
+    },
+    {
+      "name": "LimeSmoothCrolphinRecipe",
+      "type": "recipe",
+      "sortid": 2282,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lime_smooth_crolphin_recipe"
+    },
+    {
+      "name": "GreenSmoothCrolphin",
+      "type": "block",
+      "sortid": 2283,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "green_smooth_crolphin"
+    },
+    {
+      "name": "GreenSmoothCrolphinRecipe",
+      "type": "recipe",
+      "sortid": 2284,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "green_smooth_crolphin_recipe"
+    },
+    {
+      "name": "YellowSmoothCrolphin",
+      "type": "block",
+      "sortid": 2285,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "yellow_smooth_crolphin"
+    },
+    {
+      "name": "YellowSmoothCrolphinRecipe",
+      "type": "recipe",
+      "sortid": 2286,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "yellow_smooth_crolphin_recipe"
+    },
+    {
+      "name": "OrangeSmoothCrolphin",
+      "type": "block",
+      "sortid": 2287,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "orange_smooth_crolphin"
+    },
+    {
+      "name": "OrangeSmoothCrolphinRecipe",
+      "type": "recipe",
+      "sortid": 2288,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "orange_smooth_crolphin_recipe"
+    },
+    {
+      "name": "BrownSmoothCrolphin",
+      "type": "block",
+      "sortid": 2289,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "brown_smooth_crolphin"
+    },
+    {
+      "name": "BrownSmoothCrolphinRecipe",
+      "type": "recipe",
+      "sortid": 2290,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "brown_smooth_crolphin_recipe"
+    },
+    {
+      "name": "WhiteCrolphinBricks",
+      "type": "block",
+      "sortid": 2291,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "white_crolphin_bricks"
+    },
+    {
+      "name": "WhiteCrolphinBricksRecipe",
+      "type": "recipe",
+      "sortid": 2292,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "white_crolphin_bricks_recipe"
+    },
+    {
+      "name": "LightGrayCrolphinBricks",
+      "type": "block",
+      "sortid": 2293,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "light_gray_crolphin_bricks"
+    },
+    {
+      "name": "LightGrayCrolphinBricksRecipe",
+      "type": "recipe",
+      "sortid": 2294,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "light_gray_crolphin_bricks_recipe"
+    },
+    {
+      "name": "GrayCrolphinBricks",
+      "type": "block",
+      "sortid": 2295,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gray_crolphin_bricks"
+    },
+    {
+      "name": "GrayCrolphinBricksRecipe",
+      "type": "recipe",
+      "sortid": 2296,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gray_crolphin_bricks_recipe"
+    },
+    {
+      "name": "BlackCrolphinBricks",
+      "type": "block",
+      "sortid": 2297,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "black_crolphin_bricks"
+    },
+    {
+      "name": "BlackCrolphinBricksRecipe",
+      "type": "recipe",
+      "sortid": 2298,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "black_crolphin_bricks_recipe"
+    },
+    {
+      "name": "RedCrolphinBricks",
+      "type": "block",
+      "sortid": 2299,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "red_crolphin_bricks"
+    },
+    {
+      "name": "RedCrolphinBricksRecipe",
+      "type": "recipe",
+      "sortid": 2300,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "red_crolphin_bricks_recipe"
+    },
+    {
+      "name": "PinkCrolphinBricks",
+      "type": "block",
+      "sortid": 2301,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pink_crolphin_bricks"
+    },
+    {
+      "name": "PinkCrolphinBricksRecipe",
+      "type": "recipe",
+      "sortid": 2302,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pink_crolphin_bricks_recipe"
+    },
+    {
+      "name": "MagentaCrolphinBricks",
+      "type": "block",
+      "sortid": 2303,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "magenta_crolphin_bricks"
+    },
+    {
+      "name": "MagentaCrolphinBricksRecipe",
+      "type": "recipe",
+      "sortid": 2304,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "magenta_crolphin_bricks_recipe"
+    },
+    {
+      "name": "PurpleCrolphinBricks",
+      "type": "block",
+      "sortid": 2305,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "purple_crolphin_bricks"
+    },
+    {
+      "name": "PurpleCrolphinBricksRecipe",
+      "type": "recipe",
+      "sortid": 2306,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "purple_crolphin_bricks_recipe"
+    },
+    {
+      "name": "BlueCrolphinBricks",
+      "type": "block",
+      "sortid": 2307,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "blue_crolphin_bricks"
+    },
+    {
+      "name": "BlueCrolphinBricksRecipe",
+      "type": "recipe",
+      "sortid": 2308,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "blue_crolphin_bricks_recipe"
+    },
+    {
+      "name": "LightBlueCrolphinBricks",
+      "type": "block",
+      "sortid": 2309,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "light_blue_crolphin_bricks"
+    },
+    {
+      "name": "LightBlueCrolphinBricksRecipe",
+      "type": "recipe",
+      "sortid": 2310,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "light_blue_crolphin_bricks_recipe"
+    },
+    {
+      "name": "CyanCrolphinBricks",
+      "type": "block",
+      "sortid": 2311,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cyan_crolphin_bricks"
+    },
+    {
+      "name": "CyanCrolphinBricksRecipe",
+      "type": "recipe",
+      "sortid": 2312,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cyan_crolphin_bricks_recipe"
+    },
+    {
+      "name": "LimeCrolphinBricks",
+      "type": "block",
+      "sortid": 2313,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lime_crolphin_bricks"
+    },
+    {
+      "name": "LimeCrolphinBricksRecipe",
+      "type": "recipe",
+      "sortid": 2314,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lime_crolphin_bricks_recipe"
+    },
+    {
+      "name": "GreenCrolphinBricks",
+      "type": "block",
+      "sortid": 2315,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "green_crolphin_bricks"
+    },
+    {
+      "name": "GreenCrolphinBricksRecipe",
+      "type": "recipe",
+      "sortid": 2316,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "green_crolphin_bricks_recipe"
+    },
+    {
+      "name": "YellowCrolphinBricks",
+      "type": "block",
+      "sortid": 2317,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "yellow_crolphin_bricks"
+    },
+    {
+      "name": "YellowCrolphinBricksRecipe",
+      "type": "recipe",
+      "sortid": 2318,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "yellow_crolphin_bricks_recipe"
+    },
+    {
+      "name": "OrangeCrolphinBricks",
+      "type": "block",
+      "sortid": 2319,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "orange_crolphin_bricks"
+    },
+    {
+      "name": "OrangeCrolphinBricksRecipe",
+      "type": "recipe",
+      "sortid": 2320,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "orange_crolphin_bricks_recipe"
+    },
+    {
+      "name": "BrownCrolphinBricks",
+      "type": "block",
+      "sortid": 2321,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "brown_crolphin_bricks"
+    },
+    {
+      "name": "BrownCrolphinBricksRecipe",
+      "type": "recipe",
+      "sortid": 2322,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "brown_crolphin_bricks_recipe"
     }
   ],
   "variable_elements": [
@@ -19685,6 +20654,7 @@
       "entity.sotm.mummy": "Mummy",
       "item.sotm.actiniumpickaxe": "Actinium Pickaxe",
       "advancements.not_quite_the_best.descr": "You Got Actinium",
+      "block.sotm.lone_dirt": "Lonedirt",
       "item.sotm.mushroomyellowitem": "Mushroomyellowitem",
       "block.sotmremake.carbonsand": "Carbon Sand",
       "item.sotm.sugared_popcorn": "Sugared Popcorn",
@@ -19702,16 +20672,19 @@
       "item.sotm.chorus_twig": "Chorus Twig",
       "block.sotm.cyan_freesia": "Cyan Freesia",
       "block.sotm.begonia_yellow": "Yellow Begonia",
-      "block.sotm.darkquartzore": "Nether Dark Quartz Ore",
-      "block.sotmremake.rubyorenether": "Nether Ruby Ore",
+      "block.sotm.light_gray_crolphin": "Light Gray Stained Crolphin",
       "block.sotm.lime_plastic": "Lime Plastic Block",
+      "block.sotmremake.rubyorenether": "Nether Ruby Ore",
+      "block.sotm.darkquartzore": "Nether Dark Quartz Ore",
       "item.sotmremake.fesline_dust": "Fesline Dust",
+      "block.sotm.white_crolphin": "White Stained Crolphin",
       "item.sotm.venomite_ore_pickaxe": "Venomite Pickaxe",
       "block.sotm.cherry_wood_door_2": "Cherry Wood Door",
       "item.sotm.pineapple": "Pineapple",
       "block.sotm.underworldrubyore": "Underworld Ruby Ore",
       "block.sotmremake.actiniumore": "Underworld Actinium Ore",
       "block.sotm.gypsum_brick": "Gypsum Brick",
+      "block.sotm.light_gray_crolphin_bricks": "Light Gray Crolphin Bricks",
       "block.sotm.lavastone_smooth_slab": "Polished Lavastone Slab",
       "item.sotm.actiniumaxe": "Actinium Axe",
       "block.sotmremake.bauxite_brick_slab": "Bauxite Brick Slab",
@@ -19724,6 +20697,7 @@
       "item.sotm.musket": "Musket",
       "block.sotm.netherstone": "Netherstone",
       "block.sotmremake.red_mushroom_door": "Red Mushroom Door",
+      "item.sotm.golden_chain_armor_armor_leggings": "GoldenChainArmor Leggings",
       "block.sotmremake.sunberrybush": "Sunberry Bush",
       "item.sotm.actiniumsword": "Actinium Sword",
       "block.sotmremake.chiseledcarbonsandstone": "Chiseled Carbon Sandstone",
@@ -19737,6 +20711,7 @@
       "block.sotmremake.purple_mistyst_brick": "Purple Mistyst Brick",
       "item.sotmremake.rubyarmorbody": "Ruby Chestplate",
       "item.sotmremake.anicent_ones": "Anicent Ones Spawn Egg",
+      "block.sotm.blue_smooth_crolphin": "Blue Smooth Crolphin",
       "block.sotmremake.lavastone_smooth": "Polished Lavastone",
       "block.sotm.rabidiumoreblock": "Block of Rabidium",
       "block.sotm.light_oak_stairs": "Light Oak Stairs",
@@ -19761,6 +20736,7 @@
       "block.sotmremake.cobblestone_door_recipe": "Cobblestone Door",
       "block.sotmremake.venorum_smooth": "Polished Venorum",
       "item.sotm.crystone_gold_armor_chestplate": "Crystone Gold Chestplate",
+      "block.sotm.purple_crolphin_bricks": "Purple Crolphin Bricks",
       "block.sotm.orange_marble": "Red Marble",
       "block.sotmremake.rose_quartz_stairs": "Rose Quartz Stairs",
       "item.sotmremake.silversickle": "Silver Sickle",
@@ -19781,6 +20757,7 @@
       "block.sotmremake.basaltbrick": "Basalt Brick",
       "block.sotmremake.black_marble_polished": "Polished Black Marble",
       "block.sotm.eurphrelialeaves": "Phantom Locust Leaves",
+      "block.sotm.green_crolphin": "Green Stained Crolphin",
       "block.sotm.orange_marble_stairs": "Orange Marble Brick Stairs",
       "item.sotmremake.undershroom_stew": "Undershroom Stew",
       "item.sotmremake.pyridium_axe": "Pyridium Axe",
@@ -19835,6 +20812,7 @@
       "block.sotm.sulphur_ore_2": "Underworld Sulphur Ore",
       "item.sotmremake.chorus_twig": "Chorus Twig",
       "item.sotmremake.amber_quartz": "Nether Amber Quartz",
+      "block.sotm.magenta_crolphin": "Magenta Stained Crolphin",
       "block.sotmremake.shulkeritestairs": "White Shulkerite Stairs",
       "block.sotm.dolomite_brick": "Dolomite Brick",
       "item.sotm.studded_lather_chain_armor_helmet": "Leather-Chain Helmet",
@@ -19842,6 +20820,8 @@
       "block.sotm.bamboo_thatch": "Bamboo Thatch",
       "block.sotm.underworldlapisore": "Underworld Lapis Lazuli Ore",
       "block.sotm.pumice_brick_stairs": "Polished Pumice Stairs",
+      "item.sotm.plerra_berry": "Plerra Berry",
+      "item.sotm.golden_chain_armor_armor_chestplate": "GoldenChainArmor Chestplate",
       "block.sotm.light_oak_slab": "Light Oak Slab",
       "item.sotm.mossy_quiver": "Mossy Quiver",
       "block.sotm.furiteblock": "Block of Furite",
@@ -19858,6 +20838,7 @@
       "item.sotmremake.nether_steel_armor_chestplate": "Nether_Steel Chestplate",
       "block.sotmremake.blu_bluh_pillar": "BluBluh Pillar",
       "block.sotmremake.copperoreblock": "Copper Block",
+      "block.sotm.pink_crolphin": "Pink Stained Crolphin",
       "item.sotmremake.fesline_armorhelmet": "Fesline Helmet",
       "item.sotm.electrum_axe": "Electrum Axe",
       "item.sotm.rubysickle": "Ruby Sickle",
@@ -19871,6 +20852,7 @@
       "block.sotm.smooth_black_marble": "Smooth Black Marble",
       "block.sotm.driorian_berry_bush": "Driorian Berry Bush",
       "block.sotm.crimsobricks": "Sera Bricks",
+      "item.sotm.golden_chain_armor_armor_helmet": "GoldenChainArmor Helmet",
       "item.sotm.venorum_quartz": "Nether Venorum Quartz",
       "block.sotm.skarn": "Skarn",
       "item.sotm.leather_strips": "Leather Strips",
@@ -19888,6 +20870,7 @@
       "block.sotm.rubyore": "Ruby Ore",
       "block.sotmremake.coesite_glass_pane": "Coesite Glass Pane",
       "block.sotm.certusslab": "Artinium Slab",
+      "block.sotm.light_blue_crolphin_bricks": "Light Blue Crolphin Bricks",
       "item.sotm.buttered_popcorn": "Buttered Popcorn",
       "item.sotm.cactus_pad_spikeless": "Cactus Pad Spikeless",
       "item.sotmremake.cookedpufferfish": "Cooked Pufferfish",
@@ -19901,9 +20884,11 @@
       "block.sotm.dark_steel_block": "Dark Steel Block",
       "block.sotm.bloodstoneblock": "Bloodstone Block",
       "block.sotm.bloodstoneblockchiseled": "Bloodstone Block Chiseled",
+      "block.sotm.orange_crolphin": "Orange Stained Crolphin",
       "block.sotm.gneiss": "Gneiss",
       "block.sotm.renite": "Renite",
       "item.sotm.sheeplin_spawn_egg": "Sheeplin Spawn Egg",
+      "item.sotm.golden_chain_armor_armor_boots": "GoldenChainArmor Boots",
       "item.sotm.steak_pie": "Steak Pie",
       "block.sotm.chiseled_chorus_stone_bricks": "Chiseled Chorus Stone Bricks",
       "block.sotm.orange_cotton_wool": "Orange Cotton Wool",
@@ -19934,12 +20919,14 @@
       "block.sotm.stargite": "White Stargite",
       "block.sotm.etherrack": "Etherrack",
       "block.sotmremake.frosted_quartz_pillar": "Frosted Quartz Pillar",
+      "block.sotm.lone_grass_block": "Lone Grass",
       "block.sotmremake.blue_mistyst_slab": "Blue Mistyst Slab",
+      "block.sotm.gray_crolphin": "Gray Stained Crolphin",
       "block.sotmremake.black_mushroom": "Black Mushroom",
       "block.sotmremake.warped_quartz_ore": "Nether Warped Quartz Ore",
       "item.sotmremake.cinistineingot": "Cinistine Ingot",
-      "block.sotm.euaphreliafence": "Phantom Locust Fence",
       "item.sotmremake.coppershovel": "Copper Shovel",
+      "block.sotm.euaphreliafence": "Phantom Locust Fence",
       "item.sotm.certus": "Ender Artinium",
       "block.sotm.purple_mistyst_chiseled": "Purple Mistyst Chiseled Brick",
       "block.sotmremake.ash_pile": "Ash",
@@ -20028,6 +21015,7 @@
       "block.sotmremake.amber_quartz_block": "Block of Amber Quartz",
       "block.sotmremake.frosted_crystaline_stairs": "Frosted Crystaline Stairs",
       "block.sotmremake.bukralt": "Bukralt",
+      "block.sotm.cyan_smooth_crolphin": "Cyan Smooth Crolphin",
       "item.sotmremake.blueberries": "Blueberries",
       "item.sotmremake.studded_lather_chain_armorlegs": "Leather-Chain Leggings",
       "block.sotmremake.venorum_quartz_stairs": "Venorum Quartz Stairs",
@@ -20063,6 +21051,7 @@
       "block.sotm.phantom_locust_door": "Phantom Locust Door",
       "block.sotm.cobblestone_trapdoor": "Cobblestone Trapdoor",
       "entity.sotm.duck": "Duck",
+      "item.sotm.mercury_bucket": "Mercury Bucket",
       "entity.sotm.corrupted_ones": "Corrupted Ones",
       "block.sotm.blackpoppy": "Black Poppy",
       "item.sotmremake.cooked_flesh": "Cooked Flesh",
@@ -20082,18 +21071,24 @@
       "block.sotm.enderplant": "Ender Plant",
       "item.sotm.actiniumingot": "Underworld Actinium Ingot",
       "block.sotm.shulkeriteslab": "White Shulkerite Slab",
+      "block.sotm.hardened_crolphin": "Hardened Crolphin",
       "block.sotm.polishedcarborite": "Polished Carborite",
       "entity.sotm.nether_settler": "Nether Settler",
       "block.sotmremake.cherry_wood_planks": "Cherry Wood Planks",
       "block.sotm.smooth_orange_marble_2": "Smooth Orange Marble",
       "block.sotm.green_mistyst": "Green Mistyst",
+      "block.sotm.monochrome_wood_fence_gate": "Monochrome Wood Fence Gate",
       "block.sotm.twisted_maple_leaves": "Twisted Maple Leaves",
+      "block.sotm.black_crolphin_bricks": "Black Crolphin Bricks",
+      "block.sotm.monochrome_wood_wood": "Monochrome Wood ",
       "block.sotm.carbonsandstoneslab": "Carbon Sandstone Slab",
       "item.sotmremake.nether_steel_armorhelmet": "Nether_Steel Helmet",
       "block.sotmremake.endergrass": "Phantom Cryllium",
       "block.sotm.chiseled_phantom_chorus_stone": "Phantom Chiseled Chorus Stone Bricks",
+      "block.sotm.yellow_crolphin": "Yellow Stained Crolphin",
       "item.sotm.sirccillun": "Sirccillun",
       "item.sotmremake.actiniumaxe": "Actinium Axe",
+      "block.sotm.magenta_smooth_crolphin": "Magenta Smooth Crolphin",
       "item.sotmremake.actiniumarmorboots": "Actinium Boots",
       "item.sotm.cooked_spider_leg": "Cooked Spider Leg",
       "item.sotm.stonesickle": "Stone Sickle",
@@ -20175,9 +21170,11 @@
       "item.sotm.silver_chain": "Silver Chain",
       "item.sotm.mossy_cross": "Mossy Cross",
       "block.sotmremake.twisted_maple_trapdoor": "Dragon Fir Trapdoor",
+      "block.sotm.blue_crolphin_bricks": "Blue Crolphin Bricks",
       "item.sotm.rabidiumshovel": "Rabidium Shovel",
       "item.sotm.nether_steel_shovel": "Crystone Iron Shovel",
       "block.sotm.amberore": "Nether Amber Ore",
+      "block.sotm.purple_smooth_crolphin": "Purple Smooth Crolphin",
       "block.sotmremake.bauxite_bricks": "Bauxite Bricks",
       "block.sotmremake.orange_marble": "Orange Marble",
       "item.sotm.iron_rapier_hilt": "Iron Rapier Hilt",
@@ -20222,6 +21219,7 @@
       "item.sotm.dark_steel_armor_helmet": "Dark Steel Helmet",
       "item.sotm.grapes": "Grapes",
       "item.sotm.lonelands": "Lone Igniter",
+      "block.sotm.lime_smooth_crolphin": "Lime Smooth Crolphin",
       "block.sotm.crystalineslab": "Crystaline Slab",
       "item.sotm.ender_moss_food": "Ender Moss",
       "block.sotmremake.certusore": "Ender Artinium Ore",
@@ -20244,18 +21242,21 @@
       "block.sotm.ender_wart_block": "Ender Wart Block",
       "block.sotm.crystone": "Crystone",
       "item.sotm.crystone_armor_boots": "Crystone iron Chainmail  Boots",
+      "block.sotm.cyan_crolphin": "Cyan Stained Crolphin",
       "item.sotm.billon_armor_leggings": "Billon Leggings",
       "block.sotm.carbonsandstone": "Carbon Sandstone",
       "block.sotmremake.blackstone": "Blackstone",
       "block.sotmremake.underworld_mud": "Underworld Mud",
       "block.sotmremake.pyridium_ore_block": "Block of Pyridium",
       "block.sotmremake.blood_elder_trapdoor": "Blood Elder Trapdoor",
+      "block.sotm.black_smooth_crolphin": "Black Smooth Crolphin",
       "block.sotmremake.lavastone_smooth_slab": "Polished Lavastone Slab",
       "item.sotm.crystone_gold_armor_leggings": "Crystone Gold Leggings",
       "item.sotm.sirccillun_pickaxe": "Sirccillun Pickaxe",
       "item.sotm.electrum_armor_leggings": "Electrum Leggings",
       "item.sotmremake.ender_moss_food": "Ender Moss",
       "biome.sotm.dragon_fir_forest": "Dragon Fir Forest",
+      "block.sotm.monochrome_wood_slab": "Monochrome Wood Slab",
       "item.sotm.terracus": "Terracus",
       "block.sotm.peony": "Peony",
       "item.sotmremake.pyridium_armor_helmet": "Pyridium Helmet",
@@ -20296,6 +21297,7 @@
       "block.sotmremake.crimsobricks": "Crimso Bricks",
       "item.sotm.coppershovel": "Copper Shovel",
       "item.sotm.amber_quartz": "Nether Amber Quartz",
+      "block.sotm.light_gray_smooth_crolphin": "Light Gray Smooth Crolphin",
       "block.sotmremake.green_mistyst_stairs": "Green Mistyst Stairs",
       "item.sotm.venomite_ore_gem": "Venomite",
       "item.sotm.silver_chainmail_armor_chestplate": "Silver_Chainmail Chestplate",
@@ -20360,6 +21362,7 @@
       "block.sotm.blackberrybush": "Blackberry Bush",
       "item.sotmremake.copperarmor_chestplate": "Copper Chestplate",
       "block.sotmremake.chiseled_rose_quartz": "Chiseled Rose Quartz",
+      "block.sotm.purple_crolphin": "Purple Stained Crolphin",
       "item.sotm.seraphyst_steel_ingot": "Seraphyst Steel",
       "block.sotm.cherry_wood_log": "Cherry Wood Log",
       "block.sotm.nethergoldore": "Gilded Netherrack",
@@ -20422,6 +21425,7 @@
       "item.sotmremake.rabidiumsword": "Rabidium Sword",
       "block.sotm.soul_sand_glass": "Soul Glass",
       "block.sotmremake.blue_mistyst_stairs": "Blue Mistyst Stairs",
+      "block.sotm.orange_crolphin_bricks": "Orange Crolphin Bricks",
       "block.sotmremake.phantom_locust_door": "Phantom Locust Door",
       "item.sotmremake.copperarmorlegs": "Copper Leggings",
       "item.sotm.venomite_ore_armor_helmet": "VenomiteOre Helmet",
@@ -20475,6 +21479,7 @@
       "item.sotmremake.amberarmorlegs": "Amber Leggings",
       "block.sotmremake.venorum_smooth_slab": "Polished Venorum Slab",
       "block.sotm.red_cotton_wool": "Red Cotton Wool",
+      "block.sotm.yellow_smooth_crolphin": "Yellow Smooth Crolphin",
       "item.sotmremake.cotton": "Cotton",
       "block.sotm.netherstone_smooth_stairs": "Polished Netherstone Stairs",
       "advancements.better_than_iron.title": "Better Than Iron",
@@ -20514,6 +21519,7 @@
       "block.sotm.end_vines": "End Vines",
       "block.sotm.ender_moss_purple": "Twisted Ender Moss",
       "item.sotm.drill": "Drill",
+      "block.sotm.pink_crolphin_bricks": "Pink Crolphin Bricks",
       "block.sotm.warped_quartz_block": "Block of Warped Quartz",
       "item.sotm.fried_terracus": "Fried Terracus",
       "block.sotmremake.cottonplant": "Cotton Plant",
@@ -20543,9 +21549,11 @@
       "block.sotmremake.carboritebrick": "Carborite Brick",
       "block.sotmremake.netherstone_smooth_slab": "Polished Netherstone Slab",
       "item.sotm.sulphur": "Sulphur",
+      "block.sotm.brown_smooth_crolphin": "Brown Smooth Crolphin",
       "block.sotm.blue_marble": "Blue Marble",
       "item.sotm.cinistineingot": "Cinistine Ingot",
       "block.sotmremake.blood_elder_fence": "Blood Elder Fence",
+      "block.sotm.light_blue_crolphin": "Light Blue Stained Crolphin",
       "block.sotm.blu_bluh_stairs": "Blubluh Stairs",
       "block.sotm.brown_plastic": "Brown Plastic Block",
       "block.sotm.lavastone_smooth": "Polished Lavastone",
@@ -20634,6 +21642,7 @@
       "block.sotm.dragon_fir_stairs": "Dragon Fir Stairs",
       "block.sotmremake.carbonsandstonestairs": "Carbon Sandstone Stairs",
       "item.sotmremake.venorum_quartz": "Nether Venorum Quartz",
+      "block.sotm.cyan_crolphin_bricks": "Cyan Crolphin Bricks",
       "item.sotm.amethyst_gem": "Amethyst",
       "block.sotmremake.burningfuriteblock": "Burning Furite Block",
       "block.sotm.orange_marble_brick": "Red Marble Brick",
@@ -20683,6 +21692,7 @@
       "block.sotm.blue_plastic": "Blue Plastic Block",
       "item.sotm.electrum_pickaxe": "Electrum Pickaxe",
       "block.sotm.chorus_stone_brick_stairs": "Chorus Stone Brick Stairs",
+      "item.sotm.golden_chain": "Golden Chain",
       "block.sotmremake.quartz_stone_brick": "Quartz Stone Brick",
       "block.sotm.certuspillar": "Artinium Pillar",
       "block.sotm.light_oak_trapdoor": "Light Oak Trapdoor",
@@ -20705,11 +21715,15 @@
       "item.sotm.fibre": "Fibre",
       "biome.sotm.walnut_wood_forest": "Walnut Wood Forest",
       "block.sotm.cinistineore": "Ender Cinistine Ore",
+      "block.sotm.monochrome_wood_planks": "Monochrome Wood Planks",
+      "block.sotm.brown_crolphin_bricks": "Brown Crolphin Bricks",
       "item.sotm.billon_armor_chestplate": "Billon Chestplate",
+      "block.sotm.white_crolphin_bricks": "White Crolphin Bricks",
       "block.sotm.red_rose": "Red Rose",
       "block.sotm.taraxacum_dandelion_blown": "Taraxacum Dandelion",
       "item.sotmremake.warped_quartz": "Nether Warped Quartz",
       "block.sotmremake.sulphur_quartz_ore": "Nether Sulphur Quartz Ore",
+      "block.sotm.monochrome_wood_log": "Monochrome Wood Log",
       "block.sotm.nethergrassmud": "Elder Nylium",
       "block.sotmremake.polishedblackgraniteslab": "Polished Black Granite Slab",
       "block.sotmremake.sulphur_quartz_slab": "Sulphur Quartz Slab",
@@ -20756,6 +21770,7 @@
       "block.sotmremake.carboritebrickslab": "Carborite Brick Slab",
       "item.sotm.pyridium_axe": "Pyridium Axe",
       "block.sotm.purple_mistyst_stairs": "Purple Mistyst Stairs",
+      "block.sotm.green_crolphin_bricks": "Green Crolphin Bricks",
       "item.sotm.amethyst_armor_boots": "Amethyst Boots",
       "item.sotm.billon_sword": "Billon Sword",
       "item.sotm.actiniumsickle": "Actinium Sickle",
@@ -20784,8 +21799,10 @@
       "block.sotm.white_roses": "White Roses",
       "block.sotmremake.charred_weeds": "Charred Weeds",
       "block.sotm.bamboo_thatch_slab": "Bamboo Thatch Slab",
+      "block.sotm.yellow_crolphin_bricks": "Yellow Crolphin Bricks",
       "block.sotm.fiery_shnyllium_leaves": "Fiery Shnyllium",
       "item.sotmremake.pyridium_shovel": "Pyridium Shovel",
+      "block.sotm.red_crolphin_bricks": "Red Crolphin Bricks",
       "block.sotm.furiteore": "Furite Ore",
       "block.sotm.pegmatite": "Pegmatite",
       "block.sotm.coesite_glass_pane": "Coesite Glass Pane",
@@ -20893,9 +21910,11 @@
       "block.sotmremake.blue_shulkerite_stairs": "White Shulkerite Stairs",
       "item.sotmremake.rabidiumshovel": "Rabidium Shovel",
       "block.sotm.pyridium_ore": "Pyridium Ore",
+      "block.sotm.monochrome_wood_stairs": "Monochrome Wood Stairs",
       "item.sotmremake.amethyst_axe": "Amethyst Axe",
       "block.sotm.ash_pile": "Ash",
       "item.sotm.dark_steel_pickaxe": "Dark Steel Pickaxe",
+      "block.sotm.gray_crolphin_bricks": "Gray Crolphin Bricks",
       "block.sotmremake.blue_marble_polished": "Polished Blue Marble",
       "block.sotmremake.vibrant_green_marble_polished": "Polished Vibrant Green Marble",
       "block.sotmremake.blood_elder_planks": "Blood Elder Planks",
@@ -20992,6 +22011,7 @@
       "item.sotmremake.copperarmor_helmet": "Copper Helmet",
       "item.sotm.salted_popcorn": "Salted Popcorn",
       "item.sotm.shoarma": "Raw Shoarma",
+      "block.sotm.light_blue_smooth_crolphin": "Light Blue Smooth Crolphin",
       "block.sotm.sulphur_quartz_stairs": "Sulphur Quartz Stairs",
       "block.sotmremake.polishedcarborite": "Polished Carborite",
       "block.sotmremake.green_marble_polished": "Polished Green Marble",
@@ -21060,9 +22080,11 @@
       "item.sotm.crystone_gold_ingot": "Crystone Gold Ingot",
       "item.sotmremake.pyridium_pickaxe": "Pyridium Pickaxe",
       "item.sotm.chicken_and_mushroom_pie": "Chicken and Mushroom Pie",
+      "block.sotm.red_smooth_crolphin": "Red Smooth Crolphin",
       "block.sotmremake.furitechiseled": "Chiseled Furite",
       "block.sotmremake.underworldredstoneore": "Underworld Redstone Ore",
       "block.sotmremake.sulphured_plant": "Sulphured Plant",
+      "block.sotm.white_smooth_crolphin": "White Smooth Crolphin",
       "block.sotm.gebera_daisy": "Gebera Daisy",
       "block.sotm.billon_block": "Block of Billon",
       "block.sotm.assidium_wood_log": "Assidium Wood Log",
@@ -21087,6 +22109,7 @@
       "item.sotm.bat_wings": "Bat Wings",
       "block.sotmremake.smooth_pink_marble": "Smooth Pink Marble",
       "block.sotm.blue_marble_pillar": "Blue Marble Pillar",
+      "block.sotm.monochrome_wood_fence": "Monochrome Wood Fence",
       "block.sotmremake.polishedblackgrabite": "Polished Black Grabite",
       "block.sotmremake.black_mushroom_trapdoor": "Black Undershroom Trapdoor",
       "block.sotmremake.blackstonesmoothslab": "Polished Blackstone Slab",
@@ -21121,12 +22144,14 @@
       "item.sotm.mummy_spawn_egg": "Mummy Spawn Egg",
       "block.sotm.frosted_quartz_stairs": "Frosted Quartz Stairs",
       "item.sotm.nether_settler_spawn_egg": "Nether Settler Spawn Egg",
+      "block.sotm.brown_crolphin": "Brown Stained Crolphin",
       "block.sotm.firerack": "Firerack",
       "item.sotm.amethyst_pickaxe": "Amethyst Pickaxe",
       "advancements.nether_steel_from_the_nether.title": "Nether Steel From The Nether",
       "item.sotm.driorian_berries": "Driorian Berries",
       "block.sotmremake.polishedcarboriteslab": "Polished Carborite Slab",
       "item.sotmremake.pyridium_armor_boots": "Pyridium Boots",
+      "block.sotm.monochrome_wood_leaves": "Monochrome Leaves",
       "item.sotm.copperarmor_boots": "Copper Boots",
       "block.sotm.leather_works_table": "Leather Works Table",
       "block.sotmremake.yellow_mushroom_fence": "Yellow Undershroom Fence",
@@ -21211,6 +22236,7 @@
       "block.sotm.carbonsandstonestairs": "Carbon Sandstone Stairs",
       "item.sotm.sticky_paste": "Sticky Paste",
       "item.sotm.silverpickaxe": "Silver Pickaxe",
+      "fluid.mercury": "Mercury",
       "block.sotmremake.amber_quartz_stairs": "Amber Quartz Stairs",
       "item.sotm.crystone_gold_shovel": "Crystone Gold Shovel",
       "block.sotmremake.underworldgrassflowered": "Underworld Grass Flowered",
@@ -21247,9 +22273,11 @@
       "item.sotm.raw_duck": "Raw Duck",
       "item.sotmremake.goldensickle": "Golden Sickle",
       "block.sotm.chorus_stone": "Dacite",
+      "block.sotm.magenta_crolphin_bricks": "Magenta Crolphin Bricks",
       "item.sotmremake.diamondsickle": "Diamond Sickle",
       "block.sotmremake.certuspillar": "Artinium Pillar",
       "block.sotmremake.certusslab": "Artinium Slab",
+      "block.sotm.plerra_berry_bush": "Plerra Berry Bush",
       "block.sotmremake.black_mushroom_slab": "Black Undershroom Slab",
       "item.sotm.cooked_bacon": "Cooked Bacon",
       "block.sotm.polishedblackgraniteslab": "Polished Black Granite Slab",
@@ -21264,6 +22292,7 @@
       "item.sotm.nether_steel_ingot": "Crystone Iron Ingot",
       "block.sotmremake.brown_mushroom_trapdoor": "Brown Mushroom Trapdoor",
       "block.sotm.black_mushroom_shell": "Black Mushroom Shell",
+      "block.sotm.pink_smooth_crolphin": "Pink Smooth Crolphin",
       "item.sotmremake.slingshot": "Slingshot",
       "block.sotmremake.smooth_green_marble": "Smooth Green Marble",
       "item.sotmremake.frosted_crystaline": "Ender Frosted Crystaline",
@@ -21303,6 +22332,7 @@
       "block.sotm.netherwart_natural": "Netherwart Natural",
       "block.sotm.green_marble_slab": "Green Marble Brick Slab",
       "item.sotm.luminous_moss": "Luminous Moss",
+      "block.sotm.lime_crolphin": "Lime Stained Crolphin",
       "item.sotm.dregberries": "Dreg Berries",
       "itemGroup.tabsotm_mobs": "SOTM Mobs",
       "block.sotm.smooth_blue_marble": "Smooth Blue Marble",
@@ -21378,12 +22408,15 @@
       "block.sotm.ender_stems": "Ender Stems",
       "block.sotm.silver_panel_block": "Silver Panel Block",
       "block.sotm.seraphyst_block": "Block of Seraphyst",
+      "block.sotm.black_crolphin": "Black Stained Crolphin",
       "block.sotmremake.blubluh_stone": "Blubluh Stone",
       "block.sotm.plastic_block": "Plastic Block",
+      "block.sotm.lone_stone": "Lonestone",
       "block.sotm.bamboo_planks_slab": "Bamboo Planks Slab",
       "block.sotmremake.shulkeriteslab": "White Shulkerite Slab",
       "block.sotmremake.red_mushroom_stairs": "Red Mushroom Stairs",
       "block.sotm.frosted_quartz_block": "Block of Frosted Quartz",
+      "block.sotm.gray_smooth_crolphin": "Gray Smooth Crolphin",
       "item.sotm.crackled_warped_netherwart": "Crackled Warped Netherwart",
       "block.sotm.gypsum": "Gypsum",
       "block.sotm.burnt_netherrack": "Burnt Netherrack",
@@ -21401,6 +22434,7 @@
       "block.sotmremake.polishedwhitegraniteslab": "Polished White Granite Slab",
       "advancements.when_obsidian_glows.title": "When Obsidian Glows",
       "block.sotm.vibrant_green_marble_smooth": "Smooth Vibrant Green Marble",
+      "block.sotm.lime_crolphin_bricks": "Lime Crolphin Bricks",
       "item.sotmremake.studded_lather_chain_armor_chestplate": "Leather-Chain Chestplate",
       "item.sotmremake.actiniumarmor_chestplate": "Actinium Chestplate",
       "item.sotm.ambergem": "Nether Amber",
@@ -21438,6 +22472,7 @@
       "block.sotm.bamboo_planks_stairs": "Bamboo Planks Stairs",
       "block.sotm.mossy_skarn_brick": "Mossy Skarn Brick",
       "block.sotm.lime_cotton_wool": "Lime Cotton Wool",
+      "block.sotm.blue_crolphin": "Blue Stained Crolphin",
       "item.sotm.actiniumshovel": "Actinium Shovel",
       "block.sotmremake.frosted_crystaline_ore": "Ender Frosted Crystaline Ore",
       "item.sotm.plastic": "Plastic",
@@ -21469,6 +22504,7 @@
       "item.sotmremake.nether_steel_sickle": "Nether Steel Sickle",
       "item.sotmremake.raw_flesh": "Raw Flesh",
       "block.sotmremake.firebricks": "Fire Bricks",
+      "block.sotm.orange_smooth_crolphin": "Orange Smooth Crolphin",
       "block.sotm.dolomite": "Dolomite",
       "block.sotm.pink_chalk": "Pink Chalk",
       "block.sotmremake.dark_quartzstone_smooth": "Polished Dark Quartzstone",
@@ -21480,6 +22516,7 @@
       "item.sotm.sapphire_pickaxe": "Sapphire Pickaxe",
       "item.sotm.cooked_bat_wings": "Cooked Bat Wings",
       "item.sotm.dragonstone_hoe": "Dragonstone Hoe",
+      "biome.sotm.lonefield": "Lone Fields",
       "item.sotmremake.rubygem": "Ruby",
       "block.sotmremake.amethyst_ore_block": "Amethyst Block",
       "block.sotm.trodden_flower_2": "Trodden Flower",
@@ -21494,7 +22531,9 @@
       "block.sotm.artron_ore": "Artron Ore",
       "block.sotm.light_blue_cotton_wool": "Light Blue Cotton Wool",
       "block.sotmremake.chiseled_warped_quartz": "Chiseled Warped Quartz",
+      "block.sotm.red_crolphin": "Red Stained Crolphin",
       "block.sotmremake.sulphur_quartz_stairs": "Sulphur Quartz Stairs",
+      "block.sotm.green_smooth_crolphin": "Green Smooth Crolphin",
       "item.sotm.melon_pie": "Melon Pie",
       "item.sotmremake.mushroomblackitem": "Mushroomblackitem",
       "block.sotm.cinistineoreunderworld": "Underworld Cinistine Ore",
@@ -21549,5 +22588,5 @@
     "modElementsPackage": "net.mcreator.sotmr",
     "lockBaseModFiles": false
   },
-  "mcreatorVersion": 202000652319
+  "mcreatorVersion": 202100103117
 }

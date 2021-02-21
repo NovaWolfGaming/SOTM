@@ -2,12 +2,12 @@
   "_fv": 15,
   "_type": "block",
   "definition": {
-    "texture": "monochromewood_log_top",
-    "textureTop": "monochromewood_log_top",
-    "textureLeft": "monochromewood_log_side",
-    "textureFront": "monochromewood_log_side",
-    "textureRight": "monochromewood_log_side",
-    "textureBack": "monochromewood_log_side",
+    "texture": "monochrome_log_top",
+    "textureTop": "monochrome_log_top",
+    "textureLeft": "monochrome_log_side",
+    "textureFront": "monochrome_log_side",
+    "textureRight": "monochrome_log_side",
+    "textureBack": "monochrome_log_side",
     "renderType": 10,
     "customModelName": "Normal",
     "rotationMode": 0,
@@ -26,14 +26,14 @@
     "Mx": 1.0,
     "My": 1.0,
     "Mz": 1.0,
-    "name": "MonochromeWood Log",
+    "name": "Monochrome Wood Log",
     "specialInfo": [],
     "hardness": 2.0,
     "resistance": 2.0,
     "hasGravity": false,
     "isWaterloggable": false,
     "creativeTab": {
-      "value": "CUSTOM:ToolsAndWeapons"
+      "value": "CUSTOM:SOTMBlocks"
     },
     "destroyTool": "axe",
     "customDrop": {

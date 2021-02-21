@@ -1,0 +1,26 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "sotm:cyan_crolphin"
+    },
+    "1": {
+      "item": "sotm:cyan_crolphin"
+    },
+    "2": {
+      "item": "sotm:cyan_crolphin"
+    },
+    "3": {
+      "item": "sotm:cyan_crolphin"
+    }
+  },
+  "result": {
+    "item": "sotm:cyan_smooth_crolphin",
+    "count": 4
+  }
+}

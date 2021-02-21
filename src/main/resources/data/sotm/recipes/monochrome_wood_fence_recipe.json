@@ -7,26 +7,26 @@
   ],
   "key": {
     "0": {
-      "item": "sotm:deleted_mod_element"
+      "item": "sotm:monochrome_wood_planks"
     },
     "1": {
       "item": "minecraft:stick"
     },
     "2": {
-      "item": "sotm:deleted_mod_element"
+      "item": "sotm:monochrome_wood_planks"
     },
     "3": {
-      "item": "sotm:deleted_mod_element"
+      "item": "sotm:monochrome_wood_planks"
     },
     "4": {
       "item": "minecraft:stick"
     },
     "5": {
-      "item": "sotm:deleted_mod_element"
+      "item": "sotm:monochrome_wood_planks"
     }
   },
   "result": {
-    "item": "sotm:deleted_mod_element",
+    "item": "sotm:monochrome_wood_fence",
     "count": 3
   }
 }

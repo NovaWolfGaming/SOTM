@@ -1,0 +1,46 @@
+{
+  "_fv": 15,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 4,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:LightGraySmoothCrolphin"
+      },
+      {
+        "value": "CUSTOM:LightGraySmoothCrolphin"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:LightGraySmoothCrolphin"
+      },
+      {
+        "value": "CUSTOM:LightGraySmoothCrolphin"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:LightGrayCrolphinBricks"
+    },
+    "name": "light_gray_crolphin_bricks_recipe",
+    "namespace": "mod"
+  }
+}

@@ -17,6 +17,7 @@ import net.minecraftforge.api.distmarker.OnlyIn;
 import net.minecraftforge.api.distmarker.Dist;
 
 import net.minecraft.world.World;
+import net.minecraft.util.text.StringTextComponent;
 import net.minecraft.util.text.ITextComponent;
 import net.minecraft.util.math.BlockPos;
 import net.minecraft.util.ResourceLocation;
@@ -30,11 +31,12 @@ import net.minecraft.entity.player.ServerPlayerEntity;
 import net.minecraft.entity.player.PlayerInventory;
 import net.minecraft.entity.player.PlayerEntity;
 import net.minecraft.entity.Entity;
+import net.minecraft.client.gui.widget.button.Button;
 import net.minecraft.client.gui.screen.inventory.ContainerScreen;
 import net.minecraft.client.gui.ScreenManager;
 import net.minecraft.client.Minecraft;
 
-import net.mcreator.sotmr.item.SeraphystItem;
+import net.mcreator.sotmr.procedures.LeatherWorksTableProcedureProcedure;
 import net.mcreator.sotmr.SotmModElements;
 import net.mcreator.sotmr.SotmMod;
 
@@ -122,13 +124,9 @@ public class LeatherWorkTableGUIGui extends SotmModElements.ModElement {
 					}
 				}
 			}
-			this.customSlots.put(0, this.addSlot(new SlotItemHandler(internal, 0, 28, 63) {
-				@Override
-				public boolean isItemValid(ItemStack stack) {
-					return (new ItemStack(SeraphystItem.block, (int) (1)).getItem() == stack.getItem());
-				}
+			this.customSlots.put(0, this.addSlot(new SlotItemHandler(internal, 0, 28, 27) {
 			}));
-			this.customSlots.put(1, this.addSlot(new SlotItemHandler(internal, 1, 28, 27) {
+			this.customSlots.put(1, this.addSlot(new SlotItemHandler(internal, 1, 28, 63) {
 			}));
 			this.customSlots.put(2, this.addSlot(new SlotItemHandler(internal, 2, 136, 45) {
 				@Override
@@ -359,7 +357,7 @@ public class LeatherWorkTableGUIGui extends SotmModElements.ModElement {
 
 		@Override
 		protected void drawGuiContainerForegroundLayer(MatrixStack ms, int mouseX, int mouseY) {
-			this.font.drawString(ms, "Leather Works Table", 8, 6, -13421773);
+			this.font.drawString(ms, "Leather Works Table", 9, 8, -13421773);
 		}
 
 		@Override
@@ -372,6 +370,10 @@ public class LeatherWorkTableGUIGui extends SotmModElements.ModElement {
 		public void init(Minecraft minecraft, int width, int height) {
 			super.init(minecraft, width, height);
 			minecraft.keyboardListener.enableRepeatEvents(true);
+			this.addButton(new Button(this.guiLeft + 119, this.guiTop + 18, 50, 20, new StringTextComponent("Craft"), e -> {
+				SotmMod.PACKET_HANDLER.sendToServer(new ButtonPressedMessage(0, x, y, z));
+				handleButtonAction(entity, 0, x, y, z);
+			}));
 		}
 	}
 
@@ -461,6 +463,13 @@ public class LeatherWorkTableGUIGui extends SotmModElements.ModElement {
 		// security measure to prevent arbitrary chunk generation
 		if (!world.isBlockLoaded(new BlockPos(x, y, z)))
 			return;
+		if (buttonID == 0) {
+			{
+				Map<String, Object> $_dependencies = new HashMap<>();
+				$_dependencies.put("entity", entity);
+				LeatherWorksTableProcedureProcedure.executeProcedure($_dependencies);
+			}
+		}
 	}
 
 	private static void handleSlotAction(PlayerEntity entity, int slotID, int changeType, int meta, int x, int y, int z) {

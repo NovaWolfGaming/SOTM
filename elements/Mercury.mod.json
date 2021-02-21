@@ -12,7 +12,7 @@
     "type": "WATER",
     "generateBucket": true,
     "creativeTab": {
-      "value": "CUSTOM:ToolsAndWeapons"
+      "value": "CUSTOM:SOTMDecorations"
     },
     "frequencyOnChunks": 5,
     "spawnWorldTypes": [],
