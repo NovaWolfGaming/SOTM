@@ -31,7 +31,7 @@
       "value": "WHITE_ASH"
     },
     "particlesProbability": 0.01,
-    "biomeCategory": "DESERT",
+    "biomeCategory": "PLAINS",
     "parent": {
       "value": "No parent"
     },
@@ -52,11 +52,11 @@
     "gravelPatchesPerChunk": 1,
     "reedsPerChunk": 0,
     "cactiPerChunk": 0,
-    "treesPerChunk": 1,
+    "treesPerChunk": 3,
     "vanillaTreeType": "Default",
     "treeType": 1,
     "minHeight": 7,
-    "maxWaterDepth": 0,
+    "maxWaterDepth": 1,
     "treeStem": {
       "value": "CUSTOM:MonochromeWoodLog"
     },
@@ -64,10 +64,10 @@
       "value": "CUSTOM:MonochromeWoodLeaves"
     },
     "treeVines": {
-      "value": ""
+      "value": "CUSTOM:MonochromeWoodLeaves"
     },
     "treeFruits": {
-      "value": ""
+      "value": "CUSTOM:MonochromeWoodLeaves"
     },
     "spawnStronghold": false,
     "spawnMineshaft": false,
@@ -81,7 +81,9 @@
     "spawnShipwreck": false,
     "oceanRuinType": "NONE",
     "defaultFeatures": [
-      "Caves"
+      "Caves",
+      "DeadBushes",
+      "SwampClayDisks"
     ],
     "spawnEntries": []
   }
