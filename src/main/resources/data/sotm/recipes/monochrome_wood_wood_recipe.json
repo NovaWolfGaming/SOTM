@@ -7,20 +7,20 @@
   ],
   "key": {
     "0": {
-      "item": "sotm:monochrome_wood_log"
+      "item": "sotm:deleted_mod_element"
     },
     "1": {
-      "item": "sotm:monochrome_wood_log"
+      "item": "sotm:deleted_mod_element"
     },
     "2": {
-      "item": "sotm:monochrome_wood_log"
+      "item": "sotm:deleted_mod_element"
     },
     "3": {
-      "item": "sotm:monochrome_wood_log"
+      "item": "sotm:deleted_mod_element"
     }
   },
   "result": {
-    "item": "sotm:monochrome_wood_wood",
+    "item": "sotm:deleted_mod_element",
     "count": 3
   }
 }

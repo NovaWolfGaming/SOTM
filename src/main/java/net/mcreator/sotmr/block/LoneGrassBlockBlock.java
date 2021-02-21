@@ -1,42 +1,17 @@
 
 package net.mcreator.sotmr.block;
 
-import net.minecraftforge.registries.ObjectHolder;
-import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;
-import net.minecraftforge.eventbus.api.SubscribeEvent;
-import net.minecraftforge.common.ToolType;
-import net.minecraftforge.common.IPlantable;
-import net.minecraftforge.client.event.ColorHandlerEvent;
-import net.minecraftforge.api.distmarker.OnlyIn;
-import net.minecraftforge.api.distmarker.Dist;
-
-import net.minecraft.world.biome.BiomeColors;
-import net.minecraft.world.IBlockReader;
-import net.minecraft.world.GrassColors;
-import net.minecraft.util.math.BlockPos;
-import net.minecraft.util.Direction;
-import net.minecraft.loot.LootContext;
-import net.minecraft.item.ItemStack;
-import net.minecraft.item.Item;
-import net.minecraft.item.BlockItem;
-import net.minecraft.block.material.MaterialColor;
 import net.minecraft.block.material.Material;
-import net.minecraft.block.SoundType;
-import net.minecraft.block.BlockState;
-import net.minecraft.block.Block;
-
-import net.mcreator.sotmr.itemgroup.SOTMBlocksItemGroup;
-import net.mcreator.sotmr.SotmModElements;
-
-import java.util.List;
-import java.util.Collections;
 
 @SotmModElements.ModElement.Tag
 public class LoneGrassBlockBlock extends SotmModElements.ModElement {
+
 	@ObjectHolder("sotm:lone_grass_block")
 	public static final Block block = null;
+
 	public LoneGrassBlockBlock(SotmModElements instance) {
 		super(instance, 2197);
+
 		FMLJavaModLoadingContext.get().getModEventBus().register(new BlockColorRegisterHandler());
 	}
 
@@ -45,6 +20,7 @@ public class LoneGrassBlockBlock extends SotmModElements.ModElement {
 		elements.blocks.add(() -> new CustomBlock());
 		elements.items.add(() -> new BlockItem(block, new Item.Properties().group(SOTMBlocksItemGroup.tab)).setRegistryName(block.getRegistryName()));
 	}
+
 	private static class BlockColorRegisterHandler {
 		@OnlyIn(Dist.CLIENT)
 		@SubscribeEvent
@@ -56,9 +32,13 @@ public class LoneGrassBlockBlock extends SotmModElements.ModElement {
 	}
 
 	public static class CustomBlock extends Block {
+
 		public CustomBlock() {
-			super(Block.Properties.create(Material.ORGANIC).sound(SoundType.PLANT).hardnessAndResistance(1f, 10f).setLightLevel(s -> 0)
-					.harvestLevel(0).harvestTool(ToolType.SHOVEL));
+			super(
+
+					Block.Properties.create(Material.ORGANIC).sound(SoundType.PLANT).hardnessAndResistance(1f, 10f).setLightLevel(s -> 0)
+							.harvestLevel(0).harvestTool(ToolType.SHOVEL));
+
 			setRegistryName("lone_grass_block");
 		}
 
@@ -79,10 +59,13 @@ public class LoneGrassBlockBlock extends SotmModElements.ModElement {
 
 		@Override
 		public List<ItemStack> getDrops(BlockState state, LootContext.Builder builder) {
+
 			List<ItemStack> dropsOriginal = super.getDrops(state, builder);
 			if (!dropsOriginal.isEmpty())
 				return dropsOriginal;
-			return Collections.singletonList(new ItemStack(LoneDirtBlock.block, (int) (1)));
+			return Collections.singletonList(new ItemStack(LoneDirtItem.block, (int) (1)));
 		}
+
 	}
+
 }
