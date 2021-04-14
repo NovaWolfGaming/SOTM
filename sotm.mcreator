@@ -20432,6 +20432,44 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "purple_crolphin"
+    },
+    {
+      "name": "RustyIron",
+      "type": "block",
+      "sortid": 2323,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rusty_iron"
+    },
+    {
+      "name": "IronRusting",
+      "type": "procedure",
+      "sortid": 2325,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "iron_rusting",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
     }
   ],
   "variable_elements": [
@@ -22124,6 +22162,7 @@
       "block.sotm.magenta_crolphin_bricks": "Magenta Crolphin Bricks",
       "item.sotmremake.diamondsickle": "Diamond Sickle",
       "block.sotmremake.certuspillar": "Artinium Pillar",
+      "block.sotm.rusty_iron": "Rusty Iron",
       "block.sotmremake.certusslab": "Artinium Slab",
       "block.sotm.plerra_berry_bush": "Plerra Berry Bush",
       "block.sotmremake.black_mushroom_slab": "Black Undershroom Slab",
