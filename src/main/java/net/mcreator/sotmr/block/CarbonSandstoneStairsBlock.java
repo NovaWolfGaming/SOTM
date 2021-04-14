@@ -51,7 +51,7 @@ public class CarbonSandstoneStairsBlock extends SotmModElements.ModElement {
 		public CustomBlock() {
 			super(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1f, 10f)).getDefaultState(),
 					Block.Properties.create(Material.ROCK).sound(SoundType.STONE).hardnessAndResistance(1f, 10f).setLightLevel(s -> 0).harvestLevel(0)
-							.harvestTool(ToolType.PICKAXE).notSolid().setOpaque((bs, br, bp) -> false));
+							.harvestTool(ToolType.PICKAXE).setRequiresTool().notSolid().setOpaque((bs, br, bp) -> false));
 			setRegistryName("carbonsandstonestairs");
 		}
 

@@ -55,7 +55,7 @@ public class CherryLeavesBlock extends SotmModElements.ModElement {
 	public static class CustomBlock extends Block {
 		public CustomBlock() {
 			super(Block.Properties.create(Material.LEAVES).sound(SoundType.PLANT).hardnessAndResistance(0.25f, 2f).setLightLevel(s -> 0)
-					.harvestLevel(0).harvestTool(ToolType.SHOVEL).notSolid().setOpaque((bs, br, bp) -> false));
+					.harvestLevel(0).harvestTool(ToolType.SHOVEL).setRequiresTool().notSolid().setOpaque((bs, br, bp) -> false));
 			setRegistryName("cherry_leaves");
 		}
 
