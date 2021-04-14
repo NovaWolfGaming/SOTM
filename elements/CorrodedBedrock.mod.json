@@ -102,7 +102,8 @@
     "fluidCapacity": 8000,
     "fluidRestrictions": [],
     "spawnWorldTypes": [
-      "Surface"
+      "Surface",
+      "CUSTOM:Lonelands"
     ],
     "restrictionBiomes": [],
     "blocksToReplace": [
@@ -111,6 +112,9 @@
       },
       {
         "value": "Blocks.BEDROCK"
+      },
+      {
+        "value": "CUSTOM:LoneStone"
       }
     ],
     "frequencyPerChunks": 20,

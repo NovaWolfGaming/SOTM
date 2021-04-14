@@ -1,7 +1,0 @@
-{
-  "parent": "block/fence_inventory",
-  "textures": {
-    "texture": "sotm:blocks/monochrome_wood_planks",
-    "particle": "sotm:blocks/monochrome_wood_planks"
-  }
-}

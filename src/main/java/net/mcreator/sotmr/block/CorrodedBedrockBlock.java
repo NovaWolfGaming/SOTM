@@ -83,6 +83,8 @@ public class CorrodedBedrockBlock extends SotmModElements.ModElement {
 				blockCriteria = true;
 			if (blockAt.getBlock() == Blocks.BEDROCK.getDefaultState().getBlock())
 				blockCriteria = true;
+			if (blockAt.getBlock() == LoneStoneBlock.block.getDefaultState().getBlock())
+				blockCriteria = true;
 			return blockCriteria;
 		}
 
@@ -101,6 +103,8 @@ public class CorrodedBedrockBlock extends SotmModElements.ModElement {
 					RegistryKey<World> dimensionType = world.getWorld().getDimensionKey();
 					boolean dimensionCriteria = false;
 					if (dimensionType == World.OVERWORLD)
+						dimensionCriteria = true;
+					if (dimensionType == RegistryKey.getOrCreateKey(Registry.WORLD_KEY, new ResourceLocation("sotm:lonelands")))
 						dimensionCriteria = true;
 					if (!dimensionCriteria)
 						return false;

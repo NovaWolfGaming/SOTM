@@ -19371,24 +19371,6 @@
       }
     },
     {
-      "name": "MonochromeWoodPlanksRecipe",
-      "type": "recipe",
-      "sortid": 2208,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "monochrome_wood_planks_recipe"
-    },
-    {
-      "name": "MonochromeWoodFenceRecipe",
-      "type": "recipe",
-      "sortid": 2211,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "monochrome_wood_fence_recipe"
-    },
-    {
       "name": "MercuryMobplayerCollidesBlock",
       "type": "procedure",
       "sortid": 2194,
@@ -19404,60 +19386,6 @@
           }
         ]
       }
-    },
-    {
-      "name": "MonochromeWoodWoodRecipe",
-      "type": "recipe",
-      "sortid": 2207,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "monochrome_wood_wood_recipe"
-    },
-    {
-      "name": "MonochromeWoodPlanks",
-      "type": "block",
-      "sortid": 2200,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "monochrome_wood_planks"
-    },
-    {
-      "name": "MonochromeWoodLeaves",
-      "type": "block",
-      "sortid": 2201,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "monochrome_wood_leaves"
-    },
-    {
-      "name": "MonochromeWoodLog",
-      "type": "block",
-      "sortid": 2199,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "monochrome_wood_log"
-    },
-    {
-      "name": "MonochromeWoodSlabRecipe",
-      "type": "recipe",
-      "sortid": 2210,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "monochrome_wood_slab_recipe"
-    },
-    {
-      "name": "MonochromeWoodWood",
-      "type": "block",
-      "sortid": 2198,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "monochrome_wood_wood"
     },
     {
       "name": "Lonefield",
@@ -19478,24 +19406,6 @@
       "registry_name": "lone_stone"
     },
     {
-      "name": "MonochromeWoodSlab",
-      "type": "block",
-      "sortid": 2203,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "monochrome_wood_slab"
-    },
-    {
-      "name": "MonochromeWoodItemsTag",
-      "type": "tag",
-      "sortid": 2206,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "monochrome_wood_items_tag"
-    },
-    {
       "name": "LoneGrassBlock",
       "type": "block",
       "sortid": 2197,
@@ -19505,15 +19415,6 @@
       "registry_name": "lone_grass_block"
     },
     {
-      "name": "MonochromeWoodFenceGateRecipe",
-      "type": "recipe",
-      "sortid": 2212,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "monochrome_wood_fence_gate_recipe"
-    },
-    {
       "name": "LoneDirt",
       "type": "block",
       "sortid": 2196,
@@ -19521,24 +19422,6 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "lone_dirt"
-    },
-    {
-      "name": "MonochromeWoodStairs",
-      "type": "block",
-      "sortid": 2202,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "monochrome_wood_stairs"
-    },
-    {
-      "name": "MonochromeWoodStairsRecipe",
-      "type": "recipe",
-      "sortid": 2209,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "monochrome_wood_stairs_recipe"
     },
     {
       "name": "Lonelands",
@@ -19551,33 +19434,6 @@
       "metadata": {
         "ep": true
       }
-    },
-    {
-      "name": "MonochromeWoodFenceGate",
-      "type": "block",
-      "sortid": 2205,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "monochrome_wood_fence_gate"
-    },
-    {
-      "name": "MonochromeWoodFence",
-      "type": "block",
-      "sortid": 2204,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "monochrome_wood_fence"
-    },
-    {
-      "name": "MonochromeWoodStickRecipe",
-      "type": "recipe",
-      "sortid": 2213,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "monochrome_wood_stick_recipe"
     },
     {
       "name": "Mercury",
@@ -21077,10 +20933,8 @@
       "block.sotmremake.cherry_wood_planks": "Cherry Wood Planks",
       "block.sotm.smooth_orange_marble_2": "Smooth Orange Marble",
       "block.sotm.green_mistyst": "Green Mistyst",
-      "block.sotm.monochrome_wood_fence_gate": "Monochrome Wood Fence Gate",
       "block.sotm.twisted_maple_leaves": "Twisted Maple Leaves",
       "block.sotm.black_crolphin_bricks": "Black Crolphin Bricks",
-      "block.sotm.monochrome_wood_wood": "Monochrome Wood ",
       "block.sotm.carbonsandstoneslab": "Carbon Sandstone Slab",
       "item.sotmremake.nether_steel_armorhelmet": "Nether_Steel Helmet",
       "block.sotmremake.endergrass": "Phantom Cryllium",
@@ -21256,7 +21110,6 @@
       "item.sotm.electrum_armor_leggings": "Electrum Leggings",
       "item.sotmremake.ender_moss_food": "Ender Moss",
       "biome.sotm.dragon_fir_forest": "Dragon Fir Forest",
-      "block.sotm.monochrome_wood_slab": "Monochrome Wood Slab",
       "item.sotm.terracus": "Terracus",
       "block.sotm.peony": "Peony",
       "item.sotmremake.pyridium_armor_helmet": "Pyridium Helmet",
@@ -21715,7 +21568,6 @@
       "item.sotm.fibre": "Fibre",
       "biome.sotm.walnut_wood_forest": "Walnut Wood Forest",
       "block.sotm.cinistineore": "Ender Cinistine Ore",
-      "block.sotm.monochrome_wood_planks": "Monochrome Wood Planks",
       "block.sotm.brown_crolphin_bricks": "Brown Crolphin Bricks",
       "item.sotm.billon_armor_chestplate": "Billon Chestplate",
       "block.sotm.white_crolphin_bricks": "White Crolphin Bricks",
@@ -21723,7 +21575,6 @@
       "block.sotm.taraxacum_dandelion_blown": "Taraxacum Dandelion",
       "item.sotmremake.warped_quartz": "Nether Warped Quartz",
       "block.sotmremake.sulphur_quartz_ore": "Nether Sulphur Quartz Ore",
-      "block.sotm.monochrome_wood_log": "Monochrome Wood Log",
       "block.sotm.nethergrassmud": "Elder Nylium",
       "block.sotmremake.polishedblackgraniteslab": "Polished Black Granite Slab",
       "block.sotmremake.sulphur_quartz_slab": "Sulphur Quartz Slab",
@@ -21910,7 +21761,6 @@
       "block.sotmremake.blue_shulkerite_stairs": "White Shulkerite Stairs",
       "item.sotmremake.rabidiumshovel": "Rabidium Shovel",
       "block.sotm.pyridium_ore": "Pyridium Ore",
-      "block.sotm.monochrome_wood_stairs": "Monochrome Wood Stairs",
       "item.sotmremake.amethyst_axe": "Amethyst Axe",
       "block.sotm.ash_pile": "Ash",
       "item.sotm.dark_steel_pickaxe": "Dark Steel Pickaxe",
@@ -22109,7 +21959,6 @@
       "item.sotm.bat_wings": "Bat Wings",
       "block.sotmremake.smooth_pink_marble": "Smooth Pink Marble",
       "block.sotm.blue_marble_pillar": "Blue Marble Pillar",
-      "block.sotm.monochrome_wood_fence": "Monochrome Wood Fence",
       "block.sotmremake.polishedblackgrabite": "Polished Black Grabite",
       "block.sotmremake.black_mushroom_trapdoor": "Black Undershroom Trapdoor",
       "block.sotmremake.blackstonesmoothslab": "Polished Blackstone Slab",
@@ -22151,7 +22000,6 @@
       "item.sotm.driorian_berries": "Driorian Berries",
       "block.sotmremake.polishedcarboriteslab": "Polished Carborite Slab",
       "item.sotmremake.pyridium_armor_boots": "Pyridium Boots",
-      "block.sotm.monochrome_wood_leaves": "Monochrome Leaves",
       "item.sotm.copperarmor_boots": "Copper Boots",
       "block.sotm.leather_works_table": "Leather Works Table",
       "block.sotmremake.yellow_mushroom_fence": "Yellow Undershroom Fence",
