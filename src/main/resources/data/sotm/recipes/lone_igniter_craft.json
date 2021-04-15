@@ -1,0 +1,22 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:flint_and_steel"
+    },
+    {
+      "item": "minecraft:redstone"
+    },
+    {
+      "item": "minecraft:respawn_anchor"
+    },
+    {
+      "item": "sotm:sulphur"
+    }
+  ],
+  "result": {
+    "item": "sotm:lonelands",
+    "count": 1
+  }
+}

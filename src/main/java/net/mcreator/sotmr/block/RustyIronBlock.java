@@ -14,6 +14,7 @@ import net.minecraft.block.BlockState;
 import net.minecraft.block.Block;
 
 import net.mcreator.sotmr.itemgroup.SOTMBlocksItemGroup;
+import net.mcreator.sotmr.item.RustDustItem;
 import net.mcreator.sotmr.SotmModElements;
 
 import java.util.List;
@@ -34,8 +35,8 @@ public class RustyIronBlock extends SotmModElements.ModElement {
 	}
 	public static class CustomBlock extends Block {
 		public CustomBlock() {
-			super(Block.Properties.create(Material.IRON).sound(SoundType.METAL).hardnessAndResistance(1.5f, 10f).setLightLevel(s -> 0)
-					.harvestLevel(12).harvestTool(ToolType.PICKAXE).setRequiresTool());
+			super(Block.Properties.create(Material.IRON).sound(SoundType.METAL).hardnessAndResistance(4f, 25f).setLightLevel(s -> 0).harvestLevel(1)
+					.harvestTool(ToolType.PICKAXE).setRequiresTool());
 			setRegistryName("rusty_iron");
 		}
 
@@ -44,7 +45,7 @@ public class RustyIronBlock extends SotmModElements.ModElement {
 			List<ItemStack> dropsOriginal = super.getDrops(state, builder);
 			if (!dropsOriginal.isEmpty())
 				return dropsOriginal;
-			return Collections.singletonList(new ItemStack(this, 1));
+			return Collections.singletonList(new ItemStack(RustDustItem.block, (int) (8)));
 		}
 	}
 }

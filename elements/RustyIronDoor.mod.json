@@ -2,8 +2,8 @@
   "_fv": 17,
   "_type": "block",
   "definition": {
-    "texture": "rusty_iron",
-    "textureTop": "",
+    "texture": "rusty_iron_door_bottom",
+    "textureTop": "rusty_iron_door_top",
     "textureLeft": "",
     "textureFront": "",
     "textureRight": "",
@@ -15,9 +15,10 @@
     "displayFluidOverlay": false,
     "itemTexture": "",
     "particleTexture": "",
+    "blockBase": "Door",
     "tintType": "No tint",
     "isItemTinted": false,
-    "hasTransparency": false,
+    "hasTransparency": true,
     "connectedSides": false,
     "transparencyType": "SOLID",
     "disableOffset": false,
@@ -32,25 +33,25 @@
         "subtract": false
       }
     ],
-    "name": "Rusty Iron",
+    "name": "Rusty Iron Door",
     "specialInfo": [],
     "hardness": 4.0,
-    "resistance": 25.0,
+    "resistance": 4.0,
     "hasGravity": false,
     "isWaterloggable": false,
     "creativeTab": {
-      "value": "CUSTOM:SOTMBlocks"
+      "value": "CUSTOM:SOTMDecorations"
     },
-    "destroyTool": "pickaxe",
+    "destroyTool": "Not specified",
     "customDrop": {
-      "value": "CUSTOM:RustDust"
+      "value": ""
     },
-    "dropAmount": 8,
+    "dropAmount": 1,
     "useLootTableForDrops": false,
     "enchantPowerBonus": 0.0,
     "plantsGrowOn": false,
     "canProvidePower": false,
-    "lightOpacity": 255,
+    "lightOpacity": 0,
     "material": {
       "value": "IRON"
     },
@@ -79,7 +80,7 @@
     "breakHarvestLevel": 1,
     "spawnParticles": false,
     "particleToSpawn": {
-      "value": "EXPLOSION_NORMAL"
+      "value": "CUSTOM:RedGlowingOr"
     },
     "particleSpawningShape": "Spread",
     "particleSpawningRadious": 0.5,
