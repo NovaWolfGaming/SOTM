@@ -1,5 +1,5 @@
 {
-  "_fv": 15,
+  "_fv": 17,
   "_type": "dimension",
   "definition": {
     "biomesInDimension": [
@@ -35,7 +35,7 @@
     "igniterTab": {
       "value": "TOOLS"
     },
-    "texture": "lone_igniter_placeholder",
+    "texture": "lone_igniter",
     "portalTexture": "lonegrasstop",
     "enablePortal": true
   }

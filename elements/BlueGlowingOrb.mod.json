@@ -1,5 +1,5 @@
 {
-  "_fv": 15,
+  "_fv": 17,
   "_type": "particle",
   "definition": {
     "texture": "blue_orb.png",
@@ -12,6 +12,8 @@
     "gravity": 0.30000000000000004,
     "maxAge": 4,
     "maxAgeDiff": 0,
+    "angularVelocity": 0.0,
+    "angularAcceleration": 0.0,
     "canCollide": true,
     "alwaysShow": true,
     "renderType": "TRANSLUCENT"

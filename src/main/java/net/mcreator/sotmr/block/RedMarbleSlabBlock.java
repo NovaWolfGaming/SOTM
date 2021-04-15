@@ -38,7 +38,7 @@ public class RedMarbleSlabBlock extends SotmModElements.ModElement {
 	public static class CustomBlock extends SlabBlock {
 		public CustomBlock() {
 			super(Block.Properties.create(Material.ROCK).sound(SoundType.STONE).hardnessAndResistance(1f, 10f).setLightLevel(s -> 0).harvestLevel(0)
-					.harvestTool(ToolType.PICKAXE));
+					.harvestTool(ToolType.PICKAXE).setRequiresTool());
 			setRegistryName("red_marble_slab");
 		}
 

@@ -1,8 +1,0 @@
-{
-  "parent": "block/slab",
-  "textures": {
-    "bottom": "sotm:blocks/monochrome_wood_planks",
-    "top": "sotm:blocks/monochrome_wood_planks",
-    "side": "sotm:blocks/monochrome_wood_planks"
-  }
-}

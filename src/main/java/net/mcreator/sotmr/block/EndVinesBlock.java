@@ -2,9 +2,11 @@
 package net.mcreator.sotmr.block;
 
 import net.minecraftforge.registries.ObjectHolder;
+import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;
 import net.minecraftforge.fml.event.lifecycle.FMLClientSetupEvent;
 import net.minecraftforge.eventbus.api.SubscribeEvent;
 import net.minecraftforge.event.world.BiomeLoadingEvent;
+import net.minecraftforge.event.RegistryEvent;
 import net.minecraftforge.common.PlantType;
 import net.minecraftforge.common.MinecraftForge;
 import net.minecraftforge.api.distmarker.OnlyIn;
@@ -22,7 +24,10 @@ import net.minecraft.world.gen.ChunkGenerator;
 import net.minecraft.world.World;
 import net.minecraft.world.ISeedReader;
 import net.minecraft.world.IBlockReader;
+import net.minecraft.util.registry.WorldGenRegistries;
+import net.minecraft.util.registry.Registry;
 import net.minecraft.util.math.BlockPos;
+import net.minecraft.util.ResourceLocation;
 import net.minecraft.util.RegistryKey;
 import net.minecraft.util.Direction;
 import net.minecraft.loot.LootContext;
@@ -51,6 +56,7 @@ public class EndVinesBlock extends SotmModElements.ModElement {
 	public EndVinesBlock(SotmModElements instance) {
 		super(instance, 1847);
 		MinecraftForge.EVENT_BUS.register(this);
+		FMLJavaModLoadingContext.get().getModEventBus().register(new FeatureRegisterHandler());
 	}
 
 	@Override
@@ -65,41 +71,49 @@ public class EndVinesBlock extends SotmModElements.ModElement {
 	public void clientLoad(FMLClientSetupEvent event) {
 		RenderTypeLookup.setRenderLayer(block, RenderType.getCutout());
 	}
-
-	@SubscribeEvent
-	public void addFeatureToBiomes(BiomeLoadingEvent event) {
-		Feature<BlockClusterFeatureConfig> feature = new Feature<BlockClusterFeatureConfig>(BlockClusterFeatureConfig.field_236587_a_) {
-			@Override
-			public boolean generate(ISeedReader world, ChunkGenerator generator, Random random, BlockPos pos, BlockClusterFeatureConfig config) {
-				RegistryKey<World> dimensionType = world.getWorld().getDimensionKey();
-				boolean dimensionCriteria = false;
-				if (dimensionType == World.THE_END)
-					dimensionCriteria = true;
-				if (!dimensionCriteria)
-					return false;
-				int generated = 0;
-				for (int j = 0; j < 20; ++j) {
-					BlockPos blockpos = pos.add(random.nextInt(4) - random.nextInt(4), 0, random.nextInt(4) - random.nextInt(4));
-					if (world.isAirBlock(blockpos)) {
-						BlockPos blockpos1 = blockpos.down();
-						int k = 1 + random.nextInt(random.nextInt(6) + 1);
-						k = Math.min(6, k);
-						for (int l = 0; l < k; ++l) {
-							if (block.getDefaultState().isValidPosition(world, blockpos)) {
-								world.setBlockState(blockpos.up(l), block.getDefaultState(), 2);
-								generated++;
+	private static Feature<BlockClusterFeatureConfig> feature = null;
+	private static ConfiguredFeature<?, ?> configuredFeature = null;
+	private static class FeatureRegisterHandler {
+		@SubscribeEvent
+		public void registerFeature(RegistryEvent.Register<Feature<?>> event) {
+			feature = new Feature<BlockClusterFeatureConfig>(BlockClusterFeatureConfig.field_236587_a_) {
+				@Override
+				public boolean generate(ISeedReader world, ChunkGenerator generator, Random random, BlockPos pos, BlockClusterFeatureConfig config) {
+					RegistryKey<World> dimensionType = world.getWorld().getDimensionKey();
+					boolean dimensionCriteria = false;
+					if (dimensionType == World.THE_END)
+						dimensionCriteria = true;
+					if (!dimensionCriteria)
+						return false;
+					int generated = 0;
+					for (int j = 0; j < 20; ++j) {
+						BlockPos blockpos = pos.add(random.nextInt(4) - random.nextInt(4), 0, random.nextInt(4) - random.nextInt(4));
+						if (world.isAirBlock(blockpos)) {
+							BlockPos blockpos1 = blockpos.down();
+							int k = 1 + random.nextInt(random.nextInt(6) + 1);
+							k = Math.min(6, k);
+							for (int l = 0; l < k; ++l) {
+								if (block.getDefaultState().isValidPosition(world, blockpos)) {
+									world.setBlockState(blockpos.up(l), block.getDefaultState(), 2);
+									generated++;
+								}
 							}
 						}
 					}
+					return generated > 0;
 				}
-				return generated > 0;
-			}
-		};
-		event.getGeneration().getFeatures(GenerationStage.Decoration.VEGETAL_DECORATION)
-				.add(() -> (ConfiguredFeature<?, ?>) feature.withConfiguration(
-						(new BlockClusterFeatureConfig.Builder(new SimpleBlockStateProvider(block.getDefaultState()), new SimpleBlockPlacer()))
-								.tries(64).build())
-						.withPlacement(Features.Placements.PATCH_PLACEMENT).func_242731_b(20));
+			};
+			configuredFeature = feature.withConfiguration(
+					(new BlockClusterFeatureConfig.Builder(new SimpleBlockStateProvider(block.getDefaultState()), new SimpleBlockPlacer())).tries(64)
+							.build())
+					.withPlacement(Features.Placements.PATCH_PLACEMENT).func_242731_b(20);
+			event.getRegistry().register(feature.setRegistryName("end_vines"));
+			Registry.register(WorldGenRegistries.CONFIGURED_FEATURE, new ResourceLocation("sotm:end_vines"), configuredFeature);
+		}
+	}
+	@SubscribeEvent
+	public void addFeatureToBiomes(BiomeLoadingEvent event) {
+		event.getGeneration().getFeatures(GenerationStage.Decoration.VEGETAL_DECORATION).add(() -> configuredFeature);
 	}
 	public static class BlockCustomFlower extends SugarCaneBlock {
 		public BlockCustomFlower() {

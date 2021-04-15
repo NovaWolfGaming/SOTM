@@ -1,0 +1,42 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "sotm:rust_dust"
+    },
+    "1": {
+      "item": "sotm:rust_dust"
+    },
+    "2": {
+      "item": "sotm:rust_dust"
+    },
+    "3": {
+      "item": "sotm:rust_dust"
+    },
+    "4": {
+      "item": "minecraft:milk_bucket"
+    },
+    "5": {
+      "item": "sotm:rust_dust"
+    },
+    "6": {
+      "item": "sotm:rust_dust"
+    },
+    "7": {
+      "item": "sotm:rust_dust"
+    },
+    "8": {
+      "item": "sotm:rust_dust"
+    }
+  },
+  "result": {
+    "item": "minecraft:iron_nugget",
+    "count": 8
+  }
+}

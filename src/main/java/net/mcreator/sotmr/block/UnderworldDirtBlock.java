@@ -39,7 +39,7 @@ public class UnderworldDirtBlock extends SotmModElements.ModElement {
 	public static class CustomBlock extends Block {
 		public CustomBlock() {
 			super(Block.Properties.create(Material.EARTH).sound(SoundType.GROUND).hardnessAndResistance(1f, 10f).setLightLevel(s -> 0).harvestLevel(0)
-					.harvestTool(ToolType.SHOVEL));
+					.harvestTool(ToolType.SHOVEL).setRequiresTool());
 			setRegistryName("underworlddirt");
 		}
 

@@ -8,35 +8,35 @@
   ],
   "key": {
     "0": {
-      "item": "sotm:deleted_mod_element"
+      "item": "sotm:hardened_crolphin"
     },
     "1": {
-      "item": "sotm:deleted_mod_element"
+      "item": "sotm:hardened_crolphin"
     },
     "2": {
-      "item": "sotm:deleted_mod_element"
+      "item": "sotm:hardened_crolphin"
     },
     "3": {
-      "item": "sotm:deleted_mod_element"
+      "item": "sotm:hardened_crolphin"
     },
     "4": {
       "item": "minecraft:red_dye"
     },
     "5": {
-      "item": "sotm:deleted_mod_element"
+      "item": "sotm:hardened_crolphin"
     },
     "6": {
-      "item": "sotm:deleted_mod_element"
+      "item": "sotm:hardened_crolphin"
     },
     "7": {
-      "item": "sotm:deleted_mod_element"
+      "item": "sotm:hardened_crolphin"
     },
     "8": {
-      "item": "sotm:deleted_mod_element"
+      "item": "sotm:hardened_crolphin"
     }
   },
   "result": {
-    "item": "sotm:deleted_mod_element",
+    "item": "sotm:red_crolphin",
     "count": 8
   }
 }

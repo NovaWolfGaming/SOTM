@@ -38,7 +38,7 @@ public class BauxiteBrickStairsBlock extends SotmModElements.ModElement {
 		public CustomBlock() {
 			super(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1f, 10f)).getDefaultState(),
 					Block.Properties.create(Material.ROCK).sound(SoundType.STONE).hardnessAndResistance(1f, 10f).setLightLevel(s -> 0).harvestLevel(0)
-							.harvestTool(ToolType.PICKAXE));
+							.harvestTool(ToolType.PICKAXE).setRequiresTool());
 			setRegistryName("bauxite_brick_stairs");
 		}
 

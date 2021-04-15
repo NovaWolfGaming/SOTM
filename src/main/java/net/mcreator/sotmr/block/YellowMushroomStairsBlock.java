@@ -51,7 +51,7 @@ public class YellowMushroomStairsBlock extends SotmModElements.ModElement {
 		public CustomBlock() {
 			super(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1f, 10f)).getDefaultState(),
 					Block.Properties.create(Material.WOOD).sound(SoundType.WOOD).hardnessAndResistance(1f, 10f).setLightLevel(s -> 0).harvestLevel(0)
-							.harvestTool(ToolType.AXE).notSolid().setOpaque((bs, br, bp) -> false));
+							.harvestTool(ToolType.AXE).setRequiresTool().notSolid().setOpaque((bs, br, bp) -> false));
 			setRegistryName("yellow_mushroom_stairs");
 		}
 

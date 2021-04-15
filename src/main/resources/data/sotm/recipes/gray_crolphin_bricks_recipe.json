@@ -7,20 +7,20 @@
   ],
   "key": {
     "0": {
-      "item": "sotm:deleted_mod_element"
+      "item": "sotm:gray_smooth_crolphin"
     },
     "1": {
-      "item": "sotm:deleted_mod_element"
+      "item": "sotm:gray_smooth_crolphin"
     },
     "2": {
-      "item": "sotm:deleted_mod_element"
+      "item": "sotm:gray_smooth_crolphin"
     },
     "3": {
-      "item": "sotm:deleted_mod_element"
+      "item": "sotm:gray_smooth_crolphin"
     }
   },
   "result": {
-    "item": "sotm:deleted_mod_element",
+    "item": "sotm:gray_crolphin_bricks",
     "count": 4
   }
 }

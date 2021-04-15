@@ -36,6 +36,7 @@ import net.minecraft.client.Minecraft;
 import net.minecraft.block.BlockState;
 
 import net.mcreator.sotmr.itemgroup.ToolsAndWeaponsItemGroup;
+import net.mcreator.sotmr.gui.QuiverGUIGuiWindow;
 import net.mcreator.sotmr.gui.QuiverGUIGui;
 import net.mcreator.sotmr.SotmModElements;
 
@@ -57,7 +58,7 @@ public class QuiverItem extends SotmModElements.ModElement {
 	@OnlyIn(Dist.CLIENT)
 	public void onItemDropped(ItemTossEvent event) {
 		if (event.getEntityItem().getItem().getItem() == block) {
-			if (Minecraft.getInstance().currentScreen instanceof QuiverGUIGui.GuiWindow) {
+			if (Minecraft.getInstance().currentScreen instanceof QuiverGUIGuiWindow) {
 				Minecraft.getInstance().player.closeScreen();
 			}
 		}

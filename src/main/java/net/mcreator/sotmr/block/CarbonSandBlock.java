@@ -47,7 +47,7 @@ public class CarbonSandBlock extends SotmModElements.ModElement {
 	public static class CustomBlock extends FallingBlock {
 		public CustomBlock() {
 			super(Block.Properties.create(Material.SAND).sound(SoundType.SAND).hardnessAndResistance(1f, 10f).setLightLevel(s -> 0).harvestLevel(0)
-					.harvestTool(ToolType.SHOVEL));
+					.harvestTool(ToolType.SHOVEL).setRequiresTool());
 			setRegistryName("carbonsand");
 		}
 

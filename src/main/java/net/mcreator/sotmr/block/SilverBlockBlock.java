@@ -35,7 +35,7 @@ public class SilverBlockBlock extends SotmModElements.ModElement {
 	public static class CustomBlock extends Block {
 		public CustomBlock() {
 			super(Block.Properties.create(Material.IRON).sound(SoundType.METAL).hardnessAndResistance(1f, 10f).setLightLevel(s -> 0).harvestLevel(1)
-					.harvestTool(ToolType.PICKAXE));
+					.harvestTool(ToolType.PICKAXE).setRequiresTool());
 			setRegistryName("silverblock");
 		}
 
