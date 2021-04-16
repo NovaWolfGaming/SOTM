@@ -2,22 +2,23 @@
   "_fv": 17,
   "_type": "block",
   "definition": {
-    "texture": "corrodedbedrock",
-    "textureTop": "corrodedbedrock",
-    "textureLeft": "corrodedbedrock",
-    "textureFront": "corrodedbedrock",
-    "textureRight": "corrodedbedrock",
-    "textureBack": "corrodedbedrock",
-    "renderType": 10,
-    "customModelName": "Normal",
+    "texture": "rusty_iron",
+    "textureTop": "",
+    "textureLeft": "",
+    "textureFront": "",
+    "textureRight": "",
+    "textureBack": "",
+    "renderType": 11,
+    "customModelName": "Single texture",
     "rotationMode": 0,
     "emissiveRendering": false,
     "displayFluidOverlay": false,
     "itemTexture": "",
     "particleTexture": "",
+    "blockBase": "Wall",
     "tintType": "No tint",
     "isItemTinted": false,
-    "hasTransparency": false,
+    "hasTransparency": true,
     "connectedSides": false,
     "transparencyType": "SOLID",
     "disableOffset": false,
@@ -32,25 +33,25 @@
         "subtract": false
       }
     ],
-    "name": "Corroded Bedrock",
+    "name": "Rusty Iron Wall",
     "specialInfo": [],
-    "hardness": 1.05,
-    "resistance": 13.0,
+    "hardness": 3.0,
+    "resistance": 20.0,
     "hasGravity": false,
     "isWaterloggable": false,
     "creativeTab": {
-      "value": "CUSTOM:SOTMRocksAndStones"
+      "value": "CUSTOM:SOTMDecorations"
     },
     "destroyTool": "Not specified",
     "customDrop": {
-      "value": "CUSTOM:BedrockShard"
+      "value": ""
     },
-    "dropAmount": 3,
+    "dropAmount": 1,
     "useLootTableForDrops": false,
     "enchantPowerBonus": 0.0,
     "plantsGrowOn": false,
     "canProvidePower": false,
-    "lightOpacity": 255,
+    "lightOpacity": 0,
     "material": {
       "value": "ROCK"
     },
@@ -72,14 +73,14 @@
     "reactionToPushing": "NORMAL",
     "isNotColidable": false,
     "soundOnStep": {
-      "value": "STONE"
+      "value": "GROUND"
     },
     "luminance": 0,
     "unbreakable": false,
     "breakHarvestLevel": 1,
     "spawnParticles": false,
     "particleToSpawn": {
-      "value": "CUSTOM:AshDust"
+      "value": "CUSTOM:RedGlowingOr"
     },
     "particleSpawningShape": "Spread",
     "particleSpawningRadious": 0.5,
@@ -101,25 +102,16 @@
     "isFluidTank": false,
     "fluidCapacity": 8000,
     "fluidRestrictions": [],
-    "spawnWorldTypes": [
-      "Surface",
-      "CUSTOM:Lonelands"
-    ],
+    "spawnWorldTypes": [],
     "restrictionBiomes": [],
     "blocksToReplace": [
       {
         "value": "Blocks.STONE"
-      },
-      {
-        "value": "Blocks.BEDROCK"
-      },
-      {
-        "value": "CUSTOM:LoneStone"
       }
     ],
-    "frequencyPerChunks": 20,
-    "frequencyOnChunk": 26,
+    "frequencyPerChunks": 10,
+    "frequencyOnChunk": 16,
     "minGenerateHeight": 0,
-    "maxGenerateHeight": 5
+    "maxGenerateHeight": 64
   }
 }

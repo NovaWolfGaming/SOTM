@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sotm:blocks/soul_light",
+    "up": "sotm:blocks/soul_light",
+    "north": "sotm:blocks/soul_light",
+    "east": "sotm:blocks/soul_light",
+    "south": "sotm:blocks/soul_light",
+    "west": "sotm:blocks/soul_light",
+    "particle": "sotm:blocks/soul_light"
+  }
+}

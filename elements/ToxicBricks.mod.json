@@ -2,12 +2,12 @@
   "_fv": 17,
   "_type": "block",
   "definition": {
-    "texture": "corrodedbedrock",
-    "textureTop": "corrodedbedrock",
-    "textureLeft": "corrodedbedrock",
-    "textureFront": "corrodedbedrock",
-    "textureRight": "corrodedbedrock",
-    "textureBack": "corrodedbedrock",
+    "texture": "lonestone",
+    "textureTop": "",
+    "textureLeft": "",
+    "textureFront": "",
+    "textureRight": "",
+    "textureBack": "",
     "renderType": 10,
     "customModelName": "Normal",
     "rotationMode": 0,
@@ -32,20 +32,20 @@
         "subtract": false
       }
     ],
-    "name": "Corroded Bedrock",
+    "name": "Toxic Bricks",
     "specialInfo": [],
-    "hardness": 1.05,
-    "resistance": 13.0,
+    "hardness": 3.0,
+    "resistance": 10.0,
     "hasGravity": false,
     "isWaterloggable": false,
     "creativeTab": {
-      "value": "CUSTOM:SOTMRocksAndStones"
+      "value": "CUSTOM:SOTMBlocks"
     },
     "destroyTool": "Not specified",
     "customDrop": {
-      "value": "CUSTOM:BedrockShard"
+      "value": ""
     },
-    "dropAmount": 3,
+    "dropAmount": 1,
     "useLootTableForDrops": false,
     "enchantPowerBonus": 0.0,
     "plantsGrowOn": false,
@@ -72,14 +72,14 @@
     "reactionToPushing": "NORMAL",
     "isNotColidable": false,
     "soundOnStep": {
-      "value": "STONE"
+      "value": "GLASS"
     },
     "luminance": 0,
     "unbreakable": false,
     "breakHarvestLevel": 1,
     "spawnParticles": false,
     "particleToSpawn": {
-      "value": "CUSTOM:AshDust"
+      "value": "CUSTOM:RedGlowingOr"
     },
     "particleSpawningShape": "Spread",
     "particleSpawningRadious": 0.5,
@@ -101,25 +101,25 @@
     "isFluidTank": false,
     "fluidCapacity": 8000,
     "fluidRestrictions": [],
-    "spawnWorldTypes": [
-      "Surface",
-      "CUSTOM:Lonelands"
-    ],
+    "onRightClicked": {
+      "name": "ToxicBricksOnBlockRightClicked"
+    },
+    "onStartToDestroy": {
+      "name": "ToxicBricksPlayerStartsToDestroy"
+    },
+    "onEntityWalksOn": {
+      "name": "ToxicBricksEntityWalksOnTheBlock"
+    },
+    "spawnWorldTypes": [],
     "restrictionBiomes": [],
     "blocksToReplace": [
       {
         "value": "Blocks.STONE"
-      },
-      {
-        "value": "Blocks.BEDROCK"
-      },
-      {
-        "value": "CUSTOM:LoneStone"
       }
     ],
-    "frequencyPerChunks": 20,
-    "frequencyOnChunk": 26,
+    "frequencyPerChunks": 10,
+    "frequencyOnChunk": 16,
     "minGenerateHeight": 0,
-    "maxGenerateHeight": 5
+    "maxGenerateHeight": 64
   }
 }

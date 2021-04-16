@@ -1,0 +1,46 @@
+{
+  "_fv": 17,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:LoneStone"
+      },
+      {
+        "value": "Blocks.GLASS_PANE"
+      },
+      {
+        "value": "CUSTOM:LoneStone"
+      },
+      {
+        "value": "Blocks.GLASS_PANE"
+      },
+      {
+        "value": "CUSTOM:Mercury"
+      },
+      {
+        "value": "Blocks.GLASS_PANE"
+      },
+      {
+        "value": "CUSTOM:LoneStone"
+      },
+      {
+        "value": "Blocks.GLASS_PANE"
+      },
+      {
+        "value": "CUSTOM:LoneStone"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:ToxicBricks"
+    },
+    "name": "toxic_bricks_craft",
+    "namespace": "mod"
+  }
+}
