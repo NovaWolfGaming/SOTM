@@ -3,7 +3,11 @@ package net.mcreator.sotmr.block;
 
 import net.minecraftforge.registries.ObjectHolder;
 import net.minecraftforge.common.ToolType;
+import net.minecraftforge.common.IPlantable;
 
+import net.minecraft.world.IBlockReader;
+import net.minecraft.util.math.BlockPos;
+import net.minecraft.util.Direction;
 import net.minecraft.loot.LootContext;
 import net.minecraft.item.ItemStack;
 import net.minecraft.item.Item;
@@ -14,18 +18,17 @@ import net.minecraft.block.BlockState;
 import net.minecraft.block.Block;
 
 import net.mcreator.sotmr.itemgroup.SOTMBlocksItemGroup;
-import net.mcreator.sotmr.item.RustDustItem;
 import net.mcreator.sotmr.SotmModElements;
 
 import java.util.List;
 import java.util.Collections;
 
 @SotmModElements.ModElement.Tag
-public class RustyIronBlock extends SotmModElements.ModElement {
-	@ObjectHolder("sotm:rusty_iron")
+public class MonochromeWoodWoodBlock extends SotmModElements.ModElement {
+	@ObjectHolder("sotm:monochrome_wood_wood")
 	public static final Block block = null;
-	public RustyIronBlock(SotmModElements instance) {
-		super(instance, 2323);
+	public MonochromeWoodWoodBlock(SotmModElements instance) {
+		super(instance, 2198);
 	}
 
 	@Override
@@ -35,9 +38,19 @@ public class RustyIronBlock extends SotmModElements.ModElement {
 	}
 	public static class CustomBlock extends Block {
 		public CustomBlock() {
-			super(Block.Properties.create(Material.IRON).sound(SoundType.METAL).hardnessAndResistance(4f, 25f).setLightLevel(s -> 0).harvestLevel(1)
-					.harvestTool(ToolType.PICKAXE).setRequiresTool());
-			setRegistryName("rusty_iron");
+			super(Block.Properties.create(Material.WOOD).sound(SoundType.WOOD).hardnessAndResistance(2f, 2f).setLightLevel(s -> 0).harvestLevel(0)
+					.harvestTool(ToolType.AXE));
+			setRegistryName("monochrome_wood_wood");
+		}
+
+		@Override
+		public int getFlammability(BlockState state, IBlockReader world, BlockPos pos, Direction face) {
+			return 5;
+		}
+
+		@Override
+		public boolean canSustainPlant(BlockState state, IBlockReader world, BlockPos pos, Direction direction, IPlantable plantable) {
+			return true;
 		}
 
 		@Override
@@ -45,7 +58,7 @@ public class RustyIronBlock extends SotmModElements.ModElement {
 			List<ItemStack> dropsOriginal = super.getDrops(state, builder);
 			if (!dropsOriginal.isEmpty())
 				return dropsOriginal;
-			return Collections.singletonList(new ItemStack(RustDustItem.block, (int) (8)));
+			return Collections.singletonList(new ItemStack(this, 1));
 		}
 	}
 }
