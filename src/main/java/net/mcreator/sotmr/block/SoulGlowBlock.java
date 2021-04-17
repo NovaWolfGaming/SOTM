@@ -4,13 +4,13 @@ package net.mcreator.sotmr.block;
 import net.minecraft.block.material.Material;
 
 @SotmModElements.ModElement.Tag
-public class HardenedSiltBlock extends SotmModElements.ModElement {
+public class SoulGlowBlock extends SotmModElements.ModElement {
 
-	@ObjectHolder("sotm:hardened_silt")
+	@ObjectHolder("sotm:soul_glow")
 	public static final Block block = null;
 
-	public HardenedSiltBlock(SotmModElements instance) {
-		super(instance, 2357);
+	public SoulGlowBlock(SotmModElements instance) {
+		super(instance, 2332);
 
 	}
 
@@ -25,10 +25,10 @@ public class HardenedSiltBlock extends SotmModElements.ModElement {
 		public CustomBlock() {
 			super(
 
-					Block.Properties.create(Material.ROCK).sound(SoundType.STONE).hardnessAndResistance(1f, 10f).setLightLevel(s -> 0).harvestLevel(1)
-							.harvestTool(ToolType.PICKAXE).setRequiresTool());
+					Block.Properties.create(Material.ROCK).sound(SoundType.GROUND).hardnessAndResistance(1f, 1f).setLightLevel(s -> 11)
+							.setNeedsPostProcessing((bs, br, bp) -> true).setEmmisiveRendering((bs, br, bp) -> true));
 
-			setRegistryName("hardened_silt");
+			setRegistryName("soul_glow");
 		}
 
 		@Override

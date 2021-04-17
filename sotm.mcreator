@@ -19371,24 +19371,6 @@
       }
     },
     {
-      "name": "MonochromeWoodPlanksRecipe",
-      "type": "recipe",
-      "sortid": 2208,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "monochrome_wood_planks_recipe"
-    },
-    {
-      "name": "MonochromeWoodFenceRecipe",
-      "type": "recipe",
-      "sortid": 2211,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "monochrome_wood_fence_recipe"
-    },
-    {
       "name": "MercuryMobplayerCollidesBlock",
       "type": "procedure",
       "sortid": 2194,
@@ -19404,60 +19386,6 @@
           }
         ]
       }
-    },
-    {
-      "name": "MonochromeWoodWoodRecipe",
-      "type": "recipe",
-      "sortid": 2207,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "monochrome_wood_wood_recipe"
-    },
-    {
-      "name": "MonochromeWoodPlanks",
-      "type": "block",
-      "sortid": 2200,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "monochrome_wood_planks"
-    },
-    {
-      "name": "MonochromeWoodLeaves",
-      "type": "block",
-      "sortid": 2201,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "monochrome_wood_leaves"
-    },
-    {
-      "name": "MonochromeWoodLog",
-      "type": "block",
-      "sortid": 2199,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "monochrome_wood_log"
-    },
-    {
-      "name": "MonochromeWoodSlabRecipe",
-      "type": "recipe",
-      "sortid": 2210,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "monochrome_wood_slab_recipe"
-    },
-    {
-      "name": "MonochromeWoodWood",
-      "type": "block",
-      "sortid": 2198,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "monochrome_wood_wood"
     },
     {
       "name": "Lonefield",
@@ -19478,24 +19406,6 @@
       "registry_name": "lone_stone"
     },
     {
-      "name": "MonochromeWoodSlab",
-      "type": "block",
-      "sortid": 2203,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "monochrome_wood_slab"
-    },
-    {
-      "name": "MonochromeWoodItemsTag",
-      "type": "tag",
-      "sortid": 2206,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "monochrome_wood_items_tag"
-    },
-    {
       "name": "LoneGrassBlock",
       "type": "block",
       "sortid": 2197,
@@ -19505,15 +19415,6 @@
       "registry_name": "lone_grass_block"
     },
     {
-      "name": "MonochromeWoodFenceGateRecipe",
-      "type": "recipe",
-      "sortid": 2212,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "monochrome_wood_fence_gate_recipe"
-    },
-    {
       "name": "LoneDirt",
       "type": "block",
       "sortid": 2196,
@@ -19521,24 +19422,6 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "lone_dirt"
-    },
-    {
-      "name": "MonochromeWoodStairs",
-      "type": "block",
-      "sortid": 2202,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "monochrome_wood_stairs"
-    },
-    {
-      "name": "MonochromeWoodStairsRecipe",
-      "type": "recipe",
-      "sortid": 2209,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "monochrome_wood_stairs_recipe"
     },
     {
       "name": "Lonelands",
@@ -19551,33 +19434,6 @@
       "metadata": {
         "ep": true
       }
-    },
-    {
-      "name": "MonochromeWoodFenceGate",
-      "type": "block",
-      "sortid": 2205,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "monochrome_wood_fence_gate"
-    },
-    {
-      "name": "MonochromeWoodFence",
-      "type": "block",
-      "sortid": 2204,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "monochrome_wood_fence"
-    },
-    {
-      "name": "MonochromeWoodStickRecipe",
-      "type": "recipe",
-      "sortid": 2213,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "monochrome_wood_stick_recipe"
     },
     {
       "name": "Mercury",
@@ -20578,348 +20434,6 @@
       "registry_name": "purple_crolphin"
     },
     {
-      "name": "NBLeather2Leather",
-      "type": "recipe",
-      "sortid": 2323,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "nb_leather_2_leather"
-    },
-    {
-      "name": "PigLeather2Lesther",
-      "type": "recipe",
-      "sortid": 2324,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "pig_leather_2_lesther"
-    },
-    {
-      "name": "LeatherBall2Leather",
-      "type": "recipe",
-      "sortid": 2325,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "leather_ball_2_leather"
-    },
-    {
-      "name": "CrolphinBall2LeatherBall",
-      "type": "recipe",
-      "sortid": 2326,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "crolphin_ball_2_leather_ball"
-    },
-    {
-      "name": "PineWood",
-      "type": "block",
-      "sortid": 2327,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "pine_wood"
-    },
-    {
-      "name": "PineLog",
-      "type": "block",
-      "sortid": 2328,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "pine_log"
-    },
-    {
-      "name": "PinePlanks",
-      "type": "block",
-      "sortid": 2329,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "pine_planks"
-    },
-    {
-      "name": "PineLeaves",
-      "type": "block",
-      "sortid": 2330,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "pine_leaves"
-    },
-    {
-      "name": "PineStairs",
-      "type": "block",
-      "sortid": 2331,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "pine_stairs"
-    },
-    {
-      "name": "PineSlab",
-      "type": "block",
-      "sortid": 2332,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "pine_slab"
-    },
-    {
-      "name": "PineFence",
-      "type": "block",
-      "sortid": 2333,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "pine_fence"
-    },
-    {
-      "name": "PineFenceGate",
-      "type": "block",
-      "sortid": 2334,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "pine_fence_gate"
-    },
-    {
-      "name": "PineItemsTag",
-      "type": "tag",
-      "sortid": 2335,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "pine_items_tag"
-    },
-    {
-      "name": "PineWoodRecipe",
-      "type": "recipe",
-      "sortid": 2336,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "pine_wood_recipe"
-    },
-    {
-      "name": "PinePlanksRecipe",
-      "type": "recipe",
-      "sortid": 2337,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "pine_planks_recipe"
-    },
-    {
-      "name": "PineStairsRecipe",
-      "type": "recipe",
-      "sortid": 2338,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "pine_stairs_recipe"
-    },
-    {
-      "name": "PineSlabRecipe",
-      "type": "recipe",
-      "sortid": 2339,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "pine_slab_recipe"
-    },
-    {
-      "name": "PineFenceRecipe",
-      "type": "recipe",
-      "sortid": 2340,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "pine_fence_recipe"
-    },
-    {
-      "name": "PineFenceGateRecipe",
-      "type": "recipe",
-      "sortid": 2341,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "pine_fence_gate_recipe"
-    },
-    {
-      "name": "PineStickRecipe",
-      "type": "recipe",
-      "sortid": 2342,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "pine_stick_recipe"
-    },
-    {
-      "name": "CoconutBlock",
-      "type": "block",
-      "sortid": 2343,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "coconut_block"
-    },
-    {
-      "name": "DustySand",
-      "type": "block",
-      "sortid": 2344,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "dusty_sand"
-    },
-    {
-      "name": "Dirt",
-      "type": "tag",
-      "sortid": 2345,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "dirt"
-    },
-    {
-      "name": "PineTreeBeach",
-      "type": "biome",
-      "sortid": 2327,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "pine_tree_beach"
-    },
-    {
-      "name": "CoconutHuskless",
-      "type": "item",
-      "sortid": 2346,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "coconut_huskless"
-    },
-    {
-      "name": "Coconut",
-      "type": "item",
-      "sortid": 2346,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "coconut"
-    },
-    {
-      "name": "CoconutHusk",
-      "type": "item",
-      "sortid": 2347,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "coconut_husk"
-    },
-    {
-      "name": "CoconutRecipe",
-      "type": "recipe",
-      "sortid": 2346,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "coconut_recipe"
-    },
-    {
-      "name": "CoconutHusklessMilk",
-      "type": "food",
-      "sortid": 2348,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "coconut_huskless_milk"
-    },
-    {
-      "name": "RottenFlesh2Leather",
-      "type": "recipe",
-      "sortid": 2349,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "rotten_flesh_2_leather"
-    },
-    {
-      "name": "AnvilRepairRecipe",
-      "type": "recipe",
-      "sortid": 2350,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "anvil_repair_recipe"
-    },
-    {
-      "name": "AnvilRepairRecipe2",
-      "type": "recipe",
-      "sortid": 2351,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "anvil_repair_recipe_2"
-    },
-    {
-      "name": "CoconutHusklessMilkRecipe",
-      "type": "recipe",
-      "sortid": 2348,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "coconut_huskless_milk_recipe"
-    },
-    {
-      "name": "ChippedPlanks",
-      "type": "block",
-      "sortid": 2352,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "chipped_planks"
-    },
-    {
-      "name": "ChippedPlanksRecipe",
-      "type": "recipe",
-      "sortid": 2353,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "chipped_planks_recipe"
-    },
-    {
-      "name": "MossyPlanks",
-      "type": "block",
-      "sortid": 2354,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "mossy_planks"
-    },
-    {
-      "name": "MossyPlanksRecipe",
-      "type": "recipe",
-      "sortid": 2355,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "mossy_planks_recipe"
-    },
-    {
-      "name": "Silt",
-      "type": "block",
-      "sortid": 2356,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "silt"
-    },
-    {
       "name": "HardenedSilt",
       "type": "block",
       "sortid": 2357,
@@ -20938,6 +20452,24 @@
       "registry_name": "silt_brick"
     },
     {
+      "name": "SiltBrickRecipe",
+      "type": "recipe",
+      "sortid": 2360,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "silt_brick_recipe"
+    },
+    {
+      "name": "Silt",
+      "type": "block",
+      "sortid": 2356,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "silt"
+    },
+    {
       "name": "HardenedSiltRecipe",
       "type": "recipe",
       "sortid": 2359,
@@ -20947,13 +20479,91 @@
       "registry_name": "hardened_silt_recipe"
     },
     {
-      "name": "SiltBrickRecipe",
-      "type": "recipe",
-      "sortid": 2360,
+      "name": "SoulGlow",
+      "type": "block",
+      "sortid": 2332,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "silt_brick_recipe"
+      "registry_name": "soul_glow"
+    },
+    {
+      "name": "ToxicBricksCraft",
+      "type": "recipe",
+      "sortid": 2334,
+      "compiles": true,
+      "locked_code": true,
+      "ids": {},
+      "registry_name": "toxic_bricks_craft"
+    },
+    {
+      "name": "RustyIronWall",
+      "type": "block",
+      "sortid": 2331,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rusty_iron_wall"
+    },
+    {
+      "name": "ToxicBricksOnBlockRightClicked",
+      "type": "procedure",
+      "sortid": 2337,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "toxic_bricks_on_block_right_clicked",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ToxicBricks",
+      "type": "block",
+      "sortid": 2333,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "toxic_bricks"
+    },
+    {
+      "name": "ToxicBricksEntityWalksOnTheBlock",
+      "type": "procedure",
+      "sortid": 2338,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "toxic_bricks_entity_walks_on_the_block",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ToxicBricksPlayerStartsToDestroy",
+      "type": "procedure",
+      "sortid": 2336,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "toxic_bricks_player_starts_to_destroy",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
     }
   ],
   "variable_elements": [
@@ -21734,7 +21344,6 @@
       "item.sotm.billon_hoe": "Billon Hoe",
       "block.sotmremake.brown_mushroom_planks": "Brown Mushroom Planks",
       "block.sotm.quartz_stone_brick": "Quartz Stone Brick",
-      "block.sotm.silt": "Silt",
       "item.sotmremake.rabidiumarmor_leggings": "Rabidium Leggings",
       "item.sotmremake.amethyst_hoe": "Amethyst Hoe",
       "block.sotmremake.nethergrassnetherrack": "Elder Nylium",
@@ -21773,7 +21382,6 @@
       "block.sotm.bone_stem": "Bone Stem",
       "block.sotmremake.chiseled_crimson_quartz": "Chiseled Crimson Quartz",
       "block.sotm.blubluh_slab": "Blubluh Slab",
-      "block.sotm.silt_brick": "Stucco Brick",
       "item.sotmremake.ambersword": "Amber Sword",
       "item.sotm.frosted_crystaline": "Ender Frosted Crystaline",
       "item.minecraft.lingering_potion.effect.biting": "Lingering Biting",
@@ -21835,6 +21443,7 @@
       "block.sotm.chorus_bush": "Chorus Bush",
       "block.sotm.ash": "Block of Ash",
       "item.sotmremake.rabidiumaxe": "Rabidium Axe",
+      "block.sotm.toxic_bricks": "Toxic Bricks",
       "block.sotm.rose_quartz_bricks": "Rose Quartz Bricks",
       "block.sotm.crescent_grass": "Crescent Shnyllium",
       "block.sotm.chorus_stone_new": "Chorus Stone",
@@ -22137,7 +21746,6 @@
       "block.sotm.purple_mistyst": "Purple Mistyst",
       "block.sotmremake.blue_mistyst": "Blue Mistyst",
       "block.sotmremake.bloodstonepillar": "Bloodstone Pillar",
-      "block.sotm.hardened_silt": "Stucco",
       "block.sotm.crystalineblock": "Block of Crystaline",
       "block.sotmremake.twisted_maple_planks": "Twisted Maple Planks",
       "item.sotm.copperpickaxe": "Copper Pickaxe",
@@ -22181,6 +21789,7 @@
       "item.sotm.pyridium": "Pyridium Dust",
       "item.sotm.raw_flesh": "Raw Flesh",
       "item.sotmremake.silvershovel": "Silver Shovel",
+      "item.sotm.rust_dust": "Rust Dust",
       "item.sotm.amerbrick": "Amer Bricks",
       "item.sotmremake.studded_lather_chain_armorboots": "Leather-Chain Boots",
       "block.sotmremake.blubluh_slab": "Blubluh Slab",
@@ -22671,6 +22280,7 @@
       "block.sotm.magenta_crolphin_bricks": "Magenta Crolphin Bricks",
       "item.sotmremake.diamondsickle": "Diamond Sickle",
       "block.sotmremake.certuspillar": "Artinium Pillar",
+      "block.sotm.rusty_iron": "Rusty Iron",
       "block.sotmremake.certusslab": "Artinium Slab",
       "block.sotm.plerra_berry_bush": "Plerra Berry Bush",
       "block.sotm.dusty_sand": "Dusty Sand",
@@ -22826,6 +22436,7 @@
       "block.sotm.venomite_ore_ore": "Venomite Ore",
       "block.sotmremake.venomite_ore_ore_block": "Block of Venomite",
       "block.sotm.red_marble_slab": "Red Marble Brick Slab",
+      "block.sotm.rusty_iron_door": "Rusty Iron Door",
       "block.sotm.deepyellowbellflowers": "Deep Yellow Bellflowers",
       "item.sotmremake.mossy_cross": "Mossy Cross",
       "block.sotmremake.polishedwhitegraniteslab": "Polished White Granite Slab",

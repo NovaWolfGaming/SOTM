@@ -1,7 +1,0 @@
-{
-  "parent": "block/cube_all",
-  "textures": {
-    "all": "sotm:blocks/rusty_iron",
-    "particle": "sotm:blocks/rusty_iron"
-  }
-}

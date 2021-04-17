@@ -111,7 +111,7 @@ public class CorrodedBedrockBlock extends SotmModElements.ModElement {
 					return super.generate(world, generator, rand, pos, config);
 				}
 			};
-			configuredFeature = feature.withConfiguration(new OreFeatureConfig(CustomRuleTest.INSTANCE, block.getDefaultState(), 26)).range(3)
+			configuredFeature = feature.withConfiguration(new OreFeatureConfig(CustomRuleTest.INSTANCE, block.getDefaultState(), 26)).range(5)
 					.square().func_242731_b(20);
 			event.getRegistry().register(feature.setRegistryName("corroded_bedrock"));
 			Registry.register(WorldGenRegistries.CONFIGURED_FEATURE, new ResourceLocation("sotm:corroded_bedrock"), configuredFeature);

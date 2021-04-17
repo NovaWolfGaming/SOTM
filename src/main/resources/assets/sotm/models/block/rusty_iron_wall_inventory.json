@@ -1,0 +1,7 @@
+{
+  "parent": "block/wall_inventory",
+  "textures": {
+    "wall": "sotm:blocks/rusty_iron",
+    "particle": "sotm:blocks/rusty_iron"
+  }
+}

@@ -2,23 +2,22 @@
   "_fv": 17,
   "_type": "block",
   "definition": {
-    "texture": "rusty_iron_door_bottom",
-    "textureTop": "rusty_iron_door_top",
+    "texture": "lonestone",
+    "textureTop": "",
     "textureLeft": "",
     "textureFront": "",
     "textureRight": "",
     "textureBack": "",
-    "renderType": 11,
-    "customModelName": "Single texture",
+    "renderType": 10,
+    "customModelName": "Normal",
     "rotationMode": 0,
     "emissiveRendering": false,
     "displayFluidOverlay": false,
     "itemTexture": "",
     "particleTexture": "",
-    "blockBase": "Door",
     "tintType": "No tint",
     "isItemTinted": false,
-    "hasTransparency": true,
+    "hasTransparency": false,
     "connectedSides": false,
     "transparencyType": "SOLID",
     "disableOffset": false,
@@ -33,14 +32,14 @@
         "subtract": false
       }
     ],
-    "name": "Rusty Iron Door",
+    "name": "Toxic Bricks",
     "specialInfo": [],
-    "hardness": 4.0,
-    "resistance": 4.0,
+    "hardness": 3.0,
+    "resistance": 10.0,
     "hasGravity": false,
     "isWaterloggable": false,
     "creativeTab": {
-      "value": "CUSTOM:SOTMDecorations"
+      "value": "CUSTOM:SOTMBlocks"
     },
     "destroyTool": "Not specified",
     "customDrop": {
@@ -51,9 +50,9 @@
     "enchantPowerBonus": 0.0,
     "plantsGrowOn": false,
     "canProvidePower": false,
-    "lightOpacity": 0,
+    "lightOpacity": 255,
     "material": {
-      "value": "IRON"
+      "value": "ROCK"
     },
     "tickRate": 10,
     "tickRandomly": false,
@@ -73,7 +72,7 @@
     "reactionToPushing": "NORMAL",
     "isNotColidable": false,
     "soundOnStep": {
-      "value": "METAL"
+      "value": "GLASS"
     },
     "luminance": 0,
     "unbreakable": false,
@@ -102,6 +101,15 @@
     "isFluidTank": false,
     "fluidCapacity": 8000,
     "fluidRestrictions": [],
+    "onRightClicked": {
+      "name": "ToxicBricksOnBlockRightClicked"
+    },
+    "onStartToDestroy": {
+      "name": "ToxicBricksPlayerStartsToDestroy"
+    },
+    "onEntityWalksOn": {
+      "name": "ToxicBricksEntityWalksOnTheBlock"
+    },
     "spawnWorldTypes": [],
     "restrictionBiomes": [],
     "blocksToReplace": [
