@@ -1,7 +1,7 @@
 {
   "parent": "block/cube_all",
   "textures": {
-    "all": "sotm:blocks/actinium_ore_underworld",
-    "particle": "sotm:blocks/actinium_ore_underworld"
+    "all": "sotm:blocks/actinium_ore_carborite",
+    "particle": "sotm:blocks/actinium_ore_carborite"
   }
 }

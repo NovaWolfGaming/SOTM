@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sotm:blocks/silt",
+    "up": "sotm:blocks/silt",
+    "north": "sotm:blocks/silt",
+    "east": "sotm:blocks/silt",
+    "south": "sotm:blocks/silt",
+    "west": "sotm:blocks/silt",
+    "particle": "sotm:blocks/silt"
+  }
+}

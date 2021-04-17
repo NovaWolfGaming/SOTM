@@ -1,12 +1,7 @@
 {
-  "parent": "block/cube",
+  "parent": "block/cube_all",
   "textures": {
-    "down": "sotm:blocks/artron_energy_ore",
-    "up": "sotm:blocks/artron_energy_ore",
-    "north": "sotm:blocks/artron_energy_ore",
-    "east": "sotm:blocks/artron_energy_ore",
-    "south": "sotm:blocks/artron_energy_ore",
-    "west": "sotm:blocks/artron_energy_ore",
-    "particle": "sotm:blocks/artron_energy_ore"
+    "all": "sotm:blocks/artron_ore_carborite_on",
+    "particle": "sotm:blocks/artron_ore_carborite_on"
   }
 }
