@@ -1,0 +1,22 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "sotm:forest_green_marble_brick"
+    },
+    "1": {
+      "item": "sotm:forest_green_marble_brick"
+    },
+    "2": {
+      "item": "sotm:forest_green_marble_brick"
+    }
+  },
+  "result": {
+    "item": "sotm:forest_green_marble_slab",
+    "count": 6
+  }
+}

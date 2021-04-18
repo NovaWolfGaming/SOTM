@@ -1,0 +1,33 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "sotm:marble_pink_brick"
+    },
+    "3": {
+      "item": "sotm:marble_pink_brick"
+    },
+    "4": {
+      "item": "sotm:marble_pink_brick"
+    },
+    "6": {
+      "item": "sotm:marble_pink_brick"
+    },
+    "7": {
+      "item": "sotm:marble_pink_brick"
+    },
+    "8": {
+      "item": "sotm:marble_pink_brick"
+    }
+  },
+  "result": {
+    "item": "sotm:marble_pink_stairs",
+    "count": 6
+  }
+}

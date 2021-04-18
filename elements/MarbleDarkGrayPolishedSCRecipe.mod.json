@@ -1,0 +1,20 @@
+{
+  "_fv": 17,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Stone cutting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "stoneCuttingInputStack": {
+      "value": "CUSTOM:MarbleDarkGray"
+    },
+    "stoneCuttingReturnStack": {
+      "value": "CUSTOM:MarbleDarkGrayPolished"
+    },
+    "name": "marble_dark_gray_polished_sc_recipe",
+    "namespace": "mod"
+  }
+}

@@ -1,7 +1,28 @@
 {
   "variants": {
-    "": {
+    "facing=south": {
       "model": "sotm:block/certuspillar"
+    },
+    "facing=north": {
+      "model": "sotm:block/certuspillar"
+    },
+    "facing=east": {
+      "model": "sotm:block/certuspillar",
+      "x": 90
+    },
+    "facing=west": {
+      "model": "sotm:block/certuspillar",
+      "x": 90
+    },
+    "facing=up": {
+      "model": "sotm:block/certuspillar",
+      "x": 90,
+      "y": 90
+    },
+    "facing=down": {
+      "model": "sotm:block/certuspillar",
+      "x": 90,
+      "y": 90
     }
   }
 }

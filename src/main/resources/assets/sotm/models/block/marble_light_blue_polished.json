@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "sotm:blocks/marble_light_blue_polished",
+    "particle": "sotm:blocks/marble_light_blue_polished"
+  }
+}

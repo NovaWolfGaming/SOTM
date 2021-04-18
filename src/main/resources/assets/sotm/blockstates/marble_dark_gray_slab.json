@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "sotm:block/marble_dark_gray_slab"
+    },
+    "type=top": {
+      "model": "sotm:block/marble_dark_gray_slab_top"
+    },
+    "type=double": {
+      "model": "sotm:block/marble_dark_gray_slab_full"
+    }
+  }
+}

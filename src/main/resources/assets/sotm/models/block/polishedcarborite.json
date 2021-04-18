@@ -1,12 +1,7 @@
 {
-  "parent": "block/cube",
+  "parent": "block/cube_all",
   "textures": {
-    "down": "sotm:blocks/carboritesmooth",
-    "up": "sotm:blocks/carboritesmooth",
-    "north": "sotm:blocks/carboritesmooth",
-    "east": "sotm:blocks/carboritesmooth",
-    "south": "sotm:blocks/carboritesmooth",
-    "west": "sotm:blocks/carboritesmooth",
-    "particle": "sotm:blocks/carboritesmooth"
+    "all": "sotm:blocks/carborite_remake_polished2",
+    "particle": "sotm:blocks/carborite_remake_polished2"
   }
 }

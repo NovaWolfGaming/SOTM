@@ -1,12 +1,7 @@
 {
-  "parent": "block/cube",
+  "parent": "block/cube_all",
   "textures": {
-    "down": "sotm:blocks/redstone_ore_on",
-    "up": "sotm:blocks/redstone_ore_on",
-    "north": "sotm:blocks/redstone_ore_on",
-    "east": "sotm:blocks/redstone_ore_on",
-    "south": "sotm:blocks/redstone_ore_on",
-    "west": "sotm:blocks/redstone_ore_on",
-    "particle": "sotm:blocks/redstone_ore_on"
+    "all": "sotm:blocks/redstone_ore_carborite_on",
+    "particle": "sotm:blocks/redstone_ore_carborite_on"
   }
 }

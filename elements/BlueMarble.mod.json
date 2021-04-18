@@ -104,10 +104,23 @@
     "spawnWorldTypes": [
       "Surface"
     ],
-    "restrictionBiomes": [],
+    "restrictionBiomes": [
+      {
+        "value": "river"
+      },
+      {
+        "value": "deep_ocean"
+      },
+      {
+        "value": "cold_beach"
+      },
+      {
+        "value": "stone_beach"
+      }
+    ],
     "blocksToReplace": [
       {
-        "value": "Blocks.STONE"
+        "value": "Blocks.STONE#0"
       }
     ],
     "frequencyPerChunks": 25,

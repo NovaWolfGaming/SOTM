@@ -1,0 +1,20 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1"
+  ],
+  "key": {
+    "0": {
+      "item": "sotm:marble_dirty_white_slab"
+    },
+    "1": {
+      "item": "sotm:marble_dirty_white_slab"
+    }
+  },
+  "result": {
+    "item": "sotm:marble_dirty_white_pillar",
+    "count": 1
+  }
+}

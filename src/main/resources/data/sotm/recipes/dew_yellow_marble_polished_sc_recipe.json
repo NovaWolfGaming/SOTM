@@ -1,0 +1,9 @@
+{
+  "group": "sotm",
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "sotm:dew_yellow_marble"
+  },
+  "result": "sotm:dew_yellow_marble_polished"
+}

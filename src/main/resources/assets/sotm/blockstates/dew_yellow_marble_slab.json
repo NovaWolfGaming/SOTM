@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "sotm:block/dew_yellow_marble_slab"
+    },
+    "type=top": {
+      "model": "sotm:block/dew_yellow_marble_slab_top"
+    },
+    "type=double": {
+      "model": "sotm:block/dew_yellow_marble_slab_full"
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "sotm:marble_creamy_yellow_brick"
+    },
+    "1": {
+      "item": "sotm:marble_creamy_yellow_brick"
+    },
+    "2": {
+      "item": "sotm:marble_creamy_yellow_brick"
+    }
+  },
+  "result": {
+    "item": "sotm:marble_creamy_yellow_slab",
+    "count": 6
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "sotm:dew_yellow_marble_polished"
+    },
+    "1": {
+      "item": "sotm:dew_yellow_marble_polished"
+    },
+    "2": {
+      "item": "sotm:dew_yellow_marble_polished"
+    },
+    "3": {
+      "item": "sotm:dew_yellow_marble_polished"
+    }
+  },
+  "result": {
+    "item": "sotm:dew_yellow_marble_brick",
+    "count": 4
+  }
+}

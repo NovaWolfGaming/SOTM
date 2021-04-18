@@ -1,12 +1,7 @@
 {
-  "parent": "block/cube",
+  "parent": "block/cube_all",
   "textures": {
-    "down": "sotm:blocks/silver_ore",
-    "up": "sotm:blocks/silver_ore",
-    "north": "sotm:blocks/silver_ore",
-    "east": "sotm:blocks/silver_ore",
-    "south": "sotm:blocks/silver_ore",
-    "west": "sotm:blocks/silver_ore",
-    "particle": "sotm:blocks/silver_ore"
+    "all": "sotm:blocks/silver_ore_carborite",
+    "particle": "sotm:blocks/silver_ore_carborite"
   }
 }

@@ -1,0 +1,46 @@
+{
+  "_fv": 17,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 6,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:MarblePinkBrick"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:MarblePinkBrick"
+      },
+      {
+        "value": "CUSTOM:MarblePinkBrick"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:MarblePinkBrick"
+      },
+      {
+        "value": "CUSTOM:MarblePinkBrick"
+      },
+      {
+        "value": "CUSTOM:MarblePinkBrick"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:MarblePinkStairs"
+    },
+    "name": "marble_pink_stairs_recipe",
+    "namespace": "mod"
+  }
+}

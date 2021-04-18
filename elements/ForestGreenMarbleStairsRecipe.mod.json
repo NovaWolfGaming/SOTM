@@ -1,0 +1,46 @@
+{
+  "_fv": 17,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 6,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:ForestGreenMarbleBrick"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:ForestGreenMarbleBrick"
+      },
+      {
+        "value": "CUSTOM:ForestGreenMarbleBrick"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:ForestGreenMarbleBrick"
+      },
+      {
+        "value": "CUSTOM:ForestGreenMarbleBrick"
+      },
+      {
+        "value": "CUSTOM:ForestGreenMarbleBrick"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:ForestGreenMarbleStairs"
+    },
+    "name": "forest_green_marble_stairs_recipe",
+    "namespace": "mod"
+  }
+}

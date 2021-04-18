@@ -1,0 +1,26 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "sotm:forest_green_marble_polished"
+    },
+    "1": {
+      "item": "sotm:forest_green_marble_polished"
+    },
+    "2": {
+      "item": "sotm:forest_green_marble_polished"
+    },
+    "3": {
+      "item": "sotm:forest_green_marble_polished"
+    }
+  },
+  "result": {
+    "item": "sotm:forest_green_marble_brick",
+    "count": 4
+  }
+}

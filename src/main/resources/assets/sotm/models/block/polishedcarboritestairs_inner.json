@@ -1,8 +1,8 @@
 {
   "parent": "block/inner_stairs",
   "textures": {
-    "bottom": "sotm:blocks/carboritesmooth",
-    "top": "sotm:blocks/carboritesmooth",
-    "side": "sotm:blocks/carboritesmooth"
+    "bottom": "sotm:blocks/carborite_remake_polished2",
+    "top": "sotm:blocks/carborite_remake_polished2",
+    "side": "sotm:blocks/carborite_remake_polished2"
   }
 }

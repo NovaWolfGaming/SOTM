@@ -1,0 +1,9 @@
+{
+  "group": "sotm",
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "sotm:marble_dirty_white"
+  },
+  "result": "sotm:marble_dirty_white_polished"
+}

@@ -1,0 +1,22 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "sotm:marble_pinky_red_brick"
+    },
+    "1": {
+      "item": "sotm:marble_pinky_red_brick"
+    },
+    "2": {
+      "item": "sotm:marble_pinky_red_brick"
+    }
+  },
+  "result": {
+    "item": "sotm:marble_pinky_red_slab",
+    "count": 6
+  }
+}

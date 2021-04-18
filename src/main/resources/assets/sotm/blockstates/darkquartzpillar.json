@@ -1,7 +1,28 @@
 {
   "variants": {
-    "": {
+    "facing=south": {
       "model": "sotm:block/darkquartzpillar"
+    },
+    "facing=north": {
+      "model": "sotm:block/darkquartzpillar"
+    },
+    "facing=east": {
+      "model": "sotm:block/darkquartzpillar",
+      "x": 90
+    },
+    "facing=west": {
+      "model": "sotm:block/darkquartzpillar",
+      "x": 90
+    },
+    "facing=up": {
+      "model": "sotm:block/darkquartzpillar",
+      "x": 90,
+      "y": 90
+    },
+    "facing=down": {
+      "model": "sotm:block/darkquartzpillar",
+      "x": 90,
+      "y": 90
     }
   }
 }
