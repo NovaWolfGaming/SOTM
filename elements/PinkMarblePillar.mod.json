@@ -10,7 +10,7 @@
     "textureBack": "marble_pillar_pink_side",
     "renderType": 10,
     "customModelName": "Normal",
-    "rotationMode": 0,
+    "rotationMode": 5,
     "emissiveRendering": false,
     "displayFluidOverlay": false,
     "itemTexture": "",
@@ -32,7 +32,7 @@
         "subtract": false
       }
     ],
-    "name": "Pink Marble Pillar",
+    "name": "Violet Marble Pillar",
     "specialInfo": [],
     "hardness": 1.0,
     "resistance": 10.0,

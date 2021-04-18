@@ -104,7 +104,17 @@
     "spawnWorldTypes": [
       "Surface"
     ],
-    "restrictionBiomes": [],
+    "restrictionBiomes": [
+      {
+        "value": "badlands"
+      },
+      {
+        "value": "wooded_badlands_plateau"
+      },
+      {
+        "value": "badlands_plateau"
+      }
+    ],
     "blocksToReplace": [
       {
         "value": "Blocks.STONE"

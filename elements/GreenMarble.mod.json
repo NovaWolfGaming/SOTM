@@ -104,7 +104,23 @@
     "spawnWorldTypes": [
       "Surface"
     ],
-    "restrictionBiomes": [],
+    "restrictionBiomes": [
+      {
+        "value": "plains"
+      },
+      {
+        "value": "mountains"
+      },
+      {
+        "value": "forest"
+      },
+      {
+        "value": "taiga"
+      },
+      {
+        "value": "river"
+      }
+    ],
     "blocksToReplace": [
       {
         "value": "Blocks.STONE"

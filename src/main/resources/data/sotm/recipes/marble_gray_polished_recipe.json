@@ -1,0 +1,26 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "sotm:marble_gray"
+    },
+    "1": {
+      "item": "sotm:marble_gray"
+    },
+    "2": {
+      "item": "sotm:marble_gray"
+    },
+    "3": {
+      "item": "sotm:marble_gray"
+    }
+  },
+  "result": {
+    "item": "sotm:mable_gray_polished",
+    "count": 4
+  }
+}

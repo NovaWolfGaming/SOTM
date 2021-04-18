@@ -1,0 +1,28 @@
+{
+  "variants": {
+    "facing=south": {
+      "model": "sotm:block/dew_yellow_marble_pillar"
+    },
+    "facing=north": {
+      "model": "sotm:block/dew_yellow_marble_pillar"
+    },
+    "facing=east": {
+      "model": "sotm:block/dew_yellow_marble_pillar",
+      "x": 90
+    },
+    "facing=west": {
+      "model": "sotm:block/dew_yellow_marble_pillar",
+      "x": 90
+    },
+    "facing=up": {
+      "model": "sotm:block/dew_yellow_marble_pillar",
+      "x": 90,
+      "y": 90
+    },
+    "facing=down": {
+      "model": "sotm:block/dew_yellow_marble_pillar",
+      "x": 90,
+      "y": 90
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "sotm:marble_creamy_yellow"
+    },
+    "1": {
+      "item": "sotm:marble_creamy_yellow"
+    },
+    "2": {
+      "item": "sotm:marble_creamy_yellow"
+    },
+    "3": {
+      "item": "sotm:marble_creamy_yellow"
+    }
+  },
+  "result": {
+    "item": "sotm:marble_creamy_yellow_polished",
+    "count": 4
+  }
+}

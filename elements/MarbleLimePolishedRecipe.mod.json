@@ -1,0 +1,46 @@
+{
+  "_fv": 17,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 4,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:MarbleLime"
+      },
+      {
+        "value": "CUSTOM:MarbleLime"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:MarbleLime"
+      },
+      {
+        "value": "CUSTOM:MarbleLime"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:MarbleLimePolished"
+    },
+    "name": "marble_lime_polished_recipe",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "sotm:marble_dirty_white"
+    },
+    "1": {
+      "item": "sotm:marble_dirty_white"
+    },
+    "2": {
+      "item": "sotm:marble_dirty_white"
+    },
+    "3": {
+      "item": "sotm:marble_dirty_white"
+    }
+  },
+  "result": {
+    "item": "sotm:marble_dirty_white_polished",
+    "count": 4
+  }
+}

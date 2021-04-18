@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sotm:blocks/marble_creamy_yellow_top",
+    "up": "sotm:blocks/marble_creamy_yellow_top",
+    "north": "sotm:blocks/marble_creamy_yellow_pillar",
+    "east": "sotm:blocks/marble_creamy_yellow_pillar",
+    "south": "sotm:blocks/marble_creamy_yellow_pillar",
+    "west": "sotm:blocks/marble_creamy_yellow_pillar",
+    "particle": "sotm:blocks/marble_creamy_yellow_top"
+  }
+}

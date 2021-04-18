@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "sotm:block/marble_lime_slab"
+    },
+    "type=top": {
+      "model": "sotm:block/marble_lime_slab_top"
+    },
+    "type=double": {
+      "model": "sotm:block/marble_lime_slab_full"
+    }
+  }
+}

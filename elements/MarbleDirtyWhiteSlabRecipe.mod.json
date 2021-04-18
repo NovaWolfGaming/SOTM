@@ -1,0 +1,46 @@
+{
+  "_fv": 17,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 6,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:MarbleDirtyWhiteBrick"
+      },
+      {
+        "value": "CUSTOM:MarbleDirtyWhiteBrick"
+      },
+      {
+        "value": "CUSTOM:MarbleDirtyWhiteBrick"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:MarbleDirtyWhiteSlab"
+    },
+    "name": "marble_dirty_white_slab_recipe",
+    "namespace": "mod"
+  }
+}

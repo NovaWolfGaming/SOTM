@@ -1,7 +1,28 @@
 {
   "variants": {
-    "": {
+    "facing=south": {
       "model": "sotm:block/crystalinepillar"
+    },
+    "facing=north": {
+      "model": "sotm:block/crystalinepillar"
+    },
+    "facing=east": {
+      "model": "sotm:block/crystalinepillar",
+      "x": 90
+    },
+    "facing=west": {
+      "model": "sotm:block/crystalinepillar",
+      "x": 90
+    },
+    "facing=up": {
+      "model": "sotm:block/crystalinepillar",
+      "x": 90,
+      "y": 90
+    },
+    "facing=down": {
+      "model": "sotm:block/crystalinepillar",
+      "x": 90,
+      "y": 90
     }
   }
 }

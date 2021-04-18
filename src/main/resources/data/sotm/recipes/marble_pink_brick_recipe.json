@@ -1,0 +1,26 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "sotm:marblepinkpolished"
+    },
+    "1": {
+      "item": "sotm:marblepinkpolished"
+    },
+    "2": {
+      "item": "sotm:marblepinkpolished"
+    },
+    "3": {
+      "item": "sotm:marblepinkpolished"
+    }
+  },
+  "result": {
+    "item": "sotm:marble_pink_brick",
+    "count": 4
+  }
+}
