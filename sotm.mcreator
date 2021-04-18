@@ -22456,15 +22456,6 @@
       "registry_name": "forest_green_marble_pillar_recipe"
     },
     {
-      "name": "PumiceActualBricks",
-      "type": "block",
-      "sortid": 2571,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "pumice_actual_bricks"
-    },
-    {
       "name": "PumiceActualBricksRecipe2",
       "type": "recipe",
       "sortid": 2573,
@@ -22472,6 +22463,15 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "pumice_actual_bricks_recipe_2"
+    },
+    {
+      "name": "PumiceActualBricks",
+      "type": "block",
+      "sortid": 2571,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pumice_actual_bricks"
     }
   ],
   "variable_elements": [
@@ -22996,7 +22996,7 @@
       "block.sotm.rose_quartz_stairs": "Rose Quartz Stairs",
       "item.sotm.scrap_metal_sword": "Scrap Metal Sword",
       "block.sotm.light_gray_cotton_wool": "Light Gray Cotton Wool",
-      "block.sotm.polishedblackgrabite": "Polished Black Granite",
+      "block.sotm.polishedblackgrabite": "Polished Black Grabite",
       "item.sotm.ash_item": "Ash",
       "block.sotm.rhyolite": "Rhyolite",
       "block.sotmremake.venorum_quartz_block": "Block of Venorum Quartz",
@@ -23842,7 +23842,6 @@
       "item.sotmremake.snozzberries": "Snozzberries",
       "item.sotm.chili": "Chili",
       "item.sotm.billon_ingot": "Billon Ingot",
-      "block.sotm.pumice_actual_bricks": "Polished Pumice",
       "item.sotm.silver_chainmail_armor_helmet": "Silver_Chainmail Helmet",
       "block.sotm.cottonplant": "Cotton Plant",
       "item.sotmremake.rabidiumarmorlegs": "Rabidium Leggings",
