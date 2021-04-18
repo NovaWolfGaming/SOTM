@@ -2,12 +2,12 @@
   "_fv": 17,
   "_type": "block",
   "definition": {
-    "texture": "granite_polished_black",
-    "textureTop": "stone_granite_black_smooth",
-    "textureLeft": "stone_granite_black_smooth",
-    "textureFront": "stone_granite_black_smooth",
-    "textureRight": "stone_granite_black_smooth",
-    "textureBack": "stone_granite_black_smooth",
+    "texture": "pumice_brick",
+    "textureTop": "pumice_bricks",
+    "textureLeft": "pumice_bricks",
+    "textureFront": "pumice_bricks",
+    "textureRight": "pumice_bricks",
+    "textureBack": "pumice_bricks",
     "renderType": 11,
     "customModelName": "Single texture",
     "rotationMode": 0,
@@ -32,7 +32,7 @@
         "subtract": false
       }
     ],
-    "name": "Polished Black Granite",
+    "name": "Polished Pumice",
     "specialInfo": [],
     "hardness": 1.0,
     "resistance": 10.0,
@@ -76,7 +76,7 @@
     },
     "luminance": 0,
     "unbreakable": false,
-    "breakHarvestLevel": 1,
+    "breakHarvestLevel": 0,
     "spawnParticles": false,
     "particleToSpawn": {
       "value": "EXPLOSION_NORMAL"

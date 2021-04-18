@@ -1,8 +1,8 @@
 {
   "parent": "block/outer_stairs",
   "textures": {
-    "bottom": "sotm:blocks/stone_granite_black_smooth",
-    "top": "sotm:blocks/stone_granite_black_smooth",
-    "side": "sotm:blocks/stone_granite_black_smooth"
+    "bottom": "sotm:blocks/granite_polished_black",
+    "top": "sotm:blocks/granite_polished_black",
+    "side": "sotm:blocks/granite_polished_black"
   }
 }

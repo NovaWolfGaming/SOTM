@@ -22454,6 +22454,24 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "forest_green_marble_pillar_recipe"
+    },
+    {
+      "name": "PumiceActualBricksRecipe2",
+      "type": "recipe",
+      "sortid": 2573,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pumice_actual_bricks_recipe_2"
+    },
+    {
+      "name": "PumiceActualBricks",
+      "type": "block",
+      "sortid": 2571,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pumice_actual_bricks"
     }
   ],
   "variable_elements": [
