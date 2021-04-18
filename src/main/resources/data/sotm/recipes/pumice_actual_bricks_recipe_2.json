@@ -1,0 +1,26 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "sotm:pumice_bricks"
+    },
+    "1": {
+      "item": "sotm:pumice_bricks"
+    },
+    "2": {
+      "item": "sotm:pumice_bricks"
+    },
+    "3": {
+      "item": "sotm:pumice_bricks"
+    }
+  },
+  "result": {
+    "item": "sotm:pumice_actual_bricks",
+    "count": 4
+  }
+}

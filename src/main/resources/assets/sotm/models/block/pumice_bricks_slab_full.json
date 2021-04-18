@@ -1,8 +1,8 @@
 {
   "parent": "block/cube_bottom_top",
   "textures": {
-    "bottom": "sotm:blocks/stone_pumice_smooth",
-    "top": "sotm:blocks/stone_pumice_smooth",
-    "side": "sotm:blocks/stone_pumice_smooth"
+    "bottom": "sotm:blocks/pumice_polished",
+    "top": "sotm:blocks/pumice_polished",
+    "side": "sotm:blocks/pumice_polished_slab_side"
   }
 }

@@ -1,8 +1,8 @@
 {
   "parent": "block/slab_top",
   "textures": {
-    "bottom": "sotm:blocks/stone_granite_white_smooth",
-    "top": "sotm:blocks/stone_granite_white_smooth",
-    "side": "sotm:blocks/stone_granite_white_smooth"
+    "bottom": "sotm:blocks/granite_polished_white",
+    "top": "sotm:blocks/granite_polished_white",
+    "side": "sotm:blocks/granite_polished_white"
   }
 }
