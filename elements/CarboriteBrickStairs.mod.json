@@ -2,7 +2,7 @@
   "_fv": 17,
   "_type": "block",
   "definition": {
-    "texture": "carborite_remake_brick",
+    "texture": "carboritebrick",
     "textureTop": "",
     "textureLeft": "",
     "textureFront": "",
@@ -13,8 +13,6 @@
     "rotationMode": 0,
     "emissiveRendering": false,
     "displayFluidOverlay": false,
-    "itemTexture": "",
-    "particleTexture": "",
     "blockBase": "Stairs",
     "tintType": "No tint",
     "isItemTinted": false,
@@ -101,7 +99,6 @@
     "energyMaxExtract": 200,
     "isFluidTank": false,
     "fluidCapacity": 8000,
-    "fluidRestrictions": [],
     "spawnWorldTypes": [],
     "restrictionBiomes": [],
     "blocksToReplace": [

@@ -114,17 +114,6 @@ public class BlueMarbleBlock extends SotmModElements.ModElement {
 	}
 	@SubscribeEvent
 	public void addFeatureToBiomes(BiomeLoadingEvent event) {
-		boolean biomeCriteria = false;
-		if (new ResourceLocation("river").equals(event.getName()))
-			biomeCriteria = true;
-		if (new ResourceLocation("deep_ocean").equals(event.getName()))
-			biomeCriteria = true;
-		if (new ResourceLocation("snowy_beach").equals(event.getName()))
-			biomeCriteria = true;
-		if (new ResourceLocation("stone_shore").equals(event.getName()))
-			biomeCriteria = true;
-		if (!biomeCriteria)
-			return;
 		event.getGeneration().getFeatures(GenerationStage.Decoration.UNDERGROUND_ORES).add(() -> configuredFeature);
 	}
 }

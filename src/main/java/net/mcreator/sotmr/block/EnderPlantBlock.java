@@ -102,7 +102,7 @@ public class EnderPlantBlock extends SotmModElements.ModElement {
 					.withConfiguration(
 							(new BlockClusterFeatureConfig.Builder(new SimpleBlockStateProvider(block.getDefaultState()), new SimpleBlockPlacer()))
 									.tries(64).build())
-					.withPlacement(Features.Placements.VEGETATION_PLACEMENT).withPlacement(Features.Placements.HEIGHTMAP_PLACEMENT).func_242731_b(36);
+					.withPlacement(Features.Placements.VEGETATION_PLACEMENT).withPlacement(Features.Placements.HEIGHTMAP_PLACEMENT).func_242731_b(30);
 			event.getRegistry().register(feature.setRegistryName("enderplant"));
 			Registry.register(WorldGenRegistries.CONFIGURED_FEATURE, new ResourceLocation("sotm:enderplant"), configuredFeature);
 		}
@@ -127,7 +127,7 @@ public class EnderPlantBlock extends SotmModElements.ModElement {
 
 		@Override
 		public ItemStack getPickBlock(BlockState state, RayTraceResult target, IBlockReader world, BlockPos pos, PlayerEntity player) {
-			return new ItemStack(Items.ENDER_PEARL, (int) (1));
+			return new ItemStack(EnderPlantBlock.block, (int) (1));
 		}
 
 		@Override
@@ -135,7 +135,7 @@ public class EnderPlantBlock extends SotmModElements.ModElement {
 			List<ItemStack> dropsOriginal = super.getDrops(state, builder);
 			if (!dropsOriginal.isEmpty())
 				return dropsOriginal;
-			return Collections.singletonList(new ItemStack(Items.ENDER_PEARL, (int) (2)));
+			return Collections.singletonList(new ItemStack(Items.ENDER_PEARL, (int) (1)));
 		}
 
 		@Override

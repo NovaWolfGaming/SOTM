@@ -1,7 +1,12 @@
 {
-  "parent": "block/cube_all",
+  "parent": "block/cube",
   "textures": {
-    "all": "sotm:blocks/cinistine_ore_carborite",
-    "particle": "sotm:blocks/cinistine_ore_carborite"
+    "down": "sotm:blocks/cinistine_ore_2",
+    "up": "sotm:blocks/cinistine_ore_2",
+    "north": "sotm:blocks/cinistine_ore_2",
+    "east": "sotm:blocks/cinistine_ore_2",
+    "south": "sotm:blocks/cinistine_ore_2",
+    "west": "sotm:blocks/cinistine_ore_2",
+    "particle": "sotm:blocks/cinistine_ore_2"
   }
 }

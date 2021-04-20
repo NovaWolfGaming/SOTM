@@ -1,8 +1,8 @@
 {
   "parent": "block/slab_top",
   "textures": {
-    "bottom": "sotm:blocks/carborite_remake_brick",
-    "top": "sotm:blocks/carborite_remake_brick",
-    "side": "sotm:blocks/carborite_remake_brick"
+    "bottom": "sotm:blocks/carboritebrick",
+    "top": "sotm:blocks/carboritebrick",
+    "side": "sotm:blocks/carboritebrick"
   }
 }

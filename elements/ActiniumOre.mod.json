@@ -2,7 +2,7 @@
   "_fv": 17,
   "_type": "block",
   "definition": {
-    "texture": "actinium_ore_carborite",
+    "texture": "actinium_ore_underworld",
     "textureTop": "",
     "textureLeft": "",
     "textureFront": "",
@@ -14,7 +14,6 @@
     "emissiveRendering": false,
     "displayFluidOverlay": false,
     "itemTexture": "",
-    "particleTexture": "",
     "tintType": "No tint",
     "isItemTinted": false,
     "hasTransparency": false,

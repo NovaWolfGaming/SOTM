@@ -2,7 +2,7 @@
   "_fv": 17,
   "_type": "block",
   "definition": {
-    "texture": "pumice_new",
+    "texture": "stone_pumice",
     "textureTop": "actinium_block",
     "textureLeft": "pumice",
     "textureFront": "pumice",
@@ -14,7 +14,6 @@
     "emissiveRendering": false,
     "displayFluidOverlay": false,
     "itemTexture": "",
-    "particleTexture": "",
     "tintType": "No tint",
     "isItemTinted": false,
     "hasTransparency": false,
@@ -104,11 +103,7 @@
     "spawnWorldTypes": [
       "Surface"
     ],
-    "restrictionBiomes": [
-      {
-        "value": "desert"
-      }
-    ],
+    "restrictionBiomes": [],
     "blocksToReplace": [
       {
         "value": "Blocks.STONE"
