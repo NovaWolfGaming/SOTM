@@ -34,14 +34,14 @@
     "customDrop": {
       "value": "Items.ENDER_PEARL"
     },
-    "dropAmount": 2,
+    "dropAmount": 1,
     "forceTicking": false,
     "emissiveRendering": false,
     "hasTileEntity": false,
     "isReplaceable": false,
     "colorOnMap": "DEFAULT",
     "creativePickItem": {
-      "value": "Items.ENDER_PEARL"
+      "value": "CUSTOM:EnderPlant"
     },
     "offsetType": "XZ",
     "aiPathNodeType": "DEFAULT",
@@ -50,7 +50,7 @@
     "jumpFactor": 1.0,
     "speedFactor": 1.0,
     "canBePlacedOn": [],
-    "frequencyOnChunks": 36,
+    "frequencyOnChunks": 30,
     "spawnWorldTypes": [
       "End",
       "CUSTOM:Underworld"
