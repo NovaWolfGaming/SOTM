@@ -2,7 +2,7 @@
   "_fv": 17,
   "_type": "block",
   "definition": {
-    "texture": "chiseled_phantom_chorus",
+    "texture": "phantom_chiseled_chorus_stone",
     "textureTop": "chiseled_bricks",
     "textureLeft": "chiseled_bricks",
     "textureFront": "chiseled_bricks",

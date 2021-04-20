@@ -1,7 +1,7 @@
 {
   "parent": "block/cube_all",
   "textures": {
-    "all": "sotm:blocks/rabidium_ore_carborite_on",
-    "particle": "sotm:blocks/rabidium_ore_carborite_on"
+    "all": "sotm:blocks/rabidium_ore",
+    "particle": "sotm:blocks/rabidium_ore"
   }
 }

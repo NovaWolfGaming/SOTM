@@ -1,28 +1,7 @@
 {
   "variants": {
-    "facing=south": {
+    "": {
       "model": "sotm:block/burningfuritepillar"
-    },
-    "facing=north": {
-      "model": "sotm:block/burningfuritepillar"
-    },
-    "facing=east": {
-      "model": "sotm:block/burningfuritepillar",
-      "x": 90
-    },
-    "facing=west": {
-      "model": "sotm:block/burningfuritepillar",
-      "x": 90
-    },
-    "facing=up": {
-      "model": "sotm:block/burningfuritepillar",
-      "x": 90,
-      "y": 90
-    },
-    "facing=down": {
-      "model": "sotm:block/burningfuritepillar",
-      "x": 90,
-      "y": 90
     }
   }
 }

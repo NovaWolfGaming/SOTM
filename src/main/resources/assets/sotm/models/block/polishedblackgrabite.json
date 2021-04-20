@@ -1,7 +1,12 @@
 {
-  "parent": "block/cube_all",
+  "parent": "block/cube",
   "textures": {
-    "all": "sotm:blocks/granite_polished_black",
-    "particle": "sotm:blocks/granite_polished_black"
+    "down": "sotm:blocks/stone_granite_black_smooth",
+    "up": "sotm:blocks/stone_granite_black_smooth",
+    "north": "sotm:blocks/stone_granite_black_smooth",
+    "east": "sotm:blocks/stone_granite_black_smooth",
+    "south": "sotm:blocks/stone_granite_black_smooth",
+    "west": "sotm:blocks/stone_granite_black_smooth",
+    "particle": "sotm:blocks/stone_granite_black_smooth"
   }
 }

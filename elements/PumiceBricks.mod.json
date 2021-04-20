@@ -2,7 +2,7 @@
   "_fv": 17,
   "_type": "block",
   "definition": {
-    "texture": "pumice_polished",
+    "texture": "stone_pumice_smooth",
     "textureTop": "pumice_bricks",
     "textureLeft": "pumice_bricks",
     "textureFront": "pumice_bricks",
@@ -14,7 +14,6 @@
     "emissiveRendering": false,
     "displayFluidOverlay": false,
     "itemTexture": "",
-    "particleTexture": "",
     "tintType": "No tint",
     "isItemTinted": false,
     "hasTransparency": false,

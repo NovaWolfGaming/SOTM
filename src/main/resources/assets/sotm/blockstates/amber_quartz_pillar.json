@@ -1,28 +1,7 @@
 {
   "variants": {
-    "facing=south": {
+    "": {
       "model": "sotm:block/amber_quartz_pillar"
-    },
-    "facing=north": {
-      "model": "sotm:block/amber_quartz_pillar"
-    },
-    "facing=east": {
-      "model": "sotm:block/amber_quartz_pillar",
-      "x": 90
-    },
-    "facing=west": {
-      "model": "sotm:block/amber_quartz_pillar",
-      "x": 90
-    },
-    "facing=up": {
-      "model": "sotm:block/amber_quartz_pillar",
-      "x": 90,
-      "y": 90
-    },
-    "facing=down": {
-      "model": "sotm:block/amber_quartz_pillar",
-      "x": 90,
-      "y": 90
     }
   }
 }

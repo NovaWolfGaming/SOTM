@@ -1,28 +1,7 @@
 {
   "variants": {
-    "facing=south": {
+    "": {
       "model": "sotm:block/cinistinepillar2"
-    },
-    "facing=north": {
-      "model": "sotm:block/cinistinepillar2"
-    },
-    "facing=east": {
-      "model": "sotm:block/cinistinepillar2",
-      "x": 90
-    },
-    "facing=west": {
-      "model": "sotm:block/cinistinepillar2",
-      "x": 90
-    },
-    "facing=up": {
-      "model": "sotm:block/cinistinepillar2",
-      "x": 90,
-      "y": 90
-    },
-    "facing=down": {
-      "model": "sotm:block/cinistinepillar2",
-      "x": 90,
-      "y": 90
     }
   }
 }

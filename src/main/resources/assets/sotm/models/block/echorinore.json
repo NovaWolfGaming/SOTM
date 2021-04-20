@@ -1,7 +1,12 @@
 {
-  "parent": "block/cube_all",
+  "parent": "block/cube",
   "textures": {
-    "all": "sotm:blocks/echorin_ore_carborite_on",
-    "particle": "sotm:blocks/echorin_ore_carborite_on"
+    "down": "sotm:blocks/echorin_ore",
+    "up": "sotm:blocks/echorin_ore",
+    "north": "sotm:blocks/echorin_ore",
+    "east": "sotm:blocks/echorin_ore",
+    "south": "sotm:blocks/echorin_ore",
+    "west": "sotm:blocks/echorin_ore",
+    "particle": "sotm:blocks/echorin_ore"
   }
 }

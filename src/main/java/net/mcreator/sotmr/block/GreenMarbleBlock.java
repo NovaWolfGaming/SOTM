@@ -114,19 +114,6 @@ public class GreenMarbleBlock extends SotmModElements.ModElement {
 	}
 	@SubscribeEvent
 	public void addFeatureToBiomes(BiomeLoadingEvent event) {
-		boolean biomeCriteria = false;
-		if (new ResourceLocation("plains").equals(event.getName()))
-			biomeCriteria = true;
-		if (new ResourceLocation("mountains").equals(event.getName()))
-			biomeCriteria = true;
-		if (new ResourceLocation("forest").equals(event.getName()))
-			biomeCriteria = true;
-		if (new ResourceLocation("taiga").equals(event.getName()))
-			biomeCriteria = true;
-		if (new ResourceLocation("river").equals(event.getName()))
-			biomeCriteria = true;
-		if (!biomeCriteria)
-			return;
 		event.getGeneration().getFeatures(GenerationStage.Decoration.UNDERGROUND_ORES).add(() -> configuredFeature);
 	}
 }
