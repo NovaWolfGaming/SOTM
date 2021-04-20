@@ -1,7 +1,7 @@
 {
   "parent": "block/cube_all",
   "textures": {
-    "all": "sotm:blocks/basalt",
-    "particle": "sotm:blocks/basalt"
+    "all": "sotm:blocks/darkstone",
+    "particle": "sotm:blocks/darkstone"
   }
 }

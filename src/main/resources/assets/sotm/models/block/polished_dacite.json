@@ -1,7 +1,7 @@
 {
   "parent": "block/cube_all",
   "textures": {
-    "all": "sotm:blocks/gabbro_brick",
-    "particle": "sotm:blocks/gabbro_brick"
+    "all": "sotm:blocks/gabbro_polished",
+    "particle": "sotm:blocks/gabbro_polished"
   }
 }

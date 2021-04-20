@@ -1,7 +1,7 @@
 {
   "parent": "block/cube_all",
   "textures": {
-    "all": "sotm:blocks/blackstone_brick",
-    "particle": "sotm:blocks/blackstone_brick"
+    "all": "sotm:blocks/voidstone_brick",
+    "particle": "sotm:blocks/voidstone_brick"
   }
 }

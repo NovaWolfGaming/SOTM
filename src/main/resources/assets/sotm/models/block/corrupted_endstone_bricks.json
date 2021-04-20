@@ -1,12 +1,7 @@
 {
-  "parent": "block/cube",
+  "parent": "block/cube_all",
   "textures": {
-    "down": "sotm:blocks/endstone_corrupted_bricks",
-    "up": "sotm:blocks/endstone_corrupted_bricks",
-    "north": "sotm:blocks/endstone_corrupted_bricks",
-    "east": "sotm:blocks/endstone_corrupted_bricks",
-    "south": "sotm:blocks/endstone_corrupted_bricks",
-    "west": "sotm:blocks/endstone_corrupted_bricks",
-    "particle": "sotm:blocks/endstone_corrupted_bricks"
+    "all": "sotm:blocks/endstone_brick_corrupted",
+    "particle": "sotm:blocks/endstone_brick_corrupted"
   }
 }

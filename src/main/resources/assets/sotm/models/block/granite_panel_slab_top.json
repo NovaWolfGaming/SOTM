@@ -1,0 +1,8 @@
+{
+  "parent": "block/slab_top",
+  "textures": {
+    "bottom": "sotm:blocks/kiln_bottop",
+    "top": "sotm:blocks/kiln_bottop",
+    "side": "sotm:blocks/kiln_side"
+  }
+}

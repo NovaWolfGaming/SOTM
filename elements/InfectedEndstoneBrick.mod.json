@@ -2,7 +2,7 @@
   "_fv": 17,
   "_type": "block",
   "definition": {
-    "texture": "infected_endstone_bricks",
+    "texture": "endstone_brick_infected",
     "textureTop": "endstone_corrupted_bricks",
     "textureLeft": "infected_endstone_bricks",
     "textureFront": "endstone_corrupted_bricks",
@@ -14,6 +14,7 @@
     "emissiveRendering": false,
     "displayFluidOverlay": false,
     "itemTexture": "",
+    "particleTexture": "",
     "tintType": "No tint",
     "isItemTinted": false,
     "hasTransparency": false,

@@ -2,7 +2,7 @@
   "_fv": 17,
   "_type": "block",
   "definition": {
-    "texture": "gabbro_brick",
+    "texture": "gabbro_polished",
     "textureTop": "stone_dacite_smooth",
     "textureLeft": "stone_dacite_smooth",
     "textureFront": "stone_dacite_smooth",
@@ -32,7 +32,7 @@
         "subtract": false
       }
     ],
-    "name": "Gabbro Brick",
+    "name": "Polished Gabbro",
     "specialInfo": [],
     "hardness": 1.0,
     "resistance": 10.0,

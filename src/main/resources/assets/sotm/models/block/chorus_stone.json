@@ -1,7 +1,7 @@
 {
   "parent": "block/cube_all",
   "textures": {
-    "all": "sotm:blocks/dacite",
-    "particle": "sotm:blocks/dacite"
+    "all": "sotm:blocks/dacite_new",
+    "particle": "sotm:blocks/dacite_new"
   }
 }

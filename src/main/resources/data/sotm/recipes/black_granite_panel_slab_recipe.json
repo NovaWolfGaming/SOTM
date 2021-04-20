@@ -1,0 +1,22 @@
+{
+  "group": "granite_sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "sotm:black_granite_panel"
+    },
+    "1": {
+      "item": "sotm:black_granite_panel"
+    },
+    "2": {
+      "item": "sotm:black_granite_panel"
+    }
+  },
+  "result": {
+    "item": "sotm:black_granite_panel_slab",
+    "count": 6
+  }
+}

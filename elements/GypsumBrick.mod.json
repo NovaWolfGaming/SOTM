@@ -2,7 +2,7 @@
   "_fv": 17,
   "_type": "block",
   "definition": {
-    "texture": "gypsum_brick",
+    "texture": "gypsum_polished",
     "textureTop": "saprolite_brick",
     "textureLeft": "saprolite_brick",
     "textureFront": "saprolite_brick",
@@ -32,7 +32,7 @@
         "subtract": false
       }
     ],
-    "name": "Gypsum Brick",
+    "name": "Polished Gypsum",
     "specialInfo": [],
     "hardness": 1.0,
     "resistance": 10.0,
