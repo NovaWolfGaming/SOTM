@@ -2,7 +2,7 @@
   "_fv": 17,
   "_type": "block",
   "definition": {
-    "texture": "dacite_brick",
+    "texture": "dacite_polished",
     "textureTop": "bukralt_tiles_2",
     "textureLeft": "bukralt_tiles_2",
     "textureFront": "bukralt_tiles_2",
@@ -32,7 +32,7 @@
         "subtract": false
       }
     ],
-    "name": "Dacite Tiles",
+    "name": "Polished Dacite",
     "specialInfo": [],
     "hardness": 1.0,
     "resistance": 10.0,

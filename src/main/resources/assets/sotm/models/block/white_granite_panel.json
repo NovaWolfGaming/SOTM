@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sotm:blocks/granite_polished_white",
+    "up": "sotm:blocks/granite_polished_white",
+    "north": "sotm:blocks/granite_panel_white",
+    "east": "sotm:blocks/granite_panel_white",
+    "south": "sotm:blocks/granite_panel_white",
+    "west": "sotm:blocks/granite_panel_white",
+    "particle": "sotm:blocks/granite_polished_white"
+  }
+}

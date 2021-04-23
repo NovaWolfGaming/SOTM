@@ -2,7 +2,7 @@
   "_fv": 17,
   "_type": "block",
   "definition": {
-    "texture": "blackstone_brick",
+    "texture": "voidstone_brick",
     "textureTop": "prefite_bricks",
     "textureLeft": "prefite_bricks",
     "textureFront": "prefite_bricks",

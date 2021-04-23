@@ -1,7 +1,7 @@
 {
   "parent": "block/cube_all",
   "textures": {
-    "all": "sotm:blocks/renite",
-    "particle": "sotm:blocks/renite"
+    "all": "sotm:blocks/renite_new",
+    "particle": "sotm:blocks/renite_new"
   }
 }

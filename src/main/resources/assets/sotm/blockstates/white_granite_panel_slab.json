@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "sotm:block/white_granite_panel_slab"
+    },
+    "type=top": {
+      "model": "sotm:block/white_granite_panel_slab_top"
+    },
+    "type=double": {
+      "model": "sotm:block/white_granite_panel_slab_full"
+    }
+  }
+}

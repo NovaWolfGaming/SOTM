@@ -1,7 +1,7 @@
 {
   "parent": "block/cube_all",
   "textures": {
-    "all": "sotm:blocks/dolomite",
-    "particle": "sotm:blocks/dolomite"
+    "all": "sotm:blocks/dolomite_new",
+    "particle": "sotm:blocks/dolomite_new"
   }
 }

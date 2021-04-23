@@ -1,12 +1,7 @@
 {
-  "parent": "block/cube",
+  "parent": "block/cube_all",
   "textures": {
-    "down": "sotm:blocks/infected_endstone",
-    "up": "sotm:blocks/infected_endstone",
-    "north": "sotm:blocks/infected_endstone",
-    "east": "sotm:blocks/infected_endstone",
-    "south": "sotm:blocks/infected_endstone",
-    "west": "sotm:blocks/infected_endstone",
-    "particle": "sotm:blocks/infected_endstone"
+    "all": "sotm:blocks/end_stone_infected",
+    "particle": "sotm:blocks/end_stone_infected"
   }
 }

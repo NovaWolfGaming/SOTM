@@ -2,10 +2,10 @@
   "_fv": 17,
   "_type": "block",
   "definition": {
-    "texture": "blackstone_smooth",
-    "textureTop": "blackstone_smooth",
+    "texture": "voidstone_polished",
+    "textureTop": "voidstone_polished",
     "textureLeft": "polished_blackstone",
-    "textureFront": "blackstone_smooth",
+    "textureFront": "voidstone_polished",
     "textureRight": "polished_blackstone",
     "textureBack": "polished_blackstone",
     "renderType": 11,

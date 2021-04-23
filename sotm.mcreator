@@ -22474,13 +22474,130 @@
       "registry_name": "pumice_actual_bricks"
     },
     {
-      "name": "SoulOre",
+      "name": "BlackGranitePanelSlab",
+      "type": "block",
+      "sortid": 2584,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "black_granite_panel_slab"
+    },
+    {
+      "name": "DaciteBricks",
       "type": "block",
       "sortid": 2574,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "soul_ore"
+      "registry_name": "dacite_bricks"
+    },
+    {
+      "name": "WhiteGranitePanel",
+      "type": "block",
+      "sortid": 2580,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "white_granite_panel"
+    },
+    {
+      "name": "WhiteGranitePanelSlab",
+      "type": "block",
+      "sortid": 2586,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "white_granite_panel_slab"
+    },
+    {
+      "name": "BlackGranitePanelRecipe",
+      "type": "recipe",
+      "sortid": 2579,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "black_granite_panel_recipe"
+    },
+    {
+      "name": "GranitePanelSlab",
+      "type": "block",
+      "sortid": 2582,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "granite_panel_slab"
+    },
+    {
+      "name": "DaciteBricksRecipe",
+      "type": "recipe",
+      "sortid": 2575,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dacite_bricks_recipe"
+    },
+    {
+      "name": "BlackGranitePanel",
+      "type": "block",
+      "sortid": 2578,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "black_granite_panel"
+    },
+    {
+      "name": "GranitePanelSlabRecipe",
+      "type": "recipe",
+      "sortid": 2583,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "granite_panel_slab_recipe"
+    },
+    {
+      "name": "WhiteGranitePanelSlabrecipe",
+      "type": "recipe",
+      "sortid": 2587,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "white_granite_panel_slabrecipe"
+    },
+    {
+      "name": "GranitePanel",
+      "type": "block",
+      "sortid": 2576,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "granite_panel"
+    },
+    {
+      "name": "GranitePanelRecipe",
+      "type": "recipe",
+      "sortid": 2577,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "granite_panel_recipe"
+    },
+    {
+      "name": "WhiteGranitePanelRecipe",
+      "type": "recipe",
+      "sortid": 2581,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "white_granite_panel_recipe"
+    },
+    {
+      "name": "BlackGranitePanelSlabRecipe",
+      "type": "recipe",
+      "sortid": 2585,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "black_granite_panel_slab_recipe"
     },
     {
       "name": "SoulOreBlockDestroyedByPlayer",
@@ -22510,6 +22627,15 @@
           }
         ]
       }
+    },
+    {
+      "name": "SoulOre",
+      "type": "block",
+      "sortid": 2574,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "soul_ore"
     }
   ],
   "variable_elements": [

@@ -1,7 +1,7 @@
 {
   "parent": "block/cube_all",
   "textures": {
-    "all": "sotm:blocks/gypsum",
-    "particle": "sotm:blocks/gypsum"
+    "all": "sotm:blocks/gypsum_new",
+    "particle": "sotm:blocks/gypsum_new"
   }
 }

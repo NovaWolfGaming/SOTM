@@ -2,7 +2,7 @@
   "_fv": 17,
   "_type": "block",
   "definition": {
-    "texture": "gypsum",
+    "texture": "gypsum_new",
     "textureTop": "saprolite",
     "textureLeft": "rhyolite",
     "textureFront": "rhyolite",
