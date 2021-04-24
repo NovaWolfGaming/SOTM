@@ -13,31 +13,30 @@ import net.minecraft.block.SoundType;
 import net.minecraft.block.BlockState;
 import net.minecraft.block.Block;
 
-import net.mcreator.sotmr.itemgroup.SOTMRocksAndStonesItemGroup;
 import net.mcreator.sotmr.SotmModElements;
 
 import java.util.List;
 import java.util.Collections;
 
 @SotmModElements.ModElement.Tag
-public class DaciteBricksBlock extends SotmModElements.ModElement {
-	@ObjectHolder("sotm:dacite_bricks")
+public class SuperSpaceMCBlock extends SotmModElements.ModElement {
+	@ObjectHolder("sotm:super_space_mc")
 	public static final Block block = null;
-	public DaciteBricksBlock(SotmModElements instance) {
-		super(instance, 2574);
+	public SuperSpaceMCBlock(SotmModElements instance) {
+		super(instance, 2590);
 	}
 
 	@Override
 	public void initElements() {
 		elements.blocks.add(() -> new CustomBlock());
-		elements.items.add(
-				() -> new BlockItem(block, new Item.Properties().group(SOTMRocksAndStonesItemGroup.tab)).setRegistryName(block.getRegistryName()));
+		elements.items.add(() -> new BlockItem(block, new Item.Properties().group(null)).setRegistryName(block.getRegistryName()));
 	}
 	public static class CustomBlock extends Block {
 		public CustomBlock() {
-			super(Block.Properties.create(Material.ROCK).sound(SoundType.STONE).hardnessAndResistance(1f, 10f).setLightLevel(s -> 0).harvestLevel(0)
-					.harvestTool(ToolType.PICKAXE).setRequiresTool());
-			setRegistryName("dacite_bricks");
+			super(Block.Properties.create(Material.WATER).sound(SoundType.GROUND).hardnessAndResistance(2.15f, 15.5f).setLightLevel(s -> 7)
+					.harvestLevel(2).harvestTool(ToolType.PICKAXE).setRequiresTool().setNeedsPostProcessing((bs, br, bp) -> true)
+					.setEmmisiveRendering((bs, br, bp) -> true));
+			setRegistryName("super_space_mc");
 		}
 
 		@Override

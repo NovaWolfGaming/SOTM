@@ -1,0 +1,26 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "sotm:lone_stone"
+    },
+    "1": {
+      "item": "sotm:lone_stone"
+    },
+    "2": {
+      "item": "sotm:lone_stone"
+    },
+    "3": {
+      "item": "sotm:lone_stone"
+    }
+  },
+  "result": {
+    "item": "sotm:polished_lonestone",
+    "count": 4
+  }
+}

@@ -20,11 +20,11 @@ import java.util.List;
 import java.util.Collections;
 
 @SotmModElements.ModElement.Tag
-public class DaciteBricksBlock extends SotmModElements.ModElement {
-	@ObjectHolder("sotm:dacite_bricks")
+public class PolishedLonestoneBlock extends SotmModElements.ModElement {
+	@ObjectHolder("sotm:polished_lonestone")
 	public static final Block block = null;
-	public DaciteBricksBlock(SotmModElements instance) {
-		super(instance, 2574);
+	public PolishedLonestoneBlock(SotmModElements instance) {
+		super(instance, 2588);
 	}
 
 	@Override
@@ -35,9 +35,9 @@ public class DaciteBricksBlock extends SotmModElements.ModElement {
 	}
 	public static class CustomBlock extends Block {
 		public CustomBlock() {
-			super(Block.Properties.create(Material.ROCK).sound(SoundType.STONE).hardnessAndResistance(1f, 10f).setLightLevel(s -> 0).harvestLevel(0)
+			super(Block.Properties.create(Material.ROCK).sound(SoundType.STONE).hardnessAndResistance(1f, 10f).setLightLevel(s -> 0).harvestLevel(1)
 					.harvestTool(ToolType.PICKAXE).setRequiresTool());
-			setRegistryName("dacite_bricks");
+			setRegistryName("polished_lonestone");
 		}
 
 		@Override
