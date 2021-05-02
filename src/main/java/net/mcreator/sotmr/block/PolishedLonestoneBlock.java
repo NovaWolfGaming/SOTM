@@ -4,20 +4,21 @@ package net.mcreator.sotmr.block;
 import net.minecraft.block.material.Material;
 
 @SotmModElements.ModElement.Tag
-public class MossyDarkOakPlanksBlock extends SotmModElements.ModElement {
+public class PolishedLonestoneBlock extends SotmModElements.ModElement {
 
-	@ObjectHolder("sotm:mossy_dark_oak_planks")
+	@ObjectHolder("sotm:polished_lonestone")
 	public static final Block block = null;
 
-	public MossyDarkOakPlanksBlock(SotmModElements instance) {
-		super(instance, 2597);
+	public PolishedLonestoneBlock(SotmModElements instance) {
+		super(instance, 2588);
 
 	}
 
 	@Override
 	public void initElements() {
 		elements.blocks.add(() -> new CustomBlock());
-		elements.items.add(() -> new BlockItem(block, new Item.Properties().group(SOTMBlocksItemGroup.tab)).setRegistryName(block.getRegistryName()));
+		elements.items.add(
+				() -> new BlockItem(block, new Item.Properties().group(SOTMRocksAndStonesItemGroup.tab)).setRegistryName(block.getRegistryName()));
 	}
 
 	public static class CustomBlock extends Block {
@@ -25,9 +26,10 @@ public class MossyDarkOakPlanksBlock extends SotmModElements.ModElement {
 		public CustomBlock() {
 			super(
 
-					Block.Properties.create(Material.WOOD).sound(SoundType.WOOD).hardnessAndResistance(1f, 10f).setLightLevel(s -> 0));
+					Block.Properties.create(Material.ROCK).sound(SoundType.STONE).hardnessAndResistance(1f, 10f).setLightLevel(s -> 0).harvestLevel(1)
+							.harvestTool(ToolType.PICKAXE).setRequiresTool());
 
-			setRegistryName("mossy_dark_oak_planks");
+			setRegistryName("polished_lonestone");
 		}
 
 		@Override

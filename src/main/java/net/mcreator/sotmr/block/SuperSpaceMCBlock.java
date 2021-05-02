@@ -4,20 +4,20 @@ package net.mcreator.sotmr.block;
 import net.minecraft.block.material.Material;
 
 @SotmModElements.ModElement.Tag
-public class MossyDarkOakPlanksBlock extends SotmModElements.ModElement {
+public class SuperSpaceMCBlock extends SotmModElements.ModElement {
 
-	@ObjectHolder("sotm:mossy_dark_oak_planks")
+	@ObjectHolder("sotm:super_space_mc")
 	public static final Block block = null;
 
-	public MossyDarkOakPlanksBlock(SotmModElements instance) {
-		super(instance, 2597);
+	public SuperSpaceMCBlock(SotmModElements instance) {
+		super(instance, 2590);
 
 	}
 
 	@Override
 	public void initElements() {
 		elements.blocks.add(() -> new CustomBlock());
-		elements.items.add(() -> new BlockItem(block, new Item.Properties().group(SOTMBlocksItemGroup.tab)).setRegistryName(block.getRegistryName()));
+		elements.items.add(() -> new BlockItem(block, new Item.Properties().group(null)).setRegistryName(block.getRegistryName()));
 	}
 
 	public static class CustomBlock extends Block {
@@ -25,9 +25,11 @@ public class MossyDarkOakPlanksBlock extends SotmModElements.ModElement {
 		public CustomBlock() {
 			super(
 
-					Block.Properties.create(Material.WOOD).sound(SoundType.WOOD).hardnessAndResistance(1f, 10f).setLightLevel(s -> 0));
+					Block.Properties.create(Material.WATER).sound(SoundType.GROUND).hardnessAndResistance(2.15f, 15.5f).setLightLevel(s -> 7)
+							.harvestLevel(2).harvestTool(ToolType.PICKAXE).setRequiresTool().setNeedsPostProcessing((bs, br, bp) -> true)
+							.setEmmisiveRendering((bs, br, bp) -> true));
 
-			setRegistryName("mossy_dark_oak_planks");
+			setRegistryName("super_space_mc");
 		}
 
 		@Override

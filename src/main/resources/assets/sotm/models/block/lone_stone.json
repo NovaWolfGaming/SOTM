@@ -1,12 +1,12 @@
 {
   "parent": "block/cube",
   "textures": {
-    "down": "sotm:blocks/lonestone_real",
-    "up": "sotm:blocks/lonestone_real",
-    "north": "sotm:blocks/lonestone_real",
-    "east": "sotm:blocks/lonestone_real",
-    "south": "sotm:blocks/lonestone_real",
-    "west": "sotm:blocks/lonestone_real",
-    "particle": "sotm:blocks/lonestone_real"
+    "down": "sotm:blocks/currentlonestone",
+    "up": "sotm:blocks/currentlonestone",
+    "north": "sotm:blocks/currentlonestone",
+    "east": "sotm:blocks/currentlonestone",
+    "south": "sotm:blocks/currentlonestone",
+    "west": "sotm:blocks/currentlonestone",
+    "particle": "sotm:blocks/currentlonestone"
   }
 }

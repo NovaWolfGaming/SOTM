@@ -1,17 +1,17 @@
 {
-  "_fv": 18,
+  "_fv": 17,
   "_type": "block",
   "definition": {
-    "texture": "currentlonestone",
-    "textureTop": "",
-    "textureLeft": "",
-    "textureFront": "",
-    "textureRight": "",
-    "textureBack": "",
-    "renderType": 10,
-    "customModelName": "Normal",
+    "texture": "space",
+    "textureTop": "glowing_obsidian_new_2",
+    "textureLeft": "glowing_obsidian_new_2",
+    "textureFront": "glowing_obsidian_new_2",
+    "textureRight": "glowing_obsidian_new_2",
+    "textureBack": "glowing_obsidian_new_2",
+    "renderType": 11,
+    "customModelName": "Single texture",
     "rotationMode": 0,
-    "emissiveRendering": false,
+    "emissiveRendering": true,
     "displayFluidOverlay": false,
     "itemTexture": "",
     "particleTexture": "",
@@ -32,14 +32,14 @@
         "subtract": false
       }
     ],
-    "name": "Lonestone",
+    "name": "space",
     "specialInfo": [],
-    "hardness": 1.0,
-    "resistance": 10.0,
+    "hardness": 2.15,
+    "resistance": 15.5,
     "hasGravity": false,
     "isWaterloggable": false,
     "creativeTab": {
-      "value": "CUSTOM:SOTMRocksAndStones"
+      "value": "No creative tab entry"
     },
     "destroyTool": "pickaxe",
     "customDrop": {
@@ -52,7 +52,7 @@
     "canProvidePower": false,
     "lightOpacity": 255,
     "material": {
-      "value": "ROCK"
+      "value": "WATER"
     },
     "tickRate": 10,
     "tickRandomly": false,
@@ -72,18 +72,18 @@
     "reactionToPushing": "NORMAL",
     "isNotColidable": false,
     "soundOnStep": {
-      "value": "STONE"
+      "value": "GROUND"
     },
-    "luminance": 0,
+    "luminance": 7,
     "unbreakable": false,
-    "breakHarvestLevel": 1,
+    "breakHarvestLevel": 2,
     "spawnParticles": false,
     "particleToSpawn": {
-      "value": "EXPLOSION_NORMAL"
+      "value": "CUSTOM:RedGlowingOr"
     },
     "particleSpawningShape": "Spread",
-    "particleSpawningRadious": 0.5,
-    "particleAmount": 4,
+    "particleSpawningRadious": 0.19999999850988387,
+    "particleAmount": 3,
     "hasInventory": false,
     "guiBoundTo": "<NONE>",
     "openGUIOnRightClick": false,
@@ -105,8 +105,8 @@
     "restrictionBiomes": [],
     "blocksToReplace": [],
     "frequencyPerChunks": 12,
-    "frequencyOnChunk": 32,
-    "minGenerateHeight": 0,
+    "frequencyOnChunk": 6,
+    "minGenerateHeight": 1,
     "maxGenerateHeight": 64
   }
 }

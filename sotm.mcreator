@@ -7,8 +7,7 @@
       "sortid": 1,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
-      "path": "~/Ores"
+      "ids": {}
     },
     {
       "name": "CopperOreBlock",
@@ -16,8 +15,7 @@
       "sortid": 41,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
-      "path": "~/Ores"
+      "ids": {}
     },
     {
       "name": "CopperIngot",
@@ -25,8 +23,7 @@
       "sortid": 335,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
-      "path": "~/Ores"
+      "ids": {}
     },
     {
       "name": "CopperOreBlockRecipe",
@@ -184,8 +181,7 @@
       "sortid": 2,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
-      "path": "~/Ores"
+      "ids": {}
     },
     {
       "name": "RubyOreBlock",
@@ -193,8 +189,7 @@
       "sortid": 42,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
-      "path": "~/Ores"
+      "ids": {}
     },
     {
       "name": "RubyGem",
@@ -202,8 +197,7 @@
       "sortid": 338,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
-      "path": "~/Ores"
+      "ids": {}
     },
     {
       "name": "RubyOreBlockRecipe",
@@ -681,8 +675,7 @@
       "sortid": 7,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
-      "path": "~/Ores"
+      "ids": {}
     },
     {
       "name": "BloodstoneBlock",
@@ -770,8 +763,7 @@
       "sortid": 8,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
-      "path": "~/Ores"
+      "ids": {}
     },
     {
       "name": "AmberOreBlock",
@@ -779,8 +771,7 @@
       "sortid": 43,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
-      "path": "~/Ores"
+      "ids": {}
     },
     {
       "name": "AmberGem",
@@ -970,8 +961,7 @@
       "sortid": 21,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
-      "path": "~/Ores"
+      "ids": {}
     },
     {
       "name": "CinistineIngot",
@@ -1051,8 +1041,7 @@
       "sortid": 22,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
-      "path": "~/Ores"
+      "ids": {}
     },
     {
       "name": "Crystalineblock",
@@ -1148,8 +1137,7 @@
       "sortid": 23,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
-      "path": "~/Ores"
+      "ids": {}
     },
     {
       "name": "BlockofCertus",
@@ -1440,8 +1428,7 @@
       "sortid": 27,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
-      "path": "~/Ores"
+      "ids": {}
     },
     {
       "name": "CinistinePillar2",
@@ -1513,8 +1500,7 @@
       "sortid": 28,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
-      "path": "~/Ores"
+      "ids": {}
     },
     {
       "name": "EchorinFuel",
@@ -1846,8 +1832,7 @@
       "sortid": 29,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
-      "path": "~/Ores"
+      "ids": {}
     },
     {
       "name": "EchorinBlock",
@@ -1879,8 +1864,7 @@
       "sortid": 30,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
-      "path": "~/Ores"
+      "ids": {}
     },
     {
       "name": "IronOreUnderworldToIronRecipe",
@@ -1904,8 +1888,7 @@
       "sortid": 31,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
-      "path": "~/Ores"
+      "ids": {}
     },
     {
       "name": "SilverOre",
@@ -1913,8 +1896,7 @@
       "sortid": 32,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
-      "path": "~/Ores"
+      "ids": {}
     },
     {
       "name": "UnderworldGoldOreRecipe1",
@@ -2042,8 +2024,7 @@
       "sortid": 771,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
-      "path": "~/Ores"
+      "ids": {}
     },
     {
       "name": "RedstoneOreOnUnderEntityWalksOnTheBlock",
@@ -2079,8 +2060,7 @@
       "sortid": 33,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
-      "path": "~/Ores"
+      "ids": {}
     },
     {
       "name": "RedstoneOreOnUnderUpdateTick",
@@ -2268,8 +2248,7 @@
       "sortid": 35,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
-      "path": "~/Ores"
+      "ids": {}
     },
     {
       "name": "RabidiumOreBlock",
@@ -2277,8 +2256,7 @@
       "sortid": 50,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
-      "path": "~/Ores"
+      "ids": {}
     },
     {
       "name": "RabidiumGem",
@@ -2444,8 +2422,7 @@
       "sortid": 36,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
-      "path": "~/Ores"
+      "ids": {}
     },
     {
       "name": "ActiniumOreBlock",
@@ -2453,8 +2430,7 @@
       "sortid": 51,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
-      "path": "~/Ores"
+      "ids": {}
     },
     {
       "name": "ActiniumIngot",
@@ -2620,8 +2596,7 @@
       "sortid": 37,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
-      "path": "~/Ores"
+      "ids": {}
     },
     {
       "name": "ActiniumSickle",
@@ -3046,8 +3021,7 @@
       "sortid": 38,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
-      "path": "~/Ores"
+      "ids": {}
     },
     {
       "name": "BurningFuriteBlock",
@@ -3143,8 +3117,7 @@
       "sortid": 39,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
-      "path": "~/Ores"
+      "ids": {}
     },
     {
       "name": "FuriteBlock",
@@ -3232,8 +3205,7 @@
       "sortid": 5,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
-      "path": "~/Ores"
+      "ids": {}
     },
     {
       "name": "NetherGoldOreRecipe",
@@ -3265,8 +3237,7 @@
       "sortid": 12,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
-      "path": "~/Ores"
+      "ids": {}
     },
     {
       "name": "DarkQuartzBlock",
@@ -3894,8 +3865,7 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "nether_steel_ore",
-      "path": "~/Ores"
+      "registry_name": "nether_steel_ore"
     },
     {
       "name": "Nether_SteelOreBlock",
@@ -3904,8 +3874,7 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "nether_steel_ore_block",
-      "path": "~/Ores"
+      "registry_name": "nether_steel_ore_block"
     },
     {
       "name": "Nether_SteelIngot",
@@ -4288,8 +4257,7 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "venomite_ore_ore",
-      "path": "~/Ores"
+      "registry_name": "venomite_ore_ore"
     },
     {
       "name": "VenomiteOreOreBlock",
@@ -4298,8 +4266,7 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "venomite_ore_ore_block",
-      "path": "~/Ores"
+      "registry_name": "venomite_ore_ore_block"
     },
     {
       "name": "VenomiteOreGem",
@@ -4308,8 +4275,7 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "venomite_ore_gem",
-      "path": "~/Ores"
+      "registry_name": "venomite_ore_gem"
     },
     {
       "name": "VenomiteOreOreBlockRecipe",
@@ -4504,8 +4470,7 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "sulphur_ore",
-      "path": "~/Ores"
+      "registry_name": "sulphur_ore"
     },
     {
       "name": "NetherwartNatural",
@@ -5638,8 +5603,7 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "fesline_ore",
-      "path": "~/Ores"
+      "registry_name": "fesline_ore"
     },
     {
       "name": "FeslineOreBlock",
@@ -5648,8 +5612,7 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "fesline_ore_block",
-      "path": "~/Ores"
+      "registry_name": "fesline_ore_block"
     },
     {
       "name": "FeslineIngot",
@@ -7029,8 +6992,7 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "sulphur_ore_2",
-      "path": "~/Ores"
+      "registry_name": "sulphur_ore_2"
     },
     {
       "name": "BurntFlower",
@@ -7820,8 +7782,7 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "amethyst_ore",
-      "path": "~/Ores"
+      "registry_name": "amethyst_ore"
     },
     {
       "name": "AmethystOreBlock",
@@ -7830,8 +7791,7 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "amethyst_ore_block",
-      "path": "~/Ores"
+      "registry_name": "amethyst_ore_block"
     },
     {
       "name": "AmethystOreBlockRecipe",
@@ -8017,8 +7977,7 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "rose_quartz_ore",
-      "path": "~/Ores"
+      "registry_name": "rose_quartz_ore"
     },
     {
       "name": "RoseQuartzBlock",
@@ -8126,8 +8085,7 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "sulphur_quartz_ore",
-      "path": "~/Ores"
+      "registry_name": "sulphur_quartz_ore"
     },
     {
       "name": "SulphurQuartzBlock",
@@ -8235,8 +8193,7 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "frosted_quartz_ore",
-      "path": "~/Ores"
+      "registry_name": "frosted_quartz_ore"
     },
     {
       "name": "FrostedQuartzBlock",
@@ -8344,8 +8301,7 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "amber_quartz_ore",
-      "path": "~/Ores"
+      "registry_name": "amber_quartz_ore"
     },
     {
       "name": "AmberQuartzBlock",
@@ -8453,8 +8409,7 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "crimson_quartz_ore",
-      "path": "~/Ores"
+      "registry_name": "crimson_quartz_ore"
     },
     {
       "name": "CrimsonQuartzBlock",
@@ -8562,8 +8517,7 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "venorum_quartz_ore",
-      "path": "~/Ores"
+      "registry_name": "venorum_quartz_ore"
     },
     {
       "name": "VenorumQuartzBlock",
@@ -8671,8 +8625,7 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "warped_quartz_ore",
-      "path": "~/Ores"
+      "registry_name": "warped_quartz_ore"
     },
     {
       "name": "WarpedQuartzBlock",
@@ -8852,8 +8805,7 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "frosted_crystaline_ore",
-      "path": "~/Ores"
+      "registry_name": "frosted_crystaline_ore"
     },
     {
       "name": "FrostedCrystalineBlock",
@@ -9291,8 +9243,7 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "obsidian_ore",
-      "path": "~/Ores"
+      "registry_name": "obsidian_ore"
     },
     {
       "name": "EnderStems",
@@ -9319,8 +9270,7 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "pyridium_ore",
-      "path": "~/Ores"
+      "registry_name": "pyridium_ore"
     },
     {
       "name": "PyridiumOreBlock",
@@ -9329,8 +9279,7 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "pyridium_ore_block",
-      "path": "~/Ores"
+      "registry_name": "pyridium_ore_block"
     },
     {
       "name": "PyridiumOreBlockRecipe",
@@ -10407,8 +10356,7 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "seraphyst_ore",
-      "path": "~/Ores"
+      "registry_name": "seraphyst_ore"
     },
     {
       "name": "EnderEchorinore",
@@ -10417,8 +10365,7 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "ender_echorinore",
-      "path": "~/Ores"
+      "registry_name": "ender_echorinore"
     },
     {
       "name": "Carborite2StoneRecipe",
@@ -10944,8 +10891,7 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "dragonstone_ore",
-      "path": "~/Ores"
+      "registry_name": "dragonstone_ore"
     },
     {
       "name": "DragonstoneOreBlock",
@@ -13523,8 +13469,7 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "copper_ore_underworld",
-      "path": "~/Ores"
+      "registry_name": "copper_ore_underworld"
     },
     {
       "name": "CopperOreSmelting2",
@@ -14081,8 +14026,7 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "artron_ore",
-      "path": "~/Ores"
+      "registry_name": "artron_ore"
     },
     {
       "name": "SonicScrewdriverRightClickedOnBlock",
@@ -15023,8 +14967,7 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "sirccillun_ore",
-      "path": "~/Ores"
+      "registry_name": "sirccillun_ore"
     },
     {
       "name": "SirccillunBlock",
@@ -18230,8 +18173,7 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "crystone_gold_ore",
-      "path": "~/Ores"
+      "registry_name": "crystone_gold_ore"
     },
     {
       "name": "Crystone_GoldBlock",
@@ -22696,121 +22638,13 @@
       "registry_name": "soul_ore"
     },
     {
-      "name": "MossyOakPlanks",
+      "name": "ChippedWarpedPlanks",
       "type": "block",
-      "sortid": 2588,
+      "sortid": 2619,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "mossy_oak_planks"
-    },
-    {
-      "name": "MossyOakPlanksRecipe",
-      "type": "recipe",
-      "sortid": 2589,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "mossy_oak_planks_recipe"
-    },
-    {
-      "name": "ChippedOakPlanks",
-      "type": "block",
-      "sortid": 2590,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "chipped_oak_planks"
-    },
-    {
-      "name": "ChippedOakPlanksRecipe",
-      "type": "recipe",
-      "sortid": 2591,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "chipped_oak_planks_recipe"
-    },
-    {
-      "name": "MossyBirchPlanks",
-      "type": "block",
-      "sortid": 2592,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "mossy_birch_planks"
-    },
-    {
-      "name": "MossyBirchPlanksRecipe",
-      "type": "recipe",
-      "sortid": 2594,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "mossy_birch_planks_recipe"
-    },
-    {
-      "name": "ChippedBirchPlanks",
-      "type": "block",
-      "sortid": 2595,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "chipped_birch_planks"
-    },
-    {
-      "name": "ChippedBirchPlanksRecipe",
-      "type": "recipe",
-      "sortid": 2596,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "chipped_birch_planks_recipe"
-    },
-    {
-      "name": "MossyDarkOakPlanks",
-      "type": "block",
-      "sortid": 2597,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "mossy_dark_oak_planks"
-    },
-    {
-      "name": "MossyDarkOakPlanksRecipe",
-      "type": "recipe",
-      "sortid": 2598,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "mossy_dark_oak_planks_recipe"
-    },
-    {
-      "name": "ChippedDarkOakPlanks",
-      "type": "block",
-      "sortid": 2599,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "chipped_dark_oak_planks"
-    },
-    {
-      "name": "ChippedDarkOakPlanksRecipe",
-      "type": "recipe",
-      "sortid": 2600,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "chipped_dark_oak_planks_recipe"
-    },
-    {
-      "name": "MossySprucePlanks",
-      "type": "block",
-      "sortid": 2601,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "mossy_spruce_planks"
+      "registry_name": "chipped_warped_planks"
     },
     {
       "name": "MossySprucePlanksRecipe",
@@ -22822,130 +22656,13 @@
       "registry_name": "mossy_spruce_planks_recipe"
     },
     {
-      "name": "ChippedSprucePlanks",
+      "name": "MossyPhantomLocustPlanks",
       "type": "block",
-      "sortid": 2603,
+      "sortid": 2637,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "chipped_spruce_planks"
-    },
-    {
-      "name": "ChippedSprucePlanksRecipe",
-      "type": "recipe",
-      "sortid": 2604,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "chipped_spruce_planks_recipe"
-    },
-    {
-      "name": "MossyJunglePlanks",
-      "type": "block",
-      "sortid": 2605,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "mossy_jungle_planks"
-    },
-    {
-      "name": "MossyJunglePlanksRecipe",
-      "type": "recipe",
-      "sortid": 2606,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "mossy_jungle_planks_recipe"
-    },
-    {
-      "name": "ChippedJunglePlanks",
-      "type": "block",
-      "sortid": 2607,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "chipped_jungle_planks"
-    },
-    {
-      "name": "ChippedJunglePlanksRecipe",
-      "type": "recipe",
-      "sortid": 2608,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "chipped_jungle_planks_recipe"
-    },
-    {
-      "name": "MossyAcaciaPlanks",
-      "type": "block",
-      "sortid": 2609,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "mossy_acacia_planks"
-    },
-    {
-      "name": "MossyAcaciaPlanksRecipe",
-      "type": "recipe",
-      "sortid": 2610,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "mossy_acacia_planks_recipe"
-    },
-    {
-      "name": "ChippedAcaciaPlanks",
-      "type": "block",
-      "sortid": 2611,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "chipped_acacia_planks"
-    },
-    {
-      "name": "ChippedAcaciaPlanksRecipe",
-      "type": "recipe",
-      "sortid": 2612,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "chipped_acacia_planks_recipe"
-    },
-    {
-      "name": "MossyCrimsonPlanks",
-      "type": "block",
-      "sortid": 2613,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "mossy_crimson_planks"
-    },
-    {
-      "name": "MossyCrimsonPlanksRecipe",
-      "type": "recipe",
-      "sortid": 2614,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "mossy_crimson_planks_recipe"
-    },
-    {
-      "name": "ChippedCrimsonPlanks",
-      "type": "block",
-      "sortid": 2615,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "chipped_crimson_planks"
-    },
-    {
-      "name": "ChippedCrimsonPlanksRecipe",
-      "type": "recipe",
-      "sortid": 2616,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "chipped_crimson_planks_recipe"
+      "registry_name": "mossy_phantom_locust_planks"
     },
     {
       "name": "MossyWarpedPlanks",
@@ -22957,76 +22674,22 @@
       "registry_name": "mossy_warped_planks"
     },
     {
-      "name": "MossyWarpedPlanksRecipe",
+      "name": "MossyDragonFirPlanksRecipe",
       "type": "recipe",
-      "sortid": 2618,
+      "sortid": 2642,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "mossy_warped_planks_recipe"
+      "registry_name": "mossy_dragon_fir_planks_recipe"
     },
     {
-      "name": "ChippedWarpedPlanks",
+      "name": "ChippedCrimsonPlanks",
       "type": "block",
-      "sortid": 2619,
+      "sortid": 2615,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "chipped_warped_planks"
-    },
-    {
-      "name": "ChippedWarpedPlanksRecipe",
-      "type": "recipe",
-      "sortid": 2620,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "chipped_warped_planks_recipe"
-    },
-    {
-      "name": "PigLeatherRecipe",
-      "type": "recipe",
-      "sortid": 2621,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "pig_leather_recipe"
-    },
-    {
-      "name": "LeatherBallRecipe",
-      "type": "recipe",
-      "sortid": 2622,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "leather_ball_recipe"
-    },
-    {
-      "name": "NetherBeastLeatherRecipe",
-      "type": "recipe",
-      "sortid": 2623,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "nether_beast_leather_recipe"
-    },
-    {
-      "name": "HoglinLeatherRecipe",
-      "type": "recipe",
-      "sortid": 2624,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "hoglin_leather_recipe"
-    },
-    {
-      "name": "MossyWalnutPlanks",
-      "type": "block",
-      "sortid": 2625,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "mossy_walnut_planks"
+      "registry_name": "chipped_crimson_planks"
     },
     {
       "name": "MossyWalnutPlanksRecipe",
@@ -23038,87 +22701,6 @@
       "registry_name": "mossy_walnut_planks_recipe"
     },
     {
-      "name": "ChippedWalnutPlanks",
-      "type": "block",
-      "sortid": 2627,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "chipped_walnut_planks"
-    },
-    {
-      "name": "ChippedWalnutPlanksRecipe",
-      "type": "recipe",
-      "sortid": 2628,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "chipped_walnut_planks_recipe"
-    },
-    {
-      "name": "MossyMushroomYellowPlanks",
-      "type": "block",
-      "sortid": 2629,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "mossy_mushroom_yellow_planks"
-    },
-    {
-      "name": "MossyMushroomYellowRecipe",
-      "type": "recipe",
-      "sortid": 2630,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "mossy_mushroom_yellow_recipe"
-    },
-    {
-      "name": "ChippedMushroomYellow",
-      "type": "block",
-      "sortid": 2631,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "chipped_mushroom_yellow"
-    },
-    {
-      "name": "ChippedMushroomYellowRecipe",
-      "type": "recipe",
-      "sortid": 2632,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "chipped_mushroom_yellow_recipe"
-    },
-    {
-      "name": "MossyTwistedMaplePlanks",
-      "type": "block",
-      "sortid": 2633,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "mossy_twisted_maple_planks"
-    },
-    {
-      "name": "MossyTwistedMaplePlanksRecipe",
-      "type": "recipe",
-      "sortid": 2634,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "mossy_twisted_maple_planks_recipe"
-    },
-    {
-      "name": "ChippedTwistedMaplePlanks",
-      "type": "block",
-      "sortid": 2635,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "chipped_twisted_maple_planks"
-    },
-    {
       "name": "ChippedTwistedMaplePlanksRecipe",
       "type": "recipe",
       "sortid": 2636,
@@ -23128,148 +22710,40 @@
       "registry_name": "chipped_twisted_maple_planks_recipe"
     },
     {
-      "name": "MossyPhantomLocustPlanks",
+      "name": "ChippedAcaciaPlanks",
       "type": "block",
-      "sortid": 2637,
+      "sortid": 2611,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "mossy_phantom_locust_planks"
+      "registry_name": "chipped_acacia_planks"
     },
     {
-      "name": "MossyPhantomLocustPlanksRecipe",
-      "type": "recipe",
-      "sortid": 2638,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "mossy_phantom_locust_planks_recipe"
-    },
-    {
-      "name": "ChippedPhantomLocustPlanks",
+      "name": "MossyBloodAlderPlanks",
       "type": "block",
-      "sortid": 2639,
+      "sortid": 2665,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "chipped_phantom_locust_planks"
+      "registry_name": "mossy_blood_alder_planks"
     },
     {
-      "name": "ChippedPhantomLocustPlanksRecipe",
-      "type": "recipe",
-      "sortid": 2640,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "chipped_phantom_locust_planks_recipe"
-    },
-    {
-      "name": "MossyDragonFirPlanks",
+      "name": "ChippedLightOakPlanks",
       "type": "block",
-      "sortid": 2641,
+      "sortid": 2678,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "mossy_dragon_fir_planks"
+      "registry_name": "chipped_light_oak_planks"
     },
     {
-      "name": "MossyDragonFirPlanksRecipe",
-      "type": "recipe",
-      "sortid": 2642,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "mossy_dragon_fir_planks_recipe"
-    },
-    {
-      "name": "ChippedDragonFirPlanks",
+      "name": "MossyAcaciaPlanks",
       "type": "block",
-      "sortid": 2643,
+      "sortid": 2609,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "chipped_dragon_fir_planks"
-    },
-    {
-      "name": "ChippedDragonFirPlanksRecipe",
-      "type": "recipe",
-      "sortid": 2644,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "chipped_dragon_fir_planks_recipe"
-    },
-    {
-      "name": "MossyMushroomBlackPlanks",
-      "type": "block",
-      "sortid": 2645,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "mossy_mushroom_black_planks"
-    },
-    {
-      "name": "MossyMushroomBlackPlanksRecipe",
-      "type": "recipe",
-      "sortid": 2646,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "mossy_mushroom_black_planks_recipe"
-    },
-    {
-      "name": "ChippedMushroomBlackPlanks",
-      "type": "block",
-      "sortid": 2647,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "chipped_mushroom_black_planks"
-    },
-    {
-      "name": "ChippedMushroomBlackPlanksRecipe",
-      "type": "recipe",
-      "sortid": 2648,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "chipped_mushroom_black_planks_recipe"
-    },
-    {
-      "name": "MossyCherryWoodPlanks",
-      "type": "block",
-      "sortid": 2649,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "mossy_cherry_wood_planks"
-    },
-    {
-      "name": "MossyCherryWoodPlanksRecipe",
-      "type": "recipe",
-      "sortid": 2650,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "mossy_cherry_wood_planks_recipe"
-    },
-    {
-      "name": "ChippedCherryWoodPlanks",
-      "type": "block",
-      "sortid": 2651,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "chipped_cherry_wood_planks"
-    },
-    {
-      "name": "ChippedCherryWoodPlanksRecipe",
-      "type": "recipe",
-      "sortid": 2652,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "chipped_cherry_wood_planks_recipe"
+      "registry_name": "mossy_acacia_planks"
     },
     {
       "name": "MossyAshwoodPlanks",
@@ -23281,40 +22755,94 @@
       "registry_name": "mossy_ashwood_planks"
     },
     {
-      "name": "MossyAshwoodPlanksRecipe",
-      "type": "recipe",
-      "sortid": 2654,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "mossy_ashwood_planks_recipe"
-    },
-    {
-      "name": "ChippedAshwoodPlanks",
+      "name": "ChippedWalnutPlanks",
       "type": "block",
-      "sortid": 2655,
+      "sortid": 2627,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "chipped_ashwood_planks"
+      "registry_name": "chipped_walnut_planks"
     },
     {
-      "name": "ChippedAshwoodPlanksRecipe",
-      "type": "recipe",
-      "sortid": 2656,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "chipped_ashwood_planks_recipe"
-    },
-    {
-      "name": "MossyBambooPlanks",
+      "name": "ChippedBirchPlanks",
       "type": "block",
-      "sortid": 2657,
+      "sortid": 2595,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "mossy_bamboo_planks"
+      "registry_name": "chipped_birch_planks"
+    },
+    {
+      "name": "PumiceActualBricksSCRecipe",
+      "type": "recipe",
+      "sortid": 2675,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pumice_actual_bricks_sc_recipe"
+    },
+    {
+      "name": "MossyDarkOakPlanksRecipe",
+      "type": "recipe",
+      "sortid": 2598,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mossy_dark_oak_planks_recipe"
+    },
+    {
+      "name": "MossyWalnutPlanks",
+      "type": "block",
+      "sortid": 2625,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mossy_walnut_planks"
+    },
+    {
+      "name": "MossyLightOakPlanks",
+      "type": "block",
+      "sortid": 2676,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mossy_light_oak_planks"
+    },
+    {
+      "name": "ChippedDragonFirPlanksRecipe",
+      "type": "recipe",
+      "sortid": 2644,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chipped_dragon_fir_planks_recipe"
+    },
+    {
+      "name": "SmoothedPolishedBlackGranite",
+      "type": "block",
+      "sortid": 2669,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "smoothed_polished_black_granite"
+    },
+    {
+      "name": "ChippedSprucePlanksRecipe",
+      "type": "recipe",
+      "sortid": 2604,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chipped_spruce_planks_recipe"
+    },
+    {
+      "name": "ChippedCherryWoodPlanks",
+      "type": "block",
+      "sortid": 2651,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chipped_cherry_wood_planks"
     },
     {
       "name": "MossyBambooPlanksRecipe",
@@ -23324,6 +22852,87 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "mossy_bamboo_planks_recipe"
+    },
+    {
+      "name": "ChippedAssidiumPlanksRecipe",
+      "type": "recipe",
+      "sortid": 2664,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chipped_assidium_planks_recipe"
+    },
+    {
+      "name": "ChippedMushroomBlackPlanks",
+      "type": "block",
+      "sortid": 2647,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chipped_mushroom_black_planks"
+    },
+    {
+      "name": "MossyOakPlanks",
+      "type": "block",
+      "sortid": 2588,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mossy_oak_planks"
+    },
+    {
+      "name": "SmoothedPolishedGraniteRecipe",
+      "type": "recipe",
+      "sortid": 2674,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "smoothed_polished_granite_recipe"
+    },
+    {
+      "name": "MossyWarpedPlanksRecipe",
+      "type": "recipe",
+      "sortid": 2618,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mossy_warped_planks_recipe"
+    },
+    {
+      "name": "MossyMushroomBlackPlanksRecipe",
+      "type": "recipe",
+      "sortid": 2646,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mossy_mushroom_black_planks_recipe"
+    },
+    {
+      "name": "SmoothedPolishedBlackGraniteRecipe",
+      "type": "recipe",
+      "sortid": 2672,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "smoothed_polished_black_granite_recipe"
+    },
+    {
+      "name": "MossyDragonFirPlanks",
+      "type": "block",
+      "sortid": 2641,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mossy_dragon_fir_planks"
+    },
+    {
+      "name": "MossyAshwoodPlanksRecipe",
+      "type": "recipe",
+      "sortid": 2654,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mossy_ashwood_planks_recipe"
     },
     {
       "name": "ChippedBambooPlanks",
@@ -23344,6 +22953,33 @@
       "registry_name": "chipped_bamboo_planks_recipe"
     },
     {
+      "name": "NetherBeastLeatherRecipe",
+      "type": "recipe",
+      "sortid": 2623,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "nether_beast_leather_recipe"
+    },
+    {
+      "name": "MossyCrimsonPlanksRecipe",
+      "type": "recipe",
+      "sortid": 2614,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mossy_crimson_planks_recipe"
+    },
+    {
+      "name": "ChippedCherryWoodPlanksRecipe",
+      "type": "recipe",
+      "sortid": 2652,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chipped_cherry_wood_planks_recipe"
+    },
+    {
       "name": "MossyAssidiumPlanks",
       "type": "block",
       "sortid": 2661,
@@ -23351,42 +22987,6 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "mossy_assidium_planks"
-    },
-    {
-      "name": "MossyAssidiumPlanksRecipe",
-      "type": "recipe",
-      "sortid": 2662,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "mossy_assidium_planks_recipe"
-    },
-    {
-      "name": "ChippedAssidiumPlanks",
-      "type": "block",
-      "sortid": 2663,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "chipped_assidium_planks"
-    },
-    {
-      "name": "ChippedAssidiumPlanksRecipe",
-      "type": "recipe",
-      "sortid": 2664,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "chipped_assidium_planks_recipe"
-    },
-    {
-      "name": "MossyBloodAlderPlanks",
-      "type": "block",
-      "sortid": 2665,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "mossy_blood_alder_planks"
     },
     {
       "name": "MossyBloodAlderPlanksRecipe",
@@ -23398,6 +22998,159 @@
       "registry_name": "mossy_blood_alder_planks_recipe"
     },
     {
+      "name": "ChippedOakPlanks",
+      "type": "block",
+      "sortid": 2590,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chipped_oak_planks"
+    },
+    {
+      "name": "ChippedWalnutPlanksRecipe",
+      "type": "recipe",
+      "sortid": 2628,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chipped_walnut_planks_recipe"
+    },
+    {
+      "name": "MossyCherryWoodPlanksRecipe",
+      "type": "recipe",
+      "sortid": 2650,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mossy_cherry_wood_planks_recipe"
+    },
+    {
+      "name": "ChippedCrimsonPlanksRecipe",
+      "type": "recipe",
+      "sortid": 2616,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chipped_crimson_planks_recipe"
+    },
+    {
+      "name": "ChippedAshwoodPlanksRecipe",
+      "type": "recipe",
+      "sortid": 2656,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chipped_ashwood_planks_recipe"
+    },
+    {
+      "name": "MossyCherryWoodPlanks",
+      "type": "block",
+      "sortid": 2649,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mossy_cherry_wood_planks"
+    },
+    {
+      "name": "MossyDarkOakPlanks",
+      "type": "block",
+      "sortid": 2597,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mossy_dark_oak_planks"
+    },
+    {
+      "name": "MossyMushroomYellowPlanks",
+      "type": "block",
+      "sortid": 2629,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mossy_mushroom_yellow_planks"
+    },
+    {
+      "name": "ChippedAssidiumPlanks",
+      "type": "block",
+      "sortid": 2663,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chipped_assidium_planks"
+    },
+    {
+      "name": "ChippedBirchPlanksRecipe",
+      "type": "recipe",
+      "sortid": 2596,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chipped_birch_planks_recipe"
+    },
+    {
+      "name": "MossyBirchPlanksRecipe",
+      "type": "recipe",
+      "sortid": 2594,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mossy_birch_planks_recipe"
+    },
+    {
+      "name": "MossyTwistedMaplePlanks",
+      "type": "block",
+      "sortid": 2633,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mossy_twisted_maple_planks"
+    },
+    {
+      "name": "MossyAssidiumPlanksRecipe",
+      "type": "recipe",
+      "sortid": 2662,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mossy_assidium_planks_recipe"
+    },
+    {
+      "name": "LeatherBallRecipe",
+      "type": "recipe",
+      "sortid": 2622,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "leather_ball_recipe"
+    },
+    {
+      "name": "HoglinLeatherRecipe",
+      "type": "recipe",
+      "sortid": 2624,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "hoglin_leather_recipe"
+    },
+    {
+      "name": "ChippedDarkOakPlanksRecipe",
+      "type": "recipe",
+      "sortid": 2600,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chipped_dark_oak_planks_recipe"
+    },
+    {
+      "name": "MossyJunglePlanks",
+      "type": "block",
+      "sortid": 2605,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mossy_jungle_planks"
+    },
+    {
       "name": "ChippedBloodAlderPlanks",
       "type": "block",
       "sortid": 2667,
@@ -23407,31 +23160,58 @@
       "registry_name": "chipped_blood_alder_planks"
     },
     {
-      "name": "ChippedBloodAlderPlanksRecipe",
+      "name": "ChippedOakPlanksRecipe",
       "type": "recipe",
-      "sortid": 2668,
+      "sortid": 2591,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "chipped_blood_alder_planks_recipe"
+      "registry_name": "chipped_oak_planks_recipe"
     },
     {
-      "name": "SmoothedPolishedBlackGranite",
+      "name": "ChippedSprucePlanks",
       "type": "block",
-      "sortid": 2669,
+      "sortid": 2603,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "smoothed_polished_black_granite"
+      "registry_name": "chipped_spruce_planks"
     },
     {
-      "name": "SmoothedPolishedWhiteGranite",
+      "name": "MossyMushroomBlackPlanks",
       "type": "block",
-      "sortid": 2670,
+      "sortid": 2645,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "smoothed_polished_white_granite"
+      "registry_name": "mossy_mushroom_black_planks"
+    },
+    {
+      "name": "ChippedJunglePlanks",
+      "type": "block",
+      "sortid": 2607,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chipped_jungle_planks"
+    },
+    {
+      "name": "MossyTwistedMaplePlanksRecipe",
+      "type": "recipe",
+      "sortid": 2634,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mossy_twisted_maple_planks_recipe"
+    },
+    {
+      "name": "ChippedDragonFirPlanks",
+      "type": "block",
+      "sortid": 2643,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chipped_dragon_fir_planks"
     },
     {
       "name": "SmoothedPolishedGranite",
@@ -23443,13 +23223,31 @@
       "registry_name": "smoothed_polished_granite"
     },
     {
-      "name": "SmoothedPolishedBlackGraniteRecipe",
-      "type": "recipe",
-      "sortid": 2672,
+      "name": "MossyBirchPlanks",
+      "type": "block",
+      "sortid": 2592,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "smoothed_polished_black_granite_recipe"
+      "registry_name": "mossy_birch_planks"
+    },
+    {
+      "name": "MossySprucePlanks",
+      "type": "block",
+      "sortid": 2601,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mossy_spruce_planks"
+    },
+    {
+      "name": "ChippedAshwoodPlanks",
+      "type": "block",
+      "sortid": 2655,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chipped_ashwood_planks"
     },
     {
       "name": "SmoothedPolishedWhiteGraniteRecipe",
@@ -23461,31 +23259,130 @@
       "registry_name": "smoothed_polished_white_granite_recipe"
     },
     {
-      "name": "SmoothedPolishedGraniteRecipe",
-      "type": "recipe",
-      "sortid": 2674,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "smoothed_polished_granite_recipe"
-    },
-    {
-      "name": "PumiceActualBricksSCRecipe",
-      "type": "recipe",
-      "sortid": 2675,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "pumice_actual_bricks_sc_recipe"
-    },
-    {
-      "name": "MossyLightOakPlanks",
+      "name": "ChippedPhantomLocustPlanks",
       "type": "block",
-      "sortid": 2676,
+      "sortid": 2639,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "mossy_light_oak_planks"
+      "registry_name": "chipped_phantom_locust_planks"
+    },
+    {
+      "name": "PigLeatherRecipe",
+      "type": "recipe",
+      "sortid": 2621,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pig_leather_recipe"
+    },
+    {
+      "name": "ChippedPhantomLocustPlanksRecipe",
+      "type": "recipe",
+      "sortid": 2640,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chipped_phantom_locust_planks_recipe"
+    },
+    {
+      "name": "MossyJunglePlanksRecipe",
+      "type": "recipe",
+      "sortid": 2606,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mossy_jungle_planks_recipe"
+    },
+    {
+      "name": "ChippedMushroomYellowRecipe",
+      "type": "recipe",
+      "sortid": 2632,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chipped_mushroom_yellow_recipe"
+    },
+    {
+      "name": "ChippedMushroomBlackPlanksRecipe",
+      "type": "recipe",
+      "sortid": 2648,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chipped_mushroom_black_planks_recipe"
+    },
+    {
+      "name": "MossyBambooPlanks",
+      "type": "block",
+      "sortid": 2657,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mossy_bamboo_planks"
+    },
+    {
+      "name": "ChippedAcaciaPlanksRecipe",
+      "type": "recipe",
+      "sortid": 2612,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chipped_acacia_planks_recipe"
+    },
+    {
+      "name": "MossyCrimsonPlanks",
+      "type": "block",
+      "sortid": 2613,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mossy_crimson_planks"
+    },
+    {
+      "name": "ChippedTwistedMaplePlanks",
+      "type": "block",
+      "sortid": 2635,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chipped_twisted_maple_planks"
+    },
+    {
+      "name": "ChippedDarkOakPlanks",
+      "type": "block",
+      "sortid": 2599,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chipped_dark_oak_planks"
+    },
+    {
+      "name": "ChippedMushroomYellow",
+      "type": "block",
+      "sortid": 2631,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chipped_mushroom_yellow"
+    },
+    {
+      "name": "ChippedLightOakPlanksRecipe",
+      "type": "recipe",
+      "sortid": 2679,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chipped_light_oak_planks_recipe"
+    },
+    {
+      "name": "MossyOakPlanksRecipe",
+      "type": "recipe",
+      "sortid": 2589,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mossy_oak_planks_recipe"
     },
     {
       "name": "MossyLightOakPlanksRecipe",
@@ -23497,22 +23394,94 @@
       "registry_name": "mossy_light_oak_planks_recipe"
     },
     {
-      "name": "ChippedLightOakPlanks",
-      "type": "block",
-      "sortid": 2678,
+      "name": "MossyAcaciaPlanksRecipe",
+      "type": "recipe",
+      "sortid": 2610,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "chipped_light_oak_planks"
+      "registry_name": "mossy_acacia_planks_recipe"
     },
     {
-      "name": "ChippedLightOakPlanksRecipe",
-      "type": "recipe",
-      "sortid": 2679,
+      "name": "SmoothedPolishedWhiteGranite",
+      "type": "block",
+      "sortid": 2670,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "chipped_light_oak_planks_recipe"
+      "registry_name": "smoothed_polished_white_granite"
+    },
+    {
+      "name": "ChippedBloodAlderPlanksRecipe",
+      "type": "recipe",
+      "sortid": 2668,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chipped_blood_alder_planks_recipe"
+    },
+    {
+      "name": "ChippedJunglePlanksRecipe",
+      "type": "recipe",
+      "sortid": 2608,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chipped_jungle_planks_recipe"
+    },
+    {
+      "name": "MossyMushroomYellowRecipe",
+      "type": "recipe",
+      "sortid": 2630,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mossy_mushroom_yellow_recipe"
+    },
+    {
+      "name": "MossyPhantomLocustPlanksRecipe",
+      "type": "recipe",
+      "sortid": 2638,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mossy_phantom_locust_planks_recipe"
+    },
+    {
+      "name": "ChippedWarpedPlanksRecipe",
+      "type": "recipe",
+      "sortid": 2620,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chipped_warped_planks_recipe"
+    },
+    {
+      "name": "PolishedLonestoneCraft",
+      "type": "recipe",
+      "sortid": 2589,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "polished_lonestone_craft"
+    },
+    {
+      "name": "PolishedLonestone",
+      "type": "block",
+      "sortid": 2588,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "polished_lonestone"
+    },
+    {
+      "name": "SuperSpaceMC",
+      "type": "block",
+      "sortid": 2590,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "super_space_mc"
     }
   ],
   "variable_elements": [
@@ -25717,5 +25686,5 @@
     "modElementsPackage": "net.mcreator.sotmr",
     "lockBaseModFiles": false
   },
-  "mcreatorVersion": 202100116710
+  "mcreatorVersion": 202100112313
 }

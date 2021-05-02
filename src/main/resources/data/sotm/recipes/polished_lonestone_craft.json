@@ -7,20 +7,20 @@
   ],
   "key": {
     "0": {
-      "item": "minecraft:polished_granite"
+      "item": "sotm:lone_stone"
     },
     "1": {
-      "item": "minecraft:polished_granite"
+      "item": "sotm:lone_stone"
     },
     "2": {
-      "item": "minecraft:polished_granite"
+      "item": "sotm:lone_stone"
     },
     "3": {
-      "item": "minecraft:polished_granite"
+      "item": "sotm:lone_stone"
     }
   },
   "result": {
     "item": "sotm:deleted_mod_element",
-    "count": 1
+    "count": 4
   }
 }
