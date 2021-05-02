@@ -1,9 +1,9 @@
 {
-  "_fv": 17,
+  "_fv": 18,
   "_type": "tool",
   "definition": {
     "renderType": 0,
-    "texture": "billon_axe",
+    "texture": "billion_axe_2",
     "customModelName": "Normal",
     "name": "Billon Axe",
     "specialInfo": [],

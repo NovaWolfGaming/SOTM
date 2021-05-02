@@ -1,0 +1,16 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "sotm:bone_knife"
+    },
+    {
+      "item": "sotm:twisted_maple_planks"
+    }
+  ],
+  "result": {
+    "item": "sotm:chipped_twisted_maple_planks",
+    "count": 1
+  }
+}

@@ -1,5 +1,5 @@
 {
-  "_fv": 17,
+  "_fv": 18,
   "_type": "armor",
   "definition": {
     "enableHelmet": true,
@@ -7,9 +7,9 @@
     "enableBody": true,
     "textureBody": "billon_chestplate",
     "enableLeggings": true,
-    "textureLeggings": "billon_leggings",
+    "textureLeggings": "billion_leggings_2",
     "enableBoots": true,
-    "textureBoots": "billon_boots",
+    "textureBoots": "billion_boots_2",
     "creativeTab": {
       "value": "CUSTOM:ToolsAndWeapons"
     },

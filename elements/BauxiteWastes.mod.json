@@ -1,5 +1,5 @@
 {
-  "_fv": 17,
+  "_fv": 18,
   "_type": "biome",
   "definition": {
     "name": "Bauxite Wastes",
@@ -102,7 +102,8 @@
       "Structures",
       "Ores",
       "Lakes",
-      "DeadBushes"
+      "DeadBushes",
+      "FrozenTopLayer"
     ],
     "spawnEntries": []
   }

@@ -1,8 +1,8 @@
 {
   "parent": "block/slab_top",
   "textures": {
-    "bottom": "sotm:blocks/phantom_chorus_brick",
-    "top": "sotm:blocks/phantom_chorus_brick",
-    "side": "sotm:blocks/phantom_chorus_brick"
+    "bottom": "sotm:blocks/chorus_stone_bricks_phantom",
+    "top": "sotm:blocks/chorus_stone_bricks_phantom",
+    "side": "sotm:blocks/chorus_stone_bricks_phantom"
   }
 }

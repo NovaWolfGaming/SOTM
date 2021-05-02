@@ -1,6 +1,6 @@
 {
   "parent": "item/handheld",
   "textures": {
-    "layer0": "sotm:items/billon_axe"
+    "layer0": "sotm:items/billion_axe_2"
   }
 }

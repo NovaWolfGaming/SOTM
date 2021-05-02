@@ -1,12 +1,7 @@
 {
-  "parent": "block/cube",
+  "parent": "block/cube_all",
   "textures": {
-    "down": "sotm:blocks/phantom_chorus_stone",
-    "up": "sotm:blocks/phantom_chorus_stone",
-    "north": "sotm:blocks/phantom_chorus_stone",
-    "east": "sotm:blocks/phantom_chorus_stone",
-    "south": "sotm:blocks/phantom_chorus_stone",
-    "west": "sotm:blocks/phantom_chorus_stone",
-    "particle": "sotm:blocks/phantom_chorus_stone"
+    "all": "sotm:blocks/chorus_stone_phantom",
+    "particle": "sotm:blocks/chorus_stone_phantom"
   }
 }

@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "sotm:blocks/blood_alder_planks_chipped",
+    "particle": "sotm:blocks/blood_alder_planks_chipped"
+  }
+}

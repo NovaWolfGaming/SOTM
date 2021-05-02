@@ -1,5 +1,5 @@
 {
-  "_fv": 17,
+  "_fv": 18,
   "_type": "biome",
   "definition": {
     "name": "Bone Stem Deltas",
@@ -86,7 +86,8 @@
       "Structures",
       "Ores",
       "Lakes",
-      "Fossils"
+      "Fossils",
+      "FrozenTopLayer"
     ],
     "spawnEntries": [
       {

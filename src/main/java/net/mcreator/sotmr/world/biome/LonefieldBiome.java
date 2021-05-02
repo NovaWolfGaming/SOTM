@@ -95,6 +95,7 @@ public class LonefieldBiome extends SotmModElements.ModElement {
 																LoneDirtBlock.block.getDefaultState())))
 										.withPlacement(Features.Placements.SEAGRASS_DISK_PLACEMENT).func_242731_b(1));
 				DefaultBiomeFeatures.withCavesAndCanyons(biomeGenerationSettings);
+				DefaultBiomeFeatures.withFrozenTopLayer(biomeGenerationSettings);
 				MobSpawnInfo.Builder mobSpawnInfo = new MobSpawnInfo.Builder().isValidSpawnBiomeForPlayer();
 				biome = new Biome.Builder().precipitation(Biome.RainType.RAIN).category(Biome.Category.DESERT).depth(0.1f).scale(0.1f)
 						.temperature(0.5f).downfall(0.5f).setEffects(effects).withMobSpawnSettings(mobSpawnInfo.copy())

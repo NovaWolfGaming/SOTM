@@ -1,0 +1,16 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "sotm:bone_knife"
+    },
+    {
+      "item": "sotm:assidium_wood_planks"
+    }
+  ],
+  "result": {
+    "item": "sotm:chipped_assidium_planks",
+    "count": 1
+  }
+}

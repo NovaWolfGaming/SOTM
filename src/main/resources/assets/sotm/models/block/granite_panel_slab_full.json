@@ -1,7 +1,7 @@
 {
   "parent": "block/cube_bottom_top",
   "textures": {
-    "bottom": "sotm:blocks/kiln_bottop",
+    "bottom": "sotm:blocks/granite_polished_smoothed",
     "top": "sotm:blocks/kiln_bottop",
     "side": "sotm:blocks/kiln_side"
   }

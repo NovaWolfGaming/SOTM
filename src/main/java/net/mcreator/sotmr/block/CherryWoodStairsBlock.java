@@ -3,7 +3,6 @@ package net.mcreator.sotmr.block;
 
 import net.minecraftforge.registries.ObjectHolder;
 import net.minecraftforge.fml.event.lifecycle.FMLClientSetupEvent;
-import net.minecraftforge.common.ToolType;
 import net.minecraftforge.api.distmarker.OnlyIn;
 import net.minecraftforge.api.distmarker.Dist;
 
@@ -49,9 +48,9 @@ public class CherryWoodStairsBlock extends SotmModElements.ModElement {
 	}
 	public static class CustomBlock extends StairsBlock {
 		public CustomBlock() {
-			super(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1f, 10f)).getDefaultState(),
-					Block.Properties.create(Material.WOOD).sound(SoundType.WOOD).hardnessAndResistance(1f, 10f).setLightLevel(s -> 0).harvestLevel(0)
-							.harvestTool(ToolType.AXE).setRequiresTool().notSolid().setOpaque((bs, br, bp) -> false));
+			super(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(0.5f, 10f)).getDefaultState(),
+					Block.Properties.create(Material.WOOD).sound(SoundType.WOOD).hardnessAndResistance(0.5f, 10f).setLightLevel(s -> 0).notSolid()
+							.setOpaque((bs, br, bp) -> false));
 			setRegistryName("cherry_wood_stairs");
 		}
 

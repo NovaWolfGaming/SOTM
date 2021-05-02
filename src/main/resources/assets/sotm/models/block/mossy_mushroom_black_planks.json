@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "sotm:blocks/darklight_planks_mossy",
+    "particle": "sotm:blocks/darklight_planks_mossy"
+  }
+}

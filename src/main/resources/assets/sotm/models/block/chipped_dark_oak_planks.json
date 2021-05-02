@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "sotm:blocks/dark_oak_planks_chipped",
+    "particle": "sotm:blocks/dark_oak_planks_chipped"
+  }
+}

@@ -1,7 +1,7 @@
 {
   "parent": "block/cube_all",
   "textures": {
-    "all": "sotm:blocks/plastic_block_light_blue",
-    "particle": "sotm:blocks/plastic_block_light_blue"
+    "all": "sotm:blocks/plastic_light_blue_new",
+    "particle": "sotm:blocks/plastic_light_blue_new"
   }
 }

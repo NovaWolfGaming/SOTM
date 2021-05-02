@@ -1,12 +1,12 @@
 {
   "parent": "block/cube",
   "textures": {
-    "down": "sotm:blocks/kiln_bottop",
+    "down": "sotm:blocks/granite_polished_smoothed",
     "up": "sotm:blocks/kiln_bottop",
     "north": "sotm:blocks/kiln_side",
     "east": "sotm:blocks/kiln_side",
     "south": "sotm:blocks/kiln_side",
     "west": "sotm:blocks/kiln_side",
-    "particle": "sotm:blocks/kiln_bottop"
+    "particle": "sotm:blocks/granite_polished_smoothed"
   }
 }

@@ -1,0 +1,26 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "sotm:leather_ball"
+    },
+    "1": {
+      "item": "sotm:leather_ball"
+    },
+    "2": {
+      "item": "sotm:leather_ball"
+    },
+    "3": {
+      "item": "sotm:leather_ball"
+    }
+  },
+  "result": {
+    "item": "minecraft:leather",
+    "count": 1
+  }
+}

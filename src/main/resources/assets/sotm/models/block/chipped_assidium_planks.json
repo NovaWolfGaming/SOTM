@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "sotm:blocks/assidium_planks_chipped",
+    "particle": "sotm:blocks/assidium_planks_chipped"
+  }
+}

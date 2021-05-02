@@ -1,18 +1,20 @@
 {
-  "_fv": 17,
+  "_fv": 18,
   "_type": "block",
   "definition": {
-    "texture": "pespil_ore",
+    "texture": "pespil_ore_carborite_on",
     "textureTop": "pespil_ore",
     "textureLeft": "pespil_ore",
     "textureFront": "pespil_ore",
     "textureRight": "pespil_ore",
     "textureBack": "pespil_ore",
-    "renderType": 10,
-    "customModelName": "Normal",
+    "renderType": 11,
+    "customModelName": "Single texture",
     "rotationMode": 0,
     "emissiveRendering": false,
     "displayFluidOverlay": false,
+    "itemTexture": "",
+    "particleTexture": "",
     "tintType": "No tint",
     "isItemTinted": false,
     "hasTransparency": false,
@@ -98,6 +100,7 @@
     "energyMaxExtract": 200,
     "isFluidTank": false,
     "fluidCapacity": 8000,
+    "fluidRestrictions": [],
     "spawnWorldTypes": [
       "CUSTOM:Underworld"
     ],

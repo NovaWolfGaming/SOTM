@@ -106,8 +106,8 @@ public class OrangeMarble2Block extends SotmModElements.ModElement {
 					return super.generate(world, generator, rand, pos, config);
 				}
 			};
-			configuredFeature = feature.withConfiguration(new OreFeatureConfig(CustomRuleTest.INSTANCE, block.getDefaultState(), 25)).range(125)
-					.square().func_242731_b(25);
+			configuredFeature = feature.withConfiguration(new OreFeatureConfig(CustomRuleTest.INSTANCE, block.getDefaultState(), 25)).range(79)
+					.square().func_242731_b(10);
 			event.getRegistry().register(feature.setRegistryName("orange_marble_2"));
 			Registry.register(WorldGenRegistries.CONFIGURED_FEATURE, new ResourceLocation("sotm:orange_marble_2"), configuredFeature);
 		}

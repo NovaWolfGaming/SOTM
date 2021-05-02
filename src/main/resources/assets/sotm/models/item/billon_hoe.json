@@ -1,6 +1,6 @@
 {
   "parent": "item/handheld",
   "textures": {
-    "layer0": "sotm:items/billon_hoe"
+    "layer0": "sotm:items/billion_hoe_2"
   }
 }

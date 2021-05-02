@@ -1,18 +1,20 @@
 {
-  "_fv": 17,
+  "_fv": 18,
   "_type": "block",
   "definition": {
-    "texture": "redstone_ore_off",
+    "texture": "redstone_ore_carborite",
     "textureTop": "redstone_ore_off",
     "textureLeft": "redstone_ore_off",
     "textureFront": "redstone_ore_off",
     "textureRight": "redstone_ore_off",
     "textureBack": "redstone_ore_off",
-    "renderType": 10,
-    "customModelName": "Normal",
+    "renderType": 11,
+    "customModelName": "Single texture",
     "rotationMode": 0,
     "emissiveRendering": false,
     "displayFluidOverlay": false,
+    "itemTexture": "",
+    "particleTexture": "",
     "tintType": "No tint",
     "isItemTinted": false,
     "hasTransparency": false,
@@ -98,6 +100,7 @@
     "energyMaxExtract": 200,
     "isFluidTank": false,
     "fluidCapacity": 8000,
+    "fluidRestrictions": [],
     "onEntityWalksOn": {
       "name": "RedstoneOreOnUnderEntityWalksOnTheBlock"
     },

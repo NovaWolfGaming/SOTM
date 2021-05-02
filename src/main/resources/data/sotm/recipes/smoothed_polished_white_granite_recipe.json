@@ -1,0 +1,26 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "sotm:polishedwhitegranite"
+    },
+    "1": {
+      "item": "sotm:polishedwhitegranite"
+    },
+    "2": {
+      "item": "sotm:polishedwhitegranite"
+    },
+    "3": {
+      "item": "sotm:polishedwhitegranite"
+    }
+  },
+  "result": {
+    "item": "sotm:smoothed_polished_white_granite",
+    "count": 1
+  }
+}

@@ -6,14 +6,10 @@ import net.minecraftforge.fml.network.NetworkHooks;
 import net.minecraftforge.fml.network.FMLPlayMessages;
 import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;
 import net.minecraftforge.fml.event.lifecycle.FMLCommonSetupEvent;
-import net.minecraftforge.fml.client.registry.RenderingRegistry;
-import net.minecraftforge.fml.DeferredWorkQueue;
 import net.minecraftforge.eventbus.api.SubscribeEvent;
 import net.minecraftforge.event.world.BiomeLoadingEvent;
+import net.minecraftforge.event.entity.EntityAttributeCreationEvent;
 import net.minecraftforge.common.MinecraftForge;
-import net.minecraftforge.client.event.ModelRegistryEvent;
-import net.minecraftforge.api.distmarker.OnlyIn;
-import net.minecraftforge.api.distmarker.Dist;
 
 import net.minecraft.world.gen.Heightmap;
 import net.minecraft.world.biome.MobSpawnInfo;
@@ -36,25 +32,21 @@ import net.minecraft.entity.ai.goal.NearestAttackableTargetGoal;
 import net.minecraft.entity.ai.goal.MeleeAttackGoal;
 import net.minecraft.entity.ai.goal.LookRandomlyGoal;
 import net.minecraft.entity.ai.goal.HurtByTargetGoal;
-import net.minecraft.entity.ai.attributes.GlobalEntityTypeAttributes;
 import net.minecraft.entity.ai.attributes.Attributes;
 import net.minecraft.entity.ai.attributes.AttributeModifierMap;
 import net.minecraft.entity.MobEntity;
 import net.minecraft.entity.EntityType;
 import net.minecraft.entity.EntitySpawnPlacementRegistry;
 import net.minecraft.entity.EntityClassification;
-import net.minecraft.entity.Entity;
 import net.minecraft.entity.CreatureEntity;
 import net.minecraft.entity.CreatureAttribute;
-import net.minecraft.client.renderer.entity.model.BipedModel;
-import net.minecraft.client.renderer.entity.layers.BipedArmorLayer;
-import net.minecraft.client.renderer.entity.BipedRenderer;
 import net.minecraft.block.BlockState;
 
 import net.mcreator.sotmr.itemgroup.SOTMMobsItemGroup;
 import net.mcreator.sotmr.item.RoseGoldSwordItem;
 import net.mcreator.sotmr.item.RoseGoldNuggetsItem;
 import net.mcreator.sotmr.item.RoseArmorItem;
+import net.mcreator.sotmr.entity.renderer.SheeplinBruteRenderer;
 import net.mcreator.sotmr.SotmModElements;
 
 @SotmModElements.ModElement.Tag
@@ -62,7 +54,8 @@ public class SheeplinBruteEntity extends SotmModElements.ModElement {
 	public static EntityType entity = null;
 	public SheeplinBruteEntity(SotmModElements instance) {
 		super(instance, 1937);
-		FMLJavaModLoadingContext.get().getModEventBus().register(new ModelRegisterHandler());
+		FMLJavaModLoadingContext.get().getModEventBus().register(new SheeplinBruteRenderer.ModelRegisterHandler());
+		FMLJavaModLoadingContext.get().getModEventBus().register(new EntityAttributesRegisterHandler());
 		MinecraftForge.EVENT_BUS.register(this);
 	}
 
@@ -90,36 +83,23 @@ public class SheeplinBruteEntity extends SotmModElements.ModElement {
 
 	@Override
 	public void init(FMLCommonSetupEvent event) {
-		DeferredWorkQueue.runLater(this::setupAttributes);
 		EntitySpawnPlacementRegistry.register(entity, EntitySpawnPlacementRegistry.PlacementType.NO_RESTRICTIONS,
 				Heightmap.Type.MOTION_BLOCKING_NO_LEAVES, MobEntity::canSpawnOn);
 	}
-	private static class ModelRegisterHandler {
+	private static class EntityAttributesRegisterHandler {
 		@SubscribeEvent
-		@OnlyIn(Dist.CLIENT)
-		public void registerModels(ModelRegistryEvent event) {
-			RenderingRegistry.registerEntityRenderingHandler(entity, renderManager -> {
-				BipedRenderer customRender = new BipedRenderer(renderManager, new BipedModel(0), 0.5f) {
-					@Override
-					public ResourceLocation getEntityTexture(Entity entity) {
-						return new ResourceLocation("sotm:textures/sheepling.png");
-					}
-				};
-				customRender.addLayer(new BipedArmorLayer(customRender, new BipedModel(0.5f), new BipedModel(1)));
-				return customRender;
-			});
+		public void onEntityAttributeCreation(EntityAttributeCreationEvent event) {
+			AttributeModifierMap.MutableAttribute ammma = MobEntity.func_233666_p_();
+			ammma = ammma.createMutableAttribute(Attributes.MOVEMENT_SPEED, 0.4);
+			ammma = ammma.createMutableAttribute(Attributes.MAX_HEALTH, 20);
+			ammma = ammma.createMutableAttribute(Attributes.ARMOR, 1);
+			ammma = ammma.createMutableAttribute(Attributes.ATTACK_DAMAGE, 5);
+			ammma = ammma.createMutableAttribute(Attributes.KNOCKBACK_RESISTANCE, 0.1);
+			ammma = ammma.createMutableAttribute(Attributes.ATTACK_KNOCKBACK, 0.3);
+			event.put(entity, ammma.create());
 		}
 	}
-	private void setupAttributes() {
-		AttributeModifierMap.MutableAttribute ammma = MobEntity.func_233666_p_();
-		ammma = ammma.createMutableAttribute(Attributes.MOVEMENT_SPEED, 0.4);
-		ammma = ammma.createMutableAttribute(Attributes.MAX_HEALTH, 20);
-		ammma = ammma.createMutableAttribute(Attributes.ARMOR, 1);
-		ammma = ammma.createMutableAttribute(Attributes.ATTACK_DAMAGE, 5);
-		ammma = ammma.createMutableAttribute(Attributes.KNOCKBACK_RESISTANCE, 0.1);
-		ammma = ammma.createMutableAttribute(Attributes.ATTACK_KNOCKBACK, 0.3);
-		GlobalEntityTypeAttributes.put(entity, ammma.create());
-	}
+
 	public static class CustomEntity extends CreatureEntity {
 		public CustomEntity(FMLPlayMessages.SpawnEntity packet, World world) {
 			this(entity, world);

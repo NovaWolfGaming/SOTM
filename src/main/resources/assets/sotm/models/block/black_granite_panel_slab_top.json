@@ -2,7 +2,7 @@
   "parent": "block/slab_top",
   "textures": {
     "bottom": "sotm:blocks/granite_polished_black",
-    "top": "sotm:blocks/granite_polished_black",
+    "top": "sotm:blocks/black_granite_polished2",
     "side": "sotm:blocks/granite_panel_black"
   }
 }

@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "sotm:blocks/jungle_planks_chipped",
+    "particle": "sotm:blocks/jungle_planks_chipped"
+  }
+}

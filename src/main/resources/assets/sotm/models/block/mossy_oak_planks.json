@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sotm:blocks/oak_planks_mossy",
+    "up": "sotm:blocks/oak_planks_mossy",
+    "north": "sotm:blocks/oak_planks_mossy",
+    "east": "sotm:blocks/oak_planks_mossy",
+    "south": "sotm:blocks/oak_planks_mossy",
+    "west": "sotm:blocks/oak_planks_mossy",
+    "particle": "sotm:blocks/oak_planks_mossy"
+  }
+}

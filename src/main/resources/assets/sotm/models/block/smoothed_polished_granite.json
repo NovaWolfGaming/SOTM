@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "sotm:blocks/granite_polished_smoothed",
+    "particle": "sotm:blocks/granite_polished_smoothed"
+  }
+}

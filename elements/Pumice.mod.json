@@ -1,8 +1,8 @@
 {
-  "_fv": 17,
+  "_fv": 18,
   "_type": "block",
   "definition": {
-    "texture": "stone_pumice",
+    "texture": "pumice_new",
     "textureTop": "actinium_block",
     "textureLeft": "pumice",
     "textureFront": "pumice",
@@ -14,6 +14,7 @@
     "emissiveRendering": false,
     "displayFluidOverlay": false,
     "itemTexture": "",
+    "particleTexture": "",
     "tintType": "No tint",
     "isItemTinted": false,
     "hasTransparency": false,

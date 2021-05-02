@@ -1,0 +1,16 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:vine"
+    },
+    {
+      "item": "sotm:dragon_fir_planks"
+    }
+  ],
+  "result": {
+    "item": "sotm:mossy_dragon_fir_planks",
+    "count": 1
+  }
+}

@@ -1,9 +1,9 @@
 {
-  "_fv": 17,
+  "_fv": 18,
   "_type": "item",
   "definition": {
     "renderType": 0,
-    "texture": "billon_ingot",
+    "texture": "billion_ingot_2",
     "customModelName": "Normal",
     "name": "Billon Ingot",
     "rarity": "COMMON",

@@ -1,8 +1,8 @@
 {
-  "_fv": 17,
+  "_fv": 18,
   "_type": "block",
   "definition": {
-    "texture": "phantom_chorus_brick",
+    "texture": "chorus_stone_bricks_phantom",
     "textureTop": "chorus_bricks",
     "textureLeft": "chorus_bricks",
     "textureFront": "chorus_bricks",

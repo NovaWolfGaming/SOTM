@@ -1,11 +1,11 @@
 {
-  "_fv": 17,
+  "_fv": 18,
   "_type": "block",
   "definition": {
-    "texture": "stone_granite_black_smooth",
-    "textureTop": "stone_granite_black_smooth",
+    "texture": "black_granite_polished_3",
+    "textureTop": "black_granite_polished_3",
     "textureLeft": "stone_granite_black_smooth",
-    "textureFront": "stone_granite_black_smooth",
+    "textureFront": "black_granite_polished_3",
     "textureRight": "stone_granite_black_smooth",
     "textureBack": "stone_granite_black_smooth",
     "renderType": 11,
@@ -13,6 +13,8 @@
     "rotationMode": 0,
     "emissiveRendering": false,
     "displayFluidOverlay": false,
+    "itemTexture": "",
+    "particleTexture": "",
     "blockBase": "Slab",
     "tintType": "No tint",
     "isItemTinted": false,
@@ -99,6 +101,7 @@
     "energyMaxExtract": 200,
     "isFluidTank": false,
     "fluidCapacity": 8000,
+    "fluidRestrictions": [],
     "spawnWorldTypes": [],
     "restrictionBiomes": [],
     "blocksToReplace": [

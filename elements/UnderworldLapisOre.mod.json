@@ -1,18 +1,20 @@
 {
-  "_fv": 17,
+  "_fv": 18,
   "_type": "block",
   "definition": {
-    "texture": "underworld_lapis_ore",
+    "texture": "lapis_ore_carborite",
     "textureTop": "underworld_lapis_ore",
     "textureLeft": "underworld_lapis_ore",
     "textureFront": "underworld_lapis_ore",
     "textureRight": "underworld_lapis_ore",
     "textureBack": "underworld_lapis_ore",
-    "renderType": 10,
-    "customModelName": "Normal",
+    "renderType": 11,
+    "customModelName": "Single texture",
     "rotationMode": 0,
     "emissiveRendering": false,
     "displayFluidOverlay": false,
+    "itemTexture": "",
+    "particleTexture": "",
     "tintType": "No tint",
     "isItemTinted": false,
     "hasTransparency": false,
@@ -98,6 +100,7 @@
     "energyMaxExtract": 200,
     "isFluidTank": false,
     "fluidCapacity": 8000,
+    "fluidRestrictions": [],
     "spawnWorldTypes": [
       "CUSTOM:Underworld"
     ],

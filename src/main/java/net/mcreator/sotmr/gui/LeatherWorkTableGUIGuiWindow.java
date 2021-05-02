@@ -1,8 +1,6 @@
 
 package net.mcreator.sotmr.gui;
 
-import org.lwjgl.opengl.GL11;
-
 import net.minecraftforge.api.distmarker.OnlyIn;
 import net.minecraftforge.api.distmarker.Dist;
 
@@ -18,6 +16,7 @@ import net.minecraft.client.Minecraft;
 
 import net.mcreator.sotmr.SotmMod;
 
+import com.mojang.blaze3d.systems.RenderSystem;
 import com.mojang.blaze3d.matrix.MatrixStack;
 
 @OnlyIn(Dist.CLIENT)
@@ -44,14 +43,17 @@ public class LeatherWorkTableGUIGuiWindow extends ContainerScreen<LeatherWorkTab
 	}
 
 	@Override
-	protected void drawGuiContainerBackgroundLayer(MatrixStack ms, float par1, int par2, int par3) {
-		GL11.glColor4f(1, 1, 1, 1);
+	protected void drawGuiContainerBackgroundLayer(MatrixStack ms, float partialTicks, int gx, int gy) {
+		RenderSystem.color4f(1, 1, 1, 1);
+		RenderSystem.enableBlend();
+		RenderSystem.defaultBlendFunc();
 		Minecraft.getInstance().getTextureManager().bindTexture(texture);
 		int k = (this.width - this.xSize) / 2;
 		int l = (this.height - this.ySize) / 2;
 		this.blit(ms, k, l, 0, 0, this.xSize, this.ySize, this.xSize, this.ySize);
 		Minecraft.getInstance().getTextureManager().bindTexture(new ResourceLocation("sotm:textures/arrow_gui.png"));
 		this.blit(ms, this.guiLeft + 9, this.guiTop + 17, 0, 0, 130, 68, 130, 68);
+		RenderSystem.disableBlend();
 	}
 
 	@Override
@@ -84,8 +86,10 @@ public class LeatherWorkTableGUIGuiWindow extends ContainerScreen<LeatherWorkTab
 		super.init(minecraft, width, height);
 		minecraft.keyboardListener.enableRepeatEvents(true);
 		this.addButton(new Button(this.guiLeft + 119, this.guiTop + 18, 50, 20, new StringTextComponent("Craft"), e -> {
-			SotmMod.PACKET_HANDLER.sendToServer(new LeatherWorkTableGUIGui.ButtonPressedMessage(0, x, y, z));
-			LeatherWorkTableGUIGui.handleButtonAction(entity, 0, x, y, z);
+			if (true) {
+				SotmMod.PACKET_HANDLER.sendToServer(new LeatherWorkTableGUIGui.ButtonPressedMessage(0, x, y, z));
+				LeatherWorkTableGUIGui.handleButtonAction(entity, 0, x, y, z);
+			}
 		}));
 	}
 }

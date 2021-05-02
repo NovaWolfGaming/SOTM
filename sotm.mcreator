@@ -7,7 +7,8 @@
       "sortid": 1,
       "compiles": true,
       "locked_code": false,
-      "ids": {}
+      "ids": {},
+      "path": "~/Ores"
     },
     {
       "name": "CopperOreBlock",
@@ -15,7 +16,8 @@
       "sortid": 41,
       "compiles": true,
       "locked_code": false,
-      "ids": {}
+      "ids": {},
+      "path": "~/Ores"
     },
     {
       "name": "CopperIngot",
@@ -23,7 +25,8 @@
       "sortid": 335,
       "compiles": true,
       "locked_code": false,
-      "ids": {}
+      "ids": {},
+      "path": "~/Ores"
     },
     {
       "name": "CopperOreBlockRecipe",
@@ -181,7 +184,8 @@
       "sortid": 2,
       "compiles": true,
       "locked_code": false,
-      "ids": {}
+      "ids": {},
+      "path": "~/Ores"
     },
     {
       "name": "RubyOreBlock",
@@ -189,7 +193,8 @@
       "sortid": 42,
       "compiles": true,
       "locked_code": false,
-      "ids": {}
+      "ids": {},
+      "path": "~/Ores"
     },
     {
       "name": "RubyGem",
@@ -197,7 +202,8 @@
       "sortid": 338,
       "compiles": true,
       "locked_code": false,
-      "ids": {}
+      "ids": {},
+      "path": "~/Ores"
     },
     {
       "name": "RubyOreBlockRecipe",
@@ -675,7 +681,8 @@
       "sortid": 7,
       "compiles": true,
       "locked_code": false,
-      "ids": {}
+      "ids": {},
+      "path": "~/Ores"
     },
     {
       "name": "BloodstoneBlock",
@@ -763,7 +770,8 @@
       "sortid": 8,
       "compiles": true,
       "locked_code": false,
-      "ids": {}
+      "ids": {},
+      "path": "~/Ores"
     },
     {
       "name": "AmberOreBlock",
@@ -771,7 +779,8 @@
       "sortid": 43,
       "compiles": true,
       "locked_code": false,
-      "ids": {}
+      "ids": {},
+      "path": "~/Ores"
     },
     {
       "name": "AmberGem",
@@ -961,7 +970,8 @@
       "sortid": 21,
       "compiles": true,
       "locked_code": false,
-      "ids": {}
+      "ids": {},
+      "path": "~/Ores"
     },
     {
       "name": "CinistineIngot",
@@ -1041,7 +1051,8 @@
       "sortid": 22,
       "compiles": true,
       "locked_code": false,
-      "ids": {}
+      "ids": {},
+      "path": "~/Ores"
     },
     {
       "name": "Crystalineblock",
@@ -1137,7 +1148,8 @@
       "sortid": 23,
       "compiles": true,
       "locked_code": false,
-      "ids": {}
+      "ids": {},
+      "path": "~/Ores"
     },
     {
       "name": "BlockofCertus",
@@ -1428,7 +1440,8 @@
       "sortid": 27,
       "compiles": true,
       "locked_code": false,
-      "ids": {}
+      "ids": {},
+      "path": "~/Ores"
     },
     {
       "name": "CinistinePillar2",
@@ -1500,7 +1513,8 @@
       "sortid": 28,
       "compiles": true,
       "locked_code": false,
-      "ids": {}
+      "ids": {},
+      "path": "~/Ores"
     },
     {
       "name": "EchorinFuel",
@@ -1832,7 +1846,8 @@
       "sortid": 29,
       "compiles": true,
       "locked_code": false,
-      "ids": {}
+      "ids": {},
+      "path": "~/Ores"
     },
     {
       "name": "EchorinBlock",
@@ -1864,7 +1879,8 @@
       "sortid": 30,
       "compiles": true,
       "locked_code": false,
-      "ids": {}
+      "ids": {},
+      "path": "~/Ores"
     },
     {
       "name": "IronOreUnderworldToIronRecipe",
@@ -1888,7 +1904,8 @@
       "sortid": 31,
       "compiles": true,
       "locked_code": false,
-      "ids": {}
+      "ids": {},
+      "path": "~/Ores"
     },
     {
       "name": "SilverOre",
@@ -1896,7 +1913,8 @@
       "sortid": 32,
       "compiles": true,
       "locked_code": false,
-      "ids": {}
+      "ids": {},
+      "path": "~/Ores"
     },
     {
       "name": "UnderworldGoldOreRecipe1",
@@ -2024,7 +2042,8 @@
       "sortid": 771,
       "compiles": true,
       "locked_code": false,
-      "ids": {}
+      "ids": {},
+      "path": "~/Ores"
     },
     {
       "name": "RedstoneOreOnUnderEntityWalksOnTheBlock",
@@ -2060,7 +2079,8 @@
       "sortid": 33,
       "compiles": true,
       "locked_code": false,
-      "ids": {}
+      "ids": {},
+      "path": "~/Ores"
     },
     {
       "name": "RedstoneOreOnUnderUpdateTick",
@@ -2248,7 +2268,8 @@
       "sortid": 35,
       "compiles": true,
       "locked_code": false,
-      "ids": {}
+      "ids": {},
+      "path": "~/Ores"
     },
     {
       "name": "RabidiumOreBlock",
@@ -2256,7 +2277,8 @@
       "sortid": 50,
       "compiles": true,
       "locked_code": false,
-      "ids": {}
+      "ids": {},
+      "path": "~/Ores"
     },
     {
       "name": "RabidiumGem",
@@ -2422,7 +2444,8 @@
       "sortid": 36,
       "compiles": true,
       "locked_code": false,
-      "ids": {}
+      "ids": {},
+      "path": "~/Ores"
     },
     {
       "name": "ActiniumOreBlock",
@@ -2430,7 +2453,8 @@
       "sortid": 51,
       "compiles": true,
       "locked_code": false,
-      "ids": {}
+      "ids": {},
+      "path": "~/Ores"
     },
     {
       "name": "ActiniumIngot",
@@ -2596,7 +2620,8 @@
       "sortid": 37,
       "compiles": true,
       "locked_code": false,
-      "ids": {}
+      "ids": {},
+      "path": "~/Ores"
     },
     {
       "name": "ActiniumSickle",
@@ -3021,7 +3046,8 @@
       "sortid": 38,
       "compiles": true,
       "locked_code": false,
-      "ids": {}
+      "ids": {},
+      "path": "~/Ores"
     },
     {
       "name": "BurningFuriteBlock",
@@ -3117,7 +3143,8 @@
       "sortid": 39,
       "compiles": true,
       "locked_code": false,
-      "ids": {}
+      "ids": {},
+      "path": "~/Ores"
     },
     {
       "name": "FuriteBlock",
@@ -3205,7 +3232,8 @@
       "sortid": 5,
       "compiles": true,
       "locked_code": false,
-      "ids": {}
+      "ids": {},
+      "path": "~/Ores"
     },
     {
       "name": "NetherGoldOreRecipe",
@@ -3237,7 +3265,8 @@
       "sortid": 12,
       "compiles": true,
       "locked_code": false,
-      "ids": {}
+      "ids": {},
+      "path": "~/Ores"
     },
     {
       "name": "DarkQuartzBlock",
@@ -3865,7 +3894,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "nether_steel_ore"
+      "registry_name": "nether_steel_ore",
+      "path": "~/Ores"
     },
     {
       "name": "Nether_SteelOreBlock",
@@ -3874,7 +3904,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "nether_steel_ore_block"
+      "registry_name": "nether_steel_ore_block",
+      "path": "~/Ores"
     },
     {
       "name": "Nether_SteelIngot",
@@ -4257,7 +4288,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "venomite_ore_ore"
+      "registry_name": "venomite_ore_ore",
+      "path": "~/Ores"
     },
     {
       "name": "VenomiteOreOreBlock",
@@ -4266,7 +4298,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "venomite_ore_ore_block"
+      "registry_name": "venomite_ore_ore_block",
+      "path": "~/Ores"
     },
     {
       "name": "VenomiteOreGem",
@@ -4275,7 +4308,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "venomite_ore_gem"
+      "registry_name": "venomite_ore_gem",
+      "path": "~/Ores"
     },
     {
       "name": "VenomiteOreOreBlockRecipe",
@@ -4470,7 +4504,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "sulphur_ore"
+      "registry_name": "sulphur_ore",
+      "path": "~/Ores"
     },
     {
       "name": "NetherwartNatural",
@@ -5603,7 +5638,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "fesline_ore"
+      "registry_name": "fesline_ore",
+      "path": "~/Ores"
     },
     {
       "name": "FeslineOreBlock",
@@ -5612,7 +5648,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "fesline_ore_block"
+      "registry_name": "fesline_ore_block",
+      "path": "~/Ores"
     },
     {
       "name": "FeslineIngot",
@@ -6992,7 +7029,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "sulphur_ore_2"
+      "registry_name": "sulphur_ore_2",
+      "path": "~/Ores"
     },
     {
       "name": "BurntFlower",
@@ -7782,7 +7820,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "amethyst_ore"
+      "registry_name": "amethyst_ore",
+      "path": "~/Ores"
     },
     {
       "name": "AmethystOreBlock",
@@ -7791,7 +7830,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "amethyst_ore_block"
+      "registry_name": "amethyst_ore_block",
+      "path": "~/Ores"
     },
     {
       "name": "AmethystOreBlockRecipe",
@@ -7977,7 +8017,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "rose_quartz_ore"
+      "registry_name": "rose_quartz_ore",
+      "path": "~/Ores"
     },
     {
       "name": "RoseQuartzBlock",
@@ -8085,7 +8126,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "sulphur_quartz_ore"
+      "registry_name": "sulphur_quartz_ore",
+      "path": "~/Ores"
     },
     {
       "name": "SulphurQuartzBlock",
@@ -8193,7 +8235,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "frosted_quartz_ore"
+      "registry_name": "frosted_quartz_ore",
+      "path": "~/Ores"
     },
     {
       "name": "FrostedQuartzBlock",
@@ -8301,7 +8344,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "amber_quartz_ore"
+      "registry_name": "amber_quartz_ore",
+      "path": "~/Ores"
     },
     {
       "name": "AmberQuartzBlock",
@@ -8409,7 +8453,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "crimson_quartz_ore"
+      "registry_name": "crimson_quartz_ore",
+      "path": "~/Ores"
     },
     {
       "name": "CrimsonQuartzBlock",
@@ -8517,7 +8562,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "venorum_quartz_ore"
+      "registry_name": "venorum_quartz_ore",
+      "path": "~/Ores"
     },
     {
       "name": "VenorumQuartzBlock",
@@ -8625,7 +8671,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "warped_quartz_ore"
+      "registry_name": "warped_quartz_ore",
+      "path": "~/Ores"
     },
     {
       "name": "WarpedQuartzBlock",
@@ -8805,7 +8852,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "frosted_crystaline_ore"
+      "registry_name": "frosted_crystaline_ore",
+      "path": "~/Ores"
     },
     {
       "name": "FrostedCrystalineBlock",
@@ -9243,7 +9291,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "obsidian_ore"
+      "registry_name": "obsidian_ore",
+      "path": "~/Ores"
     },
     {
       "name": "EnderStems",
@@ -9270,7 +9319,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "pyridium_ore"
+      "registry_name": "pyridium_ore",
+      "path": "~/Ores"
     },
     {
       "name": "PyridiumOreBlock",
@@ -9279,7 +9329,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "pyridium_ore_block"
+      "registry_name": "pyridium_ore_block",
+      "path": "~/Ores"
     },
     {
       "name": "PyridiumOreBlockRecipe",
@@ -10356,7 +10407,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "seraphyst_ore"
+      "registry_name": "seraphyst_ore",
+      "path": "~/Ores"
     },
     {
       "name": "EnderEchorinore",
@@ -10365,7 +10417,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "ender_echorinore"
+      "registry_name": "ender_echorinore",
+      "path": "~/Ores"
     },
     {
       "name": "Carborite2StoneRecipe",
@@ -10891,7 +10944,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "dragonstone_ore"
+      "registry_name": "dragonstone_ore",
+      "path": "~/Ores"
     },
     {
       "name": "DragonstoneOreBlock",
@@ -13469,7 +13523,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "copper_ore_underworld"
+      "registry_name": "copper_ore_underworld",
+      "path": "~/Ores"
     },
     {
       "name": "CopperOreSmelting2",
@@ -14026,7 +14081,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "artron_ore"
+      "registry_name": "artron_ore",
+      "path": "~/Ores"
     },
     {
       "name": "SonicScrewdriverRightClickedOnBlock",
@@ -14967,7 +15023,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "sirccillun_ore"
+      "registry_name": "sirccillun_ore",
+      "path": "~/Ores"
     },
     {
       "name": "SirccillunBlock",
@@ -18173,7 +18230,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "crystone_gold_ore"
+      "registry_name": "crystone_gold_ore",
+      "path": "~/Ores"
     },
     {
       "name": "Crystone_GoldBlock",
@@ -22636,6 +22694,825 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "soul_ore"
+    },
+    {
+      "name": "MossyOakPlanks",
+      "type": "block",
+      "sortid": 2588,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mossy_oak_planks"
+    },
+    {
+      "name": "MossyOakPlanksRecipe",
+      "type": "recipe",
+      "sortid": 2589,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mossy_oak_planks_recipe"
+    },
+    {
+      "name": "ChippedOakPlanks",
+      "type": "block",
+      "sortid": 2590,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chipped_oak_planks"
+    },
+    {
+      "name": "ChippedOakPlanksRecipe",
+      "type": "recipe",
+      "sortid": 2591,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chipped_oak_planks_recipe"
+    },
+    {
+      "name": "MossyBirchPlanks",
+      "type": "block",
+      "sortid": 2592,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mossy_birch_planks"
+    },
+    {
+      "name": "MossyBirchPlanksRecipe",
+      "type": "recipe",
+      "sortid": 2594,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mossy_birch_planks_recipe"
+    },
+    {
+      "name": "ChippedBirchPlanks",
+      "type": "block",
+      "sortid": 2595,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chipped_birch_planks"
+    },
+    {
+      "name": "ChippedBirchPlanksRecipe",
+      "type": "recipe",
+      "sortid": 2596,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chipped_birch_planks_recipe"
+    },
+    {
+      "name": "MossyDarkOakPlanks",
+      "type": "block",
+      "sortid": 2597,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mossy_dark_oak_planks"
+    },
+    {
+      "name": "MossyDarkOakPlanksRecipe",
+      "type": "recipe",
+      "sortid": 2598,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mossy_dark_oak_planks_recipe"
+    },
+    {
+      "name": "ChippedDarkOakPlanks",
+      "type": "block",
+      "sortid": 2599,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chipped_dark_oak_planks"
+    },
+    {
+      "name": "ChippedDarkOakPlanksRecipe",
+      "type": "recipe",
+      "sortid": 2600,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chipped_dark_oak_planks_recipe"
+    },
+    {
+      "name": "MossySprucePlanks",
+      "type": "block",
+      "sortid": 2601,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mossy_spruce_planks"
+    },
+    {
+      "name": "MossySprucePlanksRecipe",
+      "type": "recipe",
+      "sortid": 2602,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mossy_spruce_planks_recipe"
+    },
+    {
+      "name": "ChippedSprucePlanks",
+      "type": "block",
+      "sortid": 2603,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chipped_spruce_planks"
+    },
+    {
+      "name": "ChippedSprucePlanksRecipe",
+      "type": "recipe",
+      "sortid": 2604,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chipped_spruce_planks_recipe"
+    },
+    {
+      "name": "MossyJunglePlanks",
+      "type": "block",
+      "sortid": 2605,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mossy_jungle_planks"
+    },
+    {
+      "name": "MossyJunglePlanksRecipe",
+      "type": "recipe",
+      "sortid": 2606,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mossy_jungle_planks_recipe"
+    },
+    {
+      "name": "ChippedJunglePlanks",
+      "type": "block",
+      "sortid": 2607,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chipped_jungle_planks"
+    },
+    {
+      "name": "ChippedJunglePlanksRecipe",
+      "type": "recipe",
+      "sortid": 2608,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chipped_jungle_planks_recipe"
+    },
+    {
+      "name": "MossyAcaciaPlanks",
+      "type": "block",
+      "sortid": 2609,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mossy_acacia_planks"
+    },
+    {
+      "name": "MossyAcaciaPlanksRecipe",
+      "type": "recipe",
+      "sortid": 2610,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mossy_acacia_planks_recipe"
+    },
+    {
+      "name": "ChippedAcaciaPlanks",
+      "type": "block",
+      "sortid": 2611,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chipped_acacia_planks"
+    },
+    {
+      "name": "ChippedAcaciaPlanksRecipe",
+      "type": "recipe",
+      "sortid": 2612,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chipped_acacia_planks_recipe"
+    },
+    {
+      "name": "MossyCrimsonPlanks",
+      "type": "block",
+      "sortid": 2613,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mossy_crimson_planks"
+    },
+    {
+      "name": "MossyCrimsonPlanksRecipe",
+      "type": "recipe",
+      "sortid": 2614,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mossy_crimson_planks_recipe"
+    },
+    {
+      "name": "ChippedCrimsonPlanks",
+      "type": "block",
+      "sortid": 2615,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chipped_crimson_planks"
+    },
+    {
+      "name": "ChippedCrimsonPlanksRecipe",
+      "type": "recipe",
+      "sortid": 2616,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chipped_crimson_planks_recipe"
+    },
+    {
+      "name": "MossyWarpedPlanks",
+      "type": "block",
+      "sortid": 2617,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mossy_warped_planks"
+    },
+    {
+      "name": "MossyWarpedPlanksRecipe",
+      "type": "recipe",
+      "sortid": 2618,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mossy_warped_planks_recipe"
+    },
+    {
+      "name": "ChippedWarpedPlanks",
+      "type": "block",
+      "sortid": 2619,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chipped_warped_planks"
+    },
+    {
+      "name": "ChippedWarpedPlanksRecipe",
+      "type": "recipe",
+      "sortid": 2620,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chipped_warped_planks_recipe"
+    },
+    {
+      "name": "PigLeatherRecipe",
+      "type": "recipe",
+      "sortid": 2621,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pig_leather_recipe"
+    },
+    {
+      "name": "LeatherBallRecipe",
+      "type": "recipe",
+      "sortid": 2622,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "leather_ball_recipe"
+    },
+    {
+      "name": "NetherBeastLeatherRecipe",
+      "type": "recipe",
+      "sortid": 2623,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "nether_beast_leather_recipe"
+    },
+    {
+      "name": "HoglinLeatherRecipe",
+      "type": "recipe",
+      "sortid": 2624,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "hoglin_leather_recipe"
+    },
+    {
+      "name": "MossyWalnutPlanks",
+      "type": "block",
+      "sortid": 2625,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mossy_walnut_planks"
+    },
+    {
+      "name": "MossyWalnutPlanksRecipe",
+      "type": "recipe",
+      "sortid": 2626,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mossy_walnut_planks_recipe"
+    },
+    {
+      "name": "ChippedWalnutPlanks",
+      "type": "block",
+      "sortid": 2627,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chipped_walnut_planks"
+    },
+    {
+      "name": "ChippedWalnutPlanksRecipe",
+      "type": "recipe",
+      "sortid": 2628,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chipped_walnut_planks_recipe"
+    },
+    {
+      "name": "MossyMushroomYellowPlanks",
+      "type": "block",
+      "sortid": 2629,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mossy_mushroom_yellow_planks"
+    },
+    {
+      "name": "MossyMushroomYellowRecipe",
+      "type": "recipe",
+      "sortid": 2630,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mossy_mushroom_yellow_recipe"
+    },
+    {
+      "name": "ChippedMushroomYellow",
+      "type": "block",
+      "sortid": 2631,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chipped_mushroom_yellow"
+    },
+    {
+      "name": "ChippedMushroomYellowRecipe",
+      "type": "recipe",
+      "sortid": 2632,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chipped_mushroom_yellow_recipe"
+    },
+    {
+      "name": "MossyTwistedMaplePlanks",
+      "type": "block",
+      "sortid": 2633,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mossy_twisted_maple_planks"
+    },
+    {
+      "name": "MossyTwistedMaplePlanksRecipe",
+      "type": "recipe",
+      "sortid": 2634,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mossy_twisted_maple_planks_recipe"
+    },
+    {
+      "name": "ChippedTwistedMaplePlanks",
+      "type": "block",
+      "sortid": 2635,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chipped_twisted_maple_planks"
+    },
+    {
+      "name": "ChippedTwistedMaplePlanksRecipe",
+      "type": "recipe",
+      "sortid": 2636,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chipped_twisted_maple_planks_recipe"
+    },
+    {
+      "name": "MossyPhantomLocustPlanks",
+      "type": "block",
+      "sortid": 2637,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mossy_phantom_locust_planks"
+    },
+    {
+      "name": "MossyPhantomLocustPlanksRecipe",
+      "type": "recipe",
+      "sortid": 2638,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mossy_phantom_locust_planks_recipe"
+    },
+    {
+      "name": "ChippedPhantomLocustPlanks",
+      "type": "block",
+      "sortid": 2639,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chipped_phantom_locust_planks"
+    },
+    {
+      "name": "ChippedPhantomLocustPlanksRecipe",
+      "type": "recipe",
+      "sortid": 2640,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chipped_phantom_locust_planks_recipe"
+    },
+    {
+      "name": "MossyDragonFirPlanks",
+      "type": "block",
+      "sortid": 2641,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mossy_dragon_fir_planks"
+    },
+    {
+      "name": "MossyDragonFirPlanksRecipe",
+      "type": "recipe",
+      "sortid": 2642,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mossy_dragon_fir_planks_recipe"
+    },
+    {
+      "name": "ChippedDragonFirPlanks",
+      "type": "block",
+      "sortid": 2643,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chipped_dragon_fir_planks"
+    },
+    {
+      "name": "ChippedDragonFirPlanksRecipe",
+      "type": "recipe",
+      "sortid": 2644,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chipped_dragon_fir_planks_recipe"
+    },
+    {
+      "name": "MossyMushroomBlackPlanks",
+      "type": "block",
+      "sortid": 2645,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mossy_mushroom_black_planks"
+    },
+    {
+      "name": "MossyMushroomBlackPlanksRecipe",
+      "type": "recipe",
+      "sortid": 2646,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mossy_mushroom_black_planks_recipe"
+    },
+    {
+      "name": "ChippedMushroomBlackPlanks",
+      "type": "block",
+      "sortid": 2647,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chipped_mushroom_black_planks"
+    },
+    {
+      "name": "ChippedMushroomBlackPlanksRecipe",
+      "type": "recipe",
+      "sortid": 2648,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chipped_mushroom_black_planks_recipe"
+    },
+    {
+      "name": "MossyCherryWoodPlanks",
+      "type": "block",
+      "sortid": 2649,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mossy_cherry_wood_planks"
+    },
+    {
+      "name": "MossyCherryWoodPlanksRecipe",
+      "type": "recipe",
+      "sortid": 2650,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mossy_cherry_wood_planks_recipe"
+    },
+    {
+      "name": "ChippedCherryWoodPlanks",
+      "type": "block",
+      "sortid": 2651,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chipped_cherry_wood_planks"
+    },
+    {
+      "name": "ChippedCherryWoodPlanksRecipe",
+      "type": "recipe",
+      "sortid": 2652,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chipped_cherry_wood_planks_recipe"
+    },
+    {
+      "name": "MossyAshwoodPlanks",
+      "type": "block",
+      "sortid": 2653,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mossy_ashwood_planks"
+    },
+    {
+      "name": "MossyAshwoodPlanksRecipe",
+      "type": "recipe",
+      "sortid": 2654,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mossy_ashwood_planks_recipe"
+    },
+    {
+      "name": "ChippedAshwoodPlanks",
+      "type": "block",
+      "sortid": 2655,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chipped_ashwood_planks"
+    },
+    {
+      "name": "ChippedAshwoodPlanksRecipe",
+      "type": "recipe",
+      "sortid": 2656,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chipped_ashwood_planks_recipe"
+    },
+    {
+      "name": "MossyBambooPlanks",
+      "type": "block",
+      "sortid": 2657,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mossy_bamboo_planks"
+    },
+    {
+      "name": "MossyBambooPlanksRecipe",
+      "type": "recipe",
+      "sortid": 2658,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mossy_bamboo_planks_recipe"
+    },
+    {
+      "name": "ChippedBambooPlanks",
+      "type": "block",
+      "sortid": 2659,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chipped_bamboo_planks"
+    },
+    {
+      "name": "ChippedBambooPlanksRecipe",
+      "type": "recipe",
+      "sortid": 2660,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chipped_bamboo_planks_recipe"
+    },
+    {
+      "name": "MossyAssidiumPlanks",
+      "type": "block",
+      "sortid": 2661,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mossy_assidium_planks"
+    },
+    {
+      "name": "MossyAssidiumPlanksRecipe",
+      "type": "recipe",
+      "sortid": 2662,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mossy_assidium_planks_recipe"
+    },
+    {
+      "name": "ChippedAssidiumPlanks",
+      "type": "block",
+      "sortid": 2663,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chipped_assidium_planks"
+    },
+    {
+      "name": "ChippedAssidiumPlanksRecipe",
+      "type": "recipe",
+      "sortid": 2664,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chipped_assidium_planks_recipe"
+    },
+    {
+      "name": "MossyBloodAlderPlanks",
+      "type": "block",
+      "sortid": 2665,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mossy_blood_alder_planks"
+    },
+    {
+      "name": "MossyBloodAlderPlanksRecipe",
+      "type": "recipe",
+      "sortid": 2666,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mossy_blood_alder_planks_recipe"
+    },
+    {
+      "name": "ChippedBloodAlderPlanks",
+      "type": "block",
+      "sortid": 2667,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chipped_blood_alder_planks"
+    },
+    {
+      "name": "ChippedBloodAlderPlanksRecipe",
+      "type": "recipe",
+      "sortid": 2668,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chipped_blood_alder_planks_recipe"
+    },
+    {
+      "name": "SmoothedPolishedBlackGranite",
+      "type": "block",
+      "sortid": 2669,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "smoothed_polished_black_granite"
+    },
+    {
+      "name": "SmoothedPolishedWhiteGranite",
+      "type": "block",
+      "sortid": 2670,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "smoothed_polished_white_granite"
+    },
+    {
+      "name": "SmoothedPolishedGranite",
+      "type": "block",
+      "sortid": 2671,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "smoothed_polished_granite"
+    },
+    {
+      "name": "SmoothedPolishedBlackGraniteRecipe",
+      "type": "recipe",
+      "sortid": 2672,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "smoothed_polished_black_granite_recipe"
+    },
+    {
+      "name": "SmoothedPolishedWhiteGraniteRecipe",
+      "type": "recipe",
+      "sortid": 2673,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "smoothed_polished_white_granite_recipe"
+    },
+    {
+      "name": "SmoothedPolishedGraniteRecipe",
+      "type": "recipe",
+      "sortid": 2674,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "smoothed_polished_granite_recipe"
+    },
+    {
+      "name": "PumiceActualBricksSCRecipe",
+      "type": "recipe",
+      "sortid": 2675,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pumice_actual_bricks_sc_recipe"
+    },
+    {
+      "name": "MossyLightOakPlanks",
+      "type": "block",
+      "sortid": 2676,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mossy_light_oak_planks"
+    },
+    {
+      "name": "MossyLightOakPlanksRecipe",
+      "type": "recipe",
+      "sortid": 2677,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mossy_light_oak_planks_recipe"
+    },
+    {
+      "name": "ChippedLightOakPlanks",
+      "type": "block",
+      "sortid": 2678,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chipped_light_oak_planks"
+    },
+    {
+      "name": "ChippedLightOakPlanksRecipe",
+      "type": "recipe",
+      "sortid": 2679,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chipped_light_oak_planks_recipe"
     }
   ],
   "variable_elements": [
@@ -22746,7 +23623,7 @@
       "item.sotm.pineapple": "Pineapple",
       "block.sotm.underworldrubyore": "Underworld Ruby Ore",
       "block.sotmremake.actiniumore": "Underworld Actinium Ore",
-      "block.sotm.gypsum_brick": "Gypsum Brick",
+      "block.sotm.gypsum_brick": "Polished Gypsum",
       "block.sotm.light_gray_crolphin_bricks": "Light Gray Crolphin Bricks",
       "block.sotm.lavastone_smooth_slab": "Polished Lavastone Slab",
       "item.sotm.actiniumaxe": "Actinium Axe",
@@ -22816,6 +23693,7 @@
       "block.sotm.green_marble": "Green Marble",
       "block.sotm.elder_berry_bush": "Elderberry Bush",
       "block.sotm.pine_planks": "Pine Wood Planks",
+      "block.sotm.white_granite_panel_slab": "White Granite Panel Slab",
       "block.sotm.dragon_fir_wood": "Dragon Fir Wood",
       "block.sotmremake.cryphiliumrocky": "Rocky Cryphillium",
       "block.sotm.black_mushroom_planks": "Black Undershroom Planks",
@@ -22855,6 +23733,7 @@
       "block.sotm.spotted_ashwood_fence_gate": "Spotted Ashwood Fence Gate",
       "block.sotm.black_mushroom_trapdoor": "Black Undershroom Trapdoor",
       "block.sotmremake.frosted_quartz_slab": "Frosted Quartz Slab",
+      "block.sotm.chipped_spruce_planks": "Chipped Spruce Planks",
       "block.sotmremake.rose_quartz_block": "Block of Rose Quartz",
       "item.sotm.rubysword": "Ruby Sword",
       "block.sotmremake.raspberrybush": "Raspberry Bush",
@@ -22867,6 +23746,7 @@
       "block.sotmremake.warped_netherwart_block": "Warped Netherwart Block",
       "block.sotm.pumice_bricks_slab": "Polished Pumice Slab",
       "item.sotm.coconut_huskless_milk": "Coconut Huskless Milk",
+      "block.sotm.black_granite_panel_slab": "Black Granite Panel Slab",
       "block.sotmremake.burnt_netherbricks_recipe": "Burnt Nether Bricks",
       "item.sotm.crystone_armor_chestplate": "Crystone Iron Chainmail Chestplate",
       "item.sotm.rabidiumarmor_boots": "Rabidium Boots",
@@ -22893,7 +23773,7 @@
       "item.sotmremake.amber_quartz": "Nether Amber Quartz",
       "block.sotm.magenta_crolphin": "Magenta Stained Crolphin",
       "block.sotmremake.shulkeritestairs": "White Shulkerite Stairs",
-      "block.sotm.dolomite_brick": "Dolomite Brick",
+      "block.sotm.dolomite_brick": "Polished Dolomite",
       "item.sotm.studded_lather_chain_armor_helmet": "Leather-Chain Helmet",
       "item.sotmremake.amberarmor_leggings": "Amber Leggings",
       "block.sotm.bamboo_thatch": "Bamboo Thatch",
@@ -22921,11 +23801,12 @@
       "item.sotmremake.nether_steel_armor_chestplate": "Nether_Steel Chestplate",
       "block.sotmremake.blu_bluh_pillar": "BluBluh Pillar",
       "block.sotmremake.copperoreblock": "Copper Block",
+      "block.sotm.chipped_light_oak_planks": "Chipped Light Oak Planks",
       "block.sotm.pink_crolphin": "Pink Stained Crolphin",
       "item.sotmremake.fesline_armorhelmet": "Fesline Helmet",
       "item.sotm.electrum_axe": "Electrum Axe",
-      "item.sotm.rubysickle": "Ruby Sickle",
       "item.sotm.actiniumarmor_helmet": "Actinium Helmet",
+      "item.sotm.rubysickle": "Ruby Sickle",
       "item.sotmremake.silver_chainmail_armorlegs": "Silver_Chainmail Leggings",
       "biome.sotm.cherry_wood_forest": "Cherry Wood Forest",
       "item.sotm.warped_netherwart": "Warped Netherwart",
@@ -22960,6 +23841,7 @@
       "item.sotm.buttered_popcorn": "Buttered Popcorn",
       "item.sotm.cactus_pad_spikeless": "Cactus Pad Spikeless",
       "item.sotmremake.cookedpufferfish": "Cooked Pufferfish",
+      "block.sotm.chipped_phantom_locust_planks": "Chipped Phantom Locust Planks",
       "item.sotmremake.silver_chainmail_armorhelmet": "Silver_Chainmail Helmet",
       "item.sotm.quiver_extended": "Traveller\u0027s Quiver",
       "item.sotm.duck_spawn_egg": "Duck Spawn Egg",
@@ -23002,9 +23884,10 @@
       "item.sotmremake.rubyarmor_boots": "Ruby Boots",
       "block.sotm.assidium_wood_fence": "Assidium Wood Fence",
       "block.sotmremake.shulkerite": "White Shulkerite",
-      "block.sotm.renite_tiles": "Renite Tiles",
+      "block.sotm.renite_tiles": "Chiseled Renite",
       "item.sotm.fesline_armor_chestplate": "Fesline Chestplate",
       "block.sotm.stargite": "White Stargite",
+      "block.sotm.mossy_blood_alder_planks": "Mossy Blood Elder Planks",
       "block.sotm.etherrack": "Etherrack",
       "block.sotmremake.frosted_quartz_pillar": "Frosted Quartz Pillar",
       "block.sotm.lone_grass_block": "Lone Grass",
@@ -23048,9 +23931,10 @@
       "block.sotmremake.blue_shulkerite_brick": "White Shulkerite Bricks",
       "block.sotm.walnut_wood_log": "Walnut Wood Log",
       "entity.sotm.scorpion": "Scorpion",
-      "block.sotm.polished_dacite": "Gabbro Brick",
+      "block.sotm.polished_dacite": "Polished Gabbro",
       "block.sotm.twisted_maple_planks": "Twisted Maple Planks",
       "block.sotm.warped_netherwart_plant": "Warped Netherwart Plant",
+      "block.sotm.mossy_dragon_fir_planks": "Mossy Dragon Fir Planks",
       "block.sotm.dragon_fir_fence": "Dragon Fir Fence",
       "block.sotm.marble_light_green": "Light Green Marble",
       "item.sotmremake.venomite_ore_pickaxe": "Venomite Pickaxe",
@@ -23081,6 +23965,7 @@
       "block.sotm.sulphur_quartz_block": "Block of Sulphur Quartz",
       "item.sotm.coppersword": "Copper Sword",
       "item.sotmremake.venomite_ore_armor_helmet": "VenomiteOre Helmet",
+      "block.sotm.chipped_cherry_wood_planks": "Chipped Cherry Wood Planks",
       "block.sotm.shulkerite": "White Shulkerite",
       "item.sotmremake.venomite_ore_armorlegs": "VenomiteOre Leggings",
       "block.sotm.netherstone_chiseled": "Netherstone Chiseled",
@@ -23120,6 +24005,7 @@
       "block.sotm.green_chalk_brick": "Green Chalk Bricks",
       "block.sotmremake.burnt_netherrack": "Burnt Netherrack",
       "item.sotm.sheeplin_brute_spawn_egg": "Sheeplin Brute Spawn Egg",
+      "block.sotm.black_granite_panel": "Black Granite Panel",
       "item.sotm.four_leaf_clover_item": "Four Leaf Clover",
       "block.sotmremake.slimy_moss": "Slimy Moss",
       "block.sotm.marble_cyan": "Cyan Marble",
@@ -23136,6 +24022,7 @@
       "block.sotm.orangey_red_marble_pillar": "Peach Marble Pillar",
       "block.sotm.marblepinkpolished": "Polished Pink Marble",
       "item.sotm.nether_steel_sword": "Crystone Iron Sword",
+      "block.sotm.chipped_ashwood_planks": "Chipped Spotted Ashwood Planks",
       "block.sotm.marble_creamy_yellow_smooth": "Smooth Creamy Yellow Marble",
       "block.sotm.corn_plant": "Corn Plant",
       "item.sotm.musketwithblade": "Musket With Blade",
@@ -23156,21 +24043,22 @@
       "item.sotmremake.cooked_flesh": "Cooked Flesh",
       "item.sotm.fesline_shovel": "Fesline Shovel",
       "block.sotm.purple_plastic": "Purple Plastic Block",
+      "block.sotm.chipped_crimson_planks": "Chipped Crimson Planks",
       "block.sotm.amber_quartz_bricks": "Amber Quartz Bricks",
       "block.sotm.rose_quartz_stairs": "Rose Quartz Stairs",
       "item.sotm.scrap_metal_sword": "Scrap Metal Sword",
       "block.sotm.light_gray_cotton_wool": "Light Gray Cotton Wool",
-      "block.sotm.polishedblackgrabite": "Polished Black Grabite",
-      "item.sotm.ash_item": "Ash",
+      "block.sotm.polishedblackgrabite": "Polished Black Granite",
       "block.sotm.rhyolite": "Rhyolite",
+      "item.sotm.ash_item": "Ash",
       "block.sotmremake.venorum_quartz_block": "Block of Venorum Quartz",
       "item.sotm.sirccillun_armor_helmet": "Sirccillun Helmet",
       "item.sotm.studded_lather_chain_armor_boots": "Leather-Chain Boots",
       "block.sotm.marble_creamy_yellow": "Creamy Yellow Marble",
       "block.sotmremake.underworldgrass": "Underworld Grass",
       "block.sotm.enderplant": "Ender Plant",
-      "block.sotm.marble_creamy_yellow_pillar": "Creamy Yellow Marble Pillar",
       "item.sotm.actiniumingot": "Underworld Actinium Ingot",
+      "block.sotm.marble_creamy_yellow_pillar": "Creamy Yellow Marble Pillar",
       "block.sotm.shulkeriteslab": "White Shulkerite Slab",
       "block.sotm.hardened_crolphin": "Hardened Crolphin",
       "block.sotm.polishedcarborite": "Polished Carborite",
@@ -23208,6 +24096,7 @@
       "item.sotmremake.rubyarmorhelmet": "Ruby Helmet",
       "block.sotm.chili_plant": "Chili Plant",
       "block.sotmremake.crimson_quartz_stairs": "Crimson Quartz Stairs",
+      "block.sotm.mossy_cherry_wood_planks": "Mossy Cherry Wood Planks",
       "block.sotm.orange_dandelion": "Orange Dandelion",
       "block.sotm.blue_star_cluster": "Blue Star Clusters",
       "block.sotmremake.bloodstoneblock": "Bloodstone Block",
@@ -23294,6 +24183,7 @@
       "block.sotm.phantom_chorus_stone_tiles": "Phantom Chorus Stone Tiles",
       "block.sotm.pink_poppy": "Pink Poppy",
       "item.sotm.ancient_sword": "Ancient Hook",
+      "block.sotm.chipped_blood_alder_planks": "Chipped Blood Elder Planks",
       "block.sotmremake.venorum_quartz_ore": "Nether Venorum Quartz Ore",
       "block.sotm.blood_elder_fence": "Blood Elder Fence",
       "block.sotm.furitepillar": "Furite Pillar",
@@ -23418,6 +24308,7 @@
       "item.sotmremake.musket": "Musket",
       "block.sotmremake.rose_quartz_ore": "Nether Rose Quartz Ore",
       "block.sotm.orange_stargite_smooth": "Orange Polished Stargite",
+      "block.sotm.chipped_bamboo_planks": "Chipped Bamboo Planks",
       "block.sotm.underworld_mud": "Underworld Mud",
       "block.sotm.euphreliatrapdoor": "Phantom Locust Trapdoor",
       "block.sotm.dark_quartzstone_smooth": "Polished Dark Quartzstone",
@@ -23453,6 +24344,7 @@
       "block.sotmremake.burningfuriteslab": "Burning Furite Slab",
       "item.sotm.billon_pickaxe": "Billon Pickaxe",
       "block.sotmremake.carborite": "Carborite",
+      "block.sotm.mossy_spruce_planks": "Mossy Spruce Planks",
       "block.sotmremake.ironoreunderworld": "Underworld Iron Ore",
       "block.sotm.shulkeritestairs": "White Shulkerite Stairs",
       "item.sotmremake.pyridium_sword": "Pyridium Sword",
@@ -23546,6 +24438,7 @@
       "block.sotmremake.lightoakplanks": "Light Oak Planks",
       "item.sotmremake.actiniumingot": "Underworld Actinium Ingot",
       "item.sotm.warpbrick": "Firebrick",
+      "block.sotm.mossy_walnut_planks": "Mossy Walnut Planks",
       "block.sotm.black_mushroom_stairs": "Black Undershroom Stairs",
       "item.sotmremake.rabidiumsword": "Rabidium Sword",
       "block.sotm.soul_sand_glass": "Soul Glass",
@@ -23583,6 +24476,7 @@
       "block.sotmremake.basaltsmooth": "Basalt Smooth",
       "item.sotm.goldensickle": "Golden Sickle",
       "block.sotm.underworldsweetberrybush": "Sweetberry Bush",
+      "block.sotm.mossy_assidium_planks": "Mossy Assidium Planks",
       "block.sotm.soul_ore": "Soul Ore",
       "item.sotmremake.fesline_armor_helmet": "Fesline Helmet",
       "item.sotm.cookedpufferfish": "Cooked Pufferfish",
@@ -23645,9 +24539,11 @@
       "block.sotmremake.darkquartzore": "Nether Dark Quartz Ore",
       "item.sotmremake.silver_chainmail_armorbody": "Silver_Chainmail Chestplate",
       "item.sotm.bloodbrick": "Bloodbrick",
+      "block.sotm.mossy_mushroom_black_planks": "Mossy Black Mushroom Planks",
       "item.sotmremake.sodeobaco": "Orant",
       "block.sotmremake.twisted_maple_leaves": "Twisted Maple Leaves",
       "item.sotm.pyridium_sword": "Pyridium Sword",
+      "block.sotm.mossy_ashwood_planks": "Mossy Spotted Ashwood Planks",
       "block.sotm.end_vines": "End Vines",
       "block.sotm.ender_moss_purple": "Twisted Ender Moss",
       "item.sotm.drill": "Drill",
@@ -23662,6 +24558,7 @@
       "block.sotm.marble_cyan_smooth": "Smooth Cyan Marble",
       "item.sotm.ham": "Ham",
       "block.sotmremake.black_mushroom_planks": "Black Undershroom Planks",
+      "block.sotm.mossy_light_oak_planks": "Mossy Light Oak Planks",
       "block.sotm.twisted_maple_slab": "Dragon Fir Slab",
       "block.sotm.whitegranite": "White Granite",
       "block.sotmremake.warped_quartz_pillar": "Warped Quartz Pillar",
@@ -23697,11 +24594,13 @@
       "block.sotm.luminaria": "Luminaria",
       "block.sotm.bamboo_fence_gate": "Bamboo Fence Gate",
       "block.sotmremake.fesline_ore": "Fesline Ore",
+      "block.sotm.dacite_bricks": "Dacite Bricks",
       "block.sotmremake.rose_quartz_pillar": "Rose Quartz Pillar",
       "block.sotmremake.twisted_maple_door": "Twisted Maple Door",
       "block.sotmremake.smooth_black_marble": "Smooth Black Marble",
       "item.sotm.dough": "Dough",
       "block.sotm.blackstonesmoothslab": "Polished Darkstone Slab",
+      "block.sotm.chipped_walnut_planks": "Chipped Walnut Planks",
       "block.sotm.white_flowered_jungle_shrub": "White Flowered Jungle Shrub",
       "block.sotm.cherry_wood_door": "Cherry Wood Trapdoor",
       "item.sotm.pyridium_shovel": "Pyridium Shovel",
@@ -23728,6 +24627,7 @@
       "block.sotm.underworldweeds": "Underworld Weeds",
       "entity.sotm.nether_beast": "Nether Beast",
       "block.sotmremake.purple_tulip": "Purple Tulip",
+      "block.sotm.chipped_oak_planks": "Chipped Oak Planks",
       "block.sotm.electrum_block": "Block of Electrum",
       "block.sotm.ender_moss_dragon": "Dragon Ender Moss",
       "item.sotm.rose_gold_pickaxe": "Rose Gold Pickaxe",
@@ -23762,6 +24662,7 @@
       "item.sotm.fesline_sword": "Fesline Sword",
       "item.sotmremake.rubyshovel": "Ruby Shovel",
       "block.sotm.glow_fruit_bush": "Glow Fruit Bush",
+      "block.sotm.mossy_mushroom_yellow_planks": "Mossy Yellow Mushroom Planks",
       "block.sotmremake.crimson_quartz_slab": "Crimson Quartz Slab",
       "block.sotm.corroded_bedrock": "Corroded Bedrock",
       "block.sotm.red_marble_stairs": "Red Marble Brick Stairs",
@@ -23806,6 +24707,7 @@
       "block.sotm.blackstone": "Darkstone",
       "item.sotmremake.amethyst_armorbody": "Amethyst Chestplate",
       "item.sotm.ambersickle": "Amber Sickle",
+      "block.sotm.mossy_warped_planks": "Mossy Warped Planks",
       "biome.sotm.boundland": "Boundland",
       "item.sotm.mummy": "Mummy Spawn Egg",
       "item.sotmremake.amethyst_pickaxe": "Amethyst Pickaxe",
@@ -23834,6 +24736,7 @@
       "item.sotm.golden_chain": "Golden Chain",
       "block.sotmremake.quartz_stone_brick": "Quartz Stone Brick",
       "block.sotm.certuspillar": "Artinium Pillar",
+      "block.sotm.chipped_acacia_planks": "Chipped Acacia Planks",
       "block.sotm.light_oak_trapdoor": "Light Oak Trapdoor",
       "block.sotm.cyan_plastic": "Cyan Plastic Block",
       "block.sotmremake.luminous_grass": "Luminous Moss",
@@ -23893,6 +24796,7 @@
       "block.sotmremake.twisted_maple_planks": "Twisted Maple Planks",
       "item.sotm.copperpickaxe": "Copper Pickaxe",
       "block.sotm.yellow_mushroom_fence": "Yellow Undershroom Fence",
+      "block.sotm.smoothed_polished_white_granite": "Smoothed Polished White Granite",
       "block.sotmremake.venorum_quartz_slab": "Venorum Quartz Slab",
       "block.sotm.marble_light_blue_brick": "Light Blue Marble Brick",
       "block.sotmremake.marble": "White Marble",
@@ -23901,6 +24805,7 @@
       "block.sotm.charred_netherwart_block": "Charred Netherwart Block",
       "block.sotmremake.terracus_bush": "Terracus Bush",
       "block.sotmremake.bloodstoneblockchiseled": "Bloodstone Block Chiseled",
+      "block.sotm.mossy_bamboo_planks": "Mossy Bamboo Planks",
       "item.sotm.duck": "Duck Spawn Egg",
       "item.sotmremake.silveraxe": "Silver Axe",
       "block.sotmremake.yellow_mushroom_door": "Yellow Undershroom Door",
@@ -24007,7 +24912,7 @@
       "item.sotmremake.snozzberries": "Snozzberries",
       "item.sotm.chili": "Chili",
       "item.sotm.billon_ingot": "Billon Ingot",
-      "block.sotm.pumice_actual_bricks": "Polished Pumice",
+      "block.sotm.pumice_actual_bricks": "Pumice Bricks",
       "item.sotm.silver_chainmail_armor_helmet": "Silver_Chainmail Helmet",
       "block.sotm.cottonplant": "Cotton Plant",
       "item.sotmremake.rabidiumarmorlegs": "Rabidium Leggings",
@@ -24032,7 +24937,7 @@
       "block.sotm.carboritebrickstairs": "Carborite Brick Stairs",
       "item.sotmremake.studded_lather_chain_armor_helmet": "Leather-Chain Helmet",
       "block.sotm.spikes_block": "Spikes Block",
-      "block.sotm.chorus_stone_tiles": "Dacite Tiles",
+      "block.sotm.chorus_stone_tiles": "Polished Dacite",
       "item.sotmremake.cookedtropicalfish": "Cooked Tropical Fish",
       "block.sotmremake.black_mushroom_fence": "Black Undershroom Fence",
       "item.sotm.crystaline": "Ender Crystaline",
@@ -24086,6 +24991,7 @@
       "block.sotm.yellow_mushroom_planks": "Yellow Undershroom Planks",
       "item.sotm.flour": "Flour",
       "block.sotm.freesia_blue": "Blue Freesia",
+      "block.sotm.mossy_dark_oak_planks": "Mossy Dark Oak Planks",
       "item.sotmremake.silver_chain": "Silver Chain",
       "block.sotm.carbon_smoothed_sandstone": "Carbon Smooth Sandstone",
       "advancements.the_deep_the_dark_and_the_ugly.descr": "You Entered The Underworld",
@@ -24126,6 +25032,7 @@
       "block.sotmremake.blood_elder_stairs": "Blood Elder Stairs",
       "block.sotmremake.bloodstonestairs": "Bloodstone Stairs",
       "block.sotmremake.frosted_quartz_block": "Block of Frosted Quartz",
+      "block.sotm.chipped_dragon_fir_planks": "Chipped Dragon Fir Planks",
       "block.sotm.pink_marble_brick": "Pink Marble Brick",
       "block.sotmremake.bloodstoneore": "Nether Bloodstone Ore",
       "advancements.rediscovered.descr": "You got Rubies",
@@ -24179,6 +25086,7 @@
       "block.sotm.warped_quartz_ore": "Nether Warped Quartz Ore",
       "item.sotmremake.crimsobrick": "Crimsobrick",
       "block.sotm.fesline_ore": "Fesline Ore",
+      "block.sotm.granite_panel": "Granite Panel",
       "block.sotm.sulphur_quartz_pillar": "Sulphur Quartz Pillar",
       "block.sotm.chiseled_rose_quartz": "Chiseled Rose Quartz",
       "item.sotmremake.nether_steel_armorbody": "Nether_Steel Chestplate",
@@ -24220,6 +25128,7 @@
       "item.sotmremake.nether_steel_ingot": "Nether Steel Ingot",
       "block.sotmremake.venorum": "Venorum",
       "block.sotm.green_chalk": "Green Chalk",
+      "block.sotm.mossy_twisted_maple_planks": "Mossy Twisted Maple Planks",
       "block.sotmremake.warpbricks": "Warp Bricks",
       "block.sotm.lavastone_smooth_stairs": "Polished Lavastone Stairs",
       "item.sotm.scrap_metal_armor_leggings": "Scrap Metal Leggings",
@@ -24234,6 +25143,7 @@
       "item.sotm.electrum_ingot": "Electrum Ingot",
       "block.sotm.freesia_pink": "Pink Freesia",
       "block.sotm.blue_mistyst_slab": "Blue Mistyst Slab",
+      "block.sotm.chipped_mushroom_black_planks": "Chipped Black Mushroom Planks",
       "item.sotm.crystone_gold_ingot": "Crystone Gold Ingot",
       "item.sotmremake.pyridium_pickaxe": "Pyridium Pickaxe",
       "item.sotm.chicken_and_mushroom_pie": "Chicken and Mushroom Pie",
@@ -24243,6 +25153,7 @@
       "block.sotmremake.sulphured_plant": "Sulphured Plant",
       "block.sotm.white_smooth_crolphin": "White Smooth Crolphin",
       "block.sotm.gebera_daisy": "Gebera Daisy",
+      "block.sotm.white_granite_panel": "White Granite Panel",
       "block.sotm.billon_block": "Block of Billon",
       "block.sotm.assidium_wood_log": "Assidium Wood Log",
       "block.sotmremake.leafed_crescent_grass": "Leafed Crescent Grass",
@@ -24333,6 +25244,7 @@
       "block.sotmremake.firerack": "Firerack",
       "block.sotm.orange_marble_pillar": "Orange Marble Pillar",
       "item.sotmremake.nether_steel_armor_boots": "Nether_Steel Boots",
+      "block.sotm.mossy_phantom_locust_planks": "Mossy Phantom Locust Planks",
       "block.sotmremake.cherry_wood_log": "Cherry Wood Log",
       "block.sotm.rusty_iron_wall": "Rusty Iron Wall",
       "block.sotmremake.pumice": "Pumice",
@@ -24349,6 +25261,8 @@
       "block.sotm.nethe_shrub": "Nether Shrubs",
       "block.sotm.bone_stems": "Bone Stems",
       "item.sotmremake.dynamite": "Dynamite",
+      "block.sotm.mossy_birch_planks": "Mossy Birch Planks",
+      "block.sotm.mossy_acacia_planks": "Mossy Acacia Planks",
       "block.sotm.warped_netherbrick": "Warped Netherbrick",
       "item.sotmremake.fesline_armorlegs": "Fesline Leggings",
       "block.sotmremake.fesline_ore_block": "Block of Fesline",
@@ -24392,6 +25306,7 @@
       "block.sotm.white_marble_brick": "White Marble Brick",
       "block.sotm.spotted_ashwood_log": "Spotted Ashwood Log",
       "block.sotm.chiseled_sulphur_quartz": "Chiseled Sulphur Quartz",
+      "block.sotm.smoothed_polished_granite": "Smoothed Polished Granite",
       "item.sotm.charred_crackled_netherwart": "Charred Crackled Netherwart",
       "block.sotm.smooth_orange_marble": "Smooth Red Marble",
       "item.minecraft.splash_potion.effect.biting": "Splash Biting",
@@ -24480,6 +25395,7 @@
       "block.sotm.marble_yellow": "Yellow Marble",
       "block.sotmremake.warped_quartz_slab": "Warped Quartz Slab",
       "block.sotm.pink_marble_pillar": "Pink Marble Pillar",
+      "block.sotm.chipped_mushroom_yellow": "Chipped Yellow Mushroom Planks",
       "block.sotm.amber_quartz_slab": "Amber Quartz Slab",
       "itemGroup.tabsotmrocksandstones": "SOTM Rocks And Stones",
       "item.sotm.dragonstone_pickaxe": "Dragonstone Pickaxe",
@@ -24508,6 +25424,7 @@
       "item.sotmremake.warped_netherwart": "Warped Netherwart",
       "block.sotm.netherwart_natural": "Netherwart Natural",
       "block.sotm.green_marble_slab": "Green Marble Brick Slab",
+      "block.sotm.chipped_assidium_planks": "Chipped Assidium Planks",
       "item.sotm.luminous_moss": "Luminous Moss",
       "block.sotm.lime_crolphin": "Lime Stained Crolphin",
       "item.sotm.dregberries": "Dreg Berries",
@@ -24517,6 +25434,7 @@
       "block.sotm.blue_shulkerite": "Blue Shulkerite",
       "item.sotm.slingshot": "Slingshot",
       "block.sotm.begonia_purple": "Purple Begonia",
+      "block.sotm.chipped_warped_planks": "Chipped Warped Planks",
       "block.sotm.pink_stargite": "Pink Stargite",
       "item.sotmremake.mushroomyellowitem": "Mushroomyellowitem",
       "item.sotm.silverhoe": "Silver Hoe",
@@ -24531,6 +25449,7 @@
       "item.sotmremake.frosted_quartz": "Nether Frosted Quartz",
       "block.sotmremake.pyridium_ore": "Pyridium Ore",
       "block.sotm.crimson_quartz_block": "Block of Crimson Quartz",
+      "block.sotm.mossy_jungle_planks": "Mossy Jungle Planks",
       "item.sotm.etherbrick": "Etherbrick",
       "block.sotmremake.cyan_rose": "Cyan Rose",
       "block.sotmremake.black_mushroom_stairs": "Black Undershroom Stairs",
@@ -24542,6 +25461,7 @@
       "item.sotm.water_bottle": "Water Bottle",
       "block.sotm.jungle_shrub": "Jungle Shrub",
       "block.sotm.cherry_leaves": "Cherry Leaves",
+      "block.sotm.mossy_oak_planks": "Mossy Oak Planks",
       "item.sotmremake.pebble": "Pebble",
       "block.sotmremake.carbonsandstoneslab": "Carbon Sandstone Slab",
       "item.sotm.nether_beast_spawn_egg": "Nether Beast Spawn Egg",
@@ -24605,6 +25525,8 @@
       "item.sotm.berry_pie": "Berry Pie",
       "item.sotm.fesline_dust": "Fesline Dust",
       "item.sotm.sunberry": "Sunberry",
+      "block.sotm.chipped_twisted_maple_planks": "Chipped Twisted Maple Planks",
+      "block.sotm.chipped_birch_planks": "Chipped Birch Planks",
       "block.sotmremake.euphreliastairs": "Phantom Locust Stairs",
       "block.sotm.silver_fence": "Silver Bars",
       "block.sotm.sirccillun_ore": "Sirccillun Ore",
@@ -24638,6 +25560,7 @@
       "item.sotmremake.raspberries": "Raspberries",
       "block.sotmremake.burningfuriteore": "Burning Furite Ore",
       "item.sotm.bone_shard": "Bone Shard",
+      "block.sotm.mossy_crimson_planks": "Mossy Crimson Planks",
       "block.sotmremake.red_rose": "Red Rose",
       "effect.heatwave": "Heatwave",
       "item.sotm.sirccillun_shovel": "Sirccillun Shovel",
@@ -24651,6 +25574,7 @@
       "item.sotm.rose_armor_boots": "Rose Gold Boots",
       "item.sotm.dark_steel_armor_boots": "Dark Steel Boots",
       "effect.biting": "Biting",
+      "block.sotm.granite_panel_slab": "Granite Panel Slab",
       "item.sotmremake.rabidiumarmorboots": "Rabidium Boots",
       "block.sotm.marble_light_blue_smooth": "Smooth Light Blue Marble",
       "block.sotmremake.carbonsandstone": "Carbon Sandstone",
@@ -24674,6 +25598,7 @@
       "block.sotmremake.polishedwhitegranite": "Polished White Granite",
       "item.sotm.cooked_crackled_enderwart": "Cooked Crackled Enderwart",
       "block.sotm.lightoakleaves": "Light Oak Leaves",
+      "block.sotm.chipped_jungle_planks": "Chipped Jungle Planks",
       "item.sotmremake.venomite_ore_armor_chestplate": "VenomiteOre Chestplate",
       "item.sotmremake.grinding_bowl": "Grinding Bowl",
       "block.sotmremake.blockofcertus": "Block of Artinium",
@@ -24747,6 +25672,7 @@
       "block.sotm.marble_dirty_white_stairs": "Dirty White Marble Brick Stairs",
       "item.sotm.coppersickle": "Copper Sickle",
       "block.sotm.dark_quartzstone_brick": "Dark Quartzstone Brick",
+      "block.sotm.chipped_dark_oak_planks": "Chipped Dark Oak Planks",
       "block.sotm.black_mushroom_slab": "Black Undershroom Slab",
       "block.sotm.bloodbricks": "Blood Bricks",
       "item.sotmremake.rabidiumhoe": "Rabidium Hoe",
@@ -24755,6 +25681,7 @@
       "item.sotmremake.ancient_sword": "Ancient Hook",
       "item.sotmremake.rubypickaxe": "Ruby Pickaxe",
       "item.sotm.seraphyst_steel_pickaxe": "Seraphyst Steel Pickaxe",
+      "block.sotm.smoothed_polished_black_granite": "Smoothed Polished Black Granite",
       "block.sotm.pine_leaves": "Pine Leaves",
       "block.sotm.quartzstonesmooth": "Polished Quartzstone",
       "block.sotm.marble_dark_gray_stairs": "Dark Gray Marble Brick Stairs",
@@ -24763,7 +25690,12 @@
   },
   "foldersRoot": {
     "name": "~",
-    "children": []
+    "children": [
+      {
+        "name": "Ores",
+        "children": []
+      }
+    ]
   },
   "workspaceSettings": {
     "modid": "sotm",
@@ -24785,5 +25717,5 @@
     "modElementsPackage": "net.mcreator.sotmr",
     "lockBaseModFiles": false
   },
-  "mcreatorVersion": 202100112313
+  "mcreatorVersion": 202100116710
 }

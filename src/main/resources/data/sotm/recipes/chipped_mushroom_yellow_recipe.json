@@ -1,0 +1,16 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "sotm:bone_knife"
+    },
+    {
+      "item": "sotm:yellow_mushroom_planks"
+    }
+  ],
+  "result": {
+    "item": "sotm:chipped_mushroom_yellow",
+    "count": 1
+  }
+}

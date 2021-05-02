@@ -1,7 +1,7 @@
 {
   "parent": "block/cube_all",
   "textures": {
-    "all": "sotm:blocks/plastic_block_black",
-    "particle": "sotm:blocks/plastic_block_black"
+    "all": "sotm:blocks/plastic_gray2",
+    "particle": "sotm:blocks/plastic_gray2"
   }
 }

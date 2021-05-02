@@ -1,0 +1,16 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:vine"
+    },
+    {
+      "item": "sotm:walnut_wood_planks"
+    }
+  ],
+  "result": {
+    "item": "sotm:mossy_walnut_planks",
+    "count": 1
+  }
+}

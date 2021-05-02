@@ -1,0 +1,16 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:vine"
+    },
+    {
+      "item": "sotm:blood_elder_planks"
+    }
+  ],
+  "result": {
+    "item": "sotm:mossy_blood_alder_planks",
+    "count": 1
+  }
+}

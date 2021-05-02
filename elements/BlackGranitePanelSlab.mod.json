@@ -1,9 +1,9 @@
 {
-  "_fv": 17,
+  "_fv": 18,
   "_type": "block",
   "definition": {
     "texture": "granite_polished_black",
-    "textureTop": "granite_polished_black",
+    "textureTop": "black_granite_polished2",
     "textureLeft": "granite_panel_black",
     "textureFront": "granite_panel_black",
     "textureRight": "granite_panel_black",

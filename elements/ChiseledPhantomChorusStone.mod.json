@@ -1,8 +1,8 @@
 {
-  "_fv": 17,
+  "_fv": 18,
   "_type": "block",
   "definition": {
-    "texture": "phantom_chiseled_chorus_stone",
+    "texture": "chorus_stone_chiseled_phantom",
     "textureTop": "chiseled_bricks",
     "textureLeft": "chiseled_bricks",
     "textureFront": "chiseled_bricks",

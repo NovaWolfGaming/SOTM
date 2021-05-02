@@ -1,5 +1,5 @@
 {
-  "_fv": 17,
+  "_fv": 18,
   "_type": "block",
   "definition": {
     "texture": "asiddum_planks",
@@ -14,6 +14,7 @@
     "emissiveRendering": false,
     "displayFluidOverlay": false,
     "itemTexture": "",
+    "particleTexture": "",
     "tintType": "No tint",
     "isItemTinted": false,
     "hasTransparency": false,
@@ -33,7 +34,7 @@
     ],
     "name": "Assidium Wood Planks",
     "specialInfo": [],
-    "hardness": 1.0,
+    "hardness": 0.5,
     "resistance": 10.0,
     "hasGravity": false,
     "isWaterloggable": false,

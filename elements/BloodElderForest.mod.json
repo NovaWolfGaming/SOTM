@@ -1,5 +1,5 @@
 {
-  "_fv": 17,
+  "_fv": 18,
   "_type": "biome",
   "definition": {
     "name": "Blood Elder Forest",
@@ -101,7 +101,8 @@
       "MonsterRooms",
       "Structures",
       "Ores",
-      "Lakes"
+      "Lakes",
+      "FrozenTopLayer"
     ],
     "spawnEntries": [
       {

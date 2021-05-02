@@ -1,7 +1,7 @@
 {
   "parent": "block/cube_all",
   "textures": {
-    "all": "sotm:blocks/phantom_chorus_brick",
-    "particle": "sotm:blocks/phantom_chorus_brick"
+    "all": "sotm:blocks/chorus_stone_bricks_phantom",
+    "particle": "sotm:blocks/chorus_stone_bricks_phantom"
   }
 }

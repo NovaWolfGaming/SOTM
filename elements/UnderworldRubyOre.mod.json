@@ -1,8 +1,8 @@
 {
-  "_fv": 17,
+  "_fv": 18,
   "_type": "block",
   "definition": {
-    "texture": "ruby_ore_underworld",
+    "texture": "ruby_ore_carborite_on",
     "textureTop": "ruby_ore_underworld_2",
     "textureLeft": "ruby_ore_underworld_2",
     "textureFront": "ruby_ore_underworld_2",

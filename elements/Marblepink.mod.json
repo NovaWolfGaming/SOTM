@@ -1,5 +1,5 @@
 {
-  "_fv": 17,
+  "_fv": 18,
   "_type": "block",
   "definition": {
     "texture": "marble_pink_new",
@@ -123,9 +123,9 @@
         "value": "Blocks.STONE"
       }
     ],
-    "frequencyPerChunks": 25,
+    "frequencyPerChunks": 10,
     "frequencyOnChunk": 25,
-    "minGenerateHeight": 5,
-    "maxGenerateHeight": 125
+    "minGenerateHeight": 0,
+    "maxGenerateHeight": 79
   }
 }

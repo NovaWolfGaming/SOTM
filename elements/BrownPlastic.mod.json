@@ -1,8 +1,8 @@
 {
-  "_fv": 17,
+  "_fv": 18,
   "_type": "block",
   "definition": {
-    "texture": "plastic_block_brown",
+    "texture": "plastic_brown",
     "textureTop": "plastic_block",
     "textureLeft": "plastic_block",
     "textureFront": "plastic_block",

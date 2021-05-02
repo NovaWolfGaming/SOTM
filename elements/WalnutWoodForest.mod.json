@@ -1,5 +1,5 @@
 {
-  "_fv": 17,
+  "_fv": 18,
   "_type": "biome",
   "definition": {
     "name": "Walnut Wood Forest",
@@ -86,7 +86,8 @@
       "MonsterRooms",
       "Structures",
       "Ores",
-      "Lakes"
+      "Lakes",
+      "FrozenTopLayer"
     ],
     "spawnEntries": [
       {

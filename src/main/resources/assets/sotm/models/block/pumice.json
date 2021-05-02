@@ -1,7 +1,7 @@
 {
   "parent": "block/cube_all",
   "textures": {
-    "all": "sotm:blocks/stone_pumice",
-    "particle": "sotm:blocks/stone_pumice"
+    "all": "sotm:blocks/pumice_new",
+    "particle": "sotm:blocks/pumice_new"
   }
 }

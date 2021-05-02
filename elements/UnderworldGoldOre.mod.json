@@ -1,18 +1,20 @@
 {
-  "_fv": 17,
+  "_fv": 18,
   "_type": "block",
   "definition": {
-    "texture": "gold_ore_underworld",
+    "texture": "gold_ore_carborite_on",
     "textureTop": "gold_ore_underworld",
     "textureLeft": "gold_ore_underworld",
     "textureFront": "gold_ore_underworld",
     "textureRight": "gold_ore_underworld",
     "textureBack": "gold_ore_underworld",
-    "renderType": 10,
-    "customModelName": "Normal",
+    "renderType": 11,
+    "customModelName": "Single texture",
     "rotationMode": 0,
     "emissiveRendering": false,
     "displayFluidOverlay": false,
+    "itemTexture": "",
+    "particleTexture": "",
     "tintType": "No tint",
     "isItemTinted": false,
     "hasTransparency": false,
@@ -98,6 +100,7 @@
     "energyMaxExtract": 200,
     "isFluidTank": false,
     "fluidCapacity": 8000,
+    "fluidRestrictions": [],
     "spawnWorldTypes": [
       "CUSTOM:Underworld"
     ],

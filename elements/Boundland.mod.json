@@ -1,5 +1,5 @@
 {
-  "_fv": 17,
+  "_fv": 18,
   "_type": "biome",
   "definition": {
     "name": "Boundland",
@@ -100,7 +100,8 @@
       "Caves",
       "Ores",
       "ExtraGoldOre",
-      "Fossils"
+      "Fossils",
+      "FrozenTopLayer"
     ],
     "spawnEntries": []
   }

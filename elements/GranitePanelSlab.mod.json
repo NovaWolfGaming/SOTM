@@ -1,8 +1,8 @@
 {
-  "_fv": 17,
+  "_fv": 18,
   "_type": "block",
   "definition": {
-    "texture": "kiln_bottop",
+    "texture": "granite_polished_smoothed",
     "textureTop": "kiln_bottop",
     "textureLeft": "kiln_side",
     "textureFront": "kiln_side",

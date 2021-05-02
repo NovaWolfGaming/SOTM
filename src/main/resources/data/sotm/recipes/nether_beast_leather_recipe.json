@@ -1,0 +1,19 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01"
+  ],
+  "key": {
+    "0": {
+      "item": "sotm:nether_beast_leather"
+    },
+    "1": {
+      "item": "sotm:nether_beast_leather"
+    }
+  },
+  "result": {
+    "item": "minecraft:leather",
+    "count": 1
+  }
+}
