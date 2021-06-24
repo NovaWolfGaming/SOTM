@@ -3,9 +3,9 @@
   "_type": "tool",
   "definition": {
     "renderType": 0,
-    "texture": "copper_sword_new",
+    "texture": "tin_sword",
     "customModelName": "Normal",
-    "name": "Copper Sword",
+    "name": "Tin Sword",
     "specialInfo": [],
     "creativeTab": {
       "value": "CUSTOM:ToolsAndWeapons"

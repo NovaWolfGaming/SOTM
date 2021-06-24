@@ -1,12 +1,7 @@
 {
-  "parent": "block/cube",
+  "parent": "block/cube_all",
   "textures": {
-    "down": "sotm:blocks/quartzstonesmooth_black",
-    "up": "sotm:blocks/quartzstonesmooth_black",
-    "north": "sotm:blocks/quartzstonesmooth_black",
-    "east": "sotm:blocks/quartzstonesmooth_black",
-    "south": "sotm:blocks/quartzstonesmooth_black",
-    "west": "sotm:blocks/quartzstonesmooth_black",
-    "particle": "sotm:blocks/quartzstonesmooth_black"
+    "all": "sotm:blocks/corruptite_smooth",
+    "particle": "sotm:blocks/corruptite_smooth"
   }
 }

@@ -2,17 +2,19 @@
   "_fv": 18,
   "_type": "block",
   "definition": {
-    "texture": "quartzstone_black",
+    "texture": "corruptite_purple",
     "textureTop": "quartzstone_black",
     "textureLeft": "quartzstone_black",
     "textureFront": "quartzstone_black",
     "textureRight": "quartzstone_black",
     "textureBack": "quartzstone_black",
-    "renderType": 10,
-    "customModelName": "Normal",
+    "renderType": 11,
+    "customModelName": "Single texture",
     "rotationMode": 0,
     "emissiveRendering": false,
     "displayFluidOverlay": false,
+    "itemTexture": "",
+    "particleTexture": "",
     "tintType": "No tint",
     "isItemTinted": false,
     "hasTransparency": false,
@@ -30,7 +32,7 @@
         "subtract": false
       }
     ],
-    "name": "Dark Quartzstone",
+    "name": "Purple Corruptite",
     "specialInfo": [],
     "hardness": 1.0,
     "resistance": 10.0,
@@ -98,6 +100,7 @@
     "energyMaxExtract": 200,
     "isFluidTank": false,
     "fluidCapacity": 8000,
+    "fluidRestrictions": [],
     "spawnWorldTypes": [
       "CUSTOM:Underworld"
     ],

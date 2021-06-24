@@ -3,9 +3,9 @@
   "_type": "tool",
   "definition": {
     "renderType": 0,
-    "texture": "copper_axe_2",
+    "texture": "tin_axe",
     "customModelName": "Normal",
-    "name": "Copper Axe",
+    "name": "Tin Axe",
     "specialInfo": [],
     "creativeTab": {
       "value": "CUSTOM:ToolsAndWeapons"

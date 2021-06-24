@@ -1,12 +1,7 @@
 {
-  "parent": "block/cube",
+  "parent": "block/cube_all",
   "textures": {
-    "down": "sotm:blocks/blue_mistyst",
-    "up": "sotm:blocks/blue_mistyst",
-    "north": "sotm:blocks/blue_mistyst",
-    "east": "sotm:blocks/blue_mistyst",
-    "south": "sotm:blocks/blue_mistyst",
-    "west": "sotm:blocks/blue_mistyst",
-    "particle": "sotm:blocks/blue_mistyst"
+    "all": "sotm:blocks/mistyst_blue",
+    "particle": "sotm:blocks/mistyst_blue"
   }
 }

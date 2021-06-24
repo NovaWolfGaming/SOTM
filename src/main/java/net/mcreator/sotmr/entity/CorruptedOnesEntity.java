@@ -50,7 +50,9 @@ import java.util.Random;
 
 @SotmModElements.ModElement.Tag
 public class CorruptedOnesEntity extends SotmModElements.ModElement {
-	public static EntityType entity = null;
+	public static EntityType entity = (EntityType.Builder.<CustomEntity>create(CustomEntity::new, EntityClassification.MONSTER)
+			.setShouldReceiveVelocityUpdates(true).setTrackingRange(64).setUpdateInterval(3).setCustomClientFactory(CustomEntity::new)
+			.size(0.6f, 1.8f)).build("corrupted_ones").setRegistryName("corrupted_ones");
 	public CorruptedOnesEntity(SotmModElements instance) {
 		super(instance, 623);
 		FMLJavaModLoadingContext.get().getModEventBus().register(new CorruptedOnesRenderer.ModelRegisterHandler());
@@ -60,9 +62,6 @@ public class CorruptedOnesEntity extends SotmModElements.ModElement {
 
 	@Override
 	public void initElements() {
-		entity = (EntityType.Builder.<CustomEntity>create(CustomEntity::new, EntityClassification.MONSTER).setShouldReceiveVelocityUpdates(true)
-				.setTrackingRange(64).setUpdateInterval(3).setCustomClientFactory(CustomEntity::new).size(0.6f, 1.8f)).build("corrupted_ones")
-						.setRegistryName("corrupted_ones");
 		elements.entities.add(() -> entity);
 		elements.items.add(() -> new SpawnEggItem(entity, -16750951, -16777216, new Item.Properties().group(SOTMMobsItemGroup.tab))
 				.setRegistryName("corrupted_ones_spawn_egg"));

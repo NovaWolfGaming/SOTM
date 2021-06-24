@@ -1,6 +1,6 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "sotm:items/copper_ingot_new"
+    "layer0": "sotm:items/tin_ingot"
   }
 }

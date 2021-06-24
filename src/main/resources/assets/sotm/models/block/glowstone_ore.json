@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sotm:blocks/glowstone_ore",
+    "up": "sotm:blocks/glowstone_ore",
+    "north": "sotm:blocks/glowstone_ore",
+    "east": "sotm:blocks/glowstone_ore",
+    "south": "sotm:blocks/glowstone_ore",
+    "west": "sotm:blocks/glowstone_ore",
+    "particle": "sotm:blocks/glowstone_ore"
+  }
+}

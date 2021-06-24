@@ -2,7 +2,7 @@
   "_fv": 18,
   "_type": "block",
   "definition": {
-    "texture": "copper_ore_underworld_new",
+    "texture": "tin_ore_underworld",
     "textureTop": "",
     "textureLeft": "",
     "textureFront": "",
@@ -32,7 +32,7 @@
         "subtract": false
       }
     ],
-    "name": "Underworld Copper Ore",
+    "name": "Underworld Tin Ore",
     "specialInfo": [],
     "hardness": 1.1500000000000001,
     "resistance": 10.0,

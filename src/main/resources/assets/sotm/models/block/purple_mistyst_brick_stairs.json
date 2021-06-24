@@ -1,0 +1,8 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "sotm:blocks/mistyst_purple_brick",
+    "top": "sotm:blocks/mistyst_purple_brick",
+    "side": "sotm:blocks/mistyst_purple_brick"
+  }
+}

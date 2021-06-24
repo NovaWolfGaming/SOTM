@@ -47,7 +47,9 @@ import net.mcreator.sotmr.SotmModElements;
 
 @SotmModElements.ModElement.Tag
 public class NetherDemonEntity extends SotmModElements.ModElement {
-	public static EntityType entity = null;
+	public static EntityType entity = (EntityType.Builder.<CustomEntity>create(CustomEntity::new, EntityClassification.MONSTER)
+			.setShouldReceiveVelocityUpdates(true).setTrackingRange(64).setUpdateInterval(3).setCustomClientFactory(CustomEntity::new).immuneToFire()
+			.size(0.6f, 1.8f)).build("nether_demon").setRegistryName("nether_demon");
 	public NetherDemonEntity(SotmModElements instance) {
 		super(instance, 1935);
 		FMLJavaModLoadingContext.get().getModEventBus().register(new NetherDemonRenderer.ModelRegisterHandler());
@@ -57,9 +59,6 @@ public class NetherDemonEntity extends SotmModElements.ModElement {
 
 	@Override
 	public void initElements() {
-		entity = (EntityType.Builder.<CustomEntity>create(CustomEntity::new, EntityClassification.MONSTER).setShouldReceiveVelocityUpdates(true)
-				.setTrackingRange(64).setUpdateInterval(3).setCustomClientFactory(CustomEntity::new).immuneToFire().size(0.6f, 1.8f))
-						.build("nether_demon").setRegistryName("nether_demon");
 		elements.entities.add(() -> entity);
 		elements.items.add(() -> new SpawnEggItem(entity, -16777216, -39424, new Item.Properties().group(SOTMMobsItemGroup.tab))
 				.setRegistryName("nether_demon_spawn_egg"));

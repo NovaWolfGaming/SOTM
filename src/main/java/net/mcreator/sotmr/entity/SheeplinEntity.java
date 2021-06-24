@@ -49,7 +49,9 @@ import net.mcreator.sotmr.SotmModElements;
 
 @SotmModElements.ModElement.Tag
 public class SheeplinEntity extends SotmModElements.ModElement {
-	public static EntityType entity = null;
+	public static EntityType entity = (EntityType.Builder.<CustomEntity>create(CustomEntity::new, EntityClassification.AMBIENT)
+			.setShouldReceiveVelocityUpdates(true).setTrackingRange(64).setUpdateInterval(3).setCustomClientFactory(CustomEntity::new).immuneToFire()
+			.size(0.6f, 1.8f)).build("sheeplin").setRegistryName("sheeplin");
 	public SheeplinEntity(SotmModElements instance) {
 		super(instance, 1933);
 		FMLJavaModLoadingContext.get().getModEventBus().register(new SheeplinRenderer.ModelRegisterHandler());
@@ -59,9 +61,6 @@ public class SheeplinEntity extends SotmModElements.ModElement {
 
 	@Override
 	public void initElements() {
-		entity = (EntityType.Builder.<CustomEntity>create(CustomEntity::new, EntityClassification.AMBIENT).setShouldReceiveVelocityUpdates(true)
-				.setTrackingRange(64).setUpdateInterval(3).setCustomClientFactory(CustomEntity::new).immuneToFire().size(0.6f, 1.8f))
-						.build("sheeplin").setRegistryName("sheeplin");
 		elements.entities.add(() -> entity);
 		elements.items.add(
 				() -> new SpawnEggItem(entity, -1, -26266, new Item.Properties().group(SOTMMobsItemGroup.tab)).setRegistryName("sheeplin_spawn_egg"));

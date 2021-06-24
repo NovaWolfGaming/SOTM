@@ -1,12 +1,7 @@
 {
-  "parent": "block/cube",
+  "parent": "block/cube_all",
   "textures": {
-    "down": "sotm:blocks/purple_mistyst",
-    "up": "sotm:blocks/purple_mistyst",
-    "north": "sotm:blocks/purple_mistyst",
-    "east": "sotm:blocks/purple_mistyst",
-    "south": "sotm:blocks/purple_mistyst",
-    "west": "sotm:blocks/purple_mistyst",
-    "particle": "sotm:blocks/purple_mistyst"
+    "all": "sotm:blocks/mistyst_purple",
+    "particle": "sotm:blocks/mistyst_purple"
   }
 }

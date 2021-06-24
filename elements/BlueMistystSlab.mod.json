@@ -2,10 +2,10 @@
   "_fv": 18,
   "_type": "block",
   "definition": {
-    "texture": "blue_mistyst_brick",
-    "textureTop": "blue_mistyst_brick",
+    "texture": "mistyst_blue_smooth",
+    "textureTop": "mistyst_blue_smooth",
     "textureLeft": "blue_mistyst_brick",
-    "textureFront": "blue_mistyst_brick",
+    "textureFront": "mistyst_blue_smooth",
     "textureRight": "blue_mistyst_brick",
     "textureBack": "blue_mistyst_brick",
     "renderType": 11,
@@ -14,6 +14,7 @@
     "emissiveRendering": false,
     "displayFluidOverlay": false,
     "itemTexture": "",
+    "particleTexture": "",
     "blockBase": "Slab",
     "tintType": "No tint",
     "isItemTinted": false,
@@ -32,7 +33,7 @@
         "subtract": false
       }
     ],
-    "name": "Blue Mistyst Slab",
+    "name": "Polished Blue Mistyst Slab",
     "specialInfo": [],
     "hardness": 1.0,
     "resistance": 10.0,

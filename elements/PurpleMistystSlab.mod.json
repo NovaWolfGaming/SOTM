@@ -2,10 +2,10 @@
   "_fv": 18,
   "_type": "block",
   "definition": {
-    "texture": "purple_mistyst_brick",
-    "textureTop": "purple_mistyst_brick",
+    "texture": "mistyst_purple_smooth",
+    "textureTop": "mistyst_purple_smooth",
     "textureLeft": "blue_mistyst_brick",
-    "textureFront": "purple_mistyst_brick",
+    "textureFront": "mistyst_purple_smooth",
     "textureRight": "blue_mistyst_brick",
     "textureBack": "blue_mistyst_brick",
     "renderType": 11,
@@ -14,6 +14,7 @@
     "emissiveRendering": false,
     "displayFluidOverlay": false,
     "itemTexture": "",
+    "particleTexture": "",
     "blockBase": "Slab",
     "tintType": "No tint",
     "isItemTinted": false,
@@ -32,7 +33,7 @@
         "subtract": false
       }
     ],
-    "name": "Purple Mistyst Slab",
+    "name": "Polished Purple Mistyst Slab",
     "specialInfo": [],
     "hardness": 1.0,
     "resistance": 10.0,

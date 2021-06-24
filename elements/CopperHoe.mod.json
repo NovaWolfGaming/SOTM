@@ -3,9 +3,9 @@
   "_type": "tool",
   "definition": {
     "renderType": 0,
-    "texture": "copper_hoe_new",
+    "texture": "tin_hoe",
     "customModelName": "Normal",
-    "name": "Copper Hoe",
+    "name": "Tin Hoe",
     "specialInfo": [],
     "creativeTab": {
       "value": "CUSTOM:ToolsAndWeapons"

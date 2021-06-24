@@ -1,0 +1,7 @@
+{
+  "parent": "block/template_glass_pane_post",
+  "textures": {
+    "edge": "sotm:blocks/tin_block",
+    "pane": "sotm:blocks/tin_bars"
+  }
+}

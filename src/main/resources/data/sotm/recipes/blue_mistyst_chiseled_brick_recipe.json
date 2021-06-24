@@ -2,19 +2,25 @@
   "group": "sotm",
   "type": "minecraft:crafting_shaped",
   "pattern": [
-    "0",
-    "1"
+    "01",
+    "23"
   ],
   "key": {
     "0": {
-      "item": "sotm:blue_mistyst_slab"
+      "item": "sotm:blue_mistyst_brick"
     },
     "1": {
-      "item": "sotm:blue_mistyst_slab"
+      "item": "sotm:blue_mistyst_brick"
+    },
+    "2": {
+      "item": "sotm:blue_mistyst_brick"
+    },
+    "3": {
+      "item": "sotm:blue_mistyst_brick"
     }
   },
   "result": {
     "item": "sotm:blue_mistyst_chiseled",
-    "count": 1
+    "count": 4
   }
 }

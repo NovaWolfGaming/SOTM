@@ -3,9 +3,9 @@
   "_type": "tool",
   "definition": {
     "renderType": 0,
-    "texture": "copper_sickle_new",
+    "texture": "tin_sickle",
     "customModelName": "Normal",
-    "name": "Copper Sickle",
+    "name": "Tin Sickle",
     "specialInfo": [],
     "creativeTab": {
       "value": "CUSTOM:ToolsAndWeapons"

@@ -5,7 +5,7 @@
     "recipeType": "Crafting",
     "xpReward": 0.0,
     "cookingTime": 200,
-    "recipeRetstackSize": 1,
+    "recipeRetstackSize": 4,
     "group": "",
     "recipeShapeless": false,
     "recipeSlots": [
@@ -22,19 +22,19 @@
         "value": ""
       },
       {
-        "value": "CUSTOM:BlueMistystSlab"
+        "value": "CUSTOM:BlueMistystBrick"
+      },
+      {
+        "value": "CUSTOM:BlueMistystBrick"
       },
       {
         "value": ""
       },
       {
-        "value": ""
+        "value": "CUSTOM:BlueMistystBrick"
       },
       {
-        "value": "CUSTOM:BlueMistystSlab"
-      },
-      {
-        "value": ""
+        "value": "CUSTOM:BlueMistystBrick"
       }
     ],
     "recipeReturnStack": {

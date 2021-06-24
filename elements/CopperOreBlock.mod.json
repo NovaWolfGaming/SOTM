@@ -2,7 +2,7 @@
   "_fv": 18,
   "_type": "block",
   "definition": {
-    "texture": "copper_block",
+    "texture": "tin_block",
     "textureTop": "",
     "textureLeft": "",
     "textureFront": "",
@@ -32,7 +32,7 @@
         "subtract": false
       }
     ],
-    "name": "Copper Block",
+    "name": "Tin Block",
     "specialInfo": [],
     "hardness": 1.5,
     "resistance": 10.0,

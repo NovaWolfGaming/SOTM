@@ -1,0 +1,33 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "sotm:red_mistyst_polished"
+    },
+    "3": {
+      "item": "sotm:red_mistyst_polished"
+    },
+    "4": {
+      "item": "sotm:red_mistyst_polished"
+    },
+    "6": {
+      "item": "sotm:red_mistyst_polished"
+    },
+    "7": {
+      "item": "sotm:red_mistyst_polished"
+    },
+    "8": {
+      "item": "sotm:red_mistyst_polished"
+    }
+  },
+  "result": {
+    "item": "sotm:red_mistyst_stairs",
+    "count": 6
+  }
+}

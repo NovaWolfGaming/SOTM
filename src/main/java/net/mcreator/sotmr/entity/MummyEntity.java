@@ -44,7 +44,9 @@ import net.mcreator.sotmr.SotmModElements;
 
 @SotmModElements.ModElement.Tag
 public class MummyEntity extends SotmModElements.ModElement {
-	public static EntityType entity = null;
+	public static EntityType entity = (EntityType.Builder.<CustomEntity>create(CustomEntity::new, EntityClassification.MONSTER)
+			.setShouldReceiveVelocityUpdates(true).setTrackingRange(64).setUpdateInterval(3).setCustomClientFactory(CustomEntity::new)
+			.size(0.6f, 1.8f)).build("mummy").setRegistryName("mummy");
 	public MummyEntity(SotmModElements instance) {
 		super(instance, 620);
 		FMLJavaModLoadingContext.get().getModEventBus().register(new MummyRenderer.ModelRegisterHandler());
@@ -54,9 +56,6 @@ public class MummyEntity extends SotmModElements.ModElement {
 
 	@Override
 	public void initElements() {
-		entity = (EntityType.Builder.<CustomEntity>create(CustomEntity::new, EntityClassification.MONSTER).setShouldReceiveVelocityUpdates(true)
-				.setTrackingRange(64).setUpdateInterval(3).setCustomClientFactory(CustomEntity::new).size(0.6f, 1.8f)).build("mummy")
-						.setRegistryName("mummy");
 		elements.entities.add(() -> entity);
 		elements.items.add(() -> new SpawnEggItem(entity, -13159, -26266, new Item.Properties().group(SOTMMobsItemGroup.tab))
 				.setRegistryName("mummy_spawn_egg"));

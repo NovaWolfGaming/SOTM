@@ -38,7 +38,7 @@
       }
     ],
     "recipeReturnStack": {
-      "value": "CUSTOM:PurpleMistystBrick"
+      "value": "CUSTOM:PurpleMistystPolished"
     },
     "name": "purple_mistyst_brick_recipe",
     "namespace": "mod"

@@ -1,0 +1,22 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "sotm:purple_mistyst_chiseled"
+    },
+    "1": {
+      "item": "sotm:purple_mistyst_chiseled"
+    },
+    "2": {
+      "item": "sotm:purple_mistyst_chiseled"
+    }
+  },
+  "result": {
+    "item": "sotm:purple_mistyst_bricks_slab",
+    "count": 6
+  }
+}

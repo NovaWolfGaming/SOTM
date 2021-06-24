@@ -1,6 +1,6 @@
 {
   "parent": "item/handheld",
   "textures": {
-    "layer0": "sotm:items/copper_axe_2"
+    "layer0": "sotm:items/tin_axe"
   }
 }

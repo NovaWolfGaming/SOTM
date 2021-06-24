@@ -3,9 +3,9 @@
   "_type": "tool",
   "definition": {
     "renderType": 0,
-    "texture": "copper_pickaxe_new",
+    "texture": "tin_pickaxe",
     "customModelName": "Normal",
-    "name": "Copper Pickaxe",
+    "name": "Tin Pickaxe",
     "specialInfo": [],
     "creativeTab": {
       "value": "CUSTOM:ToolsAndWeapons"

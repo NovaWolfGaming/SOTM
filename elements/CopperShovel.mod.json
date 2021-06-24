@@ -3,9 +3,9 @@
   "_type": "tool",
   "definition": {
     "renderType": 0,
-    "texture": "copper_shovel_new",
+    "texture": "tin_shovel",
     "customModelName": "Normal",
-    "name": "Copper Shovel",
+    "name": "Tin Shovel",
     "specialInfo": [],
     "creativeTab": {
       "value": "CUSTOM:ToolsAndWeapons"

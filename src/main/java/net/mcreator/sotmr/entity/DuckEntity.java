@@ -46,7 +46,9 @@ import java.util.HashMap;
 
 @SotmModElements.ModElement.Tag
 public class DuckEntity extends SotmModElements.ModElement {
-	public static EntityType entity = null;
+	public static EntityType entity = (EntityType.Builder.<CustomEntity>create(CustomEntity::new, EntityClassification.CREATURE)
+			.setShouldReceiveVelocityUpdates(true).setTrackingRange(64).setUpdateInterval(3).setCustomClientFactory(CustomEntity::new)
+			.size(0.4f, 0.4f)).build("duck").setRegistryName("duck");
 	public DuckEntity(SotmModElements instance) {
 		super(instance, 626);
 		FMLJavaModLoadingContext.get().getModEventBus().register(new DuckRenderer.ModelRegisterHandler());
@@ -56,9 +58,6 @@ public class DuckEntity extends SotmModElements.ModElement {
 
 	@Override
 	public void initElements() {
-		entity = (EntityType.Builder.<CustomEntity>create(CustomEntity::new, EntityClassification.CREATURE).setShouldReceiveVelocityUpdates(true)
-				.setTrackingRange(64).setUpdateInterval(3).setCustomClientFactory(CustomEntity::new).size(0.4f, 0.4f)).build("duck")
-						.setRegistryName("duck");
 		elements.entities.add(() -> entity);
 		elements.items
 				.add(() -> new SpawnEggItem(entity, -1, -1, new Item.Properties().group(SOTMMobsItemGroup.tab)).setRegistryName("duck_spawn_egg"));

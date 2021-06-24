@@ -3,7 +3,7 @@
   "_type": "item",
   "definition": {
     "renderType": 0,
-    "texture": "billion_ingot_2",
+    "texture": "billion_ingot",
     "customModelName": "Normal",
     "name": "Billon Ingot",
     "rarity": "COMMON",

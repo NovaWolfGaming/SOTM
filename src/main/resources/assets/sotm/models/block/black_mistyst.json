@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "sotm:blocks/mistyst_black",
+    "particle": "sotm:blocks/mistyst_black"
+  }
+}

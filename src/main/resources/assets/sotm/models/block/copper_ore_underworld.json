@@ -1,7 +1,7 @@
 {
   "parent": "block/cube_all",
   "textures": {
-    "all": "sotm:blocks/copper_ore_underworld_new",
-    "particle": "sotm:blocks/copper_ore_underworld_new"
+    "all": "sotm:blocks/tin_ore_underworld",
+    "particle": "sotm:blocks/tin_ore_underworld"
   }
 }

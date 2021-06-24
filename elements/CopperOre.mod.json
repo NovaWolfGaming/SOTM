@@ -2,7 +2,7 @@
   "_fv": 18,
   "_type": "block",
   "definition": {
-    "texture": "copper_ore_new",
+    "texture": "tin_ore",
     "textureTop": "",
     "textureLeft": "",
     "textureFront": "",
@@ -14,6 +14,7 @@
     "emissiveRendering": false,
     "displayFluidOverlay": false,
     "itemTexture": "",
+    "particleTexture": "",
     "tintType": "No tint",
     "isItemTinted": false,
     "hasTransparency": false,
@@ -31,7 +32,7 @@
         "subtract": false
       }
     ],
-    "name": "Copper Ore",
+    "name": "Tin Ore",
     "specialInfo": [],
     "hardness": 1.1500000000000001,
     "resistance": 10.0,

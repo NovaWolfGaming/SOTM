@@ -2,10 +2,10 @@
   "_fv": 18,
   "_type": "block",
   "definition": {
-    "texture": "green_mistyst_brick",
-    "textureTop": "green_mistyst_brick",
+    "texture": "mistyst_green_smooth",
+    "textureTop": "mistyst_green_smooth",
     "textureLeft": "blue_mistyst_brick",
-    "textureFront": "green_mistyst_brick",
+    "textureFront": "mistyst_green_smooth",
     "textureRight": "blue_mistyst_brick",
     "textureBack": "blue_mistyst_brick",
     "renderType": 11,
@@ -14,6 +14,7 @@
     "emissiveRendering": false,
     "displayFluidOverlay": false,
     "itemTexture": "",
+    "particleTexture": "",
     "blockBase": "Stairs",
     "tintType": "No tint",
     "isItemTinted": false,
@@ -32,7 +33,7 @@
         "subtract": false
       }
     ],
-    "name": "Green Mistyst Stairs",
+    "name": "Polished Green Mistyst Stairs",
     "specialInfo": [],
     "hardness": 1.0,
     "resistance": 10.0,

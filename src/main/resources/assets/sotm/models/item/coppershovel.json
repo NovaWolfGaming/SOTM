@@ -1,6 +1,6 @@
 {
   "parent": "item/handheld",
   "textures": {
-    "layer0": "sotm:items/copper_shovel_new"
+    "layer0": "sotm:items/tin_shovel"
   }
 }

@@ -45,7 +45,9 @@ import net.mcreator.sotmr.SotmModElements;
 
 @SotmModElements.ModElement.Tag
 public class AnicentOnesEntity extends SotmModElements.ModElement {
-	public static EntityType entity = null;
+	public static EntityType entity = (EntityType.Builder.<CustomEntity>create(CustomEntity::new, EntityClassification.CREATURE)
+			.setShouldReceiveVelocityUpdates(true).setTrackingRange(64).setUpdateInterval(3).setCustomClientFactory(CustomEntity::new)
+			.size(0.6f, 1.8f)).build("anicent_ones").setRegistryName("anicent_ones");
 	public AnicentOnesEntity(SotmModElements instance) {
 		super(instance, 622);
 		FMLJavaModLoadingContext.get().getModEventBus().register(new AnicentOnesRenderer.ModelRegisterHandler());
@@ -55,9 +57,6 @@ public class AnicentOnesEntity extends SotmModElements.ModElement {
 
 	@Override
 	public void initElements() {
-		entity = (EntityType.Builder.<CustomEntity>create(CustomEntity::new, EntityClassification.CREATURE).setShouldReceiveVelocityUpdates(true)
-				.setTrackingRange(64).setUpdateInterval(3).setCustomClientFactory(CustomEntity::new).size(0.6f, 1.8f)).build("anicent_ones")
-						.setRegistryName("anicent_ones");
 		elements.entities.add(() -> entity);
 		elements.items.add(() -> new SpawnEggItem(entity, -13395457, -10092289, new Item.Properties().group(SOTMMobsItemGroup.tab))
 				.setRegistryName("anicent_ones_spawn_egg"));

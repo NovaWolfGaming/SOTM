@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "sotm:block/red_mistyst_slab"
+    },
+    "type=top": {
+      "model": "sotm:block/red_mistyst_slab_top"
+    },
+    "type=double": {
+      "model": "sotm:block/red_mistyst_slab_full"
+    }
+  }
+}

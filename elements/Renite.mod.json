@@ -102,12 +102,12 @@
     "fluidCapacity": 8000,
     "fluidRestrictions": [],
     "spawnWorldTypes": [
-      "CUSTOM:Underworld"
+      "Nether"
     ],
     "restrictionBiomes": [],
     "blocksToReplace": [
       {
-        "value": "CUSTOM:Carborite"
+        "value": "Blocks.NETHERRACK"
       }
     ],
     "frequencyPerChunks": 20,

@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "sotm:blocks/corruptite_red_smooth_2",
+    "particle": "sotm:blocks/corruptite_red_smooth_2"
+  }
+}

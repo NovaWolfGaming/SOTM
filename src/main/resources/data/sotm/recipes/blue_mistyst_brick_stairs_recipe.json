@@ -1,0 +1,33 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "sotm:blue_mistyst_chiseled"
+    },
+    "3": {
+      "item": "sotm:blue_mistyst_chiseled"
+    },
+    "4": {
+      "item": "sotm:blue_mistyst_chiseled"
+    },
+    "6": {
+      "item": "sotm:blue_mistyst_chiseled"
+    },
+    "7": {
+      "item": "sotm:blue_mistyst_chiseled"
+    },
+    "8": {
+      "item": "sotm:blue_mistyst_chiseled"
+    }
+  },
+  "result": {
+    "item": "sotm:blue_mistyst_brick_stairs",
+    "count": 6
+  }
+}

@@ -43,7 +43,9 @@ import net.mcreator.sotmr.SotmModElements;
 
 @SotmModElements.ModElement.Tag
 public class NetherSettlerEntity extends SotmModElements.ModElement {
-	public static EntityType entity = null;
+	public static EntityType entity = (EntityType.Builder.<CustomEntity>create(CustomEntity::new, EntityClassification.AMBIENT)
+			.setShouldReceiveVelocityUpdates(true).setTrackingRange(64).setUpdateInterval(3).setCustomClientFactory(CustomEntity::new)
+			.size(0.6f, 1.8f)).build("nether_settler").setRegistryName("nether_settler");
 	public NetherSettlerEntity(SotmModElements instance) {
 		super(instance, 1936);
 		FMLJavaModLoadingContext.get().getModEventBus().register(new NetherSettlerRenderer.ModelRegisterHandler());
@@ -53,9 +55,6 @@ public class NetherSettlerEntity extends SotmModElements.ModElement {
 
 	@Override
 	public void initElements() {
-		entity = (EntityType.Builder.<CustomEntity>create(CustomEntity::new, EntityClassification.AMBIENT).setShouldReceiveVelocityUpdates(true)
-				.setTrackingRange(64).setUpdateInterval(3).setCustomClientFactory(CustomEntity::new).size(0.6f, 1.8f)).build("nether_settler")
-						.setRegistryName("nether_settler");
 		elements.entities.add(() -> entity);
 		elements.items.add(() -> new SpawnEggItem(entity, -13159, -13421773, new Item.Properties().group(SOTMMobsItemGroup.tab))
 				.setRegistryName("nether_settler_spawn_egg"));

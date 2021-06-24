@@ -41,7 +41,9 @@ import net.mcreator.sotmr.SotmModElements;
 
 @SotmModElements.ModElement.Tag
 public class BisonEntity extends SotmModElements.ModElement {
-	public static EntityType entity = null;
+	public static EntityType entity = (EntityType.Builder.<CustomEntity>create(CustomEntity::new, EntityClassification.CREATURE)
+			.setShouldReceiveVelocityUpdates(true).setTrackingRange(64).setUpdateInterval(3).setCustomClientFactory(CustomEntity::new)
+			.size(0.9f, 1.4f)).build("bison").setRegistryName("bison");
 	public BisonEntity(SotmModElements instance) {
 		super(instance, 621);
 		FMLJavaModLoadingContext.get().getModEventBus().register(new BisonRenderer.ModelRegisterHandler());
@@ -51,9 +53,6 @@ public class BisonEntity extends SotmModElements.ModElement {
 
 	@Override
 	public void initElements() {
-		entity = (EntityType.Builder.<CustomEntity>create(CustomEntity::new, EntityClassification.CREATURE).setShouldReceiveVelocityUpdates(true)
-				.setTrackingRange(64).setUpdateInterval(3).setCustomClientFactory(CustomEntity::new).size(0.9f, 1.4f)).build("bison")
-						.setRegistryName("bison");
 		elements.entities.add(() -> entity);
 		elements.items.add(() -> new SpawnEggItem(entity, -10079488, -6737152, new Item.Properties().group(SOTMMobsItemGroup.tab))
 				.setRegistryName("bison_spawn_egg"));

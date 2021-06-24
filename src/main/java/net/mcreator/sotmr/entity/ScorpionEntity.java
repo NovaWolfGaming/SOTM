@@ -43,7 +43,9 @@ import net.mcreator.sotmr.SotmModElements;
 
 @SotmModElements.ModElement.Tag
 public class ScorpionEntity extends SotmModElements.ModElement {
-	public static EntityType entity = null;
+	public static EntityType entity = (EntityType.Builder.<CustomEntity>create(CustomEntity::new, EntityClassification.MONSTER)
+			.setShouldReceiveVelocityUpdates(true).setTrackingRange(64).setUpdateInterval(3).setCustomClientFactory(CustomEntity::new)
+			.size(0.6f, 1.8f)).build("scorpion").setRegistryName("scorpion");
 	public ScorpionEntity(SotmModElements instance) {
 		super(instance, 619);
 		FMLJavaModLoadingContext.get().getModEventBus().register(new ScorpionRenderer.ModelRegisterHandler());
@@ -53,9 +55,6 @@ public class ScorpionEntity extends SotmModElements.ModElement {
 
 	@Override
 	public void initElements() {
-		entity = (EntityType.Builder.<CustomEntity>create(CustomEntity::new, EntityClassification.MONSTER).setShouldReceiveVelocityUpdates(true)
-				.setTrackingRange(64).setUpdateInterval(3).setCustomClientFactory(CustomEntity::new).size(0.6f, 1.8f)).build("scorpion")
-						.setRegistryName("scorpion");
 		elements.entities.add(() -> entity);
 		elements.items.add(() -> new SpawnEggItem(entity, -13421773, -3381760, new Item.Properties().group(SOTMMobsItemGroup.tab))
 				.setRegistryName("scorpion_spawn_egg"));

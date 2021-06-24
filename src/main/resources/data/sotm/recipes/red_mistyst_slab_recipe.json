@@ -1,0 +1,22 @@
+{
+  "group": "sotm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "sotm:red_mistyst_polished"
+    },
+    "1": {
+      "item": "sotm:red_mistyst_polished"
+    },
+    "2": {
+      "item": "sotm:red_mistyst_polished"
+    }
+  },
+  "result": {
+    "item": "sotm:red_mistyst_slab",
+    "count": 6
+  }
+}

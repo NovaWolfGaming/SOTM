@@ -1,0 +1,46 @@
+{
+  "_fv": 18,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 6,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:PurpleMistystChiseled"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:PurpleMistystChiseled"
+      },
+      {
+        "value": "CUSTOM:PurpleMistystChiseled"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:PurpleMistystChiseled"
+      },
+      {
+        "value": "CUSTOM:PurpleMistystChiseled"
+      },
+      {
+        "value": "CUSTOM:PurpleMistystChiseled"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:PurpleMistystBrickStairs"
+    },
+    "name": "purple_mistyst_brick_stairs_recipe",
+    "namespace": "mod"
+  }
+}
